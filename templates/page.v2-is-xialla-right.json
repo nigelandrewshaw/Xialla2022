@@ -18,10 +18,18 @@
             "heading_size": "h1"
           }
         },
-        "1664058936e288b3f0-1": {
+        "23209272-dcdc-44a1-b001-5de80c280588": {
           "type": "text",
           "settings": {
-            "text": "<p>Xialla is designed for men of any age or medical profile who experience ED due to venous leak (excess blood outflow). Because of its unique construction, Xialla offers an effective treatment option for men who may be dissatisfied with the results they have seen from more traditional treatments.<\/p>"
+            "text": "<p>Check your ED symptoms to find out. If you experience one or more of the following symptoms, it's likely that you will benefit from Xialla.<\/p>"
+          }
+        },
+        "1c935a84-0b4a-4e6e-97fa-61933c56195c": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
           }
         },
         "1664058936e288b3f0-2": {
@@ -38,7 +46,8 @@
       },
       "block_order": [
         "1664058936e288b3f0-0",
-        "1664058936e288b3f0-1",
+        "23209272-dcdc-44a1-b001-5de80c280588",
+        "1c935a84-0b4a-4e6e-97fa-61933c56195c",
         "1664058936e288b3f0-2"
       ],
       "settings": {
@@ -47,7 +56,7 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 0
       }
     },
     "166405893915db09cb": {
@@ -118,9 +127,9 @@
       ],
       "settings": {
         "caption": "",
-        "heading": "Collapsible content",
+        "heading": "",
         "heading_size": "h1",
-        "heading_alignment": "center",
+        "heading_alignment": "left",
         "layout": "none",
         "color_scheme": "background-1",
         "container_color_scheme": "background-2",
