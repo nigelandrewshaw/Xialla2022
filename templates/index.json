@@ -307,7 +307,7 @@
         "1664050901ae17bd09-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": ""
           }
         }
@@ -318,6 +318,7 @@
         "1664050901ae17bd09-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Bella_Image.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -326,6 +327,59 @@
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1664051083e6c268e5": {
+      "type": "multicolumn",
+      "blocks": {
+        "166405108351ee9c3f-0": {
+          "type": "column",
+          "settings": {
+            "title": "Safe",
+            "text": "<p>Xialla is a safe, natural, comfortable, and drug-free treatment. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "166405108351ee9c3f-1": {
+          "type": "column",
+          "settings": {
+            "title": "Proven",
+            "text": "<p>A majority of men with ED see significant improvements.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "166405108351ee9c3f-2": {
+          "type": "column",
+          "settings": {
+            "title": "Guaranteed",
+            "text": "<p>If it doesn't work for you, just request an instant refund within 60 days.<br\/><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "166405108351ee9c3f-0",
+        "166405108351ee9c3f-1",
+        "166405108351ee9c3f-2"
+      ],
+      "settings": {
+        "title": "Buy Xialla with Confidence",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Buy",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -339,6 +393,7 @@
     "multicolumn",
     "1664040620aca5f6b8",
     "1664048786865ff34e",
-    "166405090125a601de"
+    "166405090125a601de",
+    "1664051083e6c268e5"
   ]
 }
