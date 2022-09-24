@@ -149,7 +149,7 @@
           "logo_width": 110,
           "logo_position": "middle-left",
           "menu": "main-menu",
-          "menu_type_desktop": "mega",
+          "menu_type_desktop": "dropdown",
           "show_line_separator": true,
           "enable_sticky_header": true,
           "mobile_logo_position": "center",
@@ -164,14 +164,7 @@
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
-              "menu": "footer"
-            }
-          },
-          "footer-1": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Info",
+              "heading": "Customer service",
               "menu": "footer"
             }
           },
@@ -185,7 +178,6 @@
         },
         "block_order": [
           "footer-0",
-          "footer-1",
           "footer-2"
         ],
         "settings": {
