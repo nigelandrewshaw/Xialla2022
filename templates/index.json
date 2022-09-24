@@ -222,6 +222,62 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1664048786865ff34e": {
+      "type": "multicolumn",
+      "blocks": {
+        "16640487868d640e96-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-09-04_at_9.38.39_PM.png",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16640487868d640e96-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-09-04_at_9.38.22_PM.png",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16640487868d640e96-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-09-04_at_9.38.31_PM.png",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16640487868d640e96-0",
+        "16640487868d640e96-1",
+        "16640487868d640e96-2"
+      ],
+      "settings": {
+        "title": "Use Xialla Alone or With Other Therapies",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -230,6 +286,7 @@
     "video",
     "1664046577e327ab78",
     "multicolumn",
-    "1664040620aca5f6b8"
+    "1664040620aca5f6b8",
+    "1664048786865ff34e"
   ]
 }
