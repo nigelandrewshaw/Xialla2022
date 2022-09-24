@@ -47,7 +47,7 @@
           "settings": {
             "heading": "Materials",
             "icon": "heart",
-            "content": "",
+            "content": "<p>Soft, stretchy silicone with a smooth matte finish.<\/p>",
             "page": ""
           }
         },
@@ -56,16 +56,16 @@
           "settings": {
             "heading": "Shipping & Returns",
             "icon": "truck",
-            "content": "",
+            "content": "<p>Free shipping. Hassle free refunds. No returns required.<\/p>",
             "page": ""
           }
         },
         "collapsible-row-2": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Dimensions",
+            "heading": "Sizing",
             "icon": "ruler",
-            "content": "",
+            "content": "<p><strong>Erect Penis Circumference<\/strong><\/p><p>Under 5\" | Slender<br\/>5-6\" | Regular<br\/>Over 6\" | Thicker<\/p><p><strong>Flaccid Penis Circumference<\/strong><\/p><p>Under 4\" | Slender<br\/>4-5\" | Regular<br\/>Over 5\" | Thicker<\/p>",
             "page": ""
           }
         },
