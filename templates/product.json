@@ -46,7 +46,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Materials",
-            "icon": "leather",
+            "icon": "heart",
             "content": "",
             "page": ""
           }
@@ -73,7 +73,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Care Instructions",
-            "icon": "heart",
+            "icon": "washing",
             "content": "",
             "page": ""
           }
