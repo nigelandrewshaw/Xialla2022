@@ -3,7 +3,7 @@
     "colors_solid_button_labels": "#ffffff",
     "colors_accent_1": "#ff6a39",
     "gradient_accent_1": "",
-    "colors_accent_2": "#ff6a39",
+    "colors_accent_2": "#555555",
     "gradient_accent_2": "",
     "colors_text": "#121212",
     "colors_outline_button_labels": "#121212",
@@ -12,7 +12,7 @@
     "colors_background_2": "#ffffff",
     "gradient_background_2": "",
     "type_header_font": "assistant_n4",
-    "heading_scale": 100,
+    "heading_scale": 110,
     "type_body_font": "assistant_n4",
     "body_scale": 110,
     "page_width": 1200,
@@ -130,7 +130,7 @@
             "settings": {
               "text": "Welcome to our store",
               "text_alignment": "center",
-              "color_scheme": "accent-1",
+              "color_scheme": "accent-2",
               "link": ""
             }
           }
@@ -189,7 +189,7 @@
           "footer-2"
         ],
         "settings": {
-          "color_scheme": "background-1",
+          "color_scheme": "accent-2",
           "newsletter_enable": true,
           "newsletter_heading": "Subscribe to our emails",
           "show_social": true,
