@@ -54,7 +54,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>What is Xialla?<\/p>",
+            "heading": "<p>The Best ED Ring<\/p>",
             "heading_size": "h1"
           }
         },
@@ -97,7 +97,7 @@
         "1664046577ded4120f-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>See why Xialla is rated No. 1<\/p>",
+            "heading": "<p>See why Xialla is Rated No. 1<\/p>",
             "heading_size": "h1"
           }
         },
@@ -110,7 +110,7 @@
         "ff7df603-2098-4a02-ab96-4dbe32df1c77": {
           "type": "button",
           "settings": {
-            "button_label": "Read all reviews",
+            "button_label": "Read All Reviews",
             "button_link": "",
             "button_style_secondary": true,
             "button_label_2": "",
