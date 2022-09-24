@@ -91,14 +91,68 @@
         "padding_bottom": 36
       }
     },
+    "1664046577e327ab78": {
+      "type": "rich-text",
+      "blocks": {
+        "1664046577ded4120f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>See why Xialla is rated No. 1<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "1664046577ded4120f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Rated 4.7 out of 5 on TrustPilot<\/p>"
+          }
+        },
+        "ff7df603-2098-4a02-ab96-4dbe32df1c77": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read all reviews",
+            "button_link": "",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "1664046577ded4120f-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1664046577ded4120f-0",
+        "1664046577ded4120f-1",
+        "ff7df603-2098-4a02-ab96-4dbe32df1c77",
+        "1664046577ded4120f-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 44
+      }
+    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Climaxes have been mind blowing",
+            "text": "<p>“Our lovemaking has gone from one time a month to several times a week.”<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -106,14 +160,24 @@
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Great product and customer service",
+            "text": "<p>“With its ease to use and the effectiveness I would recommend this product to everyone.”<\/p>",
             "link_label": "",
             "link": ""
           }
         },
         "column3": {
           "type": "column",
+          "settings": {
+            "title": "Xialla is an amazing product",
+            "text": "<p>“Xialla is a godsend. I truly thank Nigel for inventing this amazing product ”<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d78a4bf9-f0b2-4f02-bb3a-a67401c5835b": {
+          "type": "column",
+          "disabled": true,
           "settings": {
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
@@ -125,7 +189,8 @@
       "block_order": [
         "column1",
         "column2",
-        "column3"
+        "column3",
+        "d78a4bf9-f0b2-4f02-bb3a-a67401c5835b"
       ],
       "settings": {
         "title": "",
@@ -147,10 +212,11 @@
     "1664040620aca5f6b8": {
       "type": "video",
       "settings": {
-        "heading": "Video",
+        "heading": "Why Xialla",
         "heading_size": "h1",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
+        "cover_image": "shopify:\/\/shop_images\/Cover_Image.jpg",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=NmwWVrx7EDE",
+        "description": "Why Xialla",
         "full_width": false,
         "color_scheme": "background-1",
         "padding_top": 36,
@@ -162,6 +228,7 @@
     "image_banner",
     "rich_text",
     "video",
+    "1664046577e327ab78",
     "multicolumn",
     "1664040620aca5f6b8"
   ]
