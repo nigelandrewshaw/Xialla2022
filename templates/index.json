@@ -223,6 +223,48 @@
         "padding_bottom": 36
       }
     },
+    "1664054148b5b98177": {
+      "type": "rich-text",
+      "blocks": {
+        "1664054148dcd01a85-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Use Xialla alone or with other ED therapies<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "1664054148dcd01a85-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Xialla works on its own, or in combination with other therapies such as medication, pumps and injections.<\/p>"
+          }
+        },
+        "1664054148dcd01a85-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1664054148dcd01a85-0",
+        "1664054148dcd01a85-1",
+        "1664054148dcd01a85-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 52,
+        "padding_bottom": 20
+      }
+    },
     "1664048786865ff34e": {
       "type": "multicolumn",
       "blocks": {
@@ -271,8 +313,8 @@
         "febe484e-3404-4087-bbb7-9a236bf71696"
       ],
       "settings": {
-        "title": "Use Xialla alone or with other ED therapies",
-        "heading_size": "h1",
+        "title": "",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
@@ -392,6 +434,7 @@
     "1664046577e327ab78",
     "multicolumn",
     "1664040620aca5f6b8",
+    "1664054148b5b98177",
     "1664048786865ff34e",
     "166405090125a601de",
     "1664051083e6c268e5"
