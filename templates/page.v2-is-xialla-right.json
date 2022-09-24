@@ -2,13 +2,139 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "166405893732704305": {
+      "type": "rich-text",
+      "blocks": {
+        "1664058936e288b3f0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Is Xialla right for me<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "1664058936e288b3f0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Xialla is designed for men of any age or medical profile who experience ED due to venous leak (excess blood outflow). Because of its unique construction, Xialla offers an effective treatment option for men who may be dissatisfied with the results they have seen from more traditional treatments.<\/p>"
+          }
+        },
+        "1664058936e288b3f0-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1664058936e288b3f0-0",
+        "1664058936e288b3f0-1",
+        "1664058936e288b3f0-2"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "166405893915db09cb": {
+      "type": "collapsible-content",
+      "blocks": {
+        "16640589390d2c04f1-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "“I can achieve an erection, but have difficulty maintaining it.”",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "16640589390d2c04f1-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "“My erection is soft”",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "16640589390d2c04f1-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "“I want to avoid medication or injections.”",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "16640589390d2c04f1-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "“Traditional ED treatments don’t deliver the results I want.”",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "41f019eb-083d-4be2-a2b0-058edf1c1e82": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "“I prefer to avoid surgery to treat my ED.”",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "8b411948-8c26-4ae2-9ae1-87af0329d008": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "\"I want to enhance spontaneity and pleasure during intimacy.”",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "16640589390d2c04f1-0",
+        "16640589390d2c04f1-1",
+        "16640589390d2c04f1-2",
+        "16640589390d2c04f1-3",
+        "41f019eb-083d-4be2-a2b0-058edf1c1e82",
+        "8b411948-8c26-4ae2-9ae1-87af0329d008"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Collapsible content",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "166405893732704305",
+    "166405893915db09cb"
   ]
 }
