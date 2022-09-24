@@ -76,7 +76,7 @@
           "settings": {
             "heading": "“I want to avoid medication or injections.”",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>In some cases, Xialla can eliminate the need for medication and injections. In other cases, it enables patients to reduce the dosage and achieve the results they seek.<\/p>",
             "page": ""
           }
         },
@@ -85,7 +85,7 @@
           "settings": {
             "heading": "“Traditional ED treatments don’t deliver the results I want.”",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Xialla can be safely used in combination with other ED therapies, such as medication, injections, and pumps. This can help to improve outcomes in cases where the original treatment is unsatisfactory or efficacy has diminished over time.<\/p>",
             "page": ""
           }
         },
