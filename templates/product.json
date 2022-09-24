@@ -84,11 +84,20 @@
             "share_label": "Share"
           }
         },
+        "0e433215-e321-4c32-8b95-b15e2cc84729": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Refunds",
+            "icon": "check_mark",
+            "content": "<p>If Xialla doesn't work for you, or for any other reason, just request a refund and we'll happily refund your full purchase price within 60 days. And to save hassle, there's no need to return your Xialla. Simply discard it.<\/p>",
+            "page": ""
+          }
+        },
         "6b59f54e-f6bf-408b-8a25-5927962faefb": {
           "type": "popup",
           "disabled": true,
           "settings": {
-            "text": "Pop-up link text",
+            "text": "Refunds",
             "page": ""
           }
         }
@@ -106,6 +115,7 @@
         "collapsible-row-2",
         "collapsible-row-3",
         "share",
+        "0e433215-e321-4c32-8b95-b15e2cc84729",
         "6b59f54e-f6bf-408b-8a25-5927962faefb"
       ],
       "settings": {
