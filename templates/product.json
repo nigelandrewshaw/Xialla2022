@@ -42,6 +42,15 @@
           "settings": {
           }
         },
+        "collapsible-row-2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Sizing",
+            "icon": "ruler",
+            "content": "<p><strong>Erect penis circumference<br\/><\/strong>Under 5\" | Slender<br\/>5-6\" | Regular<br\/>Over 6\" | Thicker<\/p><p><strong>Flaccid penis circumference<br\/><\/strong>Under 4\" | Slender<br\/>4-5\" | Regular<br\/>Over 5\" | Thicker<\/p><p><strong>Not sure? <\/strong>Choose Regular. <br\/>If you need to change size, it's free and hassle free: No need to return the original.<\/p>",
+            "page": ""
+          }
+        },
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
@@ -60,12 +69,12 @@
             "page": ""
           }
         },
-        "collapsible-row-2": {
+        "0e433215-e321-4c32-8b95-b15e2cc84729": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Sizing",
-            "icon": "ruler",
-            "content": "<p><strong>Erect penis circumference<br\/><\/strong>Under 5\" | Slender<br\/>5-6\" | Regular<br\/>Over 6\" | Thicker<\/p><p><strong>Flaccid penis circumference<br\/><\/strong>Under 4\" | Slender<br\/>4-5\" | Regular<br\/>Over 5\" | Thicker<\/p><p><strong>Not sure? <\/strong>Choose Regular. <br\/>If you need to change size, it's free and hassle free: No need to return the original.<\/p>",
+            "heading": "Refunds",
+            "icon": "return",
+            "content": "<p>If Xialla doesn't work for you, or for any other reason, just request a refund and we'll happily refund your full purchase price within 60 days. And to save hassle, there's no need to return your Xialla. Simply discard it.<\/p>",
             "page": ""
           }
         },
@@ -80,17 +89,9 @@
         },
         "share": {
           "type": "share",
+          "disabled": true,
           "settings": {
             "share_label": "Share"
-          }
-        },
-        "0e433215-e321-4c32-8b95-b15e2cc84729": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Refunds",
-            "icon": "check_mark",
-            "content": "<p>If Xialla doesn't work for you, or for any other reason, just request a refund and we'll happily refund your full purchase price within 60 days. And to save hassle, there's no need to return your Xialla. Simply discard it.<\/p>",
-            "page": ""
           }
         },
         "6b59f54e-f6bf-408b-8a25-5927962faefb": {
@@ -110,12 +111,12 @@
         "quantity_selector",
         "buy_buttons",
         "description",
+        "collapsible-row-2",
         "collapsible-row-0",
         "collapsible-row-1",
-        "collapsible-row-2",
+        "0e433215-e321-4c32-8b95-b15e2cc84729",
         "collapsible-row-3",
         "share",
-        "0e433215-e321-4c32-8b95-b15e2cc84729",
         "6b59f54e-f6bf-408b-8a25-5927962faefb"
       ],
       "settings": {
