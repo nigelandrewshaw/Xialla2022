@@ -78,50 +78,12 @@
         "padding_bottom": 0
       }
     },
-    "collage": {
-      "type": "collage",
-      "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "xialla-products"
-          }
-        },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "xialla",
-            "second_image": false
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "xialla-products"
-          }
-        }
-      },
-      "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "video": {
       "type": "video",
       "settings": {
         "heading": "",
         "heading_size": "h1",
+        "cover_image": "shopify:\/\/shop_images\/Xialla_on_orange_wide_format_1.0x.jpg",
         "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "description": "",
         "full_width": false,
@@ -182,13 +144,26 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1664040620aca5f6b8": {
+      "type": "video",
+      "settings": {
+        "heading": "Video",
+        "heading_size": "h1",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image_banner",
     "rich_text",
-    "collage",
     "video",
-    "multicolumn"
+    "multicolumn",
+    "1664040620aca5f6b8"
   ]
 }
