@@ -37,7 +37,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Passionate_kissing_-_mobile.jpg",
         "image_overlay_opacity": 40,
-        "image_height": "medium",
+        "image_height": "large",
         "adapt_height_first_image": false,
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
@@ -415,7 +415,7 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "primary",
         "button_label": "Buy",
         "button_link": "https:\/\/www.xialla.com",

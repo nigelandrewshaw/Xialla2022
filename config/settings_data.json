@@ -9,7 +9,7 @@
     "colors_outline_button_labels": "#121212",
     "colors_background_1": "#ffffff",
     "gradient_background_1": "",
-    "colors_background_2": "#ffffff",
+    "colors_background_2": "#f7f3eb",
     "gradient_background_2": "",
     "type_header_font": "assistant_n4",
     "heading_scale": 110,
@@ -179,7 +179,7 @@
             "type": "text",
             "settings": {
               "heading": "Our mission",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+              "subtext": "<p>Lovemaking is life's greatest joy. Erectile dysfunction can be devastating. We invented Xialla to help guys and their partners get back to amazing sex and rekindle the joy they lost.<\/p>"
             }
           }
         },
@@ -189,7 +189,7 @@
           "footer-2"
         ],
         "settings": {
-          "color_scheme": "accent-2",
+          "color_scheme": "background-2",
           "newsletter_enable": true,
           "newsletter_heading": "Subscribe to our emails",
           "show_social": true,
