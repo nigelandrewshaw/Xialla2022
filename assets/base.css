@@ -2964,3 +2964,7 @@ details-disclosure > details {
   --font-heading-family: "fieldwork", sans-serif;
 }
 
+
+/* Fix underline main menu */
+.header__submenu .header__menu-item {text-decoration: none !important;}
+
