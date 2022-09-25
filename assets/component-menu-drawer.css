@@ -128,13 +128,15 @@ details[open].menu-opening > .menu-drawer__submenu {
   text-decoration: none;
   font-size: 1.8rem;
 
-  /* Xialla 2022-09-25 11:58:46 */
+  /* Xialla 2022-09-25 11:58:46 Convert drawer menu headings to header font and uppercase  */
   font-family: var(--font-heading-family);
+  text-transform: uppercase;
 }
 
-/* Xialla 2022-09-25 12:11:10 */ 
+/* Xialla 2022-09-25 12:11:10 Convert drawer submenu headings back to body font and no case */ 
 ul li ul .menu-drawer__menu-item{
   font-family: var(--font-body-family);
+  text-transform: none;
 }
 
 .no-js .menu-drawer__menu-item {
