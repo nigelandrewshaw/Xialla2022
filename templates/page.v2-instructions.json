@@ -38,114 +38,217 @@
         "padding_bottom": 52
       }
     },
-    "166407143619a17a9f": {
-      "type": "multicolumn",
+    "16640719889edd9012": {
+      "type": "image-with-text",
       "blocks": {
-        "1664071436316d2fbe-0": {
-          "type": "column",
+        "166407198882b8045c-0": {
+          "type": "heading",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Instructions-1.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "heading": "Image with text",
+            "heading_size": "h1"
           }
         },
-        "1664071436316d2fbe-1": {
-          "type": "column",
+        "166407198882b8045c-1": {
+          "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Instructions-2.png",
-            "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "text_style": "body"
           }
         },
-        "1664071436316d2fbe-2": {
-          "type": "column",
+        "166407198882b8045c-2": {
+          "type": "button",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Instructions-3.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "button_label": "Button label",
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "1664071436316d2fbe-0",
-        "1664071436316d2fbe-1",
-        "1664071436316d2fbe-2"
+        "166407198882b8045c-0",
+        "166407198882b8045c-1",
+        "166407198882b8045c-2"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "1664071503c586b7b4": {
-      "type": "multicolumn",
+    "1664072002fd5eaf19": {
+      "type": "image-with-text",
       "blocks": {
-        "1664071503aecbdc60-0": {
-          "type": "column",
+        "166407200226b93241-0": {
+          "type": "heading",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Instructions-4.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "heading": "Place the ring",
+            "heading_size": "h1"
           }
         },
-        "1664071503aecbdc60-1": {
-          "type": "column",
+        "166407200226b93241-1": {
+          "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Artboard_6_3x_8dddbfe7-93e8-4ac5-b8e7-38f74a5b9229.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "text": "<p>Place the ring around the base of your penis and let the loop and band hang in front of your scrotum. The ring can be placed on an erect or flaccid penis.<\/p>",
+            "text_style": "body"
           }
         },
-        "1664071503aecbdc60-2": {
-          "type": "column",
-          "disabled": true,
+        "166407200226b93241-2": {
+          "type": "button",
           "settings": {
-            "title": "Column",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "button_label": "Button label",
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "1664071503aecbdc60-0",
-        "1664071503aecbdc60-1",
-        "1664071503aecbdc60-2"
+        "166407200226b93241-0",
+        "166407200226b93241-1",
+        "166407200226b93241-2"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16640720078b7f3174": {
+      "type": "image-with-text",
+      "blocks": {
+        "1664072007f23ea078-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Stretch the loop",
+            "heading_size": "h1"
+          }
+        },
+        "1664072007f23ea078-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Stretch the loop up and around your scrotum so that the testicles and scrotum are inside the loop. Adjust the loop to fit comfortably above the testicles.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1664072007f23ea078-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664072007f23ea078-0",
+        "1664072007f23ea078-1",
+        "1664072007f23ea078-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "166407201264afb364": {
+      "type": "image-with-text",
+      "blocks": {
+        "16640720122aec6a09-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Attach the band",
+            "heading_size": "h1"
+          }
+        },
+        "16640720122aec6a09-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pull the band back between your legs and attach the tab lock to the adhesive pad to lock Xialla in place. <em>NOTE: To prevent the pad from pulling loose, attach at the bottom of the pad rather than at the top, per the illustration details.<\/em><\/p>",
+            "text_style": "body"
+          }
+        },
+        "16640720122aec6a09-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16640720122aec6a09-0",
+        "16640720122aec6a09-1",
+        "16640720122aec6a09-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1664072022843ae006": {
+      "type": "image-with-text",
+      "blocks": {
+        "16640720220347454e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Have amazing sex!",
+            "heading_size": "h1"
+          }
+        },
+        "16640720220347454e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Xialla helps you achieve a firm and long-lasting erection so that you and your partner can get back to amazing sex.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "16640720220347454e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16640720220347454e-0",
+        "16640720220347454e-1",
+        "16640720220347454e-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -154,7 +257,10 @@
   "order": [
     "main",
     "1664071331efea8bf5",
-    "166407143619a17a9f",
-    "1664071503c586b7b4"
+    "16640719889edd9012",
+    "1664072002fd5eaf19",
+    "16640720078b7f3174",
+    "166407201264afb364",
+    "1664072022843ae006"
   ]
 }
