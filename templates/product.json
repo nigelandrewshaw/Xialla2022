@@ -154,7 +154,7 @@
         "image-with-text-1": {
           "type": "text",
           "settings": {
-            "text": "",
+            "text": "<p>How do I love thee?<br\/>Let me count the ways. <br\/>I love thee to the depth and breadth and height<br\/>My soul can reach, when feeling out of sight<br\/>For the ends of being and ideal grace.<\/p><p><strong>Elizabeth Barret-Browning<\/strong><\/p>",
             "text_style": "body"
           }
         }
