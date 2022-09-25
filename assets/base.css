@@ -2638,15 +2638,21 @@ details[open] > .header__submenu {
   padding: 1.2rem;
   text-decoration: none;
   color: rgba(var(--color-foreground), 0.75);
-  /* Xialla 2022-09-25 11:25:06 Uppercase header menu items and convert to Fieldwork */ 
+
+  /* Xialla 2022-09-25 11:25:06 Uppercase header menu items and convert to Fieldwork
+  and increase size and padding. */ 
   text-transform: uppercase;
   font-family: var(--font-heading-family);
+  font-size: 1.6rem;
+  padding-left: 1.8rem;
+  padding-right: 1.8rem;
 }
 
 /* Xialla 2022-09-25 11:40:44 Convert submenus back to body font after above change
 made them Rufina */ 
 li ul li .header__menu-item{
   font-family: var( --font-body-family);
+  text-transform: none;
 }
 
 .header__menu-item:hover {

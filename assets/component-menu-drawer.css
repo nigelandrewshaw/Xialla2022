@@ -127,6 +127,14 @@ details[open].menu-opening > .menu-drawer__submenu {
   padding: 1.1rem 3.2rem;
   text-decoration: none;
   font-size: 1.8rem;
+
+  /* Xialla 2022-09-25 11:58:46 */
+  font-family: var(--font-heading-family);
+}
+
+/* Xialla 2022-09-25 12:11:10 */ 
+ul li ul .menu-drawer__menu-item{
+  font-family: var(--font-body-family);
 }
 
 .no-js .menu-drawer__menu-item {
