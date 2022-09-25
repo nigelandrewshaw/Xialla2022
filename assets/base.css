@@ -417,6 +417,8 @@ h5,
   color: rgb(var(--color-foreground));
   line-height: calc(1 + 0.3 / max(1, var(--font-heading-scale)));
   word-break: break-word;
+  /* Xialla Sep 25 2022 Uppercase */
+  text-transform: uppercase;
 }
 
 .hxl {
@@ -2962,5 +2964,4 @@ details-disclosure > details {
   --font-body-family: "fieldwork", sans-serif !important;
   --font-heading-family: "rufina", sans-serif !important;
 }
-
 
