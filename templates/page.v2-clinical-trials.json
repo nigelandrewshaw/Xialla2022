@@ -91,6 +91,49 @@
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
         "padding_top": 36,
+        "padding_bottom": 16
+      }
+    },
+    "166407096073d2d34a": {
+      "type": "multicolumn",
+      "blocks": {
+        "16640709607651e7a8-0": {
+          "type": "column",
+          "settings": {
+            "title": "Clinical trial #1",
+            "text": "<p>Littlemore, A., Laing, L., & Bella, A. (2017). 109 Evaluation of a FDA and Health Canada Compliant Novel Medical Device for Improving Erectile Function Across Erectile Dysfunction Etiologies. The Journal of Sexual Medicine, 14(1). doi:10.1016\/j.jsxm.2016.11.062<\/p>",
+            "link_label": "Download (.pdf)",
+            "link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0248\/5918\/1149\/files\/Xialla_Clinical_Trial_1.pdf?v=1630330511"
+          }
+        },
+        "16640709607651e7a8-1": {
+          "type": "column",
+          "settings": {
+            "title": "Clinical trial #2",
+            "text": "<p>Littlemore, A., Laing, L., & Bella, A. (2017). 106 Salvage of Post-Prostatectomy Injection Therapy (With and Without Venoseal for Cvod) Treatment Failures by Injection Therapy Coupled With Novel Silicone Loop Occlusion Device. The Journal of Sexual Medicine, 14(1). doi:10.1016\/j.jsxm.2016.11.059<\/p>",
+            "link_label": "Download (.pdf)",
+            "link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0248\/5918\/1149\/files\/Xialla_Clinical_Trial_2.pdf?v=1630330511"
+          }
+        }
+      },
+      "block_order": [
+        "16640709607651e7a8-0",
+        "16640709607651e7a8-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
         "padding_bottom": 36
       }
     },
@@ -134,7 +177,7 @@
         "content_layout": "overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
+        "padding_top": 56,
         "padding_bottom": 36
       }
     }
@@ -143,6 +186,7 @@
     "main",
     "1664070540afdc9868",
     "16640706130a0c1ee4",
+    "166407096073d2d34a",
     "1664070806e5677056"
   ]
 }
