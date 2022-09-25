@@ -129,8 +129,8 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Free Info Kit for Healthcare Professionals",
-              "text_alignment": "right",
+              "text": "Free Shipping on all Orders",
+              "text_alignment": "center",
               "color_scheme": "accent-2",
               "link": ""
             }
