@@ -76,6 +76,13 @@
 .multicolumn-list h3,
 .multicolumn-list p {
   margin: 0;
+
+  /* Xialla 2022-09-25 12:32:08 */ 
+  margin-bottom: 1rem;
+}
+
+.multicolumn-list p strong{
+  font-size: .8rem;
 }
 
 .multicolumn-card-spacing {
