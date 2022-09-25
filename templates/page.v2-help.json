@@ -74,18 +74,90 @@
         "1664073026cbe8c9dd-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "How effective is Xialla?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Xialla helps four out of five men get an erection. It has also been proven effective for difficult to treat cases of ED. Since Xialla helps slow blood outflow (venous leakage) <a href=\"https:\/\/xialla.com\/pages\/clinical-trials\">clinical trials<\/a> showed it to be effective both alone and in combination with conventional ED drugs or injections that promote blood inflow.<\/p>",
             "page": ""
           }
         },
         "1664073026cbe8c9dd-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "What is the refund and exchange policy?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p><strong>Xialla comes with a 100% satisfaction guarantee. <\/strong>If you don't love it, <a href=\"https:\/\/xialla.com\/customer-support?select=4\">get a full refund<\/a> within 60 days. Need a different size? We’ll send one for free. No returns required - just <a href=\"https:\/\/xialla.com\/customer-support?select=3\">contact us<\/a>, and we'll take care of you.<\/p>",
+            "page": ""
+          }
+        },
+        "643fb7e5-ad21-48ee-aeac-d03a05b7d74d": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What size should I order?",
+            "icon": "none",
+            "row_content": "<p>We have a size guide here to help you choose. If you’re not sure of your size, we suggest Regular, as this fits most men. And no need to worry - we’ll send you a free replacement if you need something a bit bigger or smaller.<\/p>",
+            "page": ""
+          }
+        },
+        "c7a27ed2-003f-433c-99b1-7fbf2b9feeb6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long does shipping take?",
+            "icon": "none",
+            "row_content": "<p>Free shipping to the USA and Canada takes 5-7 business days. Expedited shipping is available to the USA and takes 3-5 business days. Shipping time to other countries varies on a country by country basis.<\/p>",
+            "page": ""
+          }
+        },
+        "abb44b15-1a63-4a2f-aa02-f168a28b520e": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does Xialla work with ED medication?",
+            "icon": "none",
+            "row_content": "<p>Yes Xialla works with ED medication. Your regularly prescribed ED medication increases blood inflow. Xialla helps you prevent blood outflow so that your erection stays stronger for longer.<\/p>",
+            "page": ""
+          }
+        },
+        "f48f1bc8-8f1a-4cd9-8103-fedeac7a9106": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does Xialla work with injections?",
+            "icon": "none",
+            "row_content": "<p>Yes Xialla works with injections. Xialla has been clinically tested to complement penile injection therapies. While injections primarily target blood inflow, Xialla targets blood outflow.<\/p>",
+            "page": ""
+          }
+        },
+        "90a33950-b409-4df3-a637-29ca5d0c9cbe": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does Xialla work with pumps?",
+            "icon": "none",
+            "row_content": "<p>Yes Xialla works with pumps. Use Xialla in place of the standard constriction rings used with vacuum pumps for dramatically better results. <a href=\"https:\/\/xialla.com\/pages\/xialla-and-ed-pumps\">Learn more about Xialla and pumps here<\/a>.<\/p>",
+            "page": ""
+          }
+        },
+        "02c731ad-6030-4fed-b59a-deca09bb9b38": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I've tried everything and nothing works. Can Xialla help me?",
+            "icon": "none",
+            "row_content": "<p>Even if your ED is severe, Xialla might help. In <a href=\"https:\/\/xialla.com\/pages\/clinical-trials\">clinical trials<\/a> Xialla was effective at treating 54% of men who had failed all other treatments. For some of the men Xialla worked on its own and for some Xialla worked when combined with oral or injection medication. With our money back guarantee Xialla is always risk-free to try.<\/p>",
+            "page": ""
+          }
+        },
+        "15090b22-8904-4ad3-adc7-ca5060743283": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is Xialla tested in clinical trials?",
+            "icon": "none",
+            "row_content": "<p>Yes. In two separate <a href=\"https:\/\/xialla.com\/pages\/clinical-trials\">clinical trials<\/a> Xialla demonstrated significant benefit to erectile function and sexual enhancement for the majority of men.<\/p>",
+            "page": ""
+          }
+        },
+        "c93ff268-e4bb-4240-9af8-3bec178e2c3e": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What lubricant should I use with Xialla?",
+            "icon": "none",
+            "row_content": "<p>We recommend a high quality water based or oil based personal lubricant, available in pharmacies or adult stores. You should avoid using silicone lubricants as they react with the silicone of Xialla to gradually soften and expand it.<\/p>",
             "page": ""
           }
         }
@@ -94,7 +166,15 @@
         "1664073026cbe8c9dd-0",
         "1664073026cbe8c9dd-1",
         "1664073026cbe8c9dd-2",
-        "1664073026cbe8c9dd-3"
+        "1664073026cbe8c9dd-3",
+        "643fb7e5-ad21-48ee-aeac-d03a05b7d74d",
+        "c7a27ed2-003f-433c-99b1-7fbf2b9feeb6",
+        "abb44b15-1a63-4a2f-aa02-f168a28b520e",
+        "f48f1bc8-8f1a-4cd9-8103-fedeac7a9106",
+        "90a33950-b409-4df3-a637-29ca5d0c9cbe",
+        "02c731ad-6030-4fed-b59a-deca09bb9b38",
+        "15090b22-8904-4ad3-adc7-ca5060743283",
+        "c93ff268-e4bb-4240-9af8-3bec178e2c3e"
       ],
       "settings": {
         "caption": "",
