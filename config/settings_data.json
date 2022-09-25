@@ -129,7 +129,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Free info kit for Healthcare Professionals",
+              "text": "Free Info Kit for Healthcare Professionals",
               "text_alignment": "right",
               "color_scheme": "accent-2",
               "link": ""
