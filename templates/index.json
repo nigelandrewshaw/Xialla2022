@@ -170,7 +170,7 @@
           "type": "column",
           "settings": {
             "title": "\"Xialla is an amazing product\"",
-            "text": "<p>Xialla is a Godsend. I truly thank Nigel for inventing this amazing product<\/p>",
+            "text": "<p>Xialla is a Godsend. I truly thank Nigel for inventing this amazing product. <\/p><p><strong>Kenneth Akers<\/strong><\/p>",
             "link_label": "",
             "link": ""
           }
