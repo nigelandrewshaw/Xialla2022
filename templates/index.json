@@ -20,7 +20,7 @@
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
+            "button_label_1": "Buy",
             "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
@@ -111,7 +111,7 @@
           "type": "button",
           "settings": {
             "button_label": "Read All Reviews",
-            "button_link": "",
+            "button_link": "https:\/\/ca.trustpilot.com\/review\/xialla.com",
             "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -161,7 +161,7 @@
           "type": "column",
           "settings": {
             "title": "\"Brought us immense pleasure and happiness\"",
-            "text": "<p>And the customer service left me extremely impressed<\/p><p><strong>Charlie Flores<\/strong><\/p>",
+            "text": "<p>And the customer service left me extremely impressed.<\/p><p><strong>Charlie Flores<\/strong><\/p>",
             "link_label": "",
             "link": ""
           }

@@ -173,7 +173,7 @@
             "type": "text",
             "settings": {
               "heading": "Our mission",
-              "subtext": "<p>Love making is life's greatest pleasure. Losing it can be devastating. Our mission is to help men and their partners get back to amazing sex, so they can experience the joy once more.<\/p>"
+              "subtext": "<p>Making love is life's greatest pleasure. Losing it can be devastating. Our mission is to help men and their partners get back to amazing sex, so they can experience the joy again.<\/p>"
             }
           }
         },
@@ -184,7 +184,7 @@
         "settings": {
           "color_scheme": "accent-2",
           "newsletter_enable": true,
-          "newsletter_heading": "Sign up for email updates and save 10%",
+          "newsletter_heading": "Stay informed and save 10%",
           "show_social": true,
           "enable_country_selector": true,
           "enable_language_selector": false,
