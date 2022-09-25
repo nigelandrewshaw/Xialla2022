@@ -87,6 +87,15 @@
             "page": ""
           }
         },
+        "defd38c8-7f87-417f-8df3-306e44e22094": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Adhesive pads",
+            "icon": "check_mark",
+            "content": "<p>Xialla comes with 10 single-use adhesive pads. The pads are for securing Xialla in place. You can buy  adhesive pad refills in packs of 30.  <\/p>",
+            "page": ""
+          }
+        },
         "share": {
           "type": "share",
           "disabled": true,
@@ -116,6 +125,7 @@
         "collapsible-row-1",
         "0e433215-e321-4c32-8b95-b15e2cc84729",
         "collapsible-row-3",
+        "defd38c8-7f87-417f-8df3-306e44e22094",
         "share",
         "6b59f54e-f6bf-408b-8a25-5927962faefb"
       ],
