@@ -2,13 +2,147 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "1664070540afdc9868": {
+      "type": "rich-text",
+      "blocks": {
+        "16640705401541fb2d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Clinical trials<\/p>",
+            "heading_size": "h0"
+          }
+        },
+        "16640705401541fb2d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Clinical trials showed Xialla to be effective in treating moderate to severe ED when used alone and in combination with drug or injection therapy.<\/p>"
+          }
+        },
+        "16640705401541fb2d-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16640705401541fb2d-0",
+        "16640705401541fb2d-1",
+        "16640705401541fb2d-2"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "16640706130a0c1ee4": {
+      "type": "image-with-text",
+      "blocks": {
+        "166407061243d3cbb3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Research findings",
+            "heading_size": "h1"
+          }
+        },
+        "166407061243d3cbb3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Xialla's effectiveness has been demonstrated in two peer-reviewed clinical trials—one that focused on patients with moderate ED and one that focused on post-radical prostatectomy patients with ED. The trial included patients using Xialla alone and in combination with medication and injection therapy.<\/p><p>Results confirm that Xialla delivers significant improvements in erectile and sexual function for 66% of patients with moderate to severe ED. The results of these trials have been peer reviewed and published in the Journal of Sexual Medicine, the world’s premier, authoritative publication in the field of sexual function and dysfunction.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "166407061243d3cbb3-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "166407061243d3cbb3-0",
+        "166407061243d3cbb3-1",
+        "166407061243d3cbb3-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Clinical_Trials.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1664070806e5677056": {
+      "type": "image-with-text",
+      "blocks": {
+        "1664070806154f96c7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "About the lead researcher",
+            "heading_size": "h1"
+          }
+        },
+        "1664070806154f96c7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The clinical trials for Xialla were conducted by Dr. Anthony Bella, one of the world’s foremost urological surgeons. He has written on both clinical care and research topics for over 100 peer-reviewed publications. He has also chaired the Canadian Urological Association Guidelines and widely consulted for the pharmaceutical industry, including advisory positions for Eli Lilly, Pfizer, Bayer, Abbott, and Endo Pharmaceuticals \/ American Medical Systems.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1664070806154f96c7-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664070806154f96c7-0",
+        "1664070806154f96c7-1",
+        "1664070806154f96c7-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Bella_Image.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1664070540afdc9868",
+    "16640706130a0c1ee4",
+    "1664070806e5677056"
   ]
 }
