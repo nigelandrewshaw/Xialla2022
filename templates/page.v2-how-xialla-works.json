@@ -15,7 +15,7 @@
           "type": "heading",
           "settings": {
             "heading": "<p>How Xialla works<\/p>",
-            "heading_size": "h1"
+            "heading_size": "h0"
           }
         },
         "16640685015fca92f6-1": {
@@ -56,7 +56,7 @@
         "1664068719b18e0627-0": {
           "type": "heading",
           "settings": {
-            "heading": "Blood inflow causes erection",
+            "heading": "Blood inflow",
             "heading_size": "h1"
           }
         },
@@ -100,7 +100,7 @@
         "166406887132bc9846-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Blood outflow",
             "heading_size": "h1"
           }
         },
@@ -144,7 +144,7 @@
         "16640688860628df4d-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Rings move",
             "heading_size": "h1"
           }
         },
@@ -188,7 +188,7 @@
         "166406889285689f1a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Xialla doesn't move",
             "heading_size": "h1"
           }
         },
