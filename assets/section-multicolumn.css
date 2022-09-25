@@ -88,6 +88,12 @@ review name, set the font to bold. */
   font-size: 1.2rem; 
 }
 
+.image-with-text__text rte body{
+  font-size: 1.2rem;
+}
+
+
+
 .multicolumn-card-spacing {
   padding-top: 2.5rem;
   margin-left: 2.5rem;
