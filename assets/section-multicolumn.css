@@ -88,9 +88,10 @@ review name, set the font to bold. */
   font-size: 1.2rem; 
 }
 
-.image-with-text__text rte body{
+.image-with-text__text p strong{
   font-size: 1.2rem;
 }
+/* Xialla End */ 
 
 
 
