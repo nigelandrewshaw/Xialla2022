@@ -6,7 +6,7 @@
         "vendor": {
           "type": "text",
           "settings": {
-            "text": "{{ product.vendor }}",
+            "text": "The #1 rated ED ring",
             "text_style": "uppercase"
           }
         },
