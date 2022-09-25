@@ -81,8 +81,10 @@
   margin-bottom: 1rem;
 }
 
+/* Xialla 2022-09-25 12:38:24. To make a small footer like a signature or customer
+review name, set the font to bold. */ 
 .multicolumn-list p strong{
-  font-size: 1rem;
+  font-size: 1.1rem; 
 }
 
 .multicolumn-card-spacing {
