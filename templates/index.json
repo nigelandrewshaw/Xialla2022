@@ -161,7 +161,7 @@
           "type": "column",
           "settings": {
             "title": "\"Great product and customer service\"",
-            "text": "<p>With its ease to use and the effectiveness I would recommend this product to everyone.<\/p>",
+            "text": "<p>With its ease to use and the effectiveness I would recommend this product to everyone.<\/p><p><strong>James L<\/strong><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -170,7 +170,7 @@
           "type": "column",
           "settings": {
             "title": "\"Xialla is an amazing product\"",
-            "text": "<p>Xialla is a godsend. I truly thank Nigel for inventing this amazing product<\/p>",
+            "text": "<p>Xialla is a Godsend. I truly thank Nigel for inventing this amazing product<\/p>",
             "link_label": "",
             "link": ""
           }
