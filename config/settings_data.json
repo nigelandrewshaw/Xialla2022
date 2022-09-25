@@ -117,6 +117,7 @@
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
+    "favicon": "shopify:\/\/shop_images\/Tan_5d8c0d7d-71da-4eb7-8f24-059743e48c29.png",
     "currency_code_enabled": true,
     "cart_type": "notification",
     "show_vendor": false,
