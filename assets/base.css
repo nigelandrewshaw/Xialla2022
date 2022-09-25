@@ -2960,7 +2960,7 @@ details-disclosure > details {
 /* Custom Adobe fonts */
 :root{
   --font-body-family: "fieldwork", sans-serif !important;
-  --font-heading-family: "fieldwork", sans-serif;
+  --font-heading-family: "rufina", sans-serif !important;
 }
 
 
