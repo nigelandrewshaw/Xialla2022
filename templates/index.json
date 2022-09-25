@@ -384,7 +384,7 @@
     "1664140202e226445a": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>\n\n    .embed-container {\n      --video--width: 1296;\n      --video--height: 540;\n\n      position: relative;\n      padding-bottom: calc(var(--video--height) \/ var(--video--width) * 100%); \/* 41.66666667% *\/\n      overflow: hidden;\n      max-width: 100%;\n      background: black;\n      \n    }\n\n    .embed-container iframe,\n    .embed-container object,\n    .embed-container embed {\n      position: absolute;\n      top: 0;\n      left: 0;\n      width: 100%;\n      height: 100%;\n    }\n\n<\/style>\n\n<div class='embed-container'>\n  <iframe src='https:\/\/player.vimeo.com\/video\/633942061?autoplay=1&loop=1&background=1' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen><\/iframe>\n<\/div>",
+        "custom_liquid": "<style>\n\n    .embed-container {\n      --video--width: 1296;\n      --video--height: 540;\n\n      position: relative;\n      padding-bottom: calc(var(--video--height) \/ var(--video--width) * 100%); \/* 41.66666667% *\/\n      overflow: hidden;\n      max-width: 100%;\n      background: white;\n      \n    }\n\n    .embed-container iframe,\n    .embed-container object,\n    .embed-container embed {\n      position: absolute;\n      top: 0;\n      left: 0;\n      width: 100%;\n      height: 100%;\n    }\n\n<\/style>\n\n<div class='embed-container'>\n  <iframe src='https:\/\/player.vimeo.com\/video\/633942061?autoplay=1&loop=1&background=1' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen><\/iframe>\n<\/div>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
