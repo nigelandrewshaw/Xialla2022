@@ -14,20 +14,20 @@
         "16640685015fca92f6-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
+            "heading": "<p>How Xialla works<\/p>",
             "heading_size": "h1"
           }
         },
         "16640685015fca92f6-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Xialla's patented design targets venous leak (excess blood outflow), a condition that can diminish the strength and duration of an erection, even one that has been achieved through ED medication, vacuum pump devices, or injections.<\/p>"
           }
         },
         "16640685015fca92f6-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": "",
             "button_style_secondary": false,
             "button_label_2": "",
@@ -42,17 +42,197 @@
         "16640685015fca92f6-2"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "desktop_content_position": "left",
+        "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "16640687197a1c1d7d": {
+      "type": "image-with-text",
+      "blocks": {
+        "1664068719b18e0627-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Blood inflow causes erection",
+            "heading_size": "h1"
+          }
+        },
+        "1664068719b18e0627-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Most ED solutions, including medication, injections, and pumps work by trying to increase the amount of blood that flows <strong>into<\/strong> the penis.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1664068719b18e0627-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664068719b18e0627-0",
+        "1664068719b18e0627-1",
+        "1664068719b18e0627-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Artboard_3_3x_9cb5be03-42fe-43c1-b593-fdb20d4e28c3.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16640688717ef55265": {
+      "type": "image-with-text",
+      "blocks": {
+        "166406887132bc9846-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "166406887132bc9846-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In many men, excess blood <strong>outflow<\/strong> (venous leak) causes loss of the erection. In fact studies show that 55% of ED is caused by venous leak.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "166406887132bc9846-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "166406887132bc9846-0",
+        "166406887132bc9846-1",
+        "166406887132bc9846-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Artboard_4_3x_7262ba7d-6cba-4274-a3fe-15a22c012952.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16640688860ad3c7b8": {
+      "type": "image-with-text",
+      "blocks": {
+        "16640688860628df4d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "16640688860628df4d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Traditional ED rings attempt to correct venous leak by compressing the dorsal veins. However these rings move during sexual activity, allowing blood to continue escaping from the penis.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "16640688860628df4d-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16640688860628df4d-0",
+        "16640688860628df4d-1",
+        "16640688860628df4d-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Artboard_5_3x_67ed98e1-698f-4066-ae5a-24999a83d9e3.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16640688928116c051": {
+      "type": "image-with-text",
+      "blocks": {
+        "166406889285689f1a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "166406889285689f1a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Xialla’s patented design prevents movement of the ring during sex, reducing blood outflow to effectively correct the venous leak, resulting in a strong, long lasting erection.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "166406889285689f1a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "166406889285689f1a-0",
+        "166406889285689f1a-1",
+        "166406889285689f1a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Artboard_6_3x_8dddbfe7-93e8-4ac5-b8e7-38f74a5b9229.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "16640685016e38ce98"
+    "16640685016e38ce98",
+    "16640687197a1c1d7d",
+    "16640688717ef55265",
+    "16640688860ad3c7b8",
+    "16640688928116c051"
   ]
 }
