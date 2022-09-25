@@ -164,6 +164,7 @@
         "image-with-text-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Passion_roses_-_desktop.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
