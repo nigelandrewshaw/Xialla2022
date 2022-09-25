@@ -263,7 +263,7 @@
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
-        "heading": "Stock Up on Adhesive Pads",
+        "heading": "Extra Adhesive Pads for Xialla",
         "heading_size": "h2",
         "products_to_show": 2,
         "columns_desktop": 2,
