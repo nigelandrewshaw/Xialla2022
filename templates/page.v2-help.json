@@ -2,13 +2,367 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "16640728860be99993": {
+      "type": "rich-text",
+      "blocks": {
+        "1664072886ad4888a7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>How can we help?<\/p>",
+            "heading_size": "h0"
+          }
+        },
+        "1664072886ad4888a7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Check below for answers to most questions. If you can't find the answer, please contact us!<\/p>"
+          }
+        },
+        "1664072886ad4888a7-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact customer support",
+            "button_link": "#",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1664072886ad4888a7-0",
+        "1664072886ad4888a7-1",
+        "1664072886ad4888a7-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "166407302710e4821d": {
+      "type": "collapsible-content",
+      "blocks": {
+        "1664073026cbe8c9dd-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How much does Xialla cost?",
+            "icon": "none",
+            "row_content": "<p>Xialla costs $69 USD and comes with 10 single-use adhesive pads.<\/p>",
+            "page": ""
+          }
+        },
+        "1664073026cbe8c9dd-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is Xialla right for me?",
+            "icon": "none",
+            "row_content": "<p>Xialla is designed for men of any age or medical profile who experience ED due to venous leak (excess blood outflow). Because of its unique construction, Xialla offers an effective treatment option for men who may be dissatisfied with the results they have seen from more traditional treatments. Here are some situations where Xialla may be a good fit.<\/p><p>I can achieve an erection, but have difficulty maintaining it.<\/p><p>My erection is softI want to avoid medication or injections.<\/p><p>Traditional ED treatments don’t deliver the results I want.<\/p><p>I prefer to avoid surgery to treat my ED.<\/p><p>I want to enhance spontaneity and pleasure during intimacy.<\/p>",
+            "page": ""
+          }
+        },
+        "1664073026cbe8c9dd-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "1664073026cbe8c9dd-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664073026cbe8c9dd-0",
+        "1664073026cbe8c9dd-1",
+        "1664073026cbe8c9dd-2",
+        "1664073026cbe8c9dd-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Top Questions",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16640730416a7bfbe6": {
+      "type": "collapsible-content",
+      "blocks": {
+        "1664073041e43b5613-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "1664073041e43b5613-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "1664073041e43b5613-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "1664073041e43b5613-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664073041e43b5613-0",
+        "1664073041e43b5613-1",
+        "1664073041e43b5613-2",
+        "1664073041e43b5613-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Orders and Shipping",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1664073080363acc02": {
+      "type": "collapsible-content",
+      "blocks": {
+        "1664073080d5a9ee0d-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "1664073080d5a9ee0d-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "1664073080d5a9ee0d-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "1664073080d5a9ee0d-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664073080d5a9ee0d-0",
+        "1664073080d5a9ee0d-1",
+        "1664073080d5a9ee0d-2",
+        "1664073080d5a9ee0d-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "How it works",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1664073084f0af0929": {
+      "type": "collapsible-content",
+      "blocks": {
+        "16640730833dc0b744-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "16640730833dc0b744-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "16640730833dc0b744-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "16640730833dc0b744-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "16640730833dc0b744-0",
+        "16640730833dc0b744-1",
+        "16640730833dc0b744-2",
+        "16640730833dc0b744-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Product",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "166407310156c4c63f": {
+      "type": "collapsible-content",
+      "blocks": {
+        "16640731014b4c26db-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "16640731014b4c26db-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "16640731014b4c26db-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "16640731014b4c26db-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "16640731014b4c26db-0",
+        "16640731014b4c26db-1",
+        "16640731014b4c26db-2",
+        "16640731014b4c26db-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Troubleshootint",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "16640728860be99993",
+    "166407302710e4821d",
+    "16640730416a7bfbe6",
+    "1664073080363acc02",
+    "1664073084f0af0929",
+    "166407310156c4c63f"
   ]
 }
