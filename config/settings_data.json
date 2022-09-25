@@ -14,7 +14,7 @@
     "type_header_font": "assistant_n4",
     "heading_scale": 110,
     "type_body_font": "assistant_n4",
-    "body_scale": 110,
+    "body_scale": 105,
     "page_width": 1200,
     "spacing_sections": 20,
     "spacing_grid_horizontal": 12,
@@ -129,7 +129,7 @@
             "type": "announcement",
             "settings": {
               "text": "Welcome to our store",
-              "text_alignment": "center",
+              "text_alignment": "right",
               "color_scheme": "accent-2",
               "link": ""
             }
@@ -181,9 +181,9 @@
           "footer-2"
         ],
         "settings": {
-          "color_scheme": "background-2",
+          "color_scheme": "accent-2",
           "newsletter_enable": true,
-          "newsletter_heading": "Subscribe to our emails",
+          "newsletter_heading": "Sign up for email updates and save 10%",
           "show_social": true,
           "enable_country_selector": true,
           "enable_language_selector": false,
