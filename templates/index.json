@@ -236,6 +236,15 @@
             "link": ""
           }
         },
+        "24214662-3e0a-439d-a332-564e2ff4f4b4": {
+          "type": "column",
+          "settings": {
+            "title": "Just Xialla",
+            "text": "<p>Xialla is designed for men of any age or medical profile who experience ED due to venous leak (excess blood outflow).<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "16640487868d640e96-1": {
           "type": "column",
           "settings": {
@@ -266,6 +275,7 @@
       },
       "block_order": [
         "16640487868d640e96-0",
+        "24214662-3e0a-439d-a332-564e2ff4f4b4",
         "16640487868d640e96-1",
         "16640487868d640e96-2",
         "febe484e-3404-4087-bbb7-9a236bf71696"
@@ -275,7 +285,7 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
