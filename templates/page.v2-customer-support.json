@@ -8,21 +8,106 @@
         "padding_bottom": 28
       }
     },
+    "1664202824be897408": {
+      "type": "rich-text",
+      "blocks": {
+        "16642028247eeca12a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Customer Support<\/p>",
+            "heading_size": "h0"
+          }
+        },
+        "2728ce90-0d72-40fc-986d-389d11bb1bd0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>We're here to help<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "16642028247eeca12a-1": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "16642028247eeca12a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16642028247eeca12a-0",
+        "2728ce90-0d72-40fc-986d-389d11bb1bd0",
+        "16642028247eeca12a-1",
+        "16642028247eeca12a-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 20
+      }
+    },
+    "1664202902b981e9b5": {
+      "type": "rich-text",
+      "blocks": {
+        "16642029020637dba4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Check the FAQ<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "16642029020637dba4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Answers to many common questions can be found in the FAQ on our help page. <\/p>"
+          }
+        },
+        "16642029020637dba4-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "FAQ",
+            "button_link": "shopify:\/\/pages\/help",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "16642029020637dba4-0",
+        "16642029020637dba4-1",
+        "16642029020637dba4-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "1664193341ab068420": {
       "type": "rich-text",
       "blocks": {
         "1664193341a8bbe3cd-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Customer support<\/p>",
-            "heading_size": "h0"
-          }
-        },
-        "7412373a-d6c2-4a78-a03e-df68f0a8bf9a": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>We're here to help...<\/p>",
-            "heading_size": "h2"
+            "heading": "<p>Still need help?<\/p>",
+            "heading_size": "h1"
           }
         },
         "1664193341a8bbe3cd-1": {
@@ -46,7 +131,6 @@
       },
       "block_order": [
         "1664193341a8bbe3cd-0",
-        "7412373a-d6c2-4a78-a03e-df68f0a8bf9a",
         "1664193341a8bbe3cd-1",
         "9757c6f0-b832-4956-94b1-10285286b60b",
         "011cf9a8-a0f6-4314-8c20-246fab3ac989"
@@ -231,6 +315,8 @@
   },
   "order": [
     "main",
+    "1664202824be897408",
+    "1664202902b981e9b5",
     "1664193341ab068420",
     "166419435633e85953",
     "16641944830d0831df",
