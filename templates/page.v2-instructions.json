@@ -15,7 +15,7 @@
           "type": "heading",
           "settings": {
             "heading": "<p>Instructions<\/p>",
-            "heading_size": "h1"
+            "heading_size": "h0"
           }
         },
         "16640713311cad5bdc-1": {
@@ -113,7 +113,7 @@
         "166407200226b93241-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Instructions-2.png",
+        "image": "shopify:\/\/shop_images\/Insructions-2.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -157,7 +157,7 @@
         "1664072007f23ea078-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Instructions-3.png",
+        "image": "shopify:\/\/shop_images\/Instructions-3.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -201,7 +201,7 @@
         "16640720122aec6a09-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Instructions-4.png",
+        "image": "shopify:\/\/shop_images\/Instructions-4.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -245,7 +245,7 @@
         "16640720220347454e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Instructions-5.png",
+        "image": "shopify:\/\/shop_images\/Instructions-5.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
