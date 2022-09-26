@@ -98,8 +98,8 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "16641944830d0831df": {
@@ -140,6 +140,90 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "166419458965c84720": {
+      "type": "rich-text",
+      "blocks": {
+        "166419458970607b5c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Refunds<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "166419458970607b5c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At Xialla we know that there's no perfect ED treatment. We can honestly say that Xialla works for four out of five men. That's why we also stress that if Xialla doesn't work for you, or for any other reason, just request a refund using the form above and we'll happily refund your full purchase price within 60 days. And to save hassle, there's no need to return your Xialla. Simply discard it.<\/p>"
+          }
+        },
+        "166419458970607b5c-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "166419458970607b5c-0",
+        "166419458970607b5c-1",
+        "166419458970607b5c-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "166419464516b7482c": {
+      "type": "rich-text",
+      "blocks": {
+        "16641946442b84cb88-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Warranty<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "16641946442b84cb88-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If your Xialla breaks or is otherwise defective, contact us for a free replacement within one year of purchase.<\/p>"
+          }
+        },
+        "16641946442b84cb88-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16641946442b84cb88-0",
+        "16641946442b84cb88-1",
+        "16641946442b84cb88-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
       }
@@ -149,6 +233,8 @@
     "main",
     "1664193341ab068420",
     "166419435633e85953",
-    "16641944830d0831df"
+    "16641944830d0831df",
+    "166419458965c84720",
+    "166419464516b7482c"
   ]
 }
