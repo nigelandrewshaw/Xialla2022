@@ -290,21 +290,19 @@
         "16642053513587a13c-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/How_to_wear_Xialla.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "title": "How to Wear Xialla",
+            "text": "<p>Xialla can be put on in a few seconds, so it's ready when you are and comfortable for your enjoyment.<\/p>",
+            "link_label": "Explainer video (60 seconds)",
+            "link": "https:\/\/youtu.be\/9q2gKvWB9mE"
           }
         },
         "16642053513587a13c-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Why_Xialla_is_better_4f8fdc4c-7c96-4842-8130-499b2d2adbcb.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "title": "Why Xialla is Better",
+            "text": "<p>Xialla is the only ring that doesn't move during sex, making it 3x better at fixing venous leak.<\/p>",
+            "link_label": "Explainer video (60 seconds)",
+            "link": "https:\/\/youtu.be\/xwgF_MM7kJ0"
           }
         }
       },
@@ -320,7 +318,7 @@
         "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
