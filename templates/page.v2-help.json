@@ -233,27 +233,27 @@
         "d709ec3e-f1c4-41ec-92bc-8f39cd995658": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Where is my order?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Use the link in your confirmation email to check in on your order at any time. In the event that we're backordered, we'll let you know the status by email.<\/p>",
             "page": ""
           }
         },
         "fd9f0030-3fb0-44fb-8471-5f19b583cede": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Can my order be expedited?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Expedited shipping is available to selected countries and will appear as an option at checkout if available in your country.<\/p>",
             "page": ""
           }
         },
         "02647eda-489c-41cd-a06a-ee4e432f8393": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "What is the refund and exchange policy?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p><strong>Xialla comes with a 100% satisfaction guarantee. <\/strong>If you don't love it, <a href=\"https:\/\/xialla.com\/customer-support?select=4\">get a full refund<\/a> within 60 days. Need a different size? We’ll send one for free. No returns required - just <a href=\"https:\/\/xialla.com\/customer-support?select=3\">contact us<\/a>, and we'll take care of you.<\/p>",
             "page": ""
           }
         },
