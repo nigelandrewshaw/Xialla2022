@@ -21,7 +21,13 @@
         "1664193341a8bbe3cd-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Email us at <a href=\"mailto:help@xialla.com\" title=\"mailto:help@xialla.com\">help@xialla.com<\/a><\/p>"
+          }
+        },
+        "9757c6f0-b832-4956-94b1-10285286b60b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Call us at 888-504-4526<\/p>"
           }
         },
         "1664193341a8bbe3cd-2": {
@@ -39,6 +45,7 @@
       "block_order": [
         "1664193341a8bbe3cd-0",
         "1664193341a8bbe3cd-1",
+        "9757c6f0-b832-4956-94b1-10285286b60b",
         "1664193341a8bbe3cd-2"
       ],
       "settings": {
