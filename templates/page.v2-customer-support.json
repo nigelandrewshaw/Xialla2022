@@ -18,6 +18,13 @@
             "heading_size": "h0"
           }
         },
+        "7412373a-d6c2-4a78-a03e-df68f0a8bf9a": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>We're here to help...<\/p>",
+            "heading_size": "h2"
+          }
+        },
         "1664193341a8bbe3cd-1": {
           "type": "text",
           "settings": {
@@ -35,11 +42,44 @@
           "settings": {
             "text": "<p>Click the chat button on the bottom right of this website.<\/p>"
           }
+        }
+      },
+      "block_order": [
+        "1664193341a8bbe3cd-0",
+        "7412373a-d6c2-4a78-a03e-df68f0a8bf9a",
+        "1664193341a8bbe3cd-1",
+        "9757c6f0-b832-4956-94b1-10285286b60b",
+        "011cf9a8-a0f6-4314-8c20-246fab3ac989"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "166419435633e85953": {
+      "type": "rich-text",
+      "blocks": {
+        "1664194356a66d741c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Response Time<\/p>",
+            "heading_size": "h2"
+          }
         },
-        "1664193341a8bbe3cd-2": {
+        "1664194356a66d741c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We try to respond to support requests within 4 hours. <\/p>"
+          }
+        },
+        "1664194356a66d741c-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": "",
             "button_style_secondary": false,
             "button_label_2": "",
@@ -49,15 +89,55 @@
         }
       },
       "block_order": [
-        "1664193341a8bbe3cd-0",
-        "1664193341a8bbe3cd-1",
-        "9757c6f0-b832-4956-94b1-10285286b60b",
-        "011cf9a8-a0f6-4314-8c20-246fab3ac989",
-        "1664193341a8bbe3cd-2"
+        "1664194356a66d741c-0",
+        "1664194356a66d741c-1",
+        "1664194356a66d741c-2"
       ],
       "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "left",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "16641944830d0831df": {
+      "type": "rich-text",
+      "blocks": {
+        "166419448343f2c1c3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Size changes<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "166419448343f2c1c3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We'll gladly exchange your Xialla for a different size at no charge. Just use the form above to let us know what size you'd like.<\/p>"
+          }
+        },
+        "166419448343f2c1c3-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "166419448343f2c1c3-0",
+        "166419448343f2c1c3-1",
+        "166419448343f2c1c3-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
@@ -67,6 +147,8 @@
   },
   "order": [
     "main",
-    "1664193341ab068420"
+    "1664193341ab068420",
+    "166419435633e85953",
+    "16641944830d0831df"
   ]
 }
