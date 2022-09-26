@@ -291,8 +291,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/How_to_wear_Xialla.jpg",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -301,8 +301,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Why_Xialla_is_better_4f8fdc4c-7c96-4842-8130-499b2d2adbcb.jpg",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
