@@ -438,7 +438,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Black_couple_in_kitchen.jpg",
-        "image_overlay_opacity": 70,
+        "image_overlay_opacity": 50,
         "image_height": "large",
         "adapt_height_first_image": true,
         "desktop_content_position": "bottom-center",
