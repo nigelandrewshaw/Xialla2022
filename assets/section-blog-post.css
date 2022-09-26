@@ -8,6 +8,10 @@
   }
 }
 
+.article-template > h2 {
+  color: red; 
+}
+
 .article-template__hero-container {
   max-width: 130rem;
   margin: 0 auto;
