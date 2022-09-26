@@ -462,7 +462,7 @@ h2,
   font-size: calc(var(--font-heading-scale) * 2rem);
   
   /* Xialla 2022-09-26 14:01:01 Increase top margin */
-  margin-top: calc(var(--font-heading-scale) * 2rem) !important;
+  padding-top: calc(var(--font-heading-scale) * 2rem);
 }
 
 @media only screen and (min-width: 750px) {
