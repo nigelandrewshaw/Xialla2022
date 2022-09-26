@@ -462,18 +462,10 @@ h2,
   font-size: calc(var(--font-heading-scale) * 2rem);
 }
 
-/* Xialla 2022-09-26 14:01:01 Increase top margin on blog h2 */
-article-template.h2{
-  padding-top: calc(var(--font-heading-scale) * 2rem);
-}
-
-
 @media only screen and (min-width: 750px) {
   h2,
   .h2 {
     font-size: calc(var(--font-heading-scale) * 2.4rem);
-    /* Xialla 2022-09-26 14:01:01 Increase top margin */
-  /* margin-top: calc(var(--font-heading-scale) * 2rem) !important;
   }
 }
 
