@@ -1343,7 +1343,7 @@ button.shopify-payment-button__button--unbranded {
   -webkit-appearance: none;
   appearance: none;
   background-color: rgba(var(--color-button), var(--alpha-button-background));
-  /* Xialla 2022-09-25 15:09:12 */
+  /* Xialla 2022-09-25 15:09:12  Uppercase botton font */
   text-transform: uppercase;
 }
 
@@ -2651,7 +2651,7 @@ details[open] > .header__submenu {
 }
 
 /* Xialla 2022-09-25 11:40:44 Convert submenus back to body font after above change
-made them Rufina */ 
+made them Rufina with no uppercase */ 
 li ul li .header__menu-item{
   font-family: var( --font-body-family);
   text-transform: none;
