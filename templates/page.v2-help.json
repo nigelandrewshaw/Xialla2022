@@ -21,7 +21,7 @@
         "1664072886ad4888a7-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Check below for answers to most questions. If you can't find the answer, please contact us!<\/p>"
+            "text": "<p>Check below for answers to most questions. If you can't find the answer, please contact us.<\/p>"
           }
         },
         "1664072886ad4888a7-2": {
@@ -233,45 +233,54 @@
         "d709ec3e-f1c4-41ec-92bc-8f39cd995658": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Where is my order?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Use the link in your confirmation email to check in on your order at any time. In the event that we're backordered, we'll let you know the status by email.<\/p>",
             "page": ""
           }
         },
         "fd9f0030-3fb0-44fb-8471-5f19b583cede": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Can my order be expedited?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Expedited shipping is available to selected countries and will appear as an option at checkout if available in your country.<\/p>",
             "page": ""
           }
         },
         "02647eda-489c-41cd-a06a-ee4e432f8393": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "What is the refund and exchange policy?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p><strong>Xialla comes with a 100% satisfaction guarantee. <\/strong>If you don't love it, <a href=\"https:\/\/xialla.com\/customer-support?select=4\">get a full refund<\/a> within 60 days. Need a different size? We’ll send one for free. No returns required - just <a href=\"https:\/\/xialla.com\/customer-support?select=3\">contact us<\/a>, and we'll take care of you.<\/p>",
             "page": ""
           }
         },
         "b34ec5ec-d85b-4e63-a1c8-647d8792066e": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "What payment methods are accepted?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>We accept all major credit cards, Visa gift cards, Visa debit cards, Shop Pay, Google Pay, Apple Pay and PayPal.<\/p>",
             "page": ""
           }
         },
         "8dcfac4a-2e3a-4c64-adee-13d6fa6cf89f": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "How do I order adhesive pads? Are the adhesive pads multiple or one-time use?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>With your Xialla device you receive 10 pads. Each adhesive pad is intended for one-time use. To order more pads, <a href=\"https:\/\/xialla.com\/products\/adhesive-pads-30-pack\">click here<\/a>.<\/p>",
+            "page": ""
+          }
+        },
+        "eb572f17-2237-4175-8e97-d7d863d24e4d": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is Xialla covered under my health insurance policy?",
+            "icon": "none",
+            "row_content": "<p>Xialla isn't currently covered under health insurance.<\/p>",
             "page": ""
           }
         }
@@ -285,7 +294,8 @@
         "fd9f0030-3fb0-44fb-8471-5f19b583cede",
         "02647eda-489c-41cd-a06a-ee4e432f8393",
         "b34ec5ec-d85b-4e63-a1c8-647d8792066e",
-        "8dcfac4a-2e3a-4c64-adee-13d6fa6cf89f"
+        "8dcfac4a-2e3a-4c64-adee-13d6fa6cf89f",
+        "eb572f17-2237-4175-8e97-d7d863d24e4d"
       ],
       "settings": {
         "caption": "",
@@ -308,99 +318,99 @@
         "1664073080d5a9ee0d-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "What makes Xialla different?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Xialla is an integrated ring, loop, and adhesive band - all constructed of soft, elastic silicone. Xialla's unique, patented design anchors the ring in place to prevent it from moving during sexual activity, giving you a stronger, longer-lasting erection.<br\/><\/p>",
             "page": ""
           }
         },
         "1664073080d5a9ee0d-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "What’s the difference between Xialla and a “cock ring”?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Cock rings move back and forth during sex, which allows blood to escape and your erection to fade. Xialla secures the ring in place, preventing blood outflow and helping you maintain a firm long-lasting erection.<\/p>",
             "page": ""
           }
         },
         "1664073080d5a9ee0d-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Am I able to orgasm while wearing Xialla?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Xialla was designed to improve your erection so that you can have better sex. Xialla won’t impede or prevent your ability to orgasm. If you've tried cock rings and they make ejaculation uncomfortable or impossible, it may be that the rings were too tight. Cock rings need to be tight so they don't move. Xialla doesn't need to be as tight because it's prevented from moving by the unique, patented design which anchors the ring in place.<br\/><\/p>",
             "page": ""
           }
         },
         "1664073080d5a9ee0d-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Will Xialla work for me after a prostatectomy?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>In clinical trials, Xialla helped 40% of men with a prostatectomy. If you've had a prostatectomy we recommend consulting your doctor about using medication in combination with Xialla, as this was sometimes required to be successful in the case of a prostatectomy.<\/p>",
             "page": ""
           }
         },
         "5dfef9c8-07a3-43af-9886-99f9021d0730": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Does it matter if I’m circumcised?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Not at all. Xialla rests at the base of the penis, so circumcision does not have any impact on the use of the device.<\/p>",
             "page": ""
           }
         },
         "f06184fb-0917-4b7a-a7ad-a5ae57ac12b3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Do I need an erection to start?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>No. Xialla will help you get an erection. As you begin to get stimulated and blood flows into the penis, Xialla helps the erection to build by preventing blood from flowing back out too quickly.<\/p>",
             "page": ""
           }
         },
         "4f4f23a8-914a-419d-90c6-903937146735": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Can I use a pump with Xialla?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Yes. Simply use Xialla instead of the ring supplied with the pump.<\/p>",
             "page": ""
           }
         },
         "a0bdbb54-0856-4dd9-80c7-58a0cd533a40": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "I have a penile implant. Can I still use Xialla?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Xialla is a completely external device, so it may be effective in promoting engorgement in the case of penile implant. We strongly recommend you consult your doctor before using Xialla with a penile implant.<\/p>",
             "page": ""
           }
         },
         "34109c45-9254-4d81-b864-056d50def443": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "How does Xialla block blood outflow but not block blood inflow?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Xialla targets blood outflow which occurs through veins near the surface of the penis, just under the skin. Blood inflow occurs through arteries that are deep within the penile shaft.<\/p>",
             "page": ""
           }
         },
         "64b46928-de30-4c98-b823-1514be339f8d": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "I can get an erection but it goes away. Can Xialla help?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Yes, there's a good chance that Xialla may help. Xialla works best for men who struggle with excessive blood outflow. Many men can get an erection, but find it difficult to maintain because the blood outflow is too much. Xialla works by slowing blood outflow from the penis so that your erection lasts longer.<\/p>",
             "page": ""
           }
         },
         "06088e34-5087-4364-aba2-a0b186765b8c": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Does Xialla work if you're diabetic or have high blood pressure or heart disease?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Xialla has been proven to help men with difficult to treat conditions. Conditions such as diabetes, high blood pressure and heart disease can all contribute to ED by slowing the inflow of blood to the penis and\/or inhibiting the mechanism that prevents excessive blood outflow. While existing therapies enhance blood inflow, Xialla targets blood outflow. Therefore Xialla may help on its own, and it may also help in combination with existing therapies such as medication, injections or pumps.<\/p>",
             "page": ""
           }
         }
@@ -439,54 +449,54 @@
         "16640730833dc0b744-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Is Xialla visible when on?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Xialla has a minimalist design, but it’s not invisible. When it’s on, your partner is able to see the ring at the base of your penis, and if you turn around, they may see the adhesive pad that rests above your buttocks.<\/p>",
             "page": ""
           }
         },
         "16640730833dc0b744-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "How long can I use Xialla for?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>To avoid temporary or permanent injury: <\/p><p>- Avoid falling asleep while wearing Xialla. <\/p><p>- Allow at least 1 hour between uses.<\/p><p>- Use Xialla for no longer than 30 minutes per time. Allow one hour between uses.<\/p>",
             "page": ""
           }
         },
         "16640730833dc0b744-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "How do I clean Xialla?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Xialla is easily cleaned with warm water and gentle soap.<\/p>",
             "page": ""
           }
         },
         "16640730833dc0b744-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "How often do I have to reorder the Xialla device?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Xialla can be used multiple times. We recommend using it for 2-4 months before considering a new one for hygienic reasons.<\/p>",
             "page": ""
           }
         },
         "a2be0a9f-1c24-45a7-a077-e56540b47a4a": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Does Xialla come in other colours?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>For now we exclusively offer a white, semi-translucent device.<\/p>",
             "page": ""
           }
         },
         "b0d33974-3536-409d-99f7-955831f2da87": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Do I need help putting on Xialla?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Xialla is easy to put on by yourself. However, if you have limited mobility and have trouble reaching behind yourself to your lower back, a partner can help. See the step by step <a href=\"https:\/\/xialla.com\/pages\/instructions\">user guide here<\/a>. A user guide also comes with every Xialla.<\/p>",
             "page": ""
           }
         }
@@ -520,36 +530,36 @@
         "16640731014b4c26db-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "The adhesive pad doesn't stick well to my skin.",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>If the adhesive pad doesn't stick well, here are a few things to check:<\/p><p>- Make sure the area is clean and dry when you apply the pad.When applying the pad, press and rub it firmly to create a good bond.<\/p><p>- Consider shaving the area where the pad is attached (or have your partner help you).<\/p><p>- Attach the pad before you use any lubricant. If there's lubricant on your skin where the pad is being attached, the pad won't stick.<\/p><p>- Place the pad as low as possible on your back since putting it higher increases the tension on the band.<\/p><p>- Attach the tab lock near the bottom of the pad instead of in the middle or at the top, since attaching it higher on the pad may tend to pull the pad off the skin.<\/p><p>- Wait a minute after applying the pad before attaching the tab lock, to give the adhesive time to bond to your skin.<\/p><p>Don't hesitate to <a href=\"https:\/\/xialla.com\/pages\/customer-support\">Contact us for help.<\/a><\/p>",
             "page": ""
           }
         },
         "16640731014b4c26db-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Xialla doesn't help me get an erection.",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Don’t give up. First, if Xialla isn’t snug around the penis, contact us and we’ll send you a replacement. Second, since Xialla helps control excess blood outflow, clinical trials proved Xialla to be highly effective in combination with therapies that promote blood inflow, including both oral ED medication and injections. Consider talking to your doctor about using an oral therapy in combination with Xialla.<br\/><\/p>",
             "page": ""
           }
         },
         "16640731014b4c26db-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "My Xialla broke.",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p><a href=\"https:\/\/xialla.com\/customer-support?select=5\">Contact us<\/a> for a free replacement within one year of purchase.<\/p>",
             "page": ""
           }
         },
         "16640731014b4c26db-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Xialla doesn't fit well (too tight or too loose).",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>If your Xialla is too tight or too loose, please get in touch and we’ll send you a different size free of charge.<\/p>",
             "page": ""
           }
         }
@@ -562,7 +572,7 @@
       ],
       "settings": {
         "caption": "",
-        "heading": "Troubleshootint",
+        "heading": "Troubleshooting",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
@@ -572,7 +582,7 @@
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 72
       }
     }
   },
