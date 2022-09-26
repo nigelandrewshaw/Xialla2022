@@ -260,9 +260,9 @@
         "b34ec5ec-d85b-4e63-a1c8-647d8792066e": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "What payment methods are accepted?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>We accept all major credit cards, Visa gift cards, Visa debit cards, Shop Pay, Google Pay, Apple Pay and PayPal.<\/p>",
             "page": ""
           }
         },
