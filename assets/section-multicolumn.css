@@ -21,6 +21,11 @@
   }
 }
 
+.multicolumn-card__image-wrapper{
+  background-color: red;
+  align-content:flex-start;
+}
+
 .multicolumn-card__image-wrapper--third-width {
   width: 33%;
 }
