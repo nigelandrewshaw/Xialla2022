@@ -463,7 +463,7 @@ h2,
 }
 
 /* Xialla 2022-09-26 14:01:01 Increase top margin on blog h2 */
-.article-template h2, article-template.h2{
+article-template.h2{
   padding-top: calc(var(--font-heading-scale) * 2rem);
 }
 

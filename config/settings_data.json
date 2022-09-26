@@ -175,11 +175,19 @@
               "heading": "Customer Support",
               "menu": "footer"
             }
+          },
+          "358860d3-a186-4e6a-86a9-76c9caa18721": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Account",
+              "menu": "account"
+            }
           }
         },
         "block_order": [
           "footer-2",
-          "8f42e25f-4b9f-487f-b080-f1fd2176a6b5"
+          "8f42e25f-4b9f-487f-b080-f1fd2176a6b5",
+          "358860d3-a186-4e6a-86a9-76c9caa18721"
         ],
         "settings": {
           "color_scheme": "accent-2",
