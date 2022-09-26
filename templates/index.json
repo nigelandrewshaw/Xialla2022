@@ -364,8 +364,8 @@
         "1664151036b097b9bc-0": {
           "type": "heading",
           "settings": {
-            "heading": "Renew Passion",
-            "heading_size": "h1"
+            "heading": "Passion Renewed",
+            "heading_size": "h0"
           }
         },
         "1664151036b097b9bc-1": {
@@ -397,7 +397,7 @@
         "image_overlay_opacity": 40,
         "image_height": "large",
         "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
+        "desktop_content_position": "bottom-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "accent-1",
