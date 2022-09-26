@@ -274,6 +274,15 @@
             "row_content": "<p>With your Xialla device you receive 10 pads. Each adhesive pad is intended for one-time use. To order more pads, <a href=\"https:\/\/xialla.com\/products\/adhesive-pads-30-pack\">click here<\/a>.<\/p>",
             "page": ""
           }
+        },
+        "eb572f17-2237-4175-8e97-d7d863d24e4d": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is Xialla covered under my health insurance policy?",
+            "icon": "none",
+            "row_content": "<p>Xialla isn't currently covered under health insurance.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -285,7 +294,8 @@
         "fd9f0030-3fb0-44fb-8471-5f19b583cede",
         "02647eda-489c-41cd-a06a-ee4e432f8393",
         "b34ec5ec-d85b-4e63-a1c8-647d8792066e",
-        "8dcfac4a-2e3a-4c64-adee-13d6fa6cf89f"
+        "8dcfac4a-2e3a-4c64-adee-13d6fa6cf89f",
+        "eb572f17-2237-4175-8e97-d7d863d24e4d"
       ],
       "settings": {
         "caption": "",
