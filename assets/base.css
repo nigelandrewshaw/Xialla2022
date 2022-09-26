@@ -470,7 +470,7 @@ h2,
   .h2 {
     font-size: calc(var(--font-heading-scale) * 2.4rem);
     /* Xialla 2022-09-26 14:01:01 Increase top margin */
-  margin-top: calc(var(--font-heading-scale) * 2rem) !important;
+  /* margin-top: calc(var(--font-heading-scale) * 2rem) !important;
   }
 }
 
