@@ -71,7 +71,7 @@
         "16642029020637dba4-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Answers to many common questions can be found in the FAQ on our help page. <\/p>"
+            "text": "<p>Get answers to most common questions.<\/p>"
           }
         },
         "16642029020637dba4-2": {
@@ -90,6 +90,55 @@
         "16642029020637dba4-0",
         "16642029020637dba4-1",
         "16642029020637dba4-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "16642031908360cdbc": {
+      "type": "rich-text",
+      "blocks": {
+        "1664203190940326af-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Try the search<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "2aab5d4a-50f6-465d-b81f-bcd101a8d9a0": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Find anything on the website fast.<\/p>"
+          }
+        },
+        "1664203190940326af-1": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "1664203190940326af-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Search",
+            "button_link": "\/search",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1664203190940326af-0",
+        "2aab5d4a-50f6-465d-b81f-bcd101a8d9a0",
+        "1664203190940326af-1",
+        "1664203190940326af-2"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -317,6 +366,7 @@
     "main",
     "1664202824be897408",
     "1664202902b981e9b5",
+    "16642031908360cdbc",
     "1664193341ab068420",
     "166419435633e85953",
     "16641944830d0831df",
