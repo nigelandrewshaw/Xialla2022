@@ -27,7 +27,7 @@
         "9757c6f0-b832-4956-94b1-10285286b60b": {
           "type": "text",
           "settings": {
-            "text": "<p>Call us at 888-504-4526<\/p>"
+            "text": "<p>Call us at <a href=\"tel:8885044526\" title=\"tel:8885044526\">888-504-4526<\/a><\/p>"
           }
         },
         "1664193341a8bbe3cd-2": {
