@@ -1167,7 +1167,7 @@
         },
         "image-padding": {
           "label": "Image padding"
-        },        
+        },
         "height": {
           "options__1": {
             "label": "Adapt to image"
