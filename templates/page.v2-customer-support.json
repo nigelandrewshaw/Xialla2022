@@ -30,6 +30,12 @@
             "text": "<p>Call us at <a href=\"tel:8885044526\" title=\"tel:8885044526\">888-504-4526<\/a><\/p>"
           }
         },
+        "011cf9a8-a0f6-4314-8c20-246fab3ac989": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Click the chat button on the bottom right of this website.<\/p>"
+          }
+        },
         "1664193341a8bbe3cd-2": {
           "type": "button",
           "settings": {
@@ -46,6 +52,7 @@
         "1664193341a8bbe3cd-0",
         "1664193341a8bbe3cd-1",
         "9757c6f0-b832-4956-94b1-10285286b60b",
+        "011cf9a8-a0f6-4314-8c20-246fab3ac989",
         "1664193341a8bbe3cd-2"
       ],
       "settings": {
