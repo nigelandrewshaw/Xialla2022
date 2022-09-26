@@ -168,10 +168,26 @@
               "heading": "Our mission",
               "subtext": "<p>Making love is life's greatest pleasure. Losing it can be devastating. Our mission is to help men and their partners get back to amazing sex, so they can experience the joy again.<\/p>"
             }
+          },
+          "40c33216-c4c7-4a82-86ee-4561d9af4032": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer"
+            }
+          },
+          "8f42e25f-4b9f-487f-b080-f1fd2176a6b5": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer"
+            }
           }
         },
         "block_order": [
-          "footer-2"
+          "footer-2",
+          "40c33216-c4c7-4a82-86ee-4561d9af4032",
+          "8f42e25f-4b9f-487f-b080-f1fd2176a6b5"
         ],
         "settings": {
           "color_scheme": "accent-2",
