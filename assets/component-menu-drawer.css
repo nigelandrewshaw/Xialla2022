@@ -159,7 +159,8 @@ ul li ul .menu-drawer__menu-item{
   right: 3rem;
 }
 
-.menu-drawer__menu-item--active,
+/* Xialla 2022-09-27 07:47:08 Remove underline for active item */ 
+/* .menu-drawer__menu-item--active, */
 .menu-drawer__menu-item:focus,
 .menu-drawer__close-button:focus,
 .menu-drawer__menu-item:hover,
@@ -169,7 +170,8 @@ ul li ul .menu-drawer__menu-item{
 }
 
 .menu-drawer__menu-item--active:hover {
-  background-color: rgba(var(--color-foreground), 0.08);
+  /* Xialla 2022-09-27 07:47:08 Remove for active item */ 
+  /* background-color: rgba(var(--color-foreground), 0.08); */
 }
 
 .js .menu-drawer__menu-item .icon-caret,
