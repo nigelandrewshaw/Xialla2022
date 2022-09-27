@@ -429,7 +429,8 @@
     "checkout": {
       "contact": {
         "province_label": "State\/Prov",
-        "province_placeholder": "State\/Prov"
+        "province_placeholder": "State\/Prov",
+        "postal_code_label": "Zip\/Postal"
       },
       "shop_policies": {
         "subscription_policy": " "
