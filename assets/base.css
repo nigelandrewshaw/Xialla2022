@@ -3021,18 +3021,20 @@ body.gradient {
 /* Mobile */
 
 @media only screen and (max-width: 749px) { 
-  padding-bottom: 56.25%;
-  height: 0;
+  .embed-container { 
+    padding-bottom: 56.25%;
+    height: 0;
+  }
 }
 
 /* Desktop */
 
 @media only screen and (min-width: 750px) { 
-.embed-container { 
-  padding-bottom: 56.25%;
-  /*padding-bottom: calc(var(--video--height) / var(--video--width) * 100%);*/
+  .embed-container { 
+    padding-bottom: 56.25%;
+    /*padding-bottom: calc(var(--video--height) / var(--video--width) * 100%);*/
+  }
+
 }
-
-
 
 
