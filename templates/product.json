@@ -147,14 +147,14 @@
         "image-with-text-0": {
           "type": "heading",
           "settings": {
-            "heading": "How Do I Love Thee?",
+            "heading": "You Deserve It",
             "heading_size": "h1"
           }
         },
         "image-with-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>How do I love thee?<br\/>Let me count the ways. <br\/>I love thee to the depth and breadth and height<br\/>My soul can reach, when feeling out of sight<br\/>For the ends of being and ideal grace.<\/p><p><strong>Elizabeth Barret-Browning<\/strong><\/p>",
+            "text": "<p>Try Xialla today and Get Back to Amazing Sex<\/p>",
             "text_style": "body"
           }
         }
@@ -183,6 +183,7 @@
         "column-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/package.png",
             "custom_liquid": "Discreet Packaging",
             "text": "<p>Xialla is shipped to you in plain packaging for your privacy and comfort.<\/p>",
             "link_label": "",
@@ -192,6 +193,7 @@
         "d0e0a42d-17dd-47cb-bc96-c1a5e8281f88": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/leaf.png",
             "custom_liquid": "Safe",
             "text": "<p>Xialla is body safe, hypoallergenic, and FDA, Health Canada and CE compliant.<\/p>",
             "link_label": "",
@@ -201,6 +203,7 @@
         "column-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/truck_1.png",
             "custom_liquid": "Free Shipping",
             "text": "<p>Standard shipping is included in the purchase price—no extra fees! <\/p>",
             "link_label": "",
@@ -210,6 +213,7 @@
         "edfd206a-c7c2-4a92-8a0b-66468c05d35e": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/file-check-2.png",
             "custom_liquid": "Clinically Tested",
             "text": "<p>Xialla has been proven effective in two physician-led clinical trials.<\/p>",
             "link_label": "",
@@ -219,6 +223,7 @@
         "09180e9b-cffc-424c-a118-0fa02dc154b8": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/refresh-ccw.png",
             "custom_liquid": "Free Size Changes",
             "text": "<p>Ordered the wrong size? We'll send you the right one for free.<\/p>",
             "link_label": "",
@@ -228,6 +233,7 @@
         "f34f7bc5-3a09-4aa2-8fc3-2693081a7577": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/shield-check.png",
             "custom_liquid": "Trusted",
             "text": "<p>Xialla is the highest-rated ED treatment based on verified customer reviews.<\/p>",
             "link_label": "",
@@ -246,7 +252,7 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "image_width": "full",
+        "image_width": "custom_image_size_width",
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "left",
