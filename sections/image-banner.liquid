@@ -98,7 +98,7 @@
             </h2>
              {%- endcomment -%}
             <h2 class="banner__heading {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
-              <span>{{ block.settings.custom_liquid_heading }}</span>
+              <span>{{ block.settings.custom_liquid }}</span>
             </h2>
       
           {%- when 'text' -%}
@@ -321,7 +321,7 @@
 
         {
           "type": "liquid",
-          "id": "custom_liquid_heading",
+          "id": "custom_liquid",
           "label": "t:sections.image-banner.blocks.heading.settings.heading.label"   
         },
         
