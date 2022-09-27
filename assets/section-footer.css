@@ -418,7 +418,8 @@ noscript .localization-selector.link {
 
 .footer-block__details-content .list-menu__item--active {
   transition: text-decoration-thickness var(--duration-short) ease;
-  color: rgb(var(--color-foreground));
+  /* Xialla 2022-09-27 09:01:40 remove active highlight */ 
+  /* color: rgb(var(--color-foreground)); */ 
 }
 
 @media screen and (min-width: 750px) {

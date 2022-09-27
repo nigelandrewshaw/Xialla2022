@@ -130,7 +130,7 @@ details[open].menu-opening > .menu-drawer__submenu {
 
   /* Xialla 2022-09-25 11:58:46 Convert drawer menu headings to header font and uppercase  */
   font-family: var(--font-heading-family);
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 /* Xialla 2022-09-25 12:11:10 Convert drawer submenu headings back to body font and no case */ 

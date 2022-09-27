@@ -2684,9 +2684,9 @@ details[open] > .header__menu-item .icon-caret {
 
 .header__active-menu-item {
   transition: text-decoration-thickness var(--duration-short) ease;
-  color: rgb(var(--color-foreground));
   /* Xialla 2022-09-27 07:47:08 Remove for active item */ 
   /* text-decoration: underline;
+  color: rgb(var(--color-foreground));
   text-underline-offset: 0.3rem; */
 }
 
