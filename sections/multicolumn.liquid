@@ -63,7 +63,7 @@
                 {% endif %}
 
   {%- style -%}
-  .multicolumn-card__image-wrapper--{{ section.settings.image_width }}-width {
+  #Slide-{{ section.id }}-{{ forloop.index }} .multicolumn-card__image-wrapper--{{ section.settings.image_width }}-width {
     width: {{ block.settings.image.width}}px;
   }
 
