@@ -14,7 +14,7 @@
         "16640696687c13c39a-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>The science behind Xialla<\/p>",
+            "custom_liquid": "The science behind Xialla",
             "heading_size": "h0"
           }
         },
