@@ -557,7 +557,7 @@
                     >
                       {%- for variant in product.variants -%}
                         <option
-                          {% if variant == product.selected_or_first_available_variant %}
+                          {% if variant.id == 31215755493469 %}
                             selected="selected"
                           {% endif %}
                           {% if variant.available == false %}
