@@ -61,6 +61,17 @@
                 {% if section.settings.image_ratio == 'adapt' or section.settings.image_ratio == 'circle' %}
                   {% assign spaced_image = true %}
                 {% endif %}
+
+  {%- style -%}
+  .multicolumn-card__image-wrapper--{{ section.settings.image_width }}-width {
+    width: {{ block.settings.image.width}}px;
+  }
+
+    
+    
+  {%- endstyle -%}
+
+                
                 <div class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--{{ section.settings.image_width }}-width{% if section.settings.image_width != 'full' or spaced_image %} multicolumn-card-spacing{% endif %}">
                   <div class="media media--transparent media--{{ section.settings.image_ratio }}"
                     {% if section.settings.image_ratio == 'adapt' %}
@@ -74,10 +85,6 @@
                       class: 'multicolumn-card__image'
                     }}
 
-
-
-
-                    
                    {{ block.settings.image.width}}
                    {{ block.settings.image.height}}
                   </div>
