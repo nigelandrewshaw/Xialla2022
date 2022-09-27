@@ -184,6 +184,7 @@
           "type": "column",
           "settings": {
             "title": "Discreet packaging",
+            "custom_liquid": "Discreet packaging",
             "text": "<p>Xialla is shipped to you in plain packaging for your privacy and comfort.<\/p>",
             "link_label": "",
             "link": ""
@@ -193,6 +194,7 @@
           "type": "column",
           "settings": {
             "title": "Free shipping",
+            "custom_liquid": "Free shipping",
             "text": "<p>Standard shipping is included in the purchase price—no extra fees! <\/p>",
             "link_label": "",
             "link": ""
@@ -202,6 +204,7 @@
           "type": "column",
           "settings": {
             "title": "Free size changes",
+            "custom_liquid": "Free size changes",
             "text": "<p>Ordered the wrong size? We'll send you the right one for free.<\/p>",
             "link_label": "",
             "link": ""
@@ -211,6 +214,7 @@
           "type": "column",
           "settings": {
             "title": "Trusted",
+            "custom_liquid": "Trusted",
             "text": "<p>Xialla is the highest-rated ED treatment based on verified customer reviews.<\/p>",
             "link_label": "",
             "link": ""
@@ -220,6 +224,7 @@
           "type": "column",
           "settings": {
             "title": "Tested",
+            "custom_liquid": "Tested",
             "text": "<p>Xialla has been proven effective in two physician-led clinical trials.<\/p>",
             "link_label": "",
             "link": ""
@@ -229,6 +234,7 @@
           "type": "column",
           "settings": {
             "title": "Safe",
+            "custom_liquid": "Tested",
             "text": "<p>Xialla is body safe, hypoallergenic, and FDA, Health Canada and CE compliant.<\/p>",
             "link_label": "",
             "link": ""
