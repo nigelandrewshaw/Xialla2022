@@ -3023,8 +3023,8 @@ body.gradient {
 
 @media only screen and (max-width: 749px) { 
   .embed-container { 
-    /*padding-bottom: 56.25%;*/
-    padding-bottom: calc(var(--video--height) / var(--video--width) * 100%);
+    padding-bottom: 56.25%;
+    /*padding-bottom: calc(var(--video--height) / var(--video--width) * 100%);*/
     height: 0;
   }
 }
