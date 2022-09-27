@@ -54,7 +54,6 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>The #1 rated ED ring<\/p>",
             "custom_liquid": "The #1 rated ED ring",
             "heading_size": "h1"
           }
@@ -94,7 +93,6 @@
         "16642410733c561b5a-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Why is Xialla Better?<\/p>",
             "custom_liquid": "Why is Xialla Better?",
             "heading_size": "h1"
           }
@@ -146,7 +144,6 @@
         "16642413104ed0976f-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>How &lt;br&gt; to WEar<\/p>",
             "custom_liquid": "How <br> to WEar",
             "heading_size": "h1"
           }
@@ -263,7 +260,6 @@
         "1664046577ded4120f-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Customer Reviews<\/p>",
             "custom_liquid": "Customer Reviews",
             "heading_size": "h1"
           }
@@ -319,6 +315,7 @@
           "type": "column",
           "settings": {
             "title": "\"Climaxes have been mind blowing\"",
+            "custom_liquid": "\"Climaxes have been mind blowing\"",
             "text": "<p>Our lovemaking has gone from one time a month to several times a week.<\/p><p><strong>TE United States<\/strong><\/p>",
             "link_label": "",
             "link": ""
@@ -328,6 +325,7 @@
           "type": "column",
           "settings": {
             "title": "\"Brought us immense pleasure and happiness\"",
+            "custom_liquid": "\"Brought us immense pleasure and happiness\"",
             "text": "<p>And the customer service left me extremely impressed.<\/p><p><strong>Charlie Flores<\/strong><\/p>",
             "link_label": "",
             "link": ""
@@ -337,6 +335,7 @@
           "type": "column",
           "settings": {
             "title": "\"Xialla is an amazing product\"",
+            "custom_liquid": "\"Xialla is an amazing product\"",
             "text": "<p>Xialla is a Godsend. I truly thank Nigel for inventing this amazing product. <\/p><p><strong>Kenneth Akers<\/strong><\/p>",
             "link_label": "",
             "link": ""
@@ -347,6 +346,7 @@
           "disabled": true,
           "settings": {
             "title": "Column",
+            "custom_liquid": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
@@ -398,6 +398,7 @@
           "disabled": true,
           "settings": {
             "title": "Just Xialla",
+            "custom_liquid": "Just Xialla",
             "text": "<p>Xialla is designed for men of any age or medical profile who experience ED due to venous leak (excess blood outflow).<\/p>",
             "link_label": "",
             "link": ""
@@ -407,6 +408,7 @@
           "type": "column",
           "settings": {
             "title": "Just Xialla",
+            "custom_liquid": "Just Xialla",
             "text": "<p>Xialla is designed for men of any age or medical profile who experience ED due to venous leak (excess blood outflow).<\/p>",
             "link_label": "",
             "link": ""
@@ -416,6 +418,7 @@
           "type": "column",
           "settings": {
             "title": "Xialla + medication",
+            "custom_liquid": "Xialla + medication",
             "text": "<p>Your regularly prescribed ED medication increases blood inflow. Xialla helps you prevent blood outflow so that your erection stays stronger for longer.<\/p>",
             "link_label": "",
             "link": ""
@@ -425,6 +428,7 @@
           "type": "column",
           "settings": {
             "title": "Xialla + injections",
+            "custom_liquid": "Xialla + injections",
             "text": "<p>Xialla has been clinically tested to complement penile injection therapies. While injections primarily target blood inflow, Xialla targets blood outflow.<\/p>",
             "link_label": "",
             "link": ""
@@ -434,6 +438,7 @@
           "type": "column",
           "settings": {
             "title": "Xialla + pumps",
+            "custom_liquid": "Xialla + pumps",
             "text": "<p>Use Xialla in place of the standard constriction rings used with vacuum pumps for dramatically better results.<\/p>",
             "link_label": "",
             "link": ""
@@ -515,6 +520,7 @@
           "type": "column",
           "settings": {
             "title": "Safe",
+            "custom_liquid": "Safe",
             "text": "<p>Xialla is a safe, natural, comfortable, and drug-free treatment. <\/p>",
             "link_label": "",
             "link": ""
@@ -524,6 +530,7 @@
           "type": "column",
           "settings": {
             "title": "Effective",
+            "custom_liquid": "Effective",
             "text": "<p>A majority of men with ED see significant improvements.<\/p>",
             "link_label": "",
             "link": ""
@@ -533,6 +540,7 @@
           "type": "column",
           "settings": {
             "title": "Guaranteed",
+            "custom_liquid": "Guaranteed",
             "text": "<p>If it doesn't work for you, just request an instant refund within 60 days.<br\/><\/p>",
             "link_label": "",
             "link": ""
