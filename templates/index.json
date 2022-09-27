@@ -444,7 +444,7 @@
       "settings": {
         "title": "Buy with Confidence",
         "heading_size": "h1",
-        "image_width": "full",
+        "image_width": "custom_image_size_width",
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "left",
