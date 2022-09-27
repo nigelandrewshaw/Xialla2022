@@ -329,7 +329,7 @@
       "address2": "Address 2",
       "city": "City",
       "country": "Country\/region",
-      "province": "Province",
+      "province": "State\/Prov",
       "zip": "Postal\/ZIP code",
       "phone": "Phone",
       "set_default": "Set as default address",
@@ -447,6 +447,9 @@
         "discount_label": "Coupon code",
         "discount_placeholder": "Coupon code"
       }
+    },
+    "addresses": {
+      "province": "State\/Prov"
     }
   },
   "customer_accounts": {
