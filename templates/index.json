@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "GET BACK<i>&nbsp;to&nbsp;<br\/><\/i>AMAZING SEX",
+            "custom_liquid": "GET BACK<i> to<br\/><\/i>AMAZING SEX",
             "heading_size": "h0"
           }
         },
@@ -149,7 +149,7 @@
         "1664046577ded4120f-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "Customer Reviews",
+            "custom_liquid": "<i>customer<\/i> REVIEWS",
             "heading_size": "h1"
           }
         },
