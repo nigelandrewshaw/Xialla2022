@@ -203,7 +203,7 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/truck_1.png",
+            "image": "shopify:\/\/shop_images\/truck_1d0400aa-852c-4f3f-bcc0-bb7135ad1e00.png",
             "custom_liquid": "Free Shipping",
             "text": "<p>Standard shipping is included in the purchase price—no extra fees! <\/p>",
             "link_label": "",
