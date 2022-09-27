@@ -147,7 +147,7 @@
         "column1": {
           "type": "column",
           "settings": {
-            "custom_liquid": "\"Climaxes have been <b>mind blowing<\/b>\"",
+            "custom_liquid": "\"Climaxes have been mind blowing\"",
             "text": "<p>Our lovemaking has gone from one time a month to several times a week.<\/p><p><strong>TE United States<\/strong><\/p>",
             "link_label": "",
             "link": ""
@@ -156,7 +156,7 @@
         "column2": {
           "type": "column",
           "settings": {
-            "custom_liquid": "\"Brought us <b>immense pleasure<\/b> and happiness\"",
+            "custom_liquid": "\"Brought us immense pleasure and happiness\"",
             "text": "<p>And the customer service left me extremely impressed.<\/p><p><strong>Charlie Flores<\/strong><\/p>",
             "link_label": "",
             "link": ""
@@ -165,7 +165,7 @@
         "column3": {
           "type": "column",
           "settings": {
-            "custom_liquid": "\"Xialla is an <b>amazing product<\/b>\"",
+            "custom_liquid": "\"Xialla is an amazing product\"",
             "text": "<p>Xialla is a Godsend. I truly thank Nigel for inventing this amazing product. <\/p><p><strong>Kenneth Akers<\/strong><\/p>",
             "link_label": "",
             "link": ""
