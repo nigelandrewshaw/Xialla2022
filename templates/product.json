@@ -183,7 +183,7 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/package.png",
+            "image": "shopify:\/\/shop_images\/box.png",
             "custom_liquid": "Discreet Packaging",
             "text": "<p>Xialla is shipped to you in plain packaging for your privacy and comfort.<\/p>",
             "link_label": "",
@@ -193,7 +193,7 @@
         "d0e0a42d-17dd-47cb-bc96-c1a5e8281f88": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/leaf.png",
+            "image": "shopify:\/\/shop_images\/leaf_a72e4110-020d-4723-974f-87e23023090f.png",
             "custom_liquid": "Safe",
             "text": "<p>Xialla is body safe, hypoallergenic, and FDA, Health Canada and CE compliant.<\/p>",
             "link_label": "",
@@ -213,7 +213,7 @@
         "edfd206a-c7c2-4a92-8a0b-66468c05d35e": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/file-check-2.png",
+            "image": "shopify:\/\/shop_images\/file-check-2_854eebb1-8acc-469f-a0a6-9fb9596277fe.png",
             "custom_liquid": "Clinically Tested",
             "text": "<p>Xialla has been proven effective in two physician-led clinical trials.<\/p>",
             "link_label": "",
@@ -223,7 +223,7 @@
         "09180e9b-cffc-424c-a118-0fa02dc154b8": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/refresh-ccw.png",
+            "image": "shopify:\/\/shop_images\/refresh-ccw_914cc7a8-0934-4fe1-9a29-8dc03768976f.png",
             "custom_liquid": "Free Size Changes",
             "text": "<p>Ordered the wrong size? We'll send you the right one for free.<\/p>",
             "link_label": "",
@@ -233,7 +233,7 @@
         "f34f7bc5-3a09-4aa2-8fc3-2693081a7577": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/shield-check.png",
+            "image": "shopify:\/\/shop_images\/shield-check_26176265-3086-4aec-8ee3-7833809ab68a.png",
             "custom_liquid": "Trusted",
             "text": "<p>Xialla is the highest-rated ED treatment based on verified customer reviews.<\/p>",
             "link_label": "",
