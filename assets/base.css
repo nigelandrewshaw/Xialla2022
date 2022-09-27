@@ -418,7 +418,7 @@ h5,
   line-height: calc(1 + 0.3 / max(1, var(--font-heading-scale)));
   word-break: break-word;
   /* Xialla Sep 25 2022 Uppercase */
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 .hxl {
@@ -2983,7 +2983,7 @@ details-disclosure > details {
 /* Custom Adobe fonts */
 :root{
   --font-body-family: "fieldwork", sans-serif !important;
-  --font-heading-family: "rufina", sans-serif !important;
+  --font-heading-family: "fieldwork", sans-serif !important;
 }
 
 /* Added By Zeian Shahzad */
