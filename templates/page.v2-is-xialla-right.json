@@ -14,7 +14,7 @@
         "1664058936e288b3f0-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Is Xialla right for me<\/p>",
+            "custom_liquid": "Is Xialla right for me",
             "heading_size": "h0"
           }
         },
@@ -28,7 +28,7 @@
           "type": "heading",
           "disabled": true,
           "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
+            "custom_liquid": "",
             "heading_size": "h1"
           }
         },
