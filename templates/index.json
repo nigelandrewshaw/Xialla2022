@@ -149,7 +149,7 @@
         "1664046577ded4120f-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "CUSTOMER REVIEWS",
+            "custom_liquid": "<i>Customer<\/i> REVIEWS",
             "heading_size": "h1"
           }
         },
