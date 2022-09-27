@@ -2990,6 +2990,6 @@ details-disclosure > details {
 .banner__heading,
 .rich-text__heading,
 .multicolumn-list h3 {
-  text-transform: none;
+  text-transform: none !important;
 }
 
