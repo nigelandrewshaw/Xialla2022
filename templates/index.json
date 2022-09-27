@@ -300,7 +300,7 @@
         "24214662-3e0a-439d-a332-564e2ff4f4b4": {
           "type": "column",
           "settings": {
-            "custom_liquid": "<i>just<\/i> XIALLA",
+            "custom_liquid": "Just Xialla",
             "text": "<p>Xialla is designed for men of any age or medical profile who experience ED due to venous leak (excess blood outflow).<\/p>",
             "link_label": "",
             "link": ""
@@ -309,7 +309,7 @@
         "16640487868d640e96-1": {
           "type": "column",
           "settings": {
-            "custom_liquid": "<i>Xialla<\/i> + MEDICATION",
+            "custom_liquid": "Xialla + Medication",
             "text": "<p>Your regularly prescribed ED medication increases blood inflow. Xialla helps you prevent blood outflow so that your erection stays stronger for longer.<\/p>",
             "link_label": "",
             "link": ""
@@ -318,7 +318,7 @@
         "16640487868d640e96-2": {
           "type": "column",
           "settings": {
-            "custom_liquid": "<i>Xialla<\/i> + INJECTIONS",
+            "custom_liquid": "Xialla + Injections",
             "text": "<p>Xialla has been clinically tested to complement penile injection therapies. While injections primarily target blood inflow, Xialla targets blood outflow.<\/p>",
             "link_label": "",
             "link": ""
@@ -327,7 +327,7 @@
         "febe484e-3404-4087-bbb7-9a236bf71696": {
           "type": "column",
           "settings": {
-            "custom_liquid": "<i>Xialla<\/i> + PUMPS",
+            "custom_liquid": "Xialla + Pumps",
             "text": "<p>Use Xialla in place of the standard constriction rings used with vacuum pumps for dramatically better results.<\/p>",
             "link_label": "",
             "link": ""
@@ -364,7 +364,7 @@
         "1664050901ae17bd09-0": {
           "type": "heading",
           "settings": {
-            "heading": "Clinically proven",
+            "heading": "Clinically Proven",
             "heading_size": "h1"
           }
         },
@@ -408,7 +408,7 @@
         "166405108351ee9c3f-0": {
           "type": "column",
           "settings": {
-            "custom_liquid": "SAFE",
+            "custom_liquid": "Safe",
             "text": "<p>Xialla is a safe, natural, comfortable, and drug-free treatment. <\/p>",
             "link_label": "",
             "link": ""
@@ -417,7 +417,7 @@
         "166405108351ee9c3f-1": {
           "type": "column",
           "settings": {
-            "custom_liquid": "EFFECTIVE",
+            "custom_liquid": "Effective",
             "text": "<p>A majority of men with ED see significant improvements.<\/p>",
             "link_label": "",
             "link": ""
@@ -426,7 +426,7 @@
         "166405108351ee9c3f-2": {
           "type": "column",
           "settings": {
-            "custom_liquid": "GUARANTEED",
+            "custom_liquid": "Guranteed",
             "text": "<p>If it doesn't work for you, just request an instant refund within 60 days.<br\/><\/p>",
             "link_label": "",
             "link": ""
