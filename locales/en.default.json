@@ -424,5 +424,12 @@
       "copy_code_success": "Code copied successfully",
       "print_gift_card": "Print"
     }
+  },
+  "shopify": {
+    "checkout": {
+      "contact": {
+        "province_label": "State\/Prov"
+      }
+    }
   }
 }
