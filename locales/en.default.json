@@ -441,6 +441,10 @@
       },
       "general": {
         "continue_to_shipping_method": "Continue to shipping and payment"
+      },
+      "order_summary": {
+        "discount_title": "Coupon",
+        "discount_label": "Coupon code"
       }
     }
   },
