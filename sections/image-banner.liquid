@@ -91,9 +91,16 @@
       {%- for block in section.blocks -%}
         {%- case block.type -%}
           {%- when 'heading' -%}
+
+            {%- comment -%}
             <h2 class="banner__heading {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
               <span>{{ block.settings.heading | escape }}</span>
             </h2>
+             {%- endcomment -%}
+            <h2 class="banner__heading {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
+              <span>{{ block.settings.custom_liquid }}</span>
+            </h2>
+      
           {%- when 'text' -%}
             <div class="banner__text {{ block.settings.text_style }}" {{ block.shopify_attributes }}>
               <span>{{ block.settings.text | escape }}</span>
@@ -310,12 +317,14 @@
       "name": "t:sections.image-banner.blocks.heading.name",
       "limit": 1,
       "settings": [
+        
+
         {
-          "type": "text",
-          "id": "heading",
-          "default": "Image banner",
-          "label": "t:sections.image-banner.blocks.heading.settings.heading.label"
+          "type": "liquid",
+          "id": "custom_liquid",
+          "label": "t:sections.image-banner.blocks.heading.settings.heading.label"   
         },
+        
         {
           "type": "select",
           "id": "heading_size",
