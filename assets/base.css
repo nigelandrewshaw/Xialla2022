@@ -3033,8 +3033,8 @@ body.gradient {
 
 @media only screen and (min-width: 750px) { 
   .embed-container { 
-    padding-bottom: 56.25%;
-    /*padding-bottom: calc(var(--video--height) / var(--video--width) * 100%);*/
+    /*padding-bottom: 56.25%;*/
+    padding-bottom: calc(var(--video--height) / var(--video--width) * 100%);
   }
 
 }
