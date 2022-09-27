@@ -69,11 +69,18 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Bella_c361c46c-5915-4d5c-bb1a-12b7eb11faae.jpg"
       }
+    },
+    "166429060032797dfa": {
+      "type": "custom-image-section",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Black_couple_in_kitchen_49cc335f-9b07-4e17-947d-1c12bf48fbab.jpg"
+      }
     }
   },
   "order": [
     "main",
     "166423323155b295e6",
-    "166428983787857bf3"
+    "166428983787857bf3",
+    "166429060032797dfa"
   ]
 }
