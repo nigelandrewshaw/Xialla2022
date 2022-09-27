@@ -438,6 +438,9 @@
       },
       "alternative_payment_method_banner": {
         "or": "or continue below for credit card, Visa Debit, or gift card"
+      },
+      "general": {
+        "continue_to_shipping_method": "Continue to shipping and payment"
       }
     }
   },
