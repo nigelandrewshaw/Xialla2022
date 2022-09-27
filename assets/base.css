@@ -2993,7 +2993,9 @@ details-disclosure > details {
 .multicolumn-list h3 {
   text-transform: none !important;
 }
-
+body.gradient {
+  overflow-x: hidden;
+}
 /* Video Full Width */
 .embed-container {
   --video--width: 1296;
