@@ -428,7 +428,8 @@
   "shopify": {
     "checkout": {
       "contact": {
-        "province_label": "State\/Prov"
+        "province_label": "State\/Prov",
+        "province_placeholder": "State\/Prov"
       }
     }
   }
