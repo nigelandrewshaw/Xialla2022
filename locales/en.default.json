@@ -430,7 +430,15 @@
       "contact": {
         "province_label": "State\/Prov",
         "province_placeholder": "State\/Prov"
+      },
+      "shop_policies": {
+        "subscription_policy": " "
       }
+    }
+  },
+  "customer_accounts": {
+    "shop_policies": {
+      "subscription_policy": " "
     }
   }
 }
