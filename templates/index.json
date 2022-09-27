@@ -408,6 +408,7 @@
         "166405108351ee9c3f-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/heart_41ec18a3-f8bf-4679-9ff0-92ec03715ea3.png",
             "custom_liquid": "Safe",
             "text": "<p>Xialla is a safe, natural, comfortable, and drug-free treatment. <\/p>",
             "link_label": "",
@@ -417,6 +418,7 @@
         "166405108351ee9c3f-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/file-check-2_854eebb1-8acc-469f-a0a6-9fb9596277fe.png",
             "custom_liquid": "Effective",
             "text": "<p>A majority of men with ED see significant improvements.<\/p>",
             "link_label": "",
@@ -426,6 +428,7 @@
         "166405108351ee9c3f-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/shield-check_26176265-3086-4aec-8ee3-7833809ab68a.png",
             "custom_liquid": "Guranteed",
             "text": "<p>If it doesn't work for you, just request an instant refund within 60 days.<br\/><\/p>",
             "link_label": "",
