@@ -2986,3 +2986,8 @@ details-disclosure > details {
   --font-heading-family: "rufina", sans-serif !important;
 }
 
+/* Added By Zeian Shahzad */
+.banner__heading {
+  text-transform: none;
+}
+
