@@ -444,7 +444,8 @@
       },
       "order_summary": {
         "discount_title": "Coupon",
-        "discount_label": "Coupon code"
+        "discount_label": "Coupon code",
+        "discount_placeholder": "Coupon code"
       }
     }
   },
