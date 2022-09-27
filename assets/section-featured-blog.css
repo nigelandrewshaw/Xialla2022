@@ -59,10 +59,6 @@
   }
 }
 
-.blog__post.article h2 {
-  color: red;
-}
-
 .background-secondary .blog-placeholder__content {
   background-color: rgb(var(--color-background));
 }
