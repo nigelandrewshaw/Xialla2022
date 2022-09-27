@@ -14,7 +14,7 @@
         "16642028247eeca12a-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "CUSTOMER SUPPORT",
+            "custom_liquid": "Customer Support",
             "heading_size": "h0"
           }
         },
@@ -64,7 +64,7 @@
         "16642029020637dba4-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "CHECK <i>the<\/i> FAQ",
+            "custom_liquid": "Check the FAQ",
             "heading_size": "h1"
           }
         },
@@ -106,7 +106,7 @@
         "1664203190940326af-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "TRY <i>a<\/i> SEARCH",
+            "custom_liquid": "Try a search",
             "heading_size": "h1"
           }
         },
@@ -155,7 +155,7 @@
         "1664193341a8bbe3cd-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "STILL NEED HELP?",
+            "custom_liquid": "Still need help?",
             "heading_size": "h1"
           }
         },
@@ -199,7 +199,7 @@
         "1664194356a66d741c-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "RESPONSE TIME",
+            "custom_liquid": "Response Time",
             "heading_size": "h2"
           }
         },
@@ -241,7 +241,7 @@
         "166419448343f2c1c3-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "EXCHANGES",
+            "custom_liquid": "Exchanges",
             "heading_size": "h2"
           }
         },
@@ -283,7 +283,7 @@
         "166419458970607b5c-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "REFUNDS",
+            "custom_liquid": "Refunds",
             "heading_size": "h2"
           }
         },
@@ -325,7 +325,7 @@
         "16641946442b84cb88-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "WARRANTY",
+            "custom_liquid": "Warranty",
             "heading_size": "h2"
           }
         },
