@@ -144,20 +144,20 @@
         "16642413104ed0976f-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
+            "heading": "<p>How to Wear Xialla<\/p>",
             "heading_size": "h1"
           }
         },
         "16642413104ed0976f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Wearing Xialla is easy. In fact, you can position Xialla in moments for spontaneous intimacy.<\/p>"
           }
         },
         "16642413104ed0976f-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": "",
             "button_style_secondary": false,
             "button_label_2": "",
@@ -185,7 +185,7 @@
       "settings": {
         "custom_liquid": "<style>\n\n    .embed-container {\n      --video--width: 1296;\n      --video--height: 540;\n\n      position: relative;\n      padding-bottom: calc(var(--video--height) \/ var(--video--width) * 100%); \/* 41.66666667% *\/\n      overflow: hidden;\n      max-width: 100%;\n      background: white;\n      \n    }\n\n    .embed-container iframe,\n    .embed-container object,\n    .embed-container embed {\n      position: absolute;\n      top: 0;\n      left: 0;\n      width: 100%;\n      height: 100%;\n    }\n\n<\/style>\n\n<div class='embed-container'>\n  <iframe src='https:\/\/player.vimeo.com\/video\/754088898?autoplay=1&loop=1&background=1' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen><\/iframe>\n<\/div>",
         "color_scheme": "background-1",
-        "padding_top": 40,
+        "padding_top": 0,
         "padding_bottom": 52
       }
     },
