@@ -77,9 +77,17 @@
                 </div>
               {%- endif -%}
               <div class="multicolumn-card__info">
+          
+                {%- comment -%}
                 {%- if block.settings.title != blank -%}
                   <h3>{{ block.settings.title | escape }}</h3>
                 {%- endif -%}
+                {%- endcomment -%}
+
+                {%- if block.settings.custom_liquid != blank -%}
+                  <h3>{{ block.settings.custom_liquid }}</h3>
+                {%- endif -%}
+          
                 {%- if block.settings.text != blank -%}
                   <div class="rte">{{ block.settings.text }}</div>
                 {%- endif -%}
