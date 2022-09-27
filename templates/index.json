@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "GET BACK<i>&nbsp;to&nbsp;<\/i>AMAZING SEX",
+            "custom_liquid": "GET BACK<i>&nbsp;to&nbsp;<br\/><\/i>AMAZING SEX",
             "heading_size": "h0"
           }
         },
@@ -144,7 +144,7 @@
         "16642413104ed0976f-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>How to Wear Xialla<\/p>",
+            "heading": "<p>How &lt;br&gt; to WEar<\/p>",
             "heading_size": "h1"
           }
         },
