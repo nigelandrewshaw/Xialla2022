@@ -61,6 +61,18 @@
                 {% if section.settings.image_ratio == 'adapt' or section.settings.image_ratio == 'circle' %}
                   {% assign spaced_image = true %}
                 {% endif %}
+
+
+{% if section.settings.image_width == 'custom_image_size_width' %}
+              
+  {%- style -%}
+  #Slide-{{ section.id }}-{{ forloop.index }} .multicolumn-card__image-wrapper--{{ section.settings.image_width }}-width {
+    width: {{ block.settings.image.width}}px;
+  }
+  {%- endstyle -%}
+  
+{% endif %}  
+                
                 <div class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--{{ section.settings.image_width }}-width{% if section.settings.image_width != 'full' or spaced_image %} multicolumn-card-spacing{% endif %}">
                   <div class="media media--transparent media--{{ section.settings.image_ratio }}"
                     {% if section.settings.image_ratio == 'adapt' %}
@@ -73,13 +85,22 @@
                       widths: '275, 550, 710, 1420',
                       class: 'multicolumn-card__image'
                     }}
+
                   </div>
                 </div>
               {%- endif -%}
               <div class="multicolumn-card__info">
+          
+                {%- comment -%}
                 {%- if block.settings.title != blank -%}
                   <h3>{{ block.settings.title | escape }}</h3>
                 {%- endif -%}
+                {%- endcomment -%}
+
+                {%- if block.settings.custom_liquid != blank -%}
+                  <h3>{{ block.settings.custom_liquid }}</h3>
+                {%- endif -%}
+          
                 {%- if block.settings.text != blank -%}
                   <div class="rte">{{ block.settings.text }}</div>
                 {%- endif -%}
@@ -162,7 +183,13 @@
         {
           "value": "full",
           "label": "t:sections.multicolumn.settings.image_width.options__3.label"
+        },
+
+        {
+          "value": "custom_image_size_width",
+          "label": "Image Size"
         }
+        
       ],
       "default": "full",
       "label": "t:sections.multicolumn.settings.image_width.label"
@@ -332,12 +359,15 @@
           "id": "image",
           "label": "t:sections.multicolumn.blocks.column.settings.image.label"
         },
+        
+
         {
-          "type": "text",
-          "id": "title",
-          "default": "Column",
-          "label": "t:sections.multicolumn.blocks.column.settings.title.label"
+          "type": "liquid",
+          "id": "custom_liquid",
+          "label": "t:sections.multicolumn.blocks.column.settings.title.label"   
         },
+        
+        
         {
           "type": "richtext",
           "id": "text",

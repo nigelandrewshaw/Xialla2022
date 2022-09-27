@@ -14,7 +14,7 @@
         "1664072886ad4888a7-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>How can we help?<\/p>",
+            "custom_liquid": "HOW <i>can we<\/i> HELP?",
             "heading_size": "h0"
           }
         },

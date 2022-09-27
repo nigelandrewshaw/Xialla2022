@@ -183,8 +183,17 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "title": "Discreet packaging",
+            "custom_liquid": "<i>Discreet<\/i> PACKAGING",
             "text": "<p>Xialla is shipped to you in plain packaging for your privacy and comfort.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d0e0a42d-17dd-47cb-bc96-c1a5e8281f88": {
+          "type": "column",
+          "settings": {
+            "custom_liquid": "SAFE",
+            "text": "<p>Xialla is body safe, hypoallergenic, and FDA, Health Canada and CE compliant.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -192,8 +201,17 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "title": "Free shipping",
+            "custom_liquid": "<i>Free<\/i> SHIPPING",
             "text": "<p>Standard shipping is included in the purchase price—no extra fees! <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "edfd206a-c7c2-4a92-8a0b-66468c05d35e": {
+          "type": "column",
+          "settings": {
+            "custom_liquid": "CLINICALLY <i>tested<\/i>",
+            "text": "<p>Xialla has been proven effective in two physician-led clinical trials.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -201,7 +219,7 @@
         "09180e9b-cffc-424c-a118-0fa02dc154b8": {
           "type": "column",
           "settings": {
-            "title": "Free size changes",
+            "custom_liquid": "<i>Free<\/i> SIZE CHANGES",
             "text": "<p>Ordered the wrong size? We'll send you the right one for free.<\/p>",
             "link_label": "",
             "link": ""
@@ -210,26 +228,8 @@
         "f34f7bc5-3a09-4aa2-8fc3-2693081a7577": {
           "type": "column",
           "settings": {
-            "title": "Trusted",
+            "custom_liquid": "TRUSTED",
             "text": "<p>Xialla is the highest-rated ED treatment based on verified customer reviews.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "edfd206a-c7c2-4a92-8a0b-66468c05d35e": {
-          "type": "column",
-          "settings": {
-            "title": "Tested",
-            "text": "<p>Xialla has been proven effective in two physician-led clinical trials.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "d0e0a42d-17dd-47cb-bc96-c1a5e8281f88": {
-          "type": "column",
-          "settings": {
-            "title": "Safe",
-            "text": "<p>Xialla is body safe, hypoallergenic, and FDA, Health Canada and CE compliant.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -237,11 +237,11 @@
       },
       "block_order": [
         "column-0",
+        "d0e0a42d-17dd-47cb-bc96-c1a5e8281f88",
         "column-1",
-        "09180e9b-cffc-424c-a118-0fa02dc154b8",
-        "f34f7bc5-3a09-4aa2-8fc3-2693081a7577",
         "edfd206a-c7c2-4a92-8a0b-66468c05d35e",
-        "d0e0a42d-17dd-47cb-bc96-c1a5e8281f88"
+        "09180e9b-cffc-424c-a118-0fa02dc154b8",
+        "f34f7bc5-3a09-4aa2-8fc3-2693081a7577"
       ],
       "settings": {
         "title": "",
@@ -272,7 +272,7 @@
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "padding_top": 36,
         "padding_bottom": 28
       }

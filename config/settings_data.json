@@ -122,6 +122,12 @@
     "cart_type": "drawer",
     "show_vendor": false,
     "show_cart_note": false,
+    "checkout_logo_image": "shopify:\/\/shop_images\/Xialla_Logo_3b40c181-2b08-46e1-8cc5-fe462fe52391.png",
+    "checkout_logo_size": "small",
+    "checkout_sidebar_background_color": "#f6f4eb",
+    "checkout_accent_color": "#2c2824",
+    "checkout_button_color": "#ff6a39",
+    "checkout_error_color": "#ff6a39",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",

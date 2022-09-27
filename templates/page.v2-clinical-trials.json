@@ -14,7 +14,7 @@
         "16640705401541fb2d-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Clinical trials<\/p>",
+            "custom_liquid": "CLINICAL TRIALS",
             "heading_size": "h0"
           }
         },
@@ -100,7 +100,7 @@
         "16640709607651e7a8-0": {
           "type": "column",
           "settings": {
-            "title": "Clinical trial #1",
+            "custom_liquid": "Clinical trial #1",
             "text": "<p>Littlemore, A., Laing, L., & Bella, A. (2017). 109 Evaluation of a FDA and Health Canada Compliant Novel Medical Device for Improving Erectile Function Across Erectile Dysfunction Etiologies. The Journal of Sexual Medicine, 14(1). doi:10.1016\/j.jsxm.2016.11.062<\/p>",
             "link_label": "Download (.pdf)",
             "link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0248\/5918\/1149\/files\/Xialla_Clinical_Trial_1.pdf?v=1630330511"
@@ -109,7 +109,7 @@
         "16640709607651e7a8-1": {
           "type": "column",
           "settings": {
-            "title": "Clinical trial #2",
+            "custom_liquid": "Clinical trial #2",
             "text": "<p>Littlemore, A., Laing, L., & Bella, A. (2017). 106 Salvage of Post-Prostatectomy Injection Therapy (With and Without Venoseal for Cvod) Treatment Failures by Injection Therapy Coupled With Novel Silicone Loop Occlusion Device. The Journal of Sexual Medicine, 14(1). doi:10.1016\/j.jsxm.2016.11.059<\/p>",
             "link_label": "Download (.pdf)",
             "link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0248\/5918\/1149\/files\/Xialla_Clinical_Trial_2.pdf?v=1630330511"

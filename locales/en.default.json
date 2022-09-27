@@ -329,7 +329,7 @@
       "address2": "Address 2",
       "city": "City",
       "country": "Country\/region",
-      "province": "Province",
+      "province": "State\/Prov",
       "zip": "Postal\/ZIP code",
       "phone": "Phone",
       "set_default": "Set as default address",
@@ -423,6 +423,38 @@
       "expired": "Expired",
       "copy_code_success": "Code copied successfully",
       "print_gift_card": "Print"
+    }
+  },
+  "shopify": {
+    "checkout": {
+      "contact": {
+        "province_label": "State\/Prov",
+        "province_placeholder": "State\/Prov",
+        "postal_code_label": "Zip\/Postal",
+        "postal_code_placeholder": "Zip\/Postal"
+      },
+      "shop_policies": {
+        "subscription_policy": " "
+      },
+      "alternative_payment_method_banner": {
+        "or": "or continue below for credit card, Visa Debit, or gift card"
+      },
+      "general": {
+        "continue_to_shipping_method": "Continue to shipping and payment"
+      },
+      "order_summary": {
+        "discount_title": "Coupon",
+        "discount_label": "Coupon code",
+        "discount_placeholder": "Coupon code"
+      }
+    },
+    "addresses": {
+      "province": "State\/Prov"
+    }
+  },
+  "customer_accounts": {
+    "shop_policies": {
+      "subscription_policy": " "
     }
   }
 }

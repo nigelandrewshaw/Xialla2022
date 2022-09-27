@@ -14,7 +14,7 @@
         "16640713311cad5bdc-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Instructions<\/p>",
+            "custom_liquid": "INSTRUCTIONS",
             "heading_size": "h0"
           }
         },
