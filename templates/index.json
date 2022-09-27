@@ -235,6 +235,7 @@
         "24214662-3e0a-439d-a332-564e2ff4f4b4": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Xialla_Alone.png",
             "custom_liquid": "Just Xialla",
             "text": "<p>Xialla is designed for men of any age or medical profile who experience ED due to venous leak (excess blood outflow).<\/p>",
             "link_label": "",
@@ -244,6 +245,7 @@
         "16640487868d640e96-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Xialla_and_Medication_03a05069-a113-4049-80bd-99851502a721.png",
             "custom_liquid": "Xialla + Medication",
             "text": "<p>Your regularly prescribed ED medication increases blood inflow. Xialla helps you prevent blood outflow so that your erection stays stronger for longer.<\/p>",
             "link_label": "",
@@ -253,6 +255,7 @@
         "16640487868d640e96-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Xialla_and_Injections.png",
             "custom_liquid": "Xialla + Injections",
             "text": "<p>Xialla has been clinically tested to complement penile injection therapies. While injections primarily target blood inflow, Xialla targets blood outflow.<\/p>",
             "link_label": "",
@@ -262,6 +265,7 @@
         "febe484e-3404-4087-bbb7-9a236bf71696": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Xialla_and_Pumps.png",
             "custom_liquid": "Xialla + Pumps",
             "text": "<p>Use Xialla in place of the standard constriction rings used with vacuum pumps for dramatically better results.<\/p>",
             "link_label": "",
@@ -279,7 +283,7 @@
       "settings": {
         "title": "Compatible with Other Therapies",
         "heading_size": "h1",
-        "image_width": "full",
+        "image_width": "custom_image_size_width",
         "image_ratio": "adapt",
         "columns_desktop": 2,
         "column_alignment": "left",
