@@ -609,13 +609,13 @@
       }
     },
     "featured-blog": {
-      "name": "Blog posts",
+      "name": "Knowledge center posts",
       "settings": {
         "heading": {
           "label": "Heading"
         },
         "blog": {
-          "label": "Blog"
+          "label": "Knowledge center"
         },
         "post_limit": {
           "label": "Number of blog posts to show"
@@ -1331,7 +1331,7 @@
       "name": "Addresses"
     },
     "main-article": {
-      "name": "Blog post",
+      "name": "Knowledge center post",
       "blocks": {
         "featured_image": {
           "name": "Featured image",
@@ -1388,7 +1388,7 @@
       "name": "Blog posts",
       "settings": {
         "header": {
-          "content": "Blog post card"
+          "content": "Knowledge center post card"
         },
         "show_image": {
           "label": "Show featured image"
