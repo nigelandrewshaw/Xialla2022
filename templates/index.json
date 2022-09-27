@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Get Back to Amazing Sex",
+            "custom_liquid": "GET BACK<i>&nbsp;to&nbsp;<\/i>AMAZING SEX",
             "heading_size": "h0"
           }
         },
