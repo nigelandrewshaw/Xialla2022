@@ -55,6 +55,7 @@
           "type": "heading",
           "settings": {
             "heading": "<p>The #1 rated ED ring<\/p>",
+            "custom_liquid": "The #1 rated ED ring",
             "heading_size": "h1"
           }
         },
@@ -94,6 +95,7 @@
           "type": "heading",
           "settings": {
             "heading": "<p>Why is Xialla Better?<\/p>",
+            "custom_liquid": "Why is Xialla Better?",
             "heading_size": "h1"
           }
         },
@@ -145,6 +147,7 @@
           "type": "heading",
           "settings": {
             "heading": "<p>How &lt;br&gt; to WEar<\/p>",
+            "custom_liquid": "How <br> to WEar",
             "heading_size": "h1"
           }
         },
@@ -261,6 +264,7 @@
           "type": "heading",
           "settings": {
             "heading": "<p>Customer Reviews<\/p>",
+            "custom_liquid": "Customer Reviews",
             "heading_size": "h1"
           }
         },
