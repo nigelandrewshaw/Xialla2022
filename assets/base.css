@@ -2995,16 +2995,9 @@ details-disclosure > details {
 }
 
 /* Video Full Width */
-@media only screen and (max-width: 749px) { 
-  position: relative;
-  padding-bottom: 56.25%;
-  height: 0;
-}
-
 .embed-container {
   --video--width: 1296;
   --video--height: 540;
-  padding-bottom: 56.25%;
   position: relative;
   /*padding-bottom: calc(var(--video--height) / var(--video--width) * 100%);*/ 
   /* 41.66666667% */
@@ -3023,7 +3016,19 @@ details-disclosure > details {
   height: 100%;
 }
 
+/* Mobile */
 
+@media only screen and (max-width: 749px) { 
+  padding-bottom: 56.25%;
+  height: 0;
+}
+
+/* Desktop */
+
+@media only screen and (min-width: 750px) { 
+.embed-container { 
+  padding-bottom: 56.25%;
+}
 
 
 
