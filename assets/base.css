@@ -2987,7 +2987,9 @@ details-disclosure > details {
 }
 
 /* Added By Zeian Shahzad */
-.banner__heading {
+.banner__heading,
+.rich-text__heading,
+.multicolumn-list h3 {
   text-transform: none;
 }
 
