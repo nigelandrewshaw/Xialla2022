@@ -14,7 +14,7 @@
         "16640685015fca92f6-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>How Xialla works<\/p>",
+            "custom_liquid": "How Xialla works",
             "heading_size": "h0"
           }
         },
