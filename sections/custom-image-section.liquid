@@ -4,7 +4,15 @@
 
 <div id="image-section-{{ section.id }}" class="custom-image-section-cs">
   {%- if section.settings.image != blank -%}
-    
+    {{ section.settings.image | image_url: width: 1500 | image_tag:
+        loading: 'lazy',
+        width: section.settings.image.width,
+        height: image_height,
+        class: image_class,
+        sizes: sizes,
+        widths: '375, 550, 750, 1100, 1500, 1780, 2000, 3000, 3840',
+        alt: section.settings.image.alt | escape
+      }}
   {% endif %} 
 </div>
 
