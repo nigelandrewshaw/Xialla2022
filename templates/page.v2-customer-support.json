@@ -14,14 +14,14 @@
         "16642028247eeca12a-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Customer Support<\/p>",
+            "custom_liquid": "",
             "heading_size": "h0"
           }
         },
         "2728ce90-0d72-40fc-986d-389d11bb1bd0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>We're here to help<\/p>",
+            "custom_liquid": "",
             "heading_size": "h2"
           }
         },
@@ -64,14 +64,14 @@
         "16642029020637dba4-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Check the FAQ<\/p>",
+            "custom_liquid": "",
             "heading_size": "h1"
           }
         },
         "16642029020637dba4-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Get answers to most common questions.<\/p>"
+            "text": "<p>GET ANSWERS TO COMMON QUESTIONS<\/p>"
           }
         },
         "16642029020637dba4-2": {
@@ -106,7 +106,7 @@
         "1664203190940326af-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Try the search<\/p>",
+            "custom_liquid": "",
             "heading_size": "h1"
           }
         },
@@ -155,7 +155,7 @@
         "1664193341a8bbe3cd-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Still need help?<\/p>",
+            "custom_liquid": "",
             "heading_size": "h1"
           }
         },
@@ -199,7 +199,7 @@
         "1664194356a66d741c-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Response Time<\/p>",
+            "custom_liquid": "",
             "heading_size": "h2"
           }
         },
@@ -241,7 +241,7 @@
         "166419448343f2c1c3-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Size changes<\/p>",
+            "custom_liquid": "",
             "heading_size": "h2"
           }
         },
@@ -283,7 +283,7 @@
         "166419458970607b5c-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Refunds<\/p>",
+            "custom_liquid": "",
             "heading_size": "h2"
           }
         },
@@ -325,7 +325,7 @@
         "16641946442b84cb88-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Warranty<\/p>",
+            "custom_liquid": "",
             "heading_size": "h2"
           }
         },
