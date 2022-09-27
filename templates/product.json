@@ -193,7 +193,7 @@
         "d0e0a42d-17dd-47cb-bc96-c1a5e8281f88": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/leaf_a72e4110-020d-4723-974f-87e23023090f.png",
+            "image": "shopify:\/\/shop_images\/heart_41ec18a3-f8bf-4679-9ff0-92ec03715ea3.png",
             "custom_liquid": "Safe",
             "text": "<p>Xialla is body safe, hypoallergenic, and FDA, Health Canada and CE compliant.<\/p>",
             "link_label": "",
@@ -256,7 +256,7 @@
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "left",
-        "background_style": "none",
+        "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
