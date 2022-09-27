@@ -14,7 +14,7 @@
         "16642028247eeca12a-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "",
+            "custom_liquid": "CUSTOMER SUPPORT",
             "heading_size": "h0"
           }
         },
@@ -64,14 +64,14 @@
         "16642029020637dba4-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "",
+            "custom_liquid": "CHECK <i>the<\/i> FAQ",
             "heading_size": "h1"
           }
         },
         "16642029020637dba4-1": {
           "type": "text",
           "settings": {
-            "text": "<p>GET ANSWERS TO COMMON QUESTIONS<\/p>"
+            "text": "<p>Get answers to common questions.<\/p>"
           }
         },
         "16642029020637dba4-2": {
@@ -106,7 +106,7 @@
         "1664203190940326af-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "",
+            "custom_liquid": "TRY <i>a<\/i> SEARCH",
             "heading_size": "h1"
           }
         },
@@ -155,7 +155,7 @@
         "1664193341a8bbe3cd-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "",
+            "custom_liquid": "STILL NEED HELP?",
             "heading_size": "h1"
           }
         },
@@ -199,7 +199,7 @@
         "1664194356a66d741c-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "",
+            "custom_liquid": "RESPONSE TIME",
             "heading_size": "h2"
           }
         },
