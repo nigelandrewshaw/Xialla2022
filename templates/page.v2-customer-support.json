@@ -241,7 +241,7 @@
         "166419448343f2c1c3-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "",
+            "custom_liquid": "EXCHANGES",
             "heading_size": "h2"
           }
         },
@@ -283,7 +283,7 @@
         "166419458970607b5c-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "",
+            "custom_liquid": "REFUNDS",
             "heading_size": "h2"
           }
         },
@@ -325,7 +325,7 @@
         "16641946442b84cb88-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "",
+            "custom_liquid": "WARRANTY",
             "heading_size": "h2"
           }
         },
