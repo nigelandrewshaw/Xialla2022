@@ -165,7 +165,7 @@
         "column2": {
           "type": "column",
           "settings": {
-            "custom_liquid": "\"Brought us immense pleasure and happiness\"",
+            "custom_liquid": "\"It has brought me and my wife immense pleasure and happiness\"",
             "text": "<p>And the customer service left me extremely impressed.<\/p><p><strong>Charlie Flores<\/strong><\/p>",
             "link_label": "",
             "link": ""
