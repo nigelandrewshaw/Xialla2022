@@ -115,7 +115,7 @@
         "ff7df603-2098-4a02-ab96-4dbe32df1c77": {
           "type": "button",
           "settings": {
-            "button_label": "Read All Reviews",
+            "button_label": "",
             "button_link": "https:\/\/ca.trustpilot.com\/review\/xialla.com",
             "button_style_secondary": true,
             "button_label_2": "",
