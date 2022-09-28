@@ -141,6 +141,14 @@
         "padding_bottom": 44
       }
     },
+    "1664328183da5cbb42": {
+      "type": "custom-image-section",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/trustpilot-logo-p-500.png",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
@@ -403,6 +411,7 @@
     "rich_text",
     "166425116431cde5aa",
     "1664046577e327ab78",
+    "1664328183da5cbb42",
     "multicolumn",
     "1664040620aca5f6b8",
     "1664048786865ff34e",
