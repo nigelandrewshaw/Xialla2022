@@ -209,6 +209,14 @@
               "heading": "Account",
               "menu": "account"
             }
+          },
+          "e2490186-aa7f-4df9-9ce6-0ad41a06edb4": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Xialla_Logo_RGB_BeigeWhite.png",
+              "image_width": 100,
+              "alignment": ""
+            }
           }
         },
         "block_order": [
@@ -217,7 +225,8 @@
           "ae73e85d-893a-47db-b9bd-6f3a6d8fe234",
           "8f42e25f-4b9f-487f-b080-f1fd2176a6b5",
           "731f8259-9d36-4e3e-82f5-fef1d13179a3",
-          "358860d3-a186-4e6a-86a9-76c9caa18721"
+          "358860d3-a186-4e6a-86a9-76c9caa18721",
+          "e2490186-aa7f-4df9-9ce6-0ad41a06edb4"
         ],
         "settings": {
           "color_scheme": "accent-2",
