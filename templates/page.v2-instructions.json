@@ -38,15 +38,6 @@
         "padding_bottom": 52
       }
     },
-    "1664323553c5f7489b": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class='embed-container'>\n  <iframe src='https:\/\/player.vimeo.com\/video\/754088898?autoplay=1&loop=1&background=1' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen><\/iframe>\n<\/div>",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "16640719889edd9012": {
       "type": "image-with-text",
       "blocks": {
@@ -271,7 +262,6 @@
   "order": [
     "main",
     "1664071331efea8bf5",
-    "1664323553c5f7489b",
     "16640719889edd9012",
     "1664072002fd5eaf19",
     "16640720078b7f3174",
