@@ -219,14 +219,14 @@
       "settings": {
         "heading": "Learn about Xialla",
         "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/How_to_wear_Xialla_f2dba205-358f-4592-a088-b5dc143aeb9d.jpg",
+        "cover_image": "shopify:\/\/shop_images\/How_to_wear_Xialla.png",
         "video_url": "https:\/\/youtu.be\/9q2gKvWB9mE",
         "description": "How to Wear Xialla",
         "full_width": true,
         "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36,
-        "cover_image_2": "shopify:\/\/shop_images\/Why_Xialla_is_better_4f8fdc4c-7c96-4842-8130-499b2d2adbcb.jpg",
+        "cover_image_2": "shopify:\/\/shop_images\/Why_Xialla_is_better.png",
         "video_url_2": "https:\/\/youtu.be\/xwgF_MM7kJ0",
         "description_2": "Why Xialla is Better"
       }
