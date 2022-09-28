@@ -84,6 +84,14 @@
         "custom_liquid": "<div class='embed-container'>\n  <iframe src='https:\/\/player.vimeo.com\/video\/633942061?autoplay=1&loop=1&background=1' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen><\/iframe>\n<\/div>",
         "color_scheme": "background-1",
         "padding_top": 0,
+        "padding_bottom": 28
+      }
+    },
+    "1664328183da5cbb42": {
+      "type": "custom-image-section",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/trustpilot-logo-p-200.png",
+        "padding_top": 52,
         "padding_bottom": 0
       }
     },
@@ -137,14 +145,6 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 64,
-        "padding_bottom": 0
-      }
-    },
-    "1664328183da5cbb42": {
-      "type": "custom-image-section",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/trustpilot-logo-p-200.png",
         "padding_top": 0,
         "padding_bottom": 0
       }
@@ -410,8 +410,8 @@
     "image_banner",
     "rich_text",
     "166425116431cde5aa",
-    "1664046577e327ab78",
     "1664328183da5cbb42",
+    "1664046577e327ab78",
     "multicolumn",
     "1664040620aca5f6b8",
     "1664048786865ff34e",
