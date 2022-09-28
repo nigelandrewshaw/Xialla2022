@@ -172,7 +172,7 @@
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/Xialla_Logo_RGB_BeigeWhite.png",
-              "image_width": 100,
+              "image_width": 130,
               "alignment": ""
             }
           },
