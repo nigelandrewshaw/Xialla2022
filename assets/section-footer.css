@@ -1,7 +1,7 @@
 .footer {
   border-top: 0.1rem solid rgba(var(--color-foreground), 0.08);
   /* Xialla 2022-09-27 09:21:25 Add padding bottom to allow scrolling clear of the chat bubble. */ 
-  padding-bottom: 75px !important;
+  padding-bottom: 100px !important;
 }
 
 .footer:not(.color-background-1) {
