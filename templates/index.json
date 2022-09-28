@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "The #1 Rated ED Ring",
+            "custom_liquid": "The #1 Rated<br\/>ED Ring",
             "heading_size": "h0"
           }
         },
