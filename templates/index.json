@@ -91,6 +91,7 @@
       "type": "custom-image-section",
       "settings": {
         "image": "shopify:\/\/shop_images\/trustpilot-logo-p-200.png",
+        "image_mobile": "shopify:\/\/shop_images\/trustpilot-logo-p-200.png",
         "padding_top": 52,
         "padding_bottom": 0
       }
