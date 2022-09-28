@@ -214,6 +214,23 @@
         "padding_bottom": 36
       }
     },
+    "166437503538559b7f": {
+      "type": "custom-videos-section",
+      "settings": {
+        "heading": "Learn about Xialla",
+        "heading_size": "h1",
+        "cover_image": "shopify:\/\/shop_images\/How_to_wear_Xialla_f2dba205-358f-4592-a088-b5dc143aeb9d.jpg",
+        "video_url": "https:\/\/youtu.be\/9q2gKvWB9mE",
+        "description": "How to Wear Xialla",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "cover_image_2": "shopify:\/\/shop_images\/Why_Xialla_is_better_4f8fdc4c-7c96-4842-8130-499b2d2adbcb.jpg",
+        "video_url_2": "https:\/\/youtu.be\/xwgF_MM7kJ0",
+        "description_2": "Why Xialla is Better"
+      }
+    },
     "1664040620aca5f6b8": {
       "type": "video",
       "settings": {
@@ -414,6 +431,7 @@
     "1664328183da5cbb42",
     "1664046577e327ab78",
     "multicolumn",
+    "166437503538559b7f",
     "1664040620aca5f6b8",
     "1664048786865ff34e",
     "166405090125a601de",
