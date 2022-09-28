@@ -121,7 +121,7 @@
         "image": "shopify:\/\/shop_images\/Xialla_on_orange_almost_square_1.0x_9165a3f0-ddc8-456d-a499-74cc99dd45cc.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
