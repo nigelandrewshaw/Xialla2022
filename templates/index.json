@@ -87,6 +87,50 @@
         "padding_bottom": 28
       }
     },
+    "1664369588fbe0770e": {
+      "type": "image-with-text",
+      "blocks": {
+        "16643695881b551930-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "\"It has brought me and my wife immense pleasure and happiness.\"",
+            "heading_size": "h1"
+          }
+        },
+        "16643695881b551930-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Charlie Flores<\/p>",
+            "text_style": "body"
+          }
+        },
+        "16643695881b551930-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16643695881b551930-0",
+        "16643695881b551930-1",
+        "16643695881b551930-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Xialla_on_orange_wide_format_1.0x.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1664328183da5cbb42": {
       "type": "custom-image-section",
       "settings": {
@@ -411,6 +455,7 @@
     "image_banner",
     "rich_text",
     "166425116431cde5aa",
+    "1664369588fbe0770e",
     "1664328183da5cbb42",
     "1664046577e327ab78",
     "multicolumn",
