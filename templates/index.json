@@ -6,14 +6,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "Get back to Amazing Sex",
+            "custom_liquid": "The #1 Rated ED Ring",
             "heading_size": "h0"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "The only wearable device clinically proven to treat erectile dysfunction.",
+            "text": "",
             "text_style": "body"
           }
         },
@@ -54,7 +54,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "The #1 Rated ED Ring",
+            "custom_liquid": "Get Back to Amazing Sex",
             "heading_size": "h1"
           }
         },
