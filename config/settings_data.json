@@ -175,6 +175,13 @@
               "subtext": "<p>Our mission is to treat ED for most men, so they and their partners can get back to amazing sex.<\/p>"
             }
           },
+          "62ca2749-54a9-4d07-95c6-dfc11fe673b2": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Products",
+              "menu": "products"
+            }
+          },
           "ae73e85d-893a-47db-b9bd-6f3a6d8fe234": {
             "type": "link_list",
             "settings": {
@@ -202,22 +209,15 @@
               "heading": "Account",
               "menu": "account"
             }
-          },
-          "62ca2749-54a9-4d07-95c6-dfc11fe673b2": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Products",
-              "menu": "products"
-            }
           }
         },
         "block_order": [
           "footer-2",
+          "62ca2749-54a9-4d07-95c6-dfc11fe673b2",
           "ae73e85d-893a-47db-b9bd-6f3a6d8fe234",
           "8f42e25f-4b9f-487f-b080-f1fd2176a6b5",
           "731f8259-9d36-4e3e-82f5-fef1d13179a3",
-          "358860d3-a186-4e6a-86a9-76c9caa18721",
-          "62ca2749-54a9-4d07-95c6-dfc11fe673b2"
+          "358860d3-a186-4e6a-86a9-76c9caa18721"
         ],
         "settings": {
           "color_scheme": "accent-2",
