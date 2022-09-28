@@ -3002,7 +3002,7 @@ body.gradient {
   --video--width: 1296;
   --video--height: 540;
   position: relative;
-  /*padding-bottom: calc(var(--video--height) / var(--video--width) * 100%);*/ 
+  /* padding-bottom: calc(var(--video--height) / var(--video--width) * 100%);*/ 
   /* 41.66666667% */
   overflow: hidden;
   max-width: 100%;

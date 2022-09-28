@@ -189,7 +189,12 @@
     height: auto;
   }
 
-  
+  .banner:not(.banner--mobile-bottom):not(.email-signup-banner) .banner__box {
+    background: transparent;
+    --color-foreground: 255, 255, 255;
+    --color-button: 255, 255, 255;
+    --color-button-text: 0, 0, 0;
+  }
 
   .banner:not(.banner--mobile-bottom) .banner__box {
     border: none;
@@ -322,13 +327,11 @@
     box-shadow: none;
   }
 
-  
   .banner--desktop-transparent .button--secondary {
     --color-button: 255, 255, 255;
     --color-button-text: 255, 255, 255;
     --alpha-button-background: 0;
   }
-  
 
   .banner--desktop-transparent .content-container:after {
     display: none;
