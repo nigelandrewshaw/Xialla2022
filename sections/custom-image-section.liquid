@@ -1,9 +1,41 @@
 {%- style -%}
-  #image-section-{{ section.id }} img {
-    width: {{ section.settings.image.width}}px;
+  .custom-image-section-cs {
+    overflow-x: hidden;
   }
-{%- endstyle -%}
+  #image-section-{{ section.id }} .image-class,
+  #image-section-{{ section.id }} .image-class-mobile {
+    width: {{ section.settings.image.width}}px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
 
+
+  #shopify-section-{{ section.id }}  {
+    padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
+    padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
+  }
+
+  @media screen and (min-width: 750px) {
+    #shopify-section-{{ section.id }} {
+      padding-top: {{ section.settings.padding_top }}px;
+      padding-bottom: {{ section.settings.padding_bottom }}px;
+    }
+  }
+
+  @media screen and (max-width: 749px) { 
+    #image-section-{{ section.id }} .image-class {
+      display: none;
+    }
+  }
+
+  @media screen and (min-width: 750px) {
+    #image-section-{{ section.id }} .image-class-mobile {
+      display: none;
+    }
+  }
+  
+{%- endstyle -%}
 
 
 <div id="image-section-{{ section.id }}" class="custom-image-section-cs">
@@ -12,26 +44,67 @@
         loading: 'lazy',
         width: section.settings.image.width,
         height: image_height,
-        class: image_class,
+        class: 'image-class',
         sizes: sizes,
         widths: '375, 550, 750, 1100, 1500, 1780, 2000, 3000, 3840',
         alt: section.settings.image.alt | escape
       }}
   {% endif %} 
-</div>
 
+  {%- if section.settings.image_mobile != blank -%}
+    {{ section.settings.image_mobile | image_url: width: 1500 | image_tag:
+        loading: 'lazy',
+        width: section.settings.image_mobile.width,
+        height: image_height,
+        class: 'image-class-mobile',
+        sizes: sizes,
+        widths: '375, 550, 750, 1100, 1500, 1780, 2000, 3000, 3840',
+        alt: section.settings.image_mobile.alt | escape
+      }}
+  {% endif %} 
+ 
+</div>
 
 {% schema %}
   {
-    "name": "Custom Image Section",
+    "name": "Image Section",
     "tag": "section",
     "class": "section",
     "settings": [
       {
       "type": "image_picker",
       "id": "image",
-      "label": "Image"
-    }
+      "label": "Image for desktop"
+      },
+      
+      {
+      "type": "image_picker",
+      "id": "image_mobile",
+      "label": "image for mobile"
+      },
+      
+      {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_top",
+      "default": 0
+      },
+      
+      {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_bottom",
+      "default": 0
+      }
+      
     ],
     "presets": [
       {
@@ -41,8 +114,3 @@
   }
 {% endschema %}
 
-{% stylesheet %}
-{% endstylesheet %}
-
-{% javascript %}
-{% endjavascript %}
