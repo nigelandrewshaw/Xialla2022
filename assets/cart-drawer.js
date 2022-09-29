@@ -18,6 +18,7 @@ class CartDrawer extends HTMLElement {
         if ((typeof Shopify) === 'undefined') {
           var Shopify = {};
         }
+        var cart = Shopify.cart;
 
       event.preventDefault();
       this.open(cartLink)
@@ -25,7 +26,6 @@ class CartDrawer extends HTMLElement {
     cartLink.addEventListener('keydown', (event) => {
       if (event.code.toUpperCase() === 'SPACE') {
         event.preventDefault();
-        var cart = Shopify.cart;
         this.open(cartLink);
       }
     });
