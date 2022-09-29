@@ -140,6 +140,84 @@
         "padding_bottom": 36
       }
     },
+    "1664418306a32ea326": {
+      "type": "multicolumn",
+      "blocks": {
+        "1664418306b35347e3-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Moe_Abbas_1.png",
+            "custom_liquid": "",
+            "text": "<p>Moe is CEO and Co-Founder of Acadium, one of Ottawa’s fastest growing high tech companies with 100,000 active members.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1664418306b35347e3-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Daniel_Nahon.png",
+            "custom_liquid": "",
+            "text": "<p>Daniel is a highly accomplished Medical Device Business Development and Marketing Executive and Engineer with over 27 years of medical experience.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1664418306b35347e3-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Philippe_Mancini.png",
+            "custom_liquid": "",
+            "text": "<p>Philippe Mancini, MSc CPA, has 25 years of financial and business management experience. He is currently a senior business consultant at Inno-Centre Montreal. Previously he was a senior manager at both KPMG and E&Y.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1cc29808-0601-4561-8c46-94307507a787": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dane_Bedward.png",
+            "custom_liquid": "",
+            "text": "<p>Dane Bedward is CEO of NBot Inc., a global commercialization advisory group with experience in a number of biopharmaceutical and medical device product categories.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e18acb88-706f-4085-a86e-7f4dd46fa0ce": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rob_Eberschlag.png",
+            "custom_liquid": "",
+            "text": "<p>Rob is a partner at WeirFoulds LLP. WeirFoulds and has 30 years of experience in corporate finance, mergers and acquisitions.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664418306b35347e3-0",
+        "1664418306b35347e3-1",
+        "1664418306b35347e3-2",
+        "1cc29808-0601-4561-8c46-94307507a787",
+        "e18acb88-706f-4085-a86e-7f4dd46fa0ce"
+      ],
+      "settings": {
+        "title": "Advisory Board",
+        "heading_size": "h1",
+        "image_width": "custom_image_size_width",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1664417113f5e36280": {
       "type": "multicolumn",
       "blocks": {
@@ -195,84 +273,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "1664418306a32ea326": {
-      "type": "multicolumn",
-      "blocks": {
-        "1664418306b35347e3-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Moe_Abbas_1.png",
-            "custom_liquid": "",
-            "text": "<p>Moe is CEO and Co-Founder of Acadium, one of Ottawa’s fastest growing high tech companies with 100,000 active members.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "1664418306b35347e3-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Daniel_Nahon.png",
-            "custom_liquid": "",
-            "text": "<p>Daniel is a highly accomplished Medical Device Business Development and Marketing Executive and Engineer with over 27 years of medical experience.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "1664418306b35347e3-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Philippe_Mancini.png",
-            "custom_liquid": "",
-            "text": "<p>Philippe Mancini, MSc CPA, has 25 years of financial and business management experience. He is currently a senior business consultant at Inno-Centre Montreal. Previously he was a senior manager at both KPMG and E&Y.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "1cc29808-0601-4561-8c46-94307507a787": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Dane_Bedward.png",
-            "custom_liquid": "",
-            "text": "<p>Dane Bedward is CEO of NBot Inc., a global commercialization advisory group with experience in a number of biopharmaceutical and medical device product categories.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "e18acb88-706f-4085-a86e-7f4dd46fa0ce": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Rob_Eberschlag.png",
-            "custom_liquid": "",
-            "text": "<p>Rob is a partner at WeirFoulds LLP. WeirFoulds was voted number one regional law firm by peers and colleagues.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1664418306b35347e3-0",
-        "1664418306b35347e3-1",
-        "1664418306b35347e3-2",
-        "1cc29808-0601-4561-8c46-94307507a787",
-        "e18acb88-706f-4085-a86e-7f4dd46fa0ce"
-      ],
-      "settings": {
-        "title": "Multicolumn",
-        "heading_size": "h1",
-        "image_width": "custom_image_size_width",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -280,7 +280,7 @@
     "16644166066a7a17fc",
     "1664418396cda882e4",
     "16644175720f540a9f",
-    "1664417113f5e36280",
-    "1664418306a32ea326"
+    "1664418306a32ea326",
+    "1664417113f5e36280"
   ]
 }
