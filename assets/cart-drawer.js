@@ -12,14 +12,6 @@ class CartDrawer extends HTMLElement {
     cartLink.setAttribute('role', 'button');
     cartLink.setAttribute('aria-haspopup', 'dialog');
     cartLink.addEventListener('click', (event) => {
-
-
-        /* Xialla check cart */
-        if ((typeof Shopify) === 'undefined') {
-          var Shopify = {};
-        }
-        var cart = Shopify.cart;
-
       event.preventDefault();
       this.open(cartLink)
     });
