@@ -3034,4 +3034,7 @@ body.gradient {
 
 }
 
+.banner__buttons .button:after {
+  box-shadow: none;
+}
 
