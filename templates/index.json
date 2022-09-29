@@ -48,13 +48,22 @@
         "show_text_below": true
       }
     },
+    "166425116431cde5aa": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class='embed-container'>\n  <iframe src='https:\/\/player.vimeo.com\/video\/633942061?autoplay=1&loop=1&background=1' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen><\/iframe>\n<\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 100,
+        "padding_bottom": 0
+      }
+    },
     "rich_text": {
       "type": "rich-text",
       "blocks": {
         "heading": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "Get Back to<br>Amazing Sex",
+            "custom_liquid": "Get Back to Amazing Sex",
             "heading_size": "h1"
           }
         },
@@ -74,17 +83,8 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 80,
+        "padding_top": 24,
         "padding_bottom": 80
-      }
-    },
-    "166425116431cde5aa": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class='embed-container'>\n  <iframe src='https:\/\/player.vimeo.com\/video\/633942061?autoplay=1&loop=1&background=1' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen><\/iframe>\n<\/div>",
-        "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 28
       }
     },
     "16643859836004dd98": {
@@ -512,8 +512,8 @@
   },
   "order": [
     "image_banner",
-    "rich_text",
     "166425116431cde5aa",
+    "rich_text",
     "16643859836004dd98",
     "1664328183da5cbb42",
     "1664046577e327ab78",
