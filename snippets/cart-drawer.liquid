@@ -5,6 +5,13 @@
   {% render 'cart-drawer' %}{% endcomment %}
 
 
+<!-- Xialla Redirect to product page if cart is empty -->
+
+{% if cart.item_count == 0 %}
+  <script>
+    window.location.replace("/products/xialla");
+  </script>
+{% endif %}
 
 <script src="{{ 'cart.js' | asset_url }}" defer="defer"></script>
 
