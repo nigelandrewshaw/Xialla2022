@@ -153,26 +153,6 @@
             "link": ""
           }
         },
-        "1664418306b35347e3-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Daniel_Nahon.png",
-            "custom_liquid": "Daniel Nanon<br\/><span style=font-size:16px>Medical<\/span>",
-            "text": "<p>Daniel is a highly accomplished Medical Device Business Development and Marketing Executive and Engineer with over 27 years of medical experience.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "1664418306b35347e3-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Philippe_Mancini.png",
-            "custom_liquid": "Philippe Mancini<br\/><span style=font-size:16px>Finacial<\/span>",
-            "text": "<p>Philippe Mancini, MSc CPA, has 25 years of financial and business management experience. He is currently a senior business consultant at Inno-Centre Montreal. Previously he was a senior manager at both KPMG and E&Y.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "1cc29808-0601-4561-8c46-94307507a787": {
           "type": "column",
           "settings": {
@@ -192,14 +172,34 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "1664418306b35347e3-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Philippe_Mancini.png",
+            "custom_liquid": "Philippe Mancini<br\/><span style=font-size:16px>Finacial<\/span>",
+            "text": "<p>Philippe Mancini, MSc CPA, has 25 years of financial and business management experience. He is currently a senior business consultant at Inno-Centre Montreal. Previously he was a senior manager at both KPMG and E&Y.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1664418306b35347e3-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Daniel_Nahon.png",
+            "custom_liquid": "Daniel Nanon<br\/><span style=font-size:16px>Medical<\/span>",
+            "text": "<p>Daniel is a highly accomplished Medical Device Business Development and Marketing Executive and Engineer with over 27 years of medical experience.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "1664418306b35347e3-0",
-        "1664418306b35347e3-1",
-        "1664418306b35347e3-2",
         "1cc29808-0601-4561-8c46-94307507a787",
-        "e18acb88-706f-4085-a86e-7f4dd46fa0ce"
+        "e18acb88-706f-4085-a86e-7f4dd46fa0ce",
+        "1664418306b35347e3-2",
+        "1664418306b35347e3-1"
       ],
       "settings": {
         "title": "Advisory Board",
