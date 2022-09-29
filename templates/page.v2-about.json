@@ -8,51 +8,154 @@
         "padding_bottom": 28
       }
     },
-    "16644164915707a7d0": {
-      "type": "rich-text",
+    "16644166066a7a17fc": {
+      "type": "image-with-text",
       "blocks": {
-        "1664416491bef790a1-0": {
+        "166441660639de8c7e-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "About Us",
-            "heading_size": "h0"
+            "heading": "About Us",
+            "heading_size": "h1"
           }
         },
-        "1664416491bef790a1-1": {
+        "166441660639de8c7e-1": {
           "type": "text",
           "settings": {
-            "text": ""
+            "text": "<p>Xialla was founded in 2019 with a mission to solve erectile dysfunction for most men, so they and their partners can get back to amazing sex.<\/p>",
+            "text_style": "body"
           }
         },
-        "1664416491bef790a1-2": {
+        "166441660639de8c7e-2": {
           "type": "button",
           "settings": {
             "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "1664416491bef790a1-0",
-        "1664416491bef790a1-1",
-        "1664416491bef790a1-2"
+        "166441660639de8c7e-0",
+        "166441660639de8c7e-1",
+        "166441660639de8c7e-2"
       ],
       "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "left",
+        "image": "shopify:\/\/shop_images\/Nigel_With_Books_1200x1200_cb7e7ac0-8488-43d0-8170-c0c01a18a60e.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1664417113f5e36280": {
+      "type": "multicolumn",
+      "blocks": {
+        "16644171134b229aee-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/heart_41ec18a3-f8bf-4679-9ff0-92ec03715ea3.png",
+            "custom_liquid": "",
+            "text": "<p>You are the most important person to us.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16644171134b229aee-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/heart-handshake_1.png",
+            "custom_liquid": "",
+            "text": "<p>We will always take care of you.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16644171134b229aee-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/life-buoy.png",
+            "custom_liquid": "",
+            "text": "<p>We will alway be there to help you. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16644171134b229aee-0",
+        "16644171134b229aee-1",
+        "16644171134b229aee-2"
+      ],
+      "settings": {
+        "title": "Our promise",
+        "heading_size": "h1",
+        "image_width": "custom_image_size_width",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16644175720f540a9f": {
+      "type": "image-with-text",
+      "blocks": {
+        "1664417572ffbda1ba-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Social Responsibility",
+            "heading_size": "h1"
+          }
+        },
+        "1664417572ffbda1ba-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Xialla products are designed to generate a net positive effect on individuals, famlies, social circles and society as a whole. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "1664417572ffbda1ba-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664417572ffbda1ba-0",
+        "1664417572ffbda1ba-1",
+        "1664417572ffbda1ba-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
     "main",
-    "16644164915707a7d0"
+    "16644166066a7a17fc",
+    "1664417113f5e36280",
+    "16644175720f540a9f"
   ]
 }
