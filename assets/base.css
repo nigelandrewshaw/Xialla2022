@@ -3039,6 +3039,8 @@ body.gradient {
 .banner__buttons .button:not([disabled]):hover:after {
   box-shadow: rgb(0 0 0 / 0%) 0px 1px 4px, #ff6a39 0px 0px 0px 3px;
 }
-.product-form__submit {
+.product-form__submit,
+cart-remove-button .button {
   background-color: transparent;
 }
+ 
