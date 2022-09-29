@@ -1,3 +1,17 @@
+
+const cart = null;
+
+async function getCart() {
+  cart = await fetch("/cart.json");
+
+  if (result.status === 200) {
+      return result.json();
+  }
+
+  throw new Error(`Failed to get request, Shopify returned ${result.status} ${result.statusText}`);
+}
+
+
 class CartDrawer extends HTMLElement {
   constructor() {
     super();
@@ -7,13 +21,21 @@ class CartDrawer extends HTMLElement {
     this.setHeaderCartIconAccessibility();
   }
 
+
   setHeaderCartIconAccessibility() {
     const cartLink = document.querySelector('#cart-icon-bubble');
     cartLink.setAttribute('role', 'button');
     cartLink.setAttribute('aria-haspopup', 'dialog');
     cartLink.addEventListener('click', (event) => {
       event.preventDefault();
-      this.open(cartLink)
+      
+             /* Xialla 2022-09-29 03:01:00 Check to see if cart is empty and if so, shop instead  of opening */ 
+             if( cart ){
+              location.href = '/products/xialla';
+             }
+             else{
+              this.open(cartLink); 
+             };
     });
     cartLink.addEventListener('keydown', (event) => {
       if (event.code.toUpperCase() === 'SPACE') {
