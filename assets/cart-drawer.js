@@ -24,7 +24,7 @@ class CartDrawer extends HTMLElement {
           var Shopify = {};
         }
 
-        var cart = Shopify.cart; 
+        var cart = Shopify.cart;
 
         this.open(cartLink);
       }
