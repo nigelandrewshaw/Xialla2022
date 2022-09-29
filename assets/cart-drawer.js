@@ -13,23 +13,12 @@ class CartDrawer extends HTMLElement {
     cartLink.setAttribute('aria-haspopup', 'dialog');
     cartLink.addEventListener('click', (event) => {
       event.preventDefault();
-
-             /* Xialla 2022-09-29 03:01:00 Check to see if cart is empty and if so, shop instead  of opening */ 
-             if( '{% cart.item_count == 0 %}' ){
-              location.href = '/products/xialla';
-             }
-             else{
-              this.open(cartLink); 
-             };
-
-    
+      this.open(cartLink)
     });
     cartLink.addEventListener('keydown', (event) => {
       if (event.code.toUpperCase() === 'SPACE') {
         event.preventDefault();
-
-        
- 
+        this.open(cartLink);
       }
     });
   }
