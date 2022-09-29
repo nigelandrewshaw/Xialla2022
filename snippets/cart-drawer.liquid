@@ -4,6 +4,15 @@
   Usage:
   {% render 'cart-drawer' %}{% endcomment %}
 
+
+<!-- Xialla Redirect to product page if cart is empty -->
+
+{% if cart.item_count == 0 %}
+  <script>
+    window.location.replace("/products/xialla");
+  </script>
+{% endif %}
+
 <script src="{{ 'cart.js' | asset_url }}" defer="defer"></script>
 
 
@@ -42,9 +51,9 @@
           {%- if settings.cart_drawer_collection != blank -%}
             <div class="cart-drawer__collection">
               {% render 'card-collection',
-                    card_collection: settings.cart_drawer_collection,
-                    columns: 1
-                  %}
+                     card_collection: settings.cart_drawer_collection,
+                     columns: 1
+                   %}
             </div>
           {%- endif -%}
         </div>
