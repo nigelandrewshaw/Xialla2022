@@ -397,6 +397,7 @@
 
 .banner__heading {
   margin-bottom: 0;
+  line-height: 1.1em; 
 }
 
 .banner__box .banner__heading + * {
