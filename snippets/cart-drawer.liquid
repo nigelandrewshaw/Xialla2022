@@ -24,7 +24,7 @@
               </h2>
               <button class="drawer__close" type="button" onclick="this.closest('cart-drawer').close()" aria-label="{{ 'accessibility.close' | t }}">{% render 'icon-close' %}
               </button>
-              <a href="/collections/xialla-products" class="button">
+              <a href="/products/xialla" class="button">
                 {{ 'general.continue_shopping' | t }}
               </a>
 
@@ -40,9 +40,9 @@
           {%- if settings.cart_drawer_collection != blank -%}
             <div class="cart-drawer__collection">
               {% render 'card-collection',
-                 card_collection: settings.cart_drawer_collection,
-                 columns: 1
-               %}
+                  card_collection: settings.cart_drawer_collection,
+                  columns: 1
+                %}
             </div>
           {%- endif -%}
         </div>
@@ -352,6 +352,7 @@
     if (! isIE()) 
       return;
     
+
     const cartSubmitInput = document.createElement('input');
     cartSubmitInput.setAttribute('name', 'checkout');
     cartSubmitInput.setAttribute('type', 'hidden');
