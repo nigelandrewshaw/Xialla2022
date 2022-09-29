@@ -2,13 +2,57 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "16644164915707a7d0": {
+      "type": "rich-text",
+      "blocks": {
+        "1664416491bef790a1-0": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "About Us",
+            "heading_size": "h0"
+          }
+        },
+        "1664416491bef790a1-1": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "1664416491bef790a1-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1664416491bef790a1-0",
+        "1664416491bef790a1-1",
+        "1664416491bef790a1-2"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "16644164915707a7d0"
   ]
 }
