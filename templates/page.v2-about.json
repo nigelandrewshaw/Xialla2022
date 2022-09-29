@@ -147,7 +147,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Moe_Abbas_1.png",
-            "custom_liquid": "",
+            "custom_liquid": "Moe Abbas<br\/><span style=font-size:16px>Marketing<\/span>",
             "text": "<p>Moe is CEO and Co-Founder of Acadium, one of Ottawa’s fastest growing high tech companies with 100,000 active members.<\/p>",
             "link_label": "",
             "link": ""
@@ -157,7 +157,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Daniel_Nahon.png",
-            "custom_liquid": "",
+            "custom_liquid": "Daniel Nanon<br\/><span style=font-size:16px>Medical<\/span>",
             "text": "<p>Daniel is a highly accomplished Medical Device Business Development and Marketing Executive and Engineer with over 27 years of medical experience.<\/p>",
             "link_label": "",
             "link": ""
@@ -167,7 +167,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Philippe_Mancini.png",
-            "custom_liquid": "",
+            "custom_liquid": "Philippe Mancini<br\/><span style=font-size:16px>Finacial<\/span>",
             "text": "<p>Philippe Mancini, MSc CPA, has 25 years of financial and business management experience. He is currently a senior business consultant at Inno-Centre Montreal. Previously he was a senior manager at both KPMG and E&Y.<\/p>",
             "link_label": "",
             "link": ""
@@ -177,7 +177,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Dane_Bedward.png",
-            "custom_liquid": "",
+            "custom_liquid": "Dane Bedward<br\/><span style=font-size:16px>Medical<\/span>",
             "text": "<p>Dane Bedward is CEO of NBot Inc., a global commercialization advisory group with experience in a number of biopharmaceutical and medical device product categories.<\/p>",
             "link_label": "",
             "link": ""
@@ -187,7 +187,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Rob_Eberschlag.png",
-            "custom_liquid": "",
+            "custom_liquid": "Rob Eberschlag<br\/><span style=font-size:16px>Legal<\/span>",
             "text": "<p>Rob is a partner at WeirFoulds LLP. WeirFoulds and has 30 years of experience in corporate finance, mergers and acquisitions.<\/p>",
             "link_label": "",
             "link": ""
