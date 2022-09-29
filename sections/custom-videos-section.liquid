@@ -143,7 +143,7 @@
     <div class="zs-title-control  {% if section.settings.full_width %} page-width{% endif %}">
       {%- unless section.settings.heading == blank -%}
         <div class="title-wrapper title-wrapper--no-top-margin">
-          <h2 class="title {{ section.settings.heading_size }}"></h2>
+          <h2 class="title {{ section.settings.heading_size }}">{{ section.settings.heading }}</h2>
         </div>
       {%- endunless -%}
     </div>
