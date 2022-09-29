@@ -18,6 +18,14 @@ class CartDrawer extends HTMLElement {
     cartLink.addEventListener('keydown', (event) => {
       if (event.code.toUpperCase() === 'SPACE') {
         event.preventDefault();
+
+        /* Xialla check cart */
+        if ((typeof Shopify) === 'undefined') {
+          var Shopify = {};
+        }
+
+        var cart = Shopify.cart; 
+
         this.open(cartLink);
       }
     });
