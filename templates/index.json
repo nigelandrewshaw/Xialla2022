@@ -491,7 +491,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/shield-check_26176265-3086-4aec-8ee3-7833809ab68a.png",
-            "custom_liquid": "Guranteed",
+            "custom_liquid": "Guaranteed",
             "text": "<p>If it doesn't work for you, just request an instant refund within 60 days.<br\/><\/p>",
             "link_label": "",
             "link": ""
