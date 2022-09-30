@@ -3036,5 +3036,17 @@ body.gradient {
   }
 
 }
-
-
+.banner__buttons .button {
+  color: white;
+}
+.banner__buttons .button:after {
+  box-shadow: none;
+} 
+.banner__buttons .button:not([disabled]):hover:after {
+  box-shadow: rgb(0 0 0 / 0%) 0px 1px 4px, #ff6a39 0px 0px 0px 3px;
+}
+.product-form__submit,
+cart-remove-button .button {
+  background-color: transparent;
+}
+ 
