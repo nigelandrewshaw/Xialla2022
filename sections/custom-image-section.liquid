@@ -2,9 +2,22 @@
   .custom-image-section-cs {
     overflow-x: hidden;
   }
+
+  {% if section.settings.fifty_percent_width %}
+  #image-section-{{ section.id }} .image-class,
+  #image-section-{{ section.id }} .image-class-mobile {
+    width: {{ section.settings.image.width | divided_by: 2 | round: 0 }}px;
+  }
+  {% else %}    
   #image-section-{{ section.id }} .image-class,
   #image-section-{{ section.id }} .image-class-mobile {
     width: {{ section.settings.image.width}}px;
+  }
+  {% endif %}  
+
+  
+  #image-section-{{ section.id }} .image-class,
+  #image-section-{{ section.id }} .image-class-mobile {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -49,9 +62,6 @@
         widths: '375, 550, 750, 1100, 1500, 1780, 2000, 3000, 3840',
         alt: section.settings.image.alt | escape
       }}
-      {%- if section.settings.image != blank -%}
-        width = {{ section.settings.width }}
-      {% endif %}
   {% endif %} 
 
   {%- if section.settings.image_mobile != blank -%}
@@ -64,10 +74,7 @@
         widths: '375, 550, 750, 1100, 1500, 1780, 2000, 3000, 3840',
         alt: section.settings.image_mobile.alt | escape
       }}
-      {%- if section.settings.image != blank -%}
-        width = {{ section.settings.width }}
-      {% endif %}
-  {% endif %}
+  {% endif %} 
  
 </div>
 
@@ -109,20 +116,25 @@
       "unit": "px",
       "label": "t:sections.all.padding.padding_bottom",
       "default": 0
-      }
+      },
 
       {
-        "type": "number",
-        "id": "width",
-        "label": "Image width",
-        "default": 200
+      "type": "header",
+      "content": "Image Size Settings"
+      },
+
+      {
+      "type": "checkbox",
+      "id": "fifty_percent_width",
+      "default": false,
+      "label": "Image Size",
+      "info": "Image will be sized 50%"
       }
       
     ],
     "presets": [
       {
         "name": "Image Section"
-
       }
     ]
   }
