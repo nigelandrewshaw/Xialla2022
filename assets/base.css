@@ -3037,8 +3037,9 @@ body.gradient {
 
 }
 
-/*
+
 .banner__buttons .button {
+  background-color: #ff6a39;
   color: white;
 }
 .banner__buttons .button:after {
@@ -3052,4 +3053,3 @@ cart-remove-button .button {
   background-color: transparent;
 }
 
-*/
