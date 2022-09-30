@@ -49,6 +49,8 @@
         widths: '375, 550, 750, 1100, 1500, 1780, 2000, 3000, 3840',
         alt: section.settings.image.alt | escape
       }}
+      {%- if section.settings.width != blank -%}
+        width= {{ section.settings.width}}
   {% endif %} 
 
   {%- if section.settings.image_mobile != blank -%}
@@ -61,6 +63,8 @@
         widths: '375, 550, 750, 1100, 1500, 1780, 2000, 3000, 3840',
         alt: section.settings.image_mobile.alt | escape
       }}
+      {%- if section.settings.width != blank -%}
+        width= {{ section.settings.width}}
   {% endif %} 
  
 </div>
@@ -103,7 +107,15 @@
       "unit": "px",
       "label": "t:sections.all.padding.padding_bottom",
       "default": 0
+      },
+
+      {
+        "type": "number",
+        "id": "width",
+        "label": "Width",
+        "default": 200
       }
+      
       
     ],
     "presets": [
