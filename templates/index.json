@@ -48,22 +48,12 @@
         "show_text_below": true
       }
     },
-    "16645435810490c581": {
-      "type": "custom-image-section",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Nigel_and_Tony_573f9fb2-9fa5-4890-986a-1fa2c40a9371.png",
-        "image_mobile": "shopify:\/\/shop_images\/Nigel_and_Tony_573f9fb2-9fa5-4890-986a-1fa2c40a9371.png",
-        "padding_top": 60,
-        "padding_bottom": 24,
-        "fifty_percent_width": true
-      }
-    },
     "166425116431cde5aa": {
       "type": "custom-liquid",
       "settings": {
         "custom_liquid": "<div class='embed-container'>\n  <iframe src='https:\/\/player.vimeo.com\/video\/633942061?autoplay=1&loop=1&background=1' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen><\/iframe>\n<\/div>",
         "color_scheme": "background-1",
-        "padding_top": 48,
+        "padding_top": 100,
         "padding_bottom": 0
       }
     },
@@ -523,7 +513,6 @@
   },
   "order": [
     "image_banner",
-    "16645435810490c581",
     "166425116431cde5aa",
     "rich_text",
     "16643859836004dd98",
