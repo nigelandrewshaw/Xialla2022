@@ -161,8 +161,8 @@
           "enable_sticky_header": true,
           "mobile_logo_position": "center",
           "margin_bottom": 0,
-          "padding_top": 20,
-          "padding_bottom": 20
+          "padding_top": 8,
+          "padding_bottom": 4
         }
       },
       "footer": {
