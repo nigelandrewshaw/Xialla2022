@@ -3071,4 +3071,8 @@ cart-remove-button .button {
 .footer .zs-bform--success {
   display: none;
 }
-
+.footer .newsletter-form__message--success {
+  padding: 1.5rem;
+  border: 1px solid #fff;
+  margin: 0;
+}
