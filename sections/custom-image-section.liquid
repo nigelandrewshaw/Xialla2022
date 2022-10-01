@@ -4,14 +4,21 @@
   }
 
   {% if section.settings.fifty_percent_width %}
-  #image-section-{{ section.id }} .image-class,
-  #image-section-{{ section.id }} .image-class-mobile {
+  #image-section-{{ section.id }} .image-class
+  {
     width: {{ section.settings.image.width | divided_by: 2 | round: 0 }}px;
   }
-  {% else %}    
-  #image-section-{{ section.id }} .image-class,
+
   #image-section-{{ section.id }} .image-class-mobile {
+    width: {{ section.settings.image_mobile.width | divided_by: 2 | round: 0 }}px;
+  }
+  
+  {% else %}    
+  #image-section-{{ section.id }} .image-class {
     width: {{ section.settings.image.width}}px;
+  }
+  #image-section-{{ section.id }} .image-class-mobile {
+    width: {{ section.settings.image_mobile.width}}px;
   }
   {% endif %}  
 
