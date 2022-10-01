@@ -53,8 +53,8 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Nigel_and_Tony_1a461399-e705-4736-834b-af9c364c8e80.png",
         "image_mobile": "shopify:\/\/shop_images\/Nigel_and_Tony_d698be50-556c-485e-804b-db19e5972841.png",
-        "padding_top": 84,
-        "padding_bottom": 100,
+        "padding_top": 96,
+        "padding_bottom": 60,
         "fifty_percent_width": true
       }
     },
