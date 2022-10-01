@@ -631,13 +631,17 @@
 {%- endif -%}
 
 {% javascript %}
-  class StickyHeader extends HTMLElement {
+ class StickyHeader extends HTMLElement {
     constructor() {
       super();
     }
 
     connectedCallback() {
       this.header = document.getElementById('shopify-section-header');
+      
+      // Additional
+      this.header.classList.add('shopify-section-header-sticky');
+      
       this.headerBounds = {};
       this.currentScrollTop = 0;
       this.preventReveal = false;
@@ -671,6 +675,8 @@
 
       if (this.predictiveSearch && this.predictiveSearch.isOpen) return;
 
+      // Additional
+      /*
       if (scrollTop > this.currentScrollTop && scrollTop > this.headerBounds.bottom) {
         if (this.preventHide) return;
         requestAnimationFrame(this.hide.bind(this));
@@ -690,9 +696,11 @@
         requestAnimationFrame(this.reset.bind(this));
       }
 
+      */
       this.currentScrollTop = scrollTop;
     }
 
+    /*
     hide() {
       this.header.classList.add('shopify-section-header-hidden', 'shopify-section-header-sticky');
       this.closeMenuDisclosure();
@@ -708,6 +716,7 @@
       this.header.classList.remove('shopify-section-header-hidden', 'shopify-section-header-sticky', 'animate');
     }
 
+    */
     closeMenuDisclosure() {
       this.disclosures = this.disclosures || this.header.querySelectorAll('header-menu');
       this.disclosures.forEach(disclosure => disclosure.close());
@@ -720,6 +729,7 @@
   }
 
   customElements.define('sticky-header', StickyHeader);
+
 {% endjavascript %}
 
 <script type="application/ld+json">
