@@ -3068,4 +3068,7 @@ cart-remove-button .button {
   text-transform: uppercase;
 }
 
+.footer .zs-bform--success {
+  display: none;
+}
 
