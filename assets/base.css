@@ -3064,4 +3064,8 @@ cart-remove-button .button {
   margin-right: 15px
 }
 
+.shopify-payment-button__button{
+  text-transform: uppercase;
+}
+
 
