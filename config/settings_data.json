@@ -119,7 +119,7 @@
     "predictive_search_show_price": false,
     "favicon": "shopify:\/\/shop_images\/Tan_5d8c0d7d-71da-4eb7-8f24-059743e48c29.png",
     "currency_code_enabled": true,
-    "cart_type": "drawer",
+    "cart_type": "page",
     "show_vendor": false,
     "show_cart_note": false,
     "checkout_logo_image": "shopify:\/\/shop_images\/Xialla_Logo_3b40c181-2b08-46e1-8cc5-fe462fe52391.png",
