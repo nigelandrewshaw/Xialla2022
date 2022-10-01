@@ -51,8 +51,8 @@
     "16646301897acb8964": {
       "type": "custom-image-section",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Nigel_and_Tony_1a461399-e705-4736-834b-af9c364c8e80.png",
-        "image_mobile": "shopify:\/\/shop_images\/Nigel_and_Tony_cf90a14b-ceb5-4e1e-ae23-7b38b73065c8.png",
+        "image": "shopify:\/\/shop_images\/Nigel_and_Tony_cf90a14b-ceb5-4e1e-ae23-7b38b73065c8.png",
+        "image_mobile": "shopify:\/\/shop_images\/Nigel_and_Tony_Mobile.png",
         "padding_top": 96,
         "padding_bottom": 60,
         "fifty_percent_width": true
