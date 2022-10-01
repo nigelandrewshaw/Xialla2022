@@ -3053,7 +3053,7 @@ cart-remove-button .button {
   background-color: transparent;
 }
 
-.icon .icon-cart-empty
+.icon .icon-cart-empty, cls-4
 {
   text-decoration: none !important;
 }
