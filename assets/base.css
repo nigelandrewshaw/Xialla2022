@@ -3053,8 +3053,15 @@ cart-remove-button .button {
   background-color: transparent;
 }
 
-.icon .icon-cart-empty, .cls-4, .cls-3
+.icon-cart-empty
 {
-  text-decoration: none !important;
+  margin-right: 7px;
+  margin-left: -5px;
+  min-width: 50px;
 }
+
+.icon-search, .icon-account{
+  margin-right: 15px
+}
+
 
