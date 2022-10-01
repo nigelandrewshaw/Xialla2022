@@ -630,7 +630,7 @@
   {%- render 'cart-notification', color_scheme: section.settings.color_scheme -%}
 {%- endif -%}
 
-{% javascript %}
+<script>
  class StickyHeader extends HTMLElement {
     constructor() {
       super();
@@ -729,8 +729,8 @@
   }
 
   customElements.define('sticky-header', StickyHeader);
+</script>
 
-{% endjavascript %}
 
 <script type="application/ld+json">
   {
