@@ -129,9 +129,13 @@
             </div>
           {%- endif -%}
         </div>
+        {%- comment -%}
+        <span class="badge color-background-1">{{ 'blogs.article.blog' | t }}</span>
+        {%- endcomment -%}
+  
         {%- if show_badge -%}
           <div class="card__badge {{ settings.badge_position }}">
-            <span class="badge color-background-1">{{ 'blogs.article.blog' | t }}</span>
+            <span class="badge color-background-1">{{ 'Knowledge Ctr' }}</span>
           </div>
         {%- endif -%}  
       </div>
