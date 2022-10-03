@@ -446,6 +446,12 @@
         "discount_title": "Coupon",
         "discount_label": "Coupon code",
         "discount_placeholder": "Coupon code"
+      },
+      "customer_account": {
+        "sign_out_link_label": "Sign out"
+      },
+      "payment": {
+        "amazon_payments_logout": "Sign out from Amazon Pay"
       }
     },
     "addresses": {
@@ -455,6 +461,9 @@
   "customer_accounts": {
     "shop_policies": {
       "subscription_policy": " "
+    },
+    "navigation_and_structure": {
+      "log_out_link": "Sign out"
     }
   }
 }
