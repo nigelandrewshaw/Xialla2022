@@ -1,5 +1,47 @@
 {
   "sections": {
+    "1664757852ecb0f594": {
+      "type": "rich-text",
+      "blocks": {
+        "1664757852ede05a5f-0": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "Knowledge Center",
+            "heading_size": "h0"
+          }
+        },
+        "1664757852ede05a5f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Learn about erectile dysfunction causes and treatments. Get to know how Xialla works and get the facts to help you decide whether Xialla can help you with you unique ED challenges. <\/p>"
+          }
+        },
+        "1664757852ede05a5f-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1664757852ede05a5f-0",
+        "1664757852ede05a5f-1",
+        "1664757852ede05a5f-2"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-blog",
       "settings": {
@@ -14,6 +56,7 @@
     }
   },
   "order": [
+    "1664757852ecb0f594",
     "main"
   ]
 }
