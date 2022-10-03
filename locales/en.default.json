@@ -448,10 +448,18 @@
         "discount_placeholder": "Coupon code"
       },
       "customer_account": {
-        "sign_out_link_label": "Sign out"
+        "sign_out_link_label": "Sign out",
+        "sign_in_link_label": "Sign in"
       },
       "payment": {
-        "amazon_payments_logout": "Sign out from Amazon Pay"
+        "amazon_payments_logout": "Sign out from Amazon Pay",
+        "credit_card_vaulting_sign_in_banner_info": "Sign in or create an account to save your credit card for future purchases",
+        "credit_card_vaulting_sign_in_banner_button_label": "Sign in"
+      },
+      "thank_you": {
+        "login_title": "Sign in to view all order details",
+        "customer_information_hidden_fields_message": "Sign in to view all customer information",
+        "login": "Sign in"
       }
     },
     "addresses": {
@@ -464,6 +472,11 @@
     },
     "navigation_and_structure": {
       "log_out_link": "Sign out"
+    },
+    "errors": {
+      "no_access": {
+        "back_to_authentication_link": "Sign in to a different account"
+      }
     }
   }
 }
