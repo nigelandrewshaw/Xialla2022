@@ -487,7 +487,7 @@
                             name="{{ option.name }}"
                             value="{{ value | escape }}"
                             form="{{ product_form_id }}"
-                            {% if forloop.index == 2 %}
+                            {% if option.selected_value == value %}
                               checked
                             {% endif %}
                           >
@@ -523,7 +523,7 @@
                             {%- for value in option.values -%}
                               <option
                                 value="{{ value | escape }}"
-                                {% if forloop.index == 2 %}
+                                {% if option.selected_value == value %}
                                   selected="selected"
                                 {% endif %}
                               >
