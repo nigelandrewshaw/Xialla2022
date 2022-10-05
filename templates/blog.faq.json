@@ -76,17 +76,89 @@
             "link": "shopify:\/\/blogs\/faq\/what-size-should-i-order",
             "icon": "none"
           }
+        },
+        "5982b1ab-51bf-4712-a552-06b65cedc72f": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is the refund and exchange policy",
+            "link": "shopify:\/\/blogs\/faq\/what-is-the-refund-and-exchange-policy",
+            "icon": "none"
+          }
+        },
+        "351e8129-7524-4003-b85b-130f083a8948": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long does shipping take?",
+            "link": "shopify:\/\/blogs\/faq\/how-long-does-shipping-take",
+            "icon": "none"
+          }
+        },
+        "2a49311a-1ad4-4383-b662-93234b988346": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does Xialla work with ED medication?",
+            "link": "shopify:\/\/blogs\/faq\/does-xialla-work-with-ed-medication",
+            "icon": "none"
+          }
+        },
+        "5f57a5ed-40ce-4abd-b6ab-4199703b0e16": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does Xialla work with injections?",
+            "link": "shopify:\/\/blogs\/faq\/does-xialla-work-with-injections",
+            "icon": "none"
+          }
+        },
+        "0d0563dd-20f2-45e6-84de-29098a8d6541": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I've tried everything and nothing works. Can Xialla help me?",
+            "link": "shopify:\/\/blogs\/faq\/does-xialla-work-with-pumps",
+            "icon": "none"
+          }
+        },
+        "cae570c3-bae8-4624-bc2a-53905a13cbf7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is Xialla tested in clinical trials?",
+            "link": "",
+            "icon": "none"
+          }
+        },
+        "72e55520-31b8-407f-8705-9e5c1b8f1df8": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "link": "",
+            "icon": "none"
+          }
+        },
+        "0fe42a83-64df-410c-a728-0acfe08d954f": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "link": "",
+            "icon": "none"
+          }
         }
       },
       "block_order": [
         "template--15957959803042__26cc1023-207c-4337-aef9-187b0b1d4436-1665003588a6199726-0",
         "template--15957959803042__26cc1023-207c-4337-aef9-187b0b1d4436-1665003588a6199726-1",
         "template--15957959803042__26cc1023-207c-4337-aef9-187b0b1d4436-1665003588a6199726-2",
-        "template--15957959803042__26cc1023-207c-4337-aef9-187b0b1d4436-1665003588a6199726-3"
+        "template--15957959803042__26cc1023-207c-4337-aef9-187b0b1d4436-1665003588a6199726-3",
+        "5982b1ab-51bf-4712-a552-06b65cedc72f",
+        "351e8129-7524-4003-b85b-130f083a8948",
+        "2a49311a-1ad4-4383-b662-93234b988346",
+        "5f57a5ed-40ce-4abd-b6ab-4199703b0e16",
+        "0d0563dd-20f2-45e6-84de-29098a8d6541",
+        "cae570c3-bae8-4624-bc2a-53905a13cbf7",
+        "72e55520-31b8-407f-8705-9e5c1b8f1df8",
+        "0fe42a83-64df-410c-a728-0acfe08d954f"
       ],
       "settings": {
         "caption": "",
-        "heading": "",
+        "heading": "Top Questions",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
