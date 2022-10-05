@@ -16,57 +16,34 @@
   }
 {%- endstyle -%}
 
-<!-- Xialla 2022-10-05 09:46:30 Use custom layout for FAQ blog --> 
-  <!-- 
-  {%- if blog.title == "faq" -%}
-  
-    <h2>Top Questions</h2>
-      For article where article.tag included "top-questions"
-        {%- render 'faq-card', -%}
-      End for
-    <h2>Orders and Shipping</h2>
-      ...
-    <h2>How it Works</h2>
-      ...
-    <h2>Product</h2>
-      ...
-    <h2>Troubleshooting</h2>
-      ...
+{%- comment -%} 6 >> 50 {%- endcomment -%}
 
-  {%- else -%}
-    ... continue normal render below
-    
-  --> 
+{%- paginate blog.articles by 50 -%}
+  <div class="main-blog page-width section-{{ section.id }}-padding">
+    <!-- Xialla 2022-10-02 21:32:31 Hide default title. Replaced with custom title and description --> 
+    <!-- <h1 class="title--primary">{{ blog.title | escape }}</h1> --> 
 
-
-  {%- paginate blog.articles by 6 -%}
-    <div class="main-blog page-width section-{{ section.id }}-padding">
-      <!-- Xialla 2022-10-02 21:32:31 Hide default title. Replaced with custom title and description --> 
-      <!-- <h1 class="title--primary">{{ blog.title | escape }}</h1> --> 
-
-      <div class="blog-articles {% if section.settings.layout == 'collage' %}blog-articles--collage{% endif %}">
-        {%- for article in blog.articles -%}
-          <div class="blog-articles__article article">
-            {%- render 'article-card',
-              article: article,
-              media_height: section.settings.image_height,
-              media_aspect_ratio: article.image.aspect_ratio,
-              show_image: section.settings.show_image,
-              show_date: section.settings.show_date,
-              show_author: section.settings.show_author,
-              show_excerpt: true 
-            -%}
-          </div>
-        {%- endfor -%}
-      </div>
-
-      {%- if paginate.pages > 1 -%}
-        {%- render 'pagination', paginate: paginate -%}
-      {%- endif -%}
+    <div class="blog-articles {% if section.settings.layout == 'collage' %}blog-articles--collage{% endif %}">
+      {%- for article in blog.articles -%}
+        <div class="blog-articles__article article">
+          {%- render 'article-card',
+            article: article,
+            media_height: section.settings.image_height,
+            media_aspect_ratio: article.image.aspect_ratio,
+            show_image: section.settings.show_image,
+            show_date: section.settings.show_date,
+            show_author: section.settings.show_author,
+            show_excerpt: true 
+          -%}
+        </div>
+      {%- endfor -%}
     </div>
-  {%- endpaginate -%}
 
-
+    {%- if paginate.pages > 1 -%}
+      {%- render 'pagination', paginate: paginate -%}
+    {%- endif -%}
+  </div>
+{%- endpaginate -%}
 
 {% schema %}
 {
