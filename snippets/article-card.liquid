@@ -93,7 +93,12 @@
           {%- if show_badge -%}
             <div class="card__badge {{ settings.badge_position }}">
               <!-- Xialla 2022-10-05 08:25:43 show blog title --> 
-              <span class="badge color-background-1">{{ 'blogs.article.blog' | t }}</span>
+            
+              {% assign get_blog_name = article.handle   | split: '/' | first  %}
+              {% assign show_blog_name = get_blog_name  | replace: '-', ' '  %}
+            
+              <span class="badge color-background-1">{{ show_blog_name | capitalize  }}</span>
+
             </div>
           {%- endif -%}
         </div>
