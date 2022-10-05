@@ -96,7 +96,9 @@
     <a href="{{ blog.url }}" class="article-template__link link animate-arrow">
       <span class="icon-wrap">{% render 'icon-arrow' %}</span>
       {{ 'blogs.article.back_to_blog' | t: title: blog.title }}
+      
 
+       Back to  {{ blog.title }}
        {% comment %}{{ 'blogs.article.back_to_blog' | t: title: blog.title }} {% endcomment %}
     </a>
   </div>
