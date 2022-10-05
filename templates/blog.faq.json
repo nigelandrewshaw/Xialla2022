@@ -1,5 +1,18 @@
 {
   "sections": {
+    "main": {
+      "type": "main-blog",
+      "disabled": true,
+      "settings": {
+        "layout": "collage",
+        "show_image": false,
+        "image_height": "medium",
+        "show_date": false,
+        "show_author": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1664757852ecb0f594": {
       "type": "rich-text",
       "blocks": {
@@ -157,7 +170,7 @@
         "0fe42a83-64df-410c-a728-0acfe08d954f"
       ],
       "settings": {
-        "caption": "",
+        "caption": "Orders and Shipping",
         "heading": "Top Questions",
         "heading_size": "h1",
         "heading_alignment": "center",
@@ -171,23 +184,242 @@
         "padding_bottom": 36
       }
     },
-    "main": {
-      "type": "main-blog",
-      "disabled": true,
+    "3fae06ff-9fd2-420c-a0f5-59c819526b8a": {
+      "type": "blog-collapsible-content",
+      "blocks": {
+        "template--15957959803042__3fae06ff-9fd2-420c-a0f5-59c819526b8a-16650052608d3c441a-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "link": "",
+            "icon": "none"
+          }
+        },
+        "template--15957959803042__3fae06ff-9fd2-420c-a0f5-59c819526b8a-16650052608d3c441a-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "link": "",
+            "icon": "none"
+          }
+        },
+        "template--15957959803042__3fae06ff-9fd2-420c-a0f5-59c819526b8a-16650052608d3c441a-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "link": "",
+            "icon": "none"
+          }
+        },
+        "template--15957959803042__3fae06ff-9fd2-420c-a0f5-59c819526b8a-16650052608d3c441a-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "link": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "template--15957959803042__3fae06ff-9fd2-420c-a0f5-59c819526b8a-16650052608d3c441a-0",
+        "template--15957959803042__3fae06ff-9fd2-420c-a0f5-59c819526b8a-16650052608d3c441a-1",
+        "template--15957959803042__3fae06ff-9fd2-420c-a0f5-59c819526b8a-16650052608d3c441a-2",
+        "template--15957959803042__3fae06ff-9fd2-420c-a0f5-59c819526b8a-16650052608d3c441a-3"
+      ],
       "settings": {
-        "layout": "collage",
-        "show_image": false,
-        "image_height": "medium",
-        "show_date": false,
-        "show_author": false,
+        "caption": "",
+        "heading": "Collapsible content",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "f3c93608-391a-4cf9-974b-fbda5d43d345": {
+      "type": "blog-collapsible-content",
+      "blocks": {
+        "template--15957959803042__f3c93608-391a-4cf9-974b-fbda5d43d345-16650052608d3c441a-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "link": "",
+            "icon": "none"
+          }
+        },
+        "template--15957959803042__f3c93608-391a-4cf9-974b-fbda5d43d345-16650052608d3c441a-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "link": "",
+            "icon": "none"
+          }
+        },
+        "template--15957959803042__f3c93608-391a-4cf9-974b-fbda5d43d345-16650052608d3c441a-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "link": "",
+            "icon": "none"
+          }
+        },
+        "template--15957959803042__f3c93608-391a-4cf9-974b-fbda5d43d345-16650052608d3c441a-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "link": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "template--15957959803042__f3c93608-391a-4cf9-974b-fbda5d43d345-16650052608d3c441a-0",
+        "template--15957959803042__f3c93608-391a-4cf9-974b-fbda5d43d345-16650052608d3c441a-1",
+        "template--15957959803042__f3c93608-391a-4cf9-974b-fbda5d43d345-16650052608d3c441a-2",
+        "template--15957959803042__f3c93608-391a-4cf9-974b-fbda5d43d345-16650052608d3c441a-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Collapsible content",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b60594ad-1f79-4ba0-92fe-396394ecfa8d": {
+      "type": "blog-collapsible-content",
+      "blocks": {
+        "template--15957959803042__b60594ad-1f79-4ba0-92fe-396394ecfa8d-16650052608d3c441a-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "link": "",
+            "icon": "none"
+          }
+        },
+        "template--15957959803042__b60594ad-1f79-4ba0-92fe-396394ecfa8d-16650052608d3c441a-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "link": "",
+            "icon": "none"
+          }
+        },
+        "template--15957959803042__b60594ad-1f79-4ba0-92fe-396394ecfa8d-16650052608d3c441a-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "link": "",
+            "icon": "none"
+          }
+        },
+        "template--15957959803042__b60594ad-1f79-4ba0-92fe-396394ecfa8d-16650052608d3c441a-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "link": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "template--15957959803042__b60594ad-1f79-4ba0-92fe-396394ecfa8d-16650052608d3c441a-0",
+        "template--15957959803042__b60594ad-1f79-4ba0-92fe-396394ecfa8d-16650052608d3c441a-1",
+        "template--15957959803042__b60594ad-1f79-4ba0-92fe-396394ecfa8d-16650052608d3c441a-2",
+        "template--15957959803042__b60594ad-1f79-4ba0-92fe-396394ecfa8d-16650052608d3c441a-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Collapsible content",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "349a60ad-75a6-4685-bb64-1fb9d928c224": {
+      "type": "blog-collapsible-content",
+      "blocks": {
+        "template--15957959803042__349a60ad-75a6-4685-bb64-1fb9d928c224-16650052608d3c441a-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "link": "",
+            "icon": "none"
+          }
+        },
+        "template--15957959803042__349a60ad-75a6-4685-bb64-1fb9d928c224-16650052608d3c441a-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "link": "",
+            "icon": "none"
+          }
+        },
+        "template--15957959803042__349a60ad-75a6-4685-bb64-1fb9d928c224-16650052608d3c441a-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "link": "",
+            "icon": "none"
+          }
+        },
+        "template--15957959803042__349a60ad-75a6-4685-bb64-1fb9d928c224-16650052608d3c441a-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "link": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "template--15957959803042__349a60ad-75a6-4685-bb64-1fb9d928c224-16650052608d3c441a-0",
+        "template--15957959803042__349a60ad-75a6-4685-bb64-1fb9d928c224-16650052608d3c441a-1",
+        "template--15957959803042__349a60ad-75a6-4685-bb64-1fb9d928c224-16650052608d3c441a-2",
+        "template--15957959803042__349a60ad-75a6-4685-bb64-1fb9d928c224-16650052608d3c441a-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Collapsible content",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
       }
     }
   },
   "order": [
+    "main",
     "1664757852ecb0f594",
     "26cc1023-207c-4337-aef9-187b0b1d4436",
-    "main"
+    "3fae06ff-9fd2-420c-a0f5-59c819526b8a",
+    "f3c93608-391a-4cf9-974b-fbda5d43d345",
+    "b60594ad-1f79-4ba0-92fe-396394ecfa8d",
+    "349a60ad-75a6-4685-bb64-1fb9d928c224"
   ]
 }
