@@ -43,7 +43,7 @@
       }
     },
     "main": {
-      "type": "main-blog",
+      "type": "main-blog-faq",
       "settings": {
         "layout": "collage",
         "show_image": false,
