@@ -42,8 +42,66 @@
         "padding_bottom": 52
       }
     },
+    "26cc1023-207c-4337-aef9-187b0b1d4436": {
+      "type": "blog-collapsible-content",
+      "blocks": {
+        "template--15957959803042__26cc1023-207c-4337-aef9-187b0b1d4436-1665003588a6199726-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How much does Xialla cost?",
+            "link": "shopify:\/\/blogs\/faq\/how-much-does-xialla-cost",
+            "icon": "none"
+          }
+        },
+        "template--15957959803042__26cc1023-207c-4337-aef9-187b0b1d4436-1665003588a6199726-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is Xialla right for me?",
+            "link": "",
+            "icon": "none"
+          }
+        },
+        "template--15957959803042__26cc1023-207c-4337-aef9-187b0b1d4436-1665003588a6199726-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How effective is Xialla?",
+            "link": "",
+            "icon": "none"
+          }
+        },
+        "template--15957959803042__26cc1023-207c-4337-aef9-187b0b1d4436-1665003588a6199726-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What size should I order?",
+            "link": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "template--15957959803042__26cc1023-207c-4337-aef9-187b0b1d4436-1665003588a6199726-0",
+        "template--15957959803042__26cc1023-207c-4337-aef9-187b0b1d4436-1665003588a6199726-1",
+        "template--15957959803042__26cc1023-207c-4337-aef9-187b0b1d4436-1665003588a6199726-2",
+        "template--15957959803042__26cc1023-207c-4337-aef9-187b0b1d4436-1665003588a6199726-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "main": {
       "type": "main-blog",
+      "disabled": true,
       "settings": {
         "layout": "collage",
         "show_image": false,
@@ -57,6 +115,7 @@
   },
   "order": [
     "1664757852ecb0f594",
+    "26cc1023-207c-4337-aef9-187b0b1d4436",
     "main"
   ]
 }
