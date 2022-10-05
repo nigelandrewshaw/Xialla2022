@@ -13,15 +13,15 @@
         "1664757852ede05a5f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Find answers to common questions about Xialla such as how it works, how to wear, orders and shipping, warranty and troubleshooting.<\/p>"
+            "text": "<p>Find answers to common questions about Xialla such as how it works, how to wear, orders and shipping, warranty and troubleshooting. <\/p><p>If you can't find the answer, please contact us.<\/p>"
           }
         },
         "1664757852ede05a5f-2": {
           "type": "button",
           "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
+            "button_label": "CONTACT CUSTOMER SUPPORT",
+            "button_link": "shopify:\/\/pages\/customer-support",
+            "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -34,8 +34,8 @@
         "1664757852ede05a5f-2"
       ],
       "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "left",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
