@@ -445,7 +445,15 @@
         "template--15957959803042__b60594ad-1f79-4ba0-92fe-396394ecfa8d-16650052608d3c441a-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How often do I have to reorder the Xialla device?",
+            "heading": "Does Xialla come in other colours?",
+            "link": "shopify:\/\/blogs\/faq\/does-xialla-come-in-other-colours",
+            "icon": "none"
+          }
+        },
+        "38654cc0-2369-4de0-9c44-88fe664ff622": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do I need help putting on Xialla?",
             "link": "",
             "icon": "none"
           }
@@ -453,16 +461,8 @@
         "ac089aea-a53b-40f9-a544-297182b972bf": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "link": "",
-            "icon": "none"
-          }
-        },
-        "38654cc0-2369-4de0-9c44-88fe664ff622": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "link": "",
+            "heading": "How many times can Xialla be used and how long does it last?",
+            "link": "shopify:\/\/blogs\/faq\/how-many-times-can-xialla-be-used-and-how-long-does-it-last",
             "icon": "none"
           }
         }
@@ -472,8 +472,8 @@
         "template--15957959803042__b60594ad-1f79-4ba0-92fe-396394ecfa8d-16650052608d3c441a-1",
         "template--15957959803042__b60594ad-1f79-4ba0-92fe-396394ecfa8d-16650052608d3c441a-2",
         "template--15957959803042__b60594ad-1f79-4ba0-92fe-396394ecfa8d-16650052608d3c441a-3",
-        "ac089aea-a53b-40f9-a544-297182b972bf",
-        "38654cc0-2369-4de0-9c44-88fe664ff622"
+        "38654cc0-2369-4de0-9c44-88fe664ff622",
+        "ac089aea-a53b-40f9-a544-297182b972bf"
       ],
       "settings": {
         "caption": "",
