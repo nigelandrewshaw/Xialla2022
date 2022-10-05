@@ -230,40 +230,40 @@
         "176e512d-b604-41b3-b736-3f4a2dc344ce": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "link": "",
+            "heading": "Can my order be expedited?",
+            "link": "shopify:\/\/blogs\/faq\/can-my-order-be-expedited",
             "icon": "none"
           }
         },
         "a43bd3b9-f908-4140-b2e3-3c0be1e66ab1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "link": "",
+            "heading": "What is the refund and exchange policy?",
+            "link": "shopify:\/\/blogs\/faq\/what-is-the-refund-and-exchange-policy-1",
             "icon": "none"
           }
         },
         "a7ef9b0e-64f6-46a4-89c9-8b41c31fa3de": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "link": "",
+            "heading": "What payment methods are accepted?",
+            "link": "shopify:\/\/blogs\/faq\/what-payment-methods-are-accepted",
             "icon": "none"
           }
         },
         "48357290-1e1c-460f-ba6f-274b053404ee": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "link": "",
+            "heading": "How do I order adhesive pads? Are the adhesive pads multiple or one-time use?",
+            "link": "shopify:\/\/blogs\/faq\/how-do-i-order-adhesive-pads-are-the-adhesive-pads-multiple-or-one-time-use",
             "icon": "none"
           }
         },
         "af1cd2b3-d918-480d-b474-62aa017153a0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "link": "",
+            "heading": "Is Xialla covered under my health insurance policy?",
+            "link": "shopify:\/\/blogs\/faq\/is-xialla-covered-under-my-health-insurance-policy",
             "icon": "none"
           }
         }
@@ -301,23 +301,23 @@
         "template--15957959803042__f3c93608-391a-4cf9-974b-fbda5d43d345-16650052608d3c441a-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "link": "",
+            "heading": "What makes Xialla different?",
+            "link": "shopify:\/\/blogs\/faq\/what-makes-xialla-different",
             "icon": "none"
           }
         },
         "template--15957959803042__f3c93608-391a-4cf9-974b-fbda5d43d345-16650052608d3c441a-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "link": "",
+            "heading": "What’s the difference between Xialla and a “cock ring”?",
+            "link": "shopify:\/\/blogs\/faq\/what-s-the-difference-between-xialla-and-a-cock-ring",
             "icon": "none"
           }
         },
         "template--15957959803042__f3c93608-391a-4cf9-974b-fbda5d43d345-16650052608d3c441a-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Am I able to orgasm while wearing Xialla?",
             "link": "",
             "icon": "none"
           }
@@ -325,15 +325,15 @@
         "template--15957959803042__f3c93608-391a-4cf9-974b-fbda5d43d345-16650052608d3c441a-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "link": "",
+            "heading": "Will Xialla work for me after a prostatectomy?",
+            "link": "shopify:\/\/blogs\/faq\/will-xialla-work-for-me-after-a-prostatectomy",
             "icon": "none"
           }
         },
         "1cb24524-6e18-49fc-bdf0-b24a40a93ea1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Does it matter if I’m circumcised?",
             "link": "",
             "icon": "none"
           }
@@ -341,7 +341,7 @@
         "c86f3827-2325-4892-999b-02943ab616eb": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Do I need an erection to start?",
             "link": "",
             "icon": "none"
           }
@@ -349,7 +349,7 @@
         "4f1545df-5497-4e64-a6cb-ea3b159c0732": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Can I use a pump with Xialla?",
             "link": "",
             "icon": "none"
           }
@@ -357,7 +357,7 @@
         "95119abc-4953-4d0e-811f-8ba51c722c99": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "I have a penile implant. Can I still use Xialla?",
             "link": "",
             "icon": "none"
           }
@@ -365,15 +365,23 @@
         "9ae730c0-0a38-4ead-a3f2-53d4e0f10a5b": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "link": "",
+            "heading": "How does Xialla block blood outflow but not block blood inflow?",
+            "link": "shopify:\/\/blogs\/faq\/how-does-xialla-block-blood-outflow-but-not-block-blood-inflow",
             "icon": "none"
           }
         },
         "c81bc422-3c4e-4d5c-81df-aa46c05662eb": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "I can get an erection but it goes away. Can Xialla help?",
+            "link": "shopify:\/\/blogs\/faq\/i-can-get-an-erection-but-it-goes-away-can-xialla-help",
+            "icon": "none"
+          }
+        },
+        "d521fc81-b5af-4c29-8fee-1d57f04aae0b": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does Xialla work if you're diabetic or have high blood pressure or heart disease?",
             "link": "",
             "icon": "none"
           }
@@ -389,7 +397,8 @@
         "4f1545df-5497-4e64-a6cb-ea3b159c0732",
         "95119abc-4953-4d0e-811f-8ba51c722c99",
         "9ae730c0-0a38-4ead-a3f2-53d4e0f10a5b",
-        "c81bc422-3c4e-4d5c-81df-aa46c05662eb"
+        "c81bc422-3c4e-4d5c-81df-aa46c05662eb",
+        "d521fc81-b5af-4c29-8fee-1d57f04aae0b"
       ],
       "settings": {
         "caption": "",
@@ -412,15 +421,15 @@
         "template--15957959803042__b60594ad-1f79-4ba0-92fe-396394ecfa8d-16650052608d3c441a-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "link": "",
+            "heading": "Is Xialla visible when on?",
+            "link": "shopify:\/\/blogs\/faq\/is-xialla-visible-when-on",
             "icon": "none"
           }
         },
         "template--15957959803042__b60594ad-1f79-4ba0-92fe-396394ecfa8d-16650052608d3c441a-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "How long can I use Xialla for?",
             "link": "",
             "icon": "none"
           }
@@ -428,15 +437,15 @@
         "template--15957959803042__b60594ad-1f79-4ba0-92fe-396394ecfa8d-16650052608d3c441a-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "link": "",
+            "heading": "How do I clean Xialla?",
+            "link": "shopify:\/\/blogs\/faq\/how-do-i-clean-xialla",
             "icon": "none"
           }
         },
         "template--15957959803042__b60594ad-1f79-4ba0-92fe-396394ecfa8d-16650052608d3c441a-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "How often do I have to reorder the Xialla device?",
             "link": "",
             "icon": "none"
           }
