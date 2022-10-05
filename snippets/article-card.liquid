@@ -97,7 +97,7 @@
               {% assign get_blog_name = article.handle   | split: '/' | first  %}
               {% assign show_blog_name = get_blog_name  | replace: '-', ' '  %}
             
-              <span class="badge color-background-1">{{ show_blog_name | uppercase  }}</span>
+              <span class="badge color-background-1">{{ show_blog_name | upcase  }}</span>
 
             </div>
           {%- endif -%}
@@ -146,7 +146,7 @@
             {% assign get_blog_name = article.handle   | split: '/' | first  %}
             {% assign show_blog_name = get_blog_name  | replace: '-', ' '  %}
           
-            <span class="badge color-background-1">{{ show_blog_name | uppercase  }}</span>
+            <span class="badge color-background-1">{{ show_blog_name | upcase  }}</span>
           </div>
         {%- endif -%}  
       </div>
