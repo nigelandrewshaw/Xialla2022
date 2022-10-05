@@ -218,6 +218,13 @@
               "heading": "Account",
               "menu": "account"
             }
+          },
+          "4898ae7c-4b38-45f0-b9e5-d1b4063be330": {
+            "type": "link_list",
+            "settings": {
+              "heading": "(test)",
+              "menu": "test"
+            }
           }
         },
         "block_order": [
@@ -227,7 +234,8 @@
           "ae73e85d-893a-47db-b9bd-6f3a6d8fe234",
           "8f42e25f-4b9f-487f-b080-f1fd2176a6b5",
           "731f8259-9d36-4e3e-82f5-fef1d13179a3",
-          "358860d3-a186-4e6a-86a9-76c9caa18721"
+          "358860d3-a186-4e6a-86a9-76c9caa18721",
+          "4898ae7c-4b38-45f0-b9e5-d1b4063be330"
         ],
         "settings": {
           "color_scheme": "accent-2",
