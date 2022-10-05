@@ -16,9 +16,29 @@
   }
 {%- endstyle -%}
 
-{%- if blog.title == "faq" -%}
-  <div>TEST FAQ BLOG DISPLAY</div>
-{%- else -%}
+<!-- Xialla 2022-10-05 09:46:30 Use custom layout for FAQ blog --> 
+  <!-- 
+  {%- if blog.title == "faq" -%}
+  
+    <h2>Top Questions</h2>
+      For article where article.tag included "top-questions"
+        {%- render 'faq-card', -%}
+      End for
+    <h2>Orders and Shipping</h2>
+      ...
+    <h2>How it Works</h2>
+      ...
+    <h2>Product</h2>
+      ...
+    <h2>Troubleshooting</h2>
+      ...
+
+  {%- else -%}
+    ... continue normal render below
+    
+  --> 
+
+
   {%- paginate blog.articles by 6 -%}
     <div class="main-blog page-width section-{{ section.id }}-padding">
       <!-- Xialla 2022-10-02 21:32:31 Hide default title. Replaced with custom title and description --> 
@@ -45,7 +65,8 @@
       {%- endif -%}
     </div>
   {%- endpaginate -%}
-{%- endif -%}
+
+
 
 {% schema %}
 {
