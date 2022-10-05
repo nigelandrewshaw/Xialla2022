@@ -3077,3 +3077,6 @@ cart-remove-button .button {
   border: 1px solid #fff;
   margin: 0;
 }
+.template-search .facet-filters {
+  display: none;
+}
