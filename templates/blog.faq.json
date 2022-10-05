@@ -190,20 +190,44 @@
         "template--15957959803042__3fae06ff-9fd2-420c-a0f5-59c819526b8a-16650052608d3c441a-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "link": "",
+            "heading": "Where do you ship?",
+            "link": "shopify:\/\/blogs\/faq\/where-do-you-ship",
             "icon": "none"
           }
         },
         "template--15957959803042__3fae06ff-9fd2-420c-a0f5-59c819526b8a-16650052608d3c441a-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "link": "",
+            "heading": "How long does shipping take?",
+            "link": "shopify:\/\/blogs\/faq\/how-long-does-shipping-take-1",
             "icon": "none"
           }
         },
         "template--15957959803042__3fae06ff-9fd2-420c-a0f5-59c819526b8a-16650052608d3c441a-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is Xialla packaged discreetly?",
+            "link": "shopify:\/\/blogs\/faq\/is-xialla-packaged-discreetly",
+            "icon": "none"
+          }
+        },
+        "template--15957959803042__3fae06ff-9fd2-420c-a0f5-59c819526b8a-16650052608d3c441a-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is my payment information secure?",
+            "link": "shopify:\/\/blogs\/faq\/is-my-payment-information-secure",
+            "icon": "none"
+          }
+        },
+        "c27ff7e6-287b-45a3-ae9d-2a2e8b785265": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Where is my order?",
+            "link": "shopify:\/\/blogs\/knowledge-center\/venous-leak-and-ed-explained",
+            "icon": "none"
+          }
+        },
+        "176e512d-b604-41b3-b736-3f4a2dc344ce": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Collapsible row",
@@ -211,7 +235,31 @@
             "icon": "none"
           }
         },
-        "template--15957959803042__3fae06ff-9fd2-420c-a0f5-59c819526b8a-16650052608d3c441a-3": {
+        "a43bd3b9-f908-4140-b2e3-3c0be1e66ab1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "link": "",
+            "icon": "none"
+          }
+        },
+        "a7ef9b0e-64f6-46a4-89c9-8b41c31fa3de": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "link": "",
+            "icon": "none"
+          }
+        },
+        "48357290-1e1c-460f-ba6f-274b053404ee": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "link": "",
+            "icon": "none"
+          }
+        },
+        "af1cd2b3-d918-480d-b474-62aa017153a0": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Collapsible row",
@@ -224,11 +272,17 @@
         "template--15957959803042__3fae06ff-9fd2-420c-a0f5-59c819526b8a-16650052608d3c441a-0",
         "template--15957959803042__3fae06ff-9fd2-420c-a0f5-59c819526b8a-16650052608d3c441a-1",
         "template--15957959803042__3fae06ff-9fd2-420c-a0f5-59c819526b8a-16650052608d3c441a-2",
-        "template--15957959803042__3fae06ff-9fd2-420c-a0f5-59c819526b8a-16650052608d3c441a-3"
+        "template--15957959803042__3fae06ff-9fd2-420c-a0f5-59c819526b8a-16650052608d3c441a-3",
+        "c27ff7e6-287b-45a3-ae9d-2a2e8b785265",
+        "176e512d-b604-41b3-b736-3f4a2dc344ce",
+        "a43bd3b9-f908-4140-b2e3-3c0be1e66ab1",
+        "a7ef9b0e-64f6-46a4-89c9-8b41c31fa3de",
+        "48357290-1e1c-460f-ba6f-274b053404ee",
+        "af1cd2b3-d918-480d-b474-62aa017153a0"
       ],
       "settings": {
         "caption": "",
-        "heading": "Collapsible content",
+        "heading": "Orders and Shipping",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
@@ -275,17 +329,71 @@
             "link": "",
             "icon": "none"
           }
+        },
+        "1cb24524-6e18-49fc-bdf0-b24a40a93ea1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "link": "",
+            "icon": "none"
+          }
+        },
+        "c86f3827-2325-4892-999b-02943ab616eb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "link": "",
+            "icon": "none"
+          }
+        },
+        "4f1545df-5497-4e64-a6cb-ea3b159c0732": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "link": "",
+            "icon": "none"
+          }
+        },
+        "95119abc-4953-4d0e-811f-8ba51c722c99": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "link": "",
+            "icon": "none"
+          }
+        },
+        "9ae730c0-0a38-4ead-a3f2-53d4e0f10a5b": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "link": "",
+            "icon": "none"
+          }
+        },
+        "c81bc422-3c4e-4d5c-81df-aa46c05662eb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "link": "",
+            "icon": "none"
+          }
         }
       },
       "block_order": [
         "template--15957959803042__f3c93608-391a-4cf9-974b-fbda5d43d345-16650052608d3c441a-0",
         "template--15957959803042__f3c93608-391a-4cf9-974b-fbda5d43d345-16650052608d3c441a-1",
         "template--15957959803042__f3c93608-391a-4cf9-974b-fbda5d43d345-16650052608d3c441a-2",
-        "template--15957959803042__f3c93608-391a-4cf9-974b-fbda5d43d345-16650052608d3c441a-3"
+        "template--15957959803042__f3c93608-391a-4cf9-974b-fbda5d43d345-16650052608d3c441a-3",
+        "1cb24524-6e18-49fc-bdf0-b24a40a93ea1",
+        "c86f3827-2325-4892-999b-02943ab616eb",
+        "4f1545df-5497-4e64-a6cb-ea3b159c0732",
+        "95119abc-4953-4d0e-811f-8ba51c722c99",
+        "9ae730c0-0a38-4ead-a3f2-53d4e0f10a5b",
+        "c81bc422-3c4e-4d5c-81df-aa46c05662eb"
       ],
       "settings": {
         "caption": "",
-        "heading": "Collapsible content",
+        "heading": "How it Works",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
@@ -332,17 +440,35 @@
             "link": "",
             "icon": "none"
           }
+        },
+        "ac089aea-a53b-40f9-a544-297182b972bf": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "link": "",
+            "icon": "none"
+          }
+        },
+        "38654cc0-2369-4de0-9c44-88fe664ff622": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "link": "",
+            "icon": "none"
+          }
         }
       },
       "block_order": [
         "template--15957959803042__b60594ad-1f79-4ba0-92fe-396394ecfa8d-16650052608d3c441a-0",
         "template--15957959803042__b60594ad-1f79-4ba0-92fe-396394ecfa8d-16650052608d3c441a-1",
         "template--15957959803042__b60594ad-1f79-4ba0-92fe-396394ecfa8d-16650052608d3c441a-2",
-        "template--15957959803042__b60594ad-1f79-4ba0-92fe-396394ecfa8d-16650052608d3c441a-3"
+        "template--15957959803042__b60594ad-1f79-4ba0-92fe-396394ecfa8d-16650052608d3c441a-3",
+        "ac089aea-a53b-40f9-a544-297182b972bf",
+        "38654cc0-2369-4de0-9c44-88fe664ff622"
       ],
       "settings": {
         "caption": "",
-        "heading": "Collapsible content",
+        "heading": "Product",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
@@ -399,7 +525,7 @@
       ],
       "settings": {
         "caption": "",
-        "heading": "Collapsible content",
+        "heading": "Troubleshooting",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
