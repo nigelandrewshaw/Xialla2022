@@ -73,18 +73,10 @@
   margin-top: 1rem;
 }
 
-/* Xialla this is the original */
-/*
 @media screen and (min-width: 750px) {
   .collapsible-content .accordion {
     margin-top: 0;
   }
-}
-*/
-
-/* This is the repalcement */ 
-.collapsible-content .accordion {
-  margin-top: 0;
 }
 
 .collapsible-row-layout .accordion {
