@@ -36,7 +36,7 @@
           <header class="page-width page-width--narrow" {{ block.shopify_attributes }}>
             <h1 class="article-template__title" itemprop="headline">{{ article.title | escape }}</h1>
             {%- if block.settings.blog_show_date -%}
-              Last updated: <span class="circle-divider caption-with-letter-spacing" itemprop="dateCreated pubdate datePublished">{{ article.published_at | time_tag: format: 'date' }}</span>
+              <span class="circle-divider caption-with-letter-spacing" itemprop="dateCreated pubdate datePublished">Last updated: {{ article.published_at | time_tag: format: 'date' }}</span>
             {%- endif -%}
             {%- if block.settings.blog_show_author -%}
               <span class="caption-with-letter-spacing" itemprop="author" itemscope itemtype="http://schema.org/Person">
