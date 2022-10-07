@@ -58,48 +58,6 @@
         "padding_bottom": 20
       }
     },
-    "1664202902b981e9b5": {
-      "type": "rich-text",
-      "blocks": {
-        "16642029020637dba4-0": {
-          "type": "heading",
-          "settings": {
-            "custom_liquid": "Check the FAQ",
-            "heading_size": "h1"
-          }
-        },
-        "16642029020637dba4-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Get answers to common questions.<\/p>"
-          }
-        },
-        "16642029020637dba4-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "FAQ",
-            "button_link": "shopify:\/\/blogs\/faq",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": true
-          }
-        }
-      },
-      "block_order": [
-        "16642029020637dba4-0",
-        "16642029020637dba4-1",
-        "16642029020637dba4-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "16642031908360cdbc": {
       "type": "rich-text",
       "blocks": {
@@ -145,8 +103,50 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "1664202902b981e9b5": {
+      "type": "rich-text",
+      "blocks": {
+        "16642029020637dba4-0": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "Check the FAQ",
+            "heading_size": "h1"
+          }
+        },
+        "16642029020637dba4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Get answers to common questions.<\/p>"
+          }
+        },
+        "16642029020637dba4-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "FAQ",
+            "button_link": "shopify:\/\/blogs\/faq",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "16642029020637dba4-0",
+        "16642029020637dba4-1",
+        "16642029020637dba4-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 24
       }
     },
     "1664193341ab068420": {
@@ -189,8 +189,8 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 24,
+        "padding_bottom": 24
       }
     },
     "166419435633e85953": {
@@ -231,8 +231,8 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 24,
+        "padding_bottom": 24
       }
     },
     "16641944830d0831df": {
@@ -273,8 +273,8 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 24,
+        "padding_bottom": 24
       }
     },
     "166419458965c84720": {
@@ -315,8 +315,8 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 24,
+        "padding_bottom": 24
       }
     },
     "166419464516b7482c": {
@@ -365,8 +365,8 @@
   "order": [
     "main",
     "1664202824be897408",
-    "1664202902b981e9b5",
     "16642031908360cdbc",
+    "1664202902b981e9b5",
     "1664193341ab068420",
     "166419435633e85953",
     "16641944830d0831df",
