@@ -50,7 +50,7 @@
           "type": "button",
           "settings": {
             "button_label": "CONTACT CUSTOMER SUPPORT",
-            "button_link": "shopify:\/\/pages\/customer-support",
+            "button_link": "\/pages\/customer-support#shopify-section-template--15926248636578__9640ba25-c4de-4c2a-95bc-e141abce6439",
             "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
