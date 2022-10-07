@@ -92,7 +92,8 @@
   margin-bottom: 3rem;
 }
 
-/* Xialla 2022-10-07 13:21:02 Adjust heading spacing on blogs */
+/* Xialla 2022-10-07 13:21:02 Adjust spacing on blogs */
+
 .article-template__content h2{
   margin-top: 50px;
   margin-bottom: 0px;
@@ -107,10 +108,21 @@
   margin-bottom: -10px;
   margin-top: 20px;
   font-size: 1.6rem;
+}
 
+.article-template__content figcaption{
+  margin-bottom: 50px;
+  margin-top: 5px;
+  font-size: 1.4rem;
+  max-width: 400px;
+}
+
+.article-template__content img{
+  margin-top: 30px;
 }
 
 /* Xialla End */ 
+
 
 .article-template__social-sharing {
   margin-top: 3rem;
