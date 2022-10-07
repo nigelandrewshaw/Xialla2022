@@ -78,7 +78,7 @@
           "type": "button",
           "settings": {
             "button_label": "FAQ",
-            "button_link": "shopify:\/\/pages\/help",
+            "button_link": "shopify:\/\/blogs\/faq",
             "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
