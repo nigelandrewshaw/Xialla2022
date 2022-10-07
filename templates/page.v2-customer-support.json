@@ -149,16 +149,6 @@
         "padding_bottom": 52
       }
     },
-    "9640ba25-c4de-4c2a-95bc-e141abce6439": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "",
-        "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "section_visibility": "visible"
-      }
-    },
     "1664193341ab068420": {
       "type": "rich-text",
       "blocks": {
@@ -377,7 +367,6 @@
     "1664202824be897408",
     "1664202902b981e9b5",
     "16642031908360cdbc",
-    "9640ba25-c4de-4c2a-95bc-e141abce6439",
     "1664193341ab068420",
     "166419435633e85953",
     "16641944830d0831df",
