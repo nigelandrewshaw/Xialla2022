@@ -92,6 +92,17 @@
   margin-bottom: 3rem;
 }
 
+/* Xialla 2022-10-07 13:21:02 Adjust heading spacing on blogs */
+.article-template__content h2{
+  margin-top: 50px;
+  margin-bottom: 0px;
+}
+
+.article-template__content h3{
+  margin-bottom: -10px;
+}
+/* Xialla End */ 
+
 .article-template__social-sharing {
   margin-top: 3rem;
 }
