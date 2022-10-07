@@ -951,6 +951,10 @@ var get_url = window.location.href;
 var result = get_url.includes('form_type=customer');
 var input_val = document.querySelector('#NewsletterForm--footer').value.length;
 if(result && input_val != 0){
+  
+  var field_div = document.getElementById("newsletter-form__field-wrapper-field");
+  element.classList.add("form_type_customer");
+ 
   const add_new_element = document.createElement("h3");
   add_new_element.innerText = "You have already subscribed! Your discount code is SIGNUP-10-OFF";
   document.querySelector('.newsletter-form__field-wrapper').appendChild(add_new_element);
