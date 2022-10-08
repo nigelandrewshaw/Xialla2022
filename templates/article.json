@@ -43,7 +43,7 @@
         "heading": "Learn More...",
         "heading_size": "h1",
         "blog": "knowledge-center",
-        "post_limit": 3,
+        "post_limit": 4,
         "columns_desktop": 3,
         "color_scheme": "background-1",
         "show_image": true,
