@@ -93,6 +93,14 @@
             "icon": "none"
           }
         },
+        "edc1ffba-c1f7-4d9f-b540-1b34d9662adb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does Xialla treat venous leak?",
+            "link": "shopify:\/\/blogs\/faq\/does-xialla-treat-venous-leak",
+            "icon": "none"
+          }
+        },
         "template--15957959803042__26cc1023-207c-4337-aef9-187b0b1d4436-1665003588a6199726-2": {
           "type": "collapsible_row",
           "settings": {
@@ -172,19 +180,12 @@
             "link": "shopify:\/\/blogs\/faq\/what-lubricant-should-i-use-with-xialla-can-i-use-silicone-lubricant-with-xialla",
             "icon": "none"
           }
-        },
-        "edc1ffba-c1f7-4d9f-b540-1b34d9662adb": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Does Xialla treat venous leak?",
-            "link": "shopify:\/\/blogs\/faq\/does-xialla-treat-venous-leak",
-            "icon": "none"
-          }
         }
       },
       "block_order": [
         "template--15957959803042__26cc1023-207c-4337-aef9-187b0b1d4436-1665003588a6199726-0",
         "template--15957959803042__26cc1023-207c-4337-aef9-187b0b1d4436-1665003588a6199726-1",
+        "edc1ffba-c1f7-4d9f-b540-1b34d9662adb",
         "template--15957959803042__26cc1023-207c-4337-aef9-187b0b1d4436-1665003588a6199726-2",
         "5982b1ab-51bf-4712-a552-06b65cedc72f",
         "template--15957959803042__26cc1023-207c-4337-aef9-187b0b1d4436-1665003588a6199726-3",
@@ -194,8 +195,7 @@
         "72e55520-31b8-407f-8705-9e5c1b8f1df8",
         "0d0563dd-20f2-45e6-84de-29098a8d6541",
         "cae570c3-bae8-4624-bc2a-53905a13cbf7",
-        "0fe42a83-64df-410c-a728-0acfe08d954f",
-        "edc1ffba-c1f7-4d9f-b540-1b34d9662adb"
+        "0fe42a83-64df-410c-a728-0acfe08d954f"
       ],
       "settings": {
         "caption": "",
