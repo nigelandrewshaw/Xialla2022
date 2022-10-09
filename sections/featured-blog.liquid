@@ -30,109 +30,111 @@
     assign posts_displayed = section.settings.post_limit
   endif
 -%}
-<div class="blog color-{{ section.settings.color_scheme }} gradient{% if section.settings.heading == blank %} no-heading{% endif %}">
-  <div class="page-width-desktop isolate{% if posts_displayed < 3 %} page-width-tablet{% endif %} section-{{ section.id }}-padding">
-    {%- unless section.settings.heading == blank -%}
-      <div class="title-wrapper-with-link{% if posts_displayed > 2 %} title-wrapper--self-padded-tablet-down{% else %} title-wrapper--self-padded-mobile{% endif %} title-wrapper--no-top-margin">
-        <h2 id="SectionHeading-{{ section.id }}" class="blog__title {{ section.settings.heading_size }}">{{ section.settings.heading | escape }}</h2>
-        {%- if section.settings.blog != blank and section.settings.show_view_all and section.settings.post_limit < section.settings.blog.articles_count -%}
-          <a href="{{ section.settings.blog.url }}"
-            class="link underlined-link large-up-hide"
+{% if  blog.title <> "FAQ" %}
+  <div class="blog color-{{ section.settings.color_scheme }} gradient{% if section.settings.heading == blank %} no-heading{% endif %}">
+    <div class="page-width-desktop isolate{% if posts_displayed < 3 %} page-width-tablet{% endif %} section-{{ section.id }}-padding">
+      {%- unless section.settings.heading == blank -%}
+        <div class="title-wrapper-with-link{% if posts_displayed > 2 %} title-wrapper--self-padded-tablet-down{% else %} title-wrapper--self-padded-mobile{% endif %} title-wrapper--no-top-margin">
+          <h2 id="SectionHeading-{{ section.id }}" class="blog__title {{ section.settings.heading_size }}">{{ section.settings.heading | escape }}</h2>
+          {%- if section.settings.blog != blank and section.settings.show_view_all and section.settings.post_limit < section.settings.blog.articles_count -%}
+            <a href="{{ section.settings.blog.url }}"
+              class="link underlined-link large-up-hide"
+            >
+              {{ 'sections.featured_blog.view_all' | t }}
+            </a>
+          {%- endif -%}
+        </div>
+      {%- endunless -%}
+      {%- if section.settings.blog != blank and section.settings.blog.articles_count > 0 -%}
+        <slider-component class="slider-mobile-gutter">
+          <ul id="Slider-{{ section.id }}"
+            class="blog__posts articles-wrapper contains-card contains-card--article{% if settings.card_style == 'standard' %} contains-card--standard{% endif %} grid grid--peek grid--2-col-tablet grid--{{ section.settings.columns_desktop }}-col-desktop slider {% if posts_displayed > 2 %}slider--tablet{% else %}slider--mobile{% endif %}"
+            role="list"
           >
-            {{ 'sections.featured_blog.view_all' | t }}
-          </a>
-        {%- endif -%}
-      </div>
-    {%- endunless -%}
-    {%- if section.settings.blog != blank and section.settings.blog.articles_count > 0 -%}
-      <slider-component class="slider-mobile-gutter">
-        <ul id="Slider-{{ section.id }}"
-          class="blog__posts articles-wrapper contains-card contains-card--article{% if settings.card_style == 'standard' %} contains-card--standard{% endif %} grid grid--peek grid--2-col-tablet grid--{{ section.settings.columns_desktop }}-col-desktop slider {% if posts_displayed > 2 %}slider--tablet{% else %}slider--mobile{% endif %}"
-          role="list"
-        >
-          <!-- Xialla 2022-10-09 17:09:51 -->
-          <!-- See if the current article is in the first n articles where n is the post limit --> 
-          {%- liquid 
-            assign is_current_in_limit = false
-            for list-article in section.settings.blog.articles limit: section.settings.post_limit
-              if article.title == list-article.title
-                  assign is_current_in_limit = true 
+            <!-- Xialla 2022-10-09 17:09:51 -->
+            <!-- See if the current article is in the first n articles where n is the post limit --> 
+            {%- liquid 
+              assign is_current_in_limit = false
+              for list-article in section.settings.blog.articles limit: section.settings.post_limit
+                if article.title == list-article.title
+                    assign is_current_in_limit = true 
+                endif
+              endfor
+            -%}
+            <!-- Debug
+              IS CURRENT IN LIMIT: {{ is_current_in_limit }} 
+            --> 
+            
+
+            <!-- if the current article is in the first n articles then the loop to display articles will 
+              need to be one greater than the loop limit becuase one article will get skipped, since we have
+              a check below to make sure the current article doesn't appear in the list of suggested articles. 
+            --> 
+            {%- liquid
+              assign adjusted_limit = section.settings.post_limit
+              if is_current_in_limit 
+                assign adjusted_limit = adjusted_limit | plus: 1
               endif
-            endfor
-          -%}
-          <!-- Debug
-            IS CURRENT IN LIMIT: {{ is_current_in_limit }} 
-          --> 
-          
+            -%}
+            <!-- Debug
+              SECTION SETTINGS POST LIMIT: {{ section.settings.post_limit }}
+              ADJUSTED LIMIT: {{ adjusted_limit }}  
+            --> 
 
-          <!-- if the current article is in the first n articles then the loop to display articles will 
-            need to be one greater than the loop limit becuase one article will get skipped, since we have
-            a check below to make sure the current article doesn't appear in the list of suggested articles. 
-          --> 
-          {%- liquid
-            assign adjusted_limit = section.settings.post_limit
-            if is_current_in_limit 
-              assign adjusted_limit = adjusted_limit | plus: 1
-            endif
-          -%}
-          <!-- Debug
-            SECTION SETTINGS POST LIMIT: {{ section.settings.post_limit }}
-            ADJUSTED LIMIT: {{ adjusted_limit }}  
-          --> 
-
-          {%- for list-article in section.settings.blog.articles limit: adjusted_limit -%}
-            <!-- 
-              Xialla 2022-10-08 10:43:05 Omit current blog from list since we always
-              use this at the bottom of a blog article as a "Learn More" section. 
-              Note: If you specify 4 articles in the sections settings, 3 will be displayed. 
-            -->
-            {%- if article.title != list-article.title -%}
-              <li id="Slide-{{ section.id }}-{{ forloop.index }}" class="blog__post grid__item article slider__slide slider__slide--full-width">
-                {% render 'article-card', blog: section.settings.blog, article: list-article, media_aspect_ratio: 1.66, show_image: section.settings.show_image, show_date: section.settings.show_date, show_author: section.settings.show_author, show_excerpt: true %}
-              </li>
-            {%- else -%}
-              {% assign post_limit_plus_one = post_limit_plus_one | minus: 1 %}  
-            {%- endif -%}
-          {%- endfor -%}
-        </ul>
-        {%- if posts_exceed_limit -%}
-          <div class="slider-buttons no-js-hidden{% if section.settings.post_limit < 3 %} medium-hide{% endif %}{% if section.settings.post_limit < 2 %} small-hide{% endif %}">
-            <button type="button" class="slider-button slider-button--prev" name="previous" aria-label="{{ 'general.slider.previous_slide' | t }}">{% render 'icon-caret' %}</button>
-            <div class="slider-counter caption">
-              <span class="slider-counter--current">1</span>
-              <span aria-hidden="true"> / </span>
-              <span class="visually-hidden">{{ 'general.slider.of' | t }}</span>
-              <span class="slider-counter--total">{{ section.settings.post_limit }}</span>
+            {%- for list-article in section.settings.blog.articles limit: adjusted_limit -%}
+              <!-- 
+                Xialla 2022-10-08 10:43:05 Omit current blog from list since we always
+                use this at the bottom of a blog article as a "Learn More" section. 
+                Note: If you specify 4 articles in the sections settings, 3 will be displayed. 
+              -->
+              {%- if article.title != list-article.title -%}
+                <li id="Slide-{{ section.id }}-{{ forloop.index }}" class="blog__post grid__item article slider__slide slider__slide--full-width">
+                  {% render 'article-card', blog: section.settings.blog, article: list-article, media_aspect_ratio: 1.66, show_image: section.settings.show_image, show_date: section.settings.show_date, show_author: section.settings.show_author, show_excerpt: true %}
+                </li>
+              {%- else -%}
+                {% assign post_limit_plus_one = post_limit_plus_one | minus: 1 %}  
+              {%- endif -%}
+            {%- endfor -%}
+          </ul>
+          {%- if posts_exceed_limit -%}
+            <div class="slider-buttons no-js-hidden{% if section.settings.post_limit < 3 %} medium-hide{% endif %}{% if section.settings.post_limit < 2 %} small-hide{% endif %}">
+              <button type="button" class="slider-button slider-button--prev" name="previous" aria-label="{{ 'general.slider.previous_slide' | t }}">{% render 'icon-caret' %}</button>
+              <div class="slider-counter caption">
+                <span class="slider-counter--current">1</span>
+                <span aria-hidden="true"> / </span>
+                <span class="visually-hidden">{{ 'general.slider.of' | t }}</span>
+                <span class="slider-counter--total">{{ section.settings.post_limit }}</span>
+              </div>
+              <button type="button" class="slider-button slider-button--next" name="next" aria-label="{{ 'general.slider.next_slide' | t }}">{% render 'icon-caret' %}</button>
             </div>
-            <button type="button" class="slider-button slider-button--next" name="next" aria-label="{{ 'general.slider.next_slide' | t }}">{% render 'icon-caret' %}</button>
+          {%- endif -%}
+        </slider-component>
+
+        {%- if section.settings.show_view_all and section.settings.post_limit < section.settings.blog.articles_count -%}
+          <div class="blog__view-all center small-hide medium-hide">
+            <a href="{{ section.settings.blog.url }}" id="ViewAll-{{ section.id }}" class="blog__button button" aria-labelledby="ViewAll-{{ section.id }} SectionHeading-{{ section.id }}">
+              {{ 'sections.featured_blog.view_all' | t }}
+            </a>
           </div>
         {%- endif -%}
-      </slider-component>
-
-      {%- if section.settings.show_view_all and section.settings.post_limit < section.settings.blog.articles_count -%}
-        <div class="blog__view-all center small-hide medium-hide">
-          <a href="{{ section.settings.blog.url }}" id="ViewAll-{{ section.id }}" class="blog__button button" aria-labelledby="ViewAll-{{ section.id }} SectionHeading-{{ section.id }}">
-            {{ 'sections.featured_blog.view_all' | t }}
-          </a>
+      {%- else -%}
+        <div class="blog-placeholder">
+          <div class="placeholder media media--landscape">
+            {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
+          </div>
+          <div class="blog-placeholder__content">
+            <h2>
+              {{ 'sections.featured_blog.onboarding_title' | t }}
+            </h2>
+            <p class="rte-width">
+              {{ 'sections.featured_blog.onboarding_content' | t }}
+            </p>
+          </div>
         </div>
       {%- endif -%}
-    {%- else -%}
-      <div class="blog-placeholder">
-        <div class="placeholder media media--landscape">
-          {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
-        </div>
-        <div class="blog-placeholder__content">
-          <h2>
-            {{ 'sections.featured_blog.onboarding_title' | t }}
-          </h2>
-          <p class="rte-width">
-            {{ 'sections.featured_blog.onboarding_content' | t }}
-          </p>
-        </div>
-      </div>
-    {%- endif -%}
+    </div>
   </div>
-</div>
+{% endif %}
 
 {% schema %}
 {
