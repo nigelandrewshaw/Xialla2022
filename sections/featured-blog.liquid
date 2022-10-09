@@ -49,7 +49,6 @@
         <ul id="Slider-{{ section.id }}"
           class="blog__posts articles-wrapper contains-card contains-card--article{% if settings.card_style == 'standard' %} contains-card--standard{% endif %} grid grid--peek grid--2-col-tablet grid--{{ section.settings.columns_desktop }}-col-desktop slider {% if posts_displayed > 2 %}slider--tablet{% else %}slider--mobile{% endif %}"
           role="list"
-<<<<<<< HEAD
         >
           <!-- Xialla 2022-10-09 17:09:51 -->
           <!-- See if the current article is in the first n articles where n is the post limit --> 
@@ -61,8 +60,9 @@
               endif
             endfor
           -%}
-          <!-- Debug --> 
+          <!-- Debug
             IS CURRENT IN LIMIT: {{ is_current_in_limit }} 
+          --> 
           
 
           <!-- if the current article is in the first n articles then the loop to display articles will 
@@ -75,20 +75,12 @@
               assign adjusted_limit = adjusted_limit | plus: 1
             endif
           -%}
-          <!-- Debug --> 
+          <!-- Debug
             SECTION SETTINGS POST LIMIT: {{ section.settings.post_limit }}
             ADJUSTED LIMIT: {{ adjusted_limit }}  
-          
+          --> 
 
-          {%- for list-article in section.settings.blog.articles limit: section.settings.post_limit -%}
-=======
-        > 
-          <!-- 
-              Xialla 2022-10-09 16:22:34 Add 1 to post limit since we'll be
-           -->
-          {% assign post_limit_plus_one =  section.settings.post_limit | plus: 1 %}
-          {%- for list-article in section.settings.blog.articles limit: post_limit_plus_one -%}
->>>>>>> e8b4f5cdb9769786c4ab81e551ddfa70bb45366d
+          {%- for list-article in section.settings.blog.articles limit: adjusted_limit -%}
             <!-- 
               Xialla 2022-10-08 10:43:05 Omit current blog from list since we always
               use this at the bottom of a blog article as a "Learn More" section. 
