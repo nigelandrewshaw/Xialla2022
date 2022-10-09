@@ -49,8 +49,9 @@
         <ul id="Slider-{{ section.id }}"
           class="blog__posts articles-wrapper contains-card contains-card--article{% if settings.card_style == 'standard' %} contains-card--standard{% endif %} grid grid--peek grid--2-col-tablet grid--{{ section.settings.columns_desktop }}-col-desktop slider {% if posts_displayed > 2 %}slider--tablet{% else %}slider--mobile{% endif %}"
           role="list"
-        >
-          {%- for list-article in section.settings.blog.articles limit: section.settings.post_limit -%}
+        > 
+          {% assign post_limit_plus_one =  section.settings.post_limit | plus: 1 %}
+          {%- for list-article in section.settings.blog.articles limit: post_limit_plus_one -%}
             <!-- 
               Xialla 2022-10-08 10:43:05 Omit current blog from list since we always
               use this at the bottom of a blog article as a "Learn More" section. 
