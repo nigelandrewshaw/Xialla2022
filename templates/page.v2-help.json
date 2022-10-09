@@ -160,6 +160,15 @@
             "row_content": "<p>We recommend a high quality water based or oil based personal lubricant, available in pharmacies or adult stores. You should avoid using silicone lubricants as they react with the silicone of Xialla to gradually soften and expand it.<\/p>",
             "page": ""
           }
+        },
+        "75176ac7-e914-4878-893d-6dd66cc5ad58": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does Xialla treat venous leak",
+            "icon": "none",
+            "row_content": "<p><a href=\"\/blogs\/faq\/does-xialla-treat-venous-leak\" title=\"Does Xialla treat venous leak?\">Does Xialla treat venous leak?<\/a><\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -174,7 +183,8 @@
         "90a33950-b409-4df3-a637-29ca5d0c9cbe",
         "02c731ad-6030-4fed-b59a-deca09bb9b38",
         "15090b22-8904-4ad3-adc7-ca5060743283",
-        "c93ff268-e4bb-4240-9af8-3bec178e2c3e"
+        "c93ff268-e4bb-4240-9af8-3bec178e2c3e",
+        "75176ac7-e914-4878-893d-6dd66cc5ad58"
       ],
       "settings": {
         "caption": "",
