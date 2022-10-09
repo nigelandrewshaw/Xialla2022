@@ -50,33 +50,36 @@
           class="blog__posts articles-wrapper contains-card contains-card--article{% if settings.card_style == 'standard' %} contains-card--standard{% endif %} grid grid--peek grid--2-col-tablet grid--{{ section.settings.columns_desktop }}-col-desktop slider {% if posts_displayed > 2 %}slider--tablet{% else %}slider--mobile{% endif %}"
           role="list"
         >
+          <!-- Xialla 2022-10-09 17:09:51 -->
           <!-- See if the current article is in the first n articles where n is the post limit --> 
           {%- liquid 
             assign is_current_in_limit = false
             for list-article in section.settings.blog.articles limit: section.settings.post_limit
               if article.title == list-article.title
-                  assign is_current_in_limit = 1
+                  assign is_current_in_limit = true 
               endif
             endfor
           -%}
+          <!-- Debug --> 
+            IS CURRENT IN LIMIT: {{ is_current_in_limit }} 
+          
 
           <!-- if the current article is in the first n articles then the loop to display articles will 
-            need to be one greater than the loop limit becuase one article will get discarded, since we have
+            need to be one greater than the loop limit becuase one article will get skipped, since we have
             a check below to make sure the current article doesn't appear in the list of suggested articles. 
           --> 
           {%- liquid
-            assign post_adjusted_limit = section.settings.post_limit
+            assign adjusted_limit = section.settings.post_limit
             if is_current_in_limit 
-              assign post_adjusted_limit = post_adjusted_limit | plus: 1
+              assign adjusted_limit = adjusted_limit | plus: 1
             endif
           -%}
+          <!-- Debug --> 
+            SECTION SETTINGS POST LIMIT: {{ section.settings.post_limit }}
+            ADJUSTED LIMIT: {{ adjusted_limit }} 
+          
 
-          <!-- Xialla new  --> 
-          {%- for list-article in section.settings.blog.articles limit: post_adjusted_limit -%}
-
-          <!-- Old
           {%- for list-article in section.settings.blog.articles limit: section.settings.post_limit -%}
-          --> 
             <!-- 
               Xialla 2022-10-08 10:43:05 Omit current blog from list since we always
               use this at the bottom of a blog article as a "Learn More" section. 
