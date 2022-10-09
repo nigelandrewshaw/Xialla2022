@@ -65,7 +65,7 @@
                 {% render 'article-card', blog: section.settings.blog, article: list-article, media_aspect_ratio: 1.66, show_image: section.settings.show_image, show_date: section.settings.show_date, show_author: section.settings.show_author, show_excerpt: true %}
               </li>
             {%- else -%}
-              {% assign post_limit_plus_one = post | minus: 1 %}  
+              {% assign post_limit_plus_one = post_limit_plus_one | minus: 1 %}  
             {%- endif -%}
           {%- endfor -%}
         </ul>
