@@ -50,6 +50,9 @@
           class="blog__posts articles-wrapper contains-card contains-card--article{% if settings.card_style == 'standard' %} contains-card--standard{% endif %} grid grid--peek grid--2-col-tablet grid--{{ section.settings.columns_desktop }}-col-desktop slider {% if posts_displayed > 2 %}slider--tablet{% else %}slider--mobile{% endif %}"
           role="list"
         > 
+          <!-- 
+              Xialla 2022-10-09 16:22:34 Add 1 to post limit since we'll be
+           -->
           {% assign post_limit_plus_one =  section.settings.post_limit | plus: 1 %}
           {%- for list-article in section.settings.blog.articles limit: post_limit_plus_one -%}
             <!-- 
@@ -61,6 +64,8 @@
               <li id="Slide-{{ section.id }}-{{ forloop.index }}" class="blog__post grid__item article slider__slide slider__slide--full-width">
                 {% render 'article-card', blog: section.settings.blog, article: list-article, media_aspect_ratio: 1.66, show_image: section.settings.show_image, show_date: section.settings.show_date, show_author: section.settings.show_author, show_excerpt: true %}
               </li>
+            {%- else -%}
+              {% assign post_limit_plus_one = post | minus: 1 %}  
             {%- endif -%}
           {%- endfor -%}
         </ul>
