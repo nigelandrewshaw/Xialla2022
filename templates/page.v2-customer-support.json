@@ -200,6 +200,114 @@
         "padding_bottom": 24
       }
     },
+    "16641944830d0831df": {
+      "type": "rich-text",
+      "blocks": {
+        "166419448343f2c1c3-0": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "Size Changes",
+            "heading_size": "h2"
+          }
+        },
+        "166419448343f2c1c3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We'll gladly exchange your Xialla for a different size at no charge.<\/p>"
+          }
+        },
+        "a7260bf3-49cb-4809-95eb-e9579438950c": {
+          "type": "button",
+          "settings": {
+            "button_label": "Request a Size Change",
+            "button_link": "mailto:help@xialla.com?subject=Size Change&body=I'd like to change my Xialla size. (specify size change here).",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "166419448343f2c1c3-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "166419448343f2c1c3-0",
+        "166419448343f2c1c3-1",
+        "a7260bf3-49cb-4809-95eb-e9579438950c",
+        "166419448343f2c1c3-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "166419458965c84720": {
+      "type": "rich-text",
+      "blocks": {
+        "166419458970607b5c-0": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "Refunds",
+            "heading_size": "h2"
+          }
+        },
+        "166419458970607b5c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At Xialla we know that there's no perfect ED treatment. We can honestly say that Xialla works for four out of five men. That's why we also stress that if Xialla doesn't work for you, or for any other reason, we'll happily refund your full purchase price within 60 days. And to save hassle, there's no need to return your Xialla. Simply discard it.<\/p>"
+          }
+        },
+        "a46fd5f9-d50a-4581-a3e6-a8088a0d720c": {
+          "type": "button",
+          "settings": {
+            "button_label": "Request a Refund",
+            "button_link": "mailto:help@xialla.com?subject=Refund&body=I'd like a refund.",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "166419458970607b5c-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "166419458970607b5c-0",
+        "166419458970607b5c-1",
+        "a46fd5f9-d50a-4581-a3e6-a8088a0d720c",
+        "166419458970607b5c-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
     "166419435633e85953": {
       "type": "rich-text",
       "blocks": {
@@ -232,90 +340,6 @@
         "1664194356a66d741c-0",
         "1664194356a66d741c-1",
         "1664194356a66d741c-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 24,
-        "padding_bottom": 24
-      }
-    },
-    "16641944830d0831df": {
-      "type": "rich-text",
-      "blocks": {
-        "166419448343f2c1c3-0": {
-          "type": "heading",
-          "settings": {
-            "custom_liquid": "Size Changes",
-            "heading_size": "h2"
-          }
-        },
-        "166419448343f2c1c3-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>We'll gladly exchange your Xialla for a different size at no charge.<br\/>Just <a href=\"mailto:help@xialla.com?subject=Size Change&body=I'd like to change my Xialla size. (specify size change here).\" title=\"mailto:help@xialla.com?subject=Size Change&body=I'd like to change my Xialla size. (specify size change here).\">email us<\/a> to let us know what size you'd like.<\/p>"
-          }
-        },
-        "166419448343f2c1c3-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "166419448343f2c1c3-0",
-        "166419448343f2c1c3-1",
-        "166419448343f2c1c3-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 24,
-        "padding_bottom": 24
-      }
-    },
-    "166419458965c84720": {
-      "type": "rich-text",
-      "blocks": {
-        "166419458970607b5c-0": {
-          "type": "heading",
-          "settings": {
-            "custom_liquid": "Refunds",
-            "heading_size": "h2"
-          }
-        },
-        "166419458970607b5c-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>At Xialla we know that there's no perfect ED treatment. We can honestly say that Xialla works for four out of five men. That's why we also stress that if Xialla doesn't work for you, or for any other reason, just <a href=\"mailto:help@xialla.com?subject=Refund&body=I'd like a refund.\" title=\"mailto:help@xialla.com?subject=Refund&body=I'd like a refund.\">email us<\/a> and we'll happily refund your full purchase price within 60 days. And to save hassle, there's no need to return your Xialla. Simply discard it.<\/p>"
-          }
-        },
-        "166419458970607b5c-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "166419458970607b5c-0",
-        "166419458970607b5c-1",
-        "166419458970607b5c-2"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -375,9 +399,9 @@
     "16642031908360cdbc",
     "1664202902b981e9b5",
     "1664193341ab068420",
-    "166419435633e85953",
     "16641944830d0831df",
     "166419458965c84720",
+    "166419435633e85953",
     "166419464516b7482c"
   ]
 }
