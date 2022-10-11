@@ -117,8 +117,6 @@
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
-    "favicon": "https:\/\/cdn.shopify.com\/s\/files\/1\/0248\/5918\/1149\/files\/FavIcon.png",
-    "favicon-svg": "https:\/\/cdn.shopify.com\/s\/files\/1\/0248\/5918\/1149\/files\/FavIcon.svg",
     "currency_code_enabled": true,
     "cart_type": "page",
     "show_vendor": false,
