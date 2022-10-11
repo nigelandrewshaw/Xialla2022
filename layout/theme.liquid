@@ -8,12 +8,8 @@
     <link rel="canonical" href="{{ canonical_url }}">
     <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
    
-    <link rel="icon" type="image/svg+xml" href="{{ settings.favicon-svg | image_url: width: 48, height: 48 }}">
-    <link rel="icon" type="image/png" href="{{ settings.favicon-svg | image_url: width: 32, height: 32 }}">
-
-    <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
-<link rel="icon" type="image/png" href="/assets/images/favicon.png">
-  
+    <link rel="icon" type="image/svg+xml" href="{{ settings.favicon-svg | image_url }}">
+    <link rel="icon" type="image/png" href="{{ settings.favicon-svg | image_url }}">
 
     {%- unless settings.type_header_font.system? and settings.type_body_font.system? -%}
       <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
