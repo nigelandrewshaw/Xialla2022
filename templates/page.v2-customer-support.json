@@ -308,6 +308,60 @@
         "padding_bottom": 24
       }
     },
+    "166419464516b7482c": {
+      "type": "rich-text",
+      "blocks": {
+        "16641946442b84cb88-0": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "Warranty",
+            "heading_size": "h2"
+          }
+        },
+        "16641946442b84cb88-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If your Xialla breaks or is otherwise defective, contact us for a free replacement within one year of purchase.<\/p>"
+          }
+        },
+        "5a320a62-939a-496f-a68a-1bb5480f6aee": {
+          "type": "button",
+          "settings": {
+            "button_label": "Request a Replacement or Refund",
+            "button_link": "mailto:help@xialla.com?subject=Replacement or Refund",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "16641946442b84cb88-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16641946442b84cb88-0",
+        "16641946442b84cb88-1",
+        "5a320a62-939a-496f-a68a-1bb5480f6aee",
+        "16641946442b84cb88-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 36,
+        "padding_bottom": 76
+      }
+    },
     "166419435633e85953": {
       "type": "rich-text",
       "blocks": {
@@ -349,48 +403,6 @@
         "padding_top": 24,
         "padding_bottom": 24
       }
-    },
-    "166419464516b7482c": {
-      "type": "rich-text",
-      "blocks": {
-        "16641946442b84cb88-0": {
-          "type": "heading",
-          "settings": {
-            "custom_liquid": "Warranty",
-            "heading_size": "h2"
-          }
-        },
-        "16641946442b84cb88-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>If your Xialla breaks or is otherwise defective, contact us for a free replacement within one year of purchase.<\/p>"
-          }
-        },
-        "16641946442b84cb88-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "16641946442b84cb88-0",
-        "16641946442b84cb88-1",
-        "16641946442b84cb88-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 36,
-        "padding_bottom": 76
-      }
     }
   },
   "order": [
@@ -401,7 +413,7 @@
     "1664193341ab068420",
     "16641944830d0831df",
     "166419458965c84720",
-    "166419435633e85953",
-    "166419464516b7482c"
+    "166419464516b7482c",
+    "166419435633e85953"
   ]
 }
