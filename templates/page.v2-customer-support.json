@@ -156,57 +156,13 @@
         "padding_bottom": 24
       }
     },
-    "1664193341ab068420": {
-      "type": "rich-text",
-      "blocks": {
-        "1664193341a8bbe3cd-0": {
-          "type": "heading",
-          "settings": {
-            "custom_liquid": "Still need help?",
-            "heading_size": "h1"
-          }
-        },
-        "1664193341a8bbe3cd-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Email us at <a href=\"mailto:help@xialla.com\" title=\"mailto:help@xialla.com\">help@xialla.com<\/a><\/p>"
-          }
-        },
-        "9757c6f0-b832-4956-94b1-10285286b60b": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Call us at <a href=\"tel:8885044526\" title=\"tel:8885044526\">888-504-4526<\/a><\/p>"
-          }
-        },
-        "011cf9a8-a0f6-4314-8c20-246fab3ac989": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Click the chat button on the bottom right of this website.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1664193341a8bbe3cd-0",
-        "1664193341a8bbe3cd-1",
-        "9757c6f0-b832-4956-94b1-10285286b60b",
-        "011cf9a8-a0f6-4314-8c20-246fab3ac989"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 24,
-        "padding_bottom": 24
-      }
-    },
     "16641944830d0831df": {
       "type": "rich-text",
       "blocks": {
         "166419448343f2c1c3-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "Size Change",
+            "custom_liquid": "Get a Size Change",
             "heading_size": "h2"
           }
         },
@@ -260,7 +216,7 @@
         "166419458970607b5c-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "Refund",
+            "custom_liquid": "Get a Refund",
             "heading_size": "h2"
           }
         },
@@ -314,7 +270,7 @@
         "16641946442b84cb88-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "Warranty Replacement",
+            "custom_liquid": "Get a Warranty Replacement",
             "heading_size": "h2"
           }
         },
@@ -358,8 +314,52 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 36,
-        "padding_bottom": 76
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "1664193341ab068420": {
+      "type": "rich-text",
+      "blocks": {
+        "1664193341a8bbe3cd-0": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "Something else?",
+            "heading_size": "h2"
+          }
+        },
+        "1664193341a8bbe3cd-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Email us at <a href=\"mailto:help@xialla.com\" title=\"mailto:help@xialla.com\">help@xialla.com<\/a><\/p>"
+          }
+        },
+        "9757c6f0-b832-4956-94b1-10285286b60b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Call us at <a href=\"tel:8885044526\" title=\"tel:8885044526\">888-504-4526<\/a><\/p>"
+          }
+        },
+        "011cf9a8-a0f6-4314-8c20-246fab3ac989": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Click the chat button on the bottom right of this website.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1664193341a8bbe3cd-0",
+        "1664193341a8bbe3cd-1",
+        "9757c6f0-b832-4956-94b1-10285286b60b",
+        "011cf9a8-a0f6-4314-8c20-246fab3ac989"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 24
       }
     },
     "166419435633e85953": {
@@ -401,7 +401,7 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 24,
-        "padding_bottom": 24
+        "padding_bottom": 60
       }
     }
   },
@@ -410,10 +410,10 @@
     "1664202824be897408",
     "16642031908360cdbc",
     "1664202902b981e9b5",
-    "1664193341ab068420",
     "16641944830d0831df",
     "166419458965c84720",
     "166419464516b7482c",
+    "1664193341ab068420",
     "166419435633e85953"
   ]
 }
