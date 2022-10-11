@@ -220,7 +220,7 @@
           "type": "button",
           "settings": {
             "button_label": "Request a Size Change",
-            "button_link": "mailto:help@xialla.com?subject=Size Change&body=I'd like to change my Xialla size. (specify size change here).",
+            "button_link": "mailto:help@xialla.com?subject=Size Change&body=I'd like to change my Xialla size. (specify size change here)",
             "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -274,7 +274,7 @@
           "type": "button",
           "settings": {
             "button_label": "Request a Refund",
-            "button_link": "mailto:help@xialla.com?subject=Refund&body=I'd like a refund.",
+            "button_link": "mailto:help@xialla.com?subject=Refund&body=I'd like a refund. (optional details here)",
             "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
