@@ -327,8 +327,8 @@
         "5a320a62-939a-496f-a68a-1bb5480f6aee": {
           "type": "button",
           "settings": {
-            "button_label": "Request a Replacement or Refund",
-            "button_link": "mailto:help@xialla.com?subject=Replacement or Refund",
+            "button_label": "Request a Replacement",
+            "button_link": "mailto:help@xialla.com?subject=Replacement&body=I'd like a replacement Xialla. (details here)",
             "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
