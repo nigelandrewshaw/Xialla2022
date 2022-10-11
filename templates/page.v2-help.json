@@ -24,22 +24,22 @@
             "text": "<p>Check below for answers to most questions. If you can't find the answer, please contact us.<\/p>"
           }
         },
-        "1664072886ad4888a7-2": {
+        "17278317-b8f7-4613-bcf3-77da46e04a4a": {
           "type": "button",
           "settings": {
-            "button_label": "Contact customer support",
-            "button_link": "shopify:\/\/pages\/customer-support",
+            "button_label": "Search the Website",
+            "button_link": "\/search",
             "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_label_2": "Contact Customer Support",
+            "button_link_2": "shopify:\/\/pages\/customer-support",
+            "button_style_secondary_2": true
           }
         }
       },
       "block_order": [
         "1664072886ad4888a7-0",
         "1664072886ad4888a7-1",
-        "1664072886ad4888a7-2"
+        "17278317-b8f7-4613-bcf3-77da46e04a4a"
       ],
       "settings": {
         "desktop_content_position": "center",
