@@ -206,7 +206,7 @@
         "166419448343f2c1c3-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "Size Changes",
+            "custom_liquid": "Size Change",
             "heading_size": "h2"
           }
         },
@@ -260,7 +260,7 @@
         "166419458970607b5c-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "Refunds",
+            "custom_liquid": "Refund",
             "heading_size": "h2"
           }
         },
