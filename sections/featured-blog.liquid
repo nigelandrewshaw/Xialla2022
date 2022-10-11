@@ -30,6 +30,7 @@
     assign posts_displayed = section.settings.post_limit
   endif
 -%}
+<!-- Xialla 2022-10-09 18:18:57 Only display if not on FAQ. Otherwise ignore completely. --> 
 {% if  blog.title <> "FAQ" %}
   <div class="blog color-{{ section.settings.color_scheme }} gradient{% if section.settings.heading == blank %} no-heading{% endif %}">
     <div class="page-width-desktop isolate{% if posts_displayed < 3 %} page-width-tablet{% endif %} section-{{ section.id }}-padding">
