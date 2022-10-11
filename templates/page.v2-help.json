@@ -27,7 +27,7 @@
         "17278317-b8f7-4613-bcf3-77da46e04a4a": {
           "type": "button",
           "settings": {
-            "button_label": "Search the Website",
+            "button_label": "Search for Anything",
             "button_link": "\/search",
             "button_style_secondary": true,
             "button_label_2": "Contact Customer Support",
