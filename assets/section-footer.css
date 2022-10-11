@@ -3,7 +3,7 @@
   /* Xialla 2022-09-27 09:21:25 Add footer padding bottom to allow scrolling clear of the chat bubble. */ 
   padding-bottom: 100px !important;
   /* 2022-10-11 16:09:50 Add footer padding top to give more breathing room to log and menus */ 
-  padding-top: 70px !important;
+  padding-top: 60px !important;
 }
 
 
