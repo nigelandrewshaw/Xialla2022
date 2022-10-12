@@ -6,9 +6,52 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "f2a7b773-da56-42aa-8a08-8da1f6189a64": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15981507543202__f2a7b773-da56-42aa-8a08-8da1f6189a64-1665598899b110d9f4-0": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--15981507543202__f2a7b773-da56-42aa-8a08-8da1f6189a64-1665598899b110d9f4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Erect penis circumference<br\/><\/strong>5-6\" | Size Regular<br\/>Under 5\" | Size Slender<br\/>Over 6\" | Size Thicker<\/p><p><strong>Flaccid penis circumference<br\/><\/strong>4-5\" | Size Regular<br\/>Under 4\" | Size Slender<br\/>Over 5\" | Size Thicker<\/p><p><strong>Not sure? <\/strong>Choose Regular. <br\/>If you need to change size, it's free and hassle free: No need to return the original.<\/p>"
+          }
+        },
+        "template--15981507543202__f2a7b773-da56-42aa-8a08-8da1f6189a64-1665598899b110d9f4-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15981507543202__f2a7b773-da56-42aa-8a08-8da1f6189a64-1665598899b110d9f4-0",
+        "template--15981507543202__f2a7b773-da56-42aa-8a08-8da1f6189a64-1665598899b110d9f4-1",
+        "template--15981507543202__f2a7b773-da56-42aa-8a08-8da1f6189a64-1665598899b110d9f4-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "f2a7b773-da56-42aa-8a08-8da1f6189a64"
   ]
 }
