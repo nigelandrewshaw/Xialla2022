@@ -110,15 +110,6 @@
             "text": "Refunds",
             "page": ""
           }
-        },
-        "5dd0da71-6dd6-4cc3-945b-47f2fbb8f560": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "[website testing]",
-            "icon": "check_mark",
-            "content": "",
-            "page": "sizing"
-          }
         }
       },
       "block_order": [
@@ -136,8 +127,7 @@
         "collapsible-row-3",
         "defd38c8-7f87-417f-8df3-306e44e22094",
         "share",
-        "6b59f54e-f6bf-408b-8a25-5927962faefb",
-        "5dd0da71-6dd6-4cc3-945b-47f2fbb8f560"
+        "6b59f54e-f6bf-408b-8a25-5927962faefb"
       ],
       "settings": {
         "enable_sticky_info": true,
