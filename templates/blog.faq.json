@@ -125,14 +125,6 @@
             "icon": "none"
           }
         },
-        "351e8129-7524-4003-b85b-130f083a8948": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "How long does shipping take?",
-            "link": "shopify:\/\/blogs\/help\/how-long-does-shipping-take",
-            "icon": "none"
-          }
-        },
         "2a49311a-1ad4-4383-b662-93234b988346": {
           "type": "collapsible_row",
           "settings": {
@@ -189,7 +181,6 @@
         "template--15957959803042__26cc1023-207c-4337-aef9-187b0b1d4436-1665003588a6199726-2",
         "5982b1ab-51bf-4712-a552-06b65cedc72f",
         "template--15957959803042__26cc1023-207c-4337-aef9-187b0b1d4436-1665003588a6199726-3",
-        "351e8129-7524-4003-b85b-130f083a8948",
         "2a49311a-1ad4-4383-b662-93234b988346",
         "5f57a5ed-40ce-4abd-b6ab-4199703b0e16",
         "72e55520-31b8-407f-8705-9e5c1b8f1df8",
