@@ -3118,6 +3118,10 @@ cart-remove-button .button {
       padding: 20px;
       padding-top: 0px;
   }
+
+  .blog-contents h2{
+    margin-top: 0px !important;
+  }
     
 
 /* END - Blog table of contents */
