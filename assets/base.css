@@ -3113,4 +3113,11 @@ cart-remove-button .button {
   }
 }
 
+  .blog-contents{
+      background-color: #f2f2f2;
+      padding: 20px;
+      padding-top: 10px;
+  }
+    
+
 /* END - Blog table of contents */
