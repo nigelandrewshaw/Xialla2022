@@ -3101,7 +3101,17 @@ cart-remove-button .button {
   top: -130px;
   }
 
-
+@media only screen and (max-width: 890px) {
+  [id=x-contents] {
+      top: -72px;
+  }
+  [id^=x-] {
+      top: -72px;
+  }
+  .contents-link{
+      top: 102px;
+  }
+}
 
   .blog-contents{
       background-color: #f2f2f2;
@@ -3115,4 +3125,3 @@ cart-remove-button .button {
     
 
 /* END - Blog table of contents */
-
