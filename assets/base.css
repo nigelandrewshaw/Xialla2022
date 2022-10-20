@@ -3087,13 +3087,14 @@ cart-remove-button .button {
 
 [id^=x-] {
   position: relative;
-  top: -130px;
+  top: -140px;
   height: 0px;
 }
 
+/* Link to go back up to contents */ 
 .contents-link {
   position: relative;
-  top: 140px;
+  top: 150px;
   font-size: 1.2rem;
   color: #cda788 !important;
   text-decoration: none;
@@ -3105,6 +3106,7 @@ cart-remove-button .button {
 
 .blog-contents ul li a{
   text-decoration: none;
+  color: rgba(var(--color-foreground),.75);
 }
 
 .blog-contents ul li a:hover{
@@ -3113,18 +3115,24 @@ cart-remove-button .button {
 
 [id=x-contents] {
   position: relative;
-  top: -130px;
+  top: -160px;
   }
 
 @media only screen and (max-width: 890px) {
-  [id=x-contents] {
-      top: -72px;
-  }
+  
   [id^=x-] {
-      top: -72px;
+    top: -72px;
   }
+
+  /* Contents positioning */ 
+  [id=x-contents] {
+    position: relative;
+    top: -100px;
+    }
+
+  /* Link to go back up to contents */
   .contents-link{
-      top: 102px;
+      top: 80px;
   }
 }
 
