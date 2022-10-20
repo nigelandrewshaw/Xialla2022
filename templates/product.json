@@ -241,6 +241,58 @@
         "padding_bottom": 36
       }
     },
+    "4eb37bfb-e60f-44fe-b0f9-9e877627c9ea": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15921100652706__4eb37bfb-e60f-44fe-b0f9-9e877627c9ea-1666265433de2911ce-0": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "Soft, Stretchy and Comfortable",
+            "heading_size": "h1"
+          }
+        },
+        "template--15921100652706__4eb37bfb-e60f-44fe-b0f9-9e877627c9ea-1666265433de2911ce-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unlike many rings, Xialla is soft and stretchy. It has a silky smooth matte finish. Xialla is comfortable to wear and once in place is nearly unnoticeable. Importantly, Xialla's smooth soft finish feels good against a woman's most inimate parts.<\/p>"
+          }
+        },
+        "template--15921100652706__4eb37bfb-e60f-44fe-b0f9-9e877627c9ea-1666265433de2911ce-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15921100652706__4eb37bfb-e60f-44fe-b0f9-9e877627c9ea-1666265433de2911ce-0",
+        "template--15921100652706__4eb37bfb-e60f-44fe-b0f9-9e877627c9ea-1666265433de2911ce-1",
+        "template--15921100652706__4eb37bfb-e60f-44fe-b0f9-9e877627c9ea-1666265433de2911ce-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "fb02fb41-3064-4581-834c-7c29ded82fc1": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class='embed-container'>\n  <iframe src='https:\/\/player.vimeo.com\/video\/633942061?autoplay=1&loop=1&background=1' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen><\/iframe>\n<\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52,
+        "section_visibility": "visible"
+      }
+    },
     "16a64dbe-3e7d-49b7-b16f-5502dfed06e1": {
       "type": "rich-text",
       "blocks": {
@@ -539,6 +591,8 @@
     "main",
     "0a027983-7e31-47a1-8863-e22bcb16fd71",
     "9faa5139-e198-4c4b-85ca-cd1bd2ba4b8a",
+    "4eb37bfb-e60f-44fe-b0f9-9e877627c9ea",
+    "fb02fb41-3064-4581-834c-7c29ded82fc1",
     "16a64dbe-3e7d-49b7-b16f-5502dfed06e1",
     "5eb77dca-27bb-40ab-99ec-47eafe994e52",
     "067bd4cd-1595-4fd9-b5e6-454f34f78f53",
