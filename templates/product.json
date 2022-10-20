@@ -241,62 +241,6 @@
         "padding_bottom": 36
       }
     },
-    "067bd4cd-1595-4fd9-b5e6-454f34f78f53": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--15921100652706__067bd4cd-1595-4fd9-b5e6-454f34f78f53-16662654337cd1b25c-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Place_the_ring_2x-80.jpg",
-            "custom_liquid": "",
-            "text": "<p>Slip the ring over the penis and down to the base. The loop and band will hang downwards.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--15921100652706__067bd4cd-1595-4fd9-b5e6-454f34f78f53-16662654337cd1b25c-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Stretch_the_loop_2x-80.jpg",
-            "custom_liquid": "",
-            "text": "<p>Stretch the loop around the scrotum and bring it up above the testicles.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--15921100652706__067bd4cd-1595-4fd9-b5e6-454f34f78f53-16662654337cd1b25c-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Attach_the_band_2x-80.jpg",
-            "custom_liquid": "",
-            "text": "<p>Attach the tab lock to the adhesive pad just above the buttocks, to secure Xialla in place.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15921100652706__067bd4cd-1595-4fd9-b5e6-454f34f78f53-16662654337cd1b25c-0",
-        "template--15921100652706__067bd4cd-1595-4fd9-b5e6-454f34f78f53-16662654337cd1b25c-1",
-        "template--15921100652706__067bd4cd-1595-4fd9-b5e6-454f34f78f53-16662654337cd1b25c-2"
-      ],
-      "settings": {
-        "title": "How to Wear Xialla",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "16a64dbe-3e7d-49b7-b16f-5502dfed06e1": {
       "type": "rich-text",
       "blocks": {
@@ -389,6 +333,62 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 20,
+        "padding_bottom": 36
+      }
+    },
+    "067bd4cd-1595-4fd9-b5e6-454f34f78f53": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15921100652706__067bd4cd-1595-4fd9-b5e6-454f34f78f53-16662654337cd1b25c-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Place_the_ring_2x-80.jpg",
+            "custom_liquid": "",
+            "text": "<p>Slip the ring over the penis and down to the base. The loop and band will hang downwards.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15921100652706__067bd4cd-1595-4fd9-b5e6-454f34f78f53-16662654337cd1b25c-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Stretch_the_loop_2x-80.jpg",
+            "custom_liquid": "",
+            "text": "<p>Stretch the loop around the scrotum and bring it up above the testicles.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15921100652706__067bd4cd-1595-4fd9-b5e6-454f34f78f53-16662654337cd1b25c-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Attach_the_band_2x-80.jpg",
+            "custom_liquid": "",
+            "text": "<p>Attach the tab lock to the adhesive pad just above the buttocks, to secure Xialla in place.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15921100652706__067bd4cd-1595-4fd9-b5e6-454f34f78f53-16662654337cd1b25c-0",
+        "template--15921100652706__067bd4cd-1595-4fd9-b5e6-454f34f78f53-16662654337cd1b25c-1",
+        "template--15921100652706__067bd4cd-1595-4fd9-b5e6-454f34f78f53-16662654337cd1b25c-2"
+      ],
+      "settings": {
+        "title": "How to Wear Xialla",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
         "padding_bottom": 36
       }
     },
@@ -539,9 +539,9 @@
     "main",
     "0a027983-7e31-47a1-8863-e22bcb16fd71",
     "9faa5139-e198-4c4b-85ca-cd1bd2ba4b8a",
-    "067bd4cd-1595-4fd9-b5e6-454f34f78f53",
     "16a64dbe-3e7d-49b7-b16f-5502dfed06e1",
     "5eb77dca-27bb-40ab-99ec-47eafe994e52",
+    "067bd4cd-1595-4fd9-b5e6-454f34f78f53",
     "image-with-text",
     "multicolumn",
     "product-recommendations"
