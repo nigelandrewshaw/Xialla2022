@@ -23,6 +23,8 @@
   }
 {%- endstyle -%}
 
+<!-- Xialla - Display 3 most recent blog posts as related below main blog --> 
+
 {%- liquid
   assign posts_displayed = section.settings.blog.articles_count
   if section.settings.post_limit <= section.settings.blog.articles_count
@@ -30,6 +32,7 @@
     assign posts_displayed = section.settings.post_limit
   endif
 -%}
+
 <!-- Xialla 2022-10-09 18:18:57 Only display if not on Help blog. Otherwise ignore completely. --> 
 {% if  blog.title <> "Help" %}
   <div class="blog color-{{ section.settings.color_scheme }} gradient{% if section.settings.heading == blank %} no-heading{% endif %}">
@@ -135,7 +138,9 @@
       {%- endif -%}
     </div>
   </div>
+
 {% endif %}
+
 
 {% schema %}
 {
