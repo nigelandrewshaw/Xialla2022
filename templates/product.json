@@ -141,29 +141,6 @@
         "padding_bottom": 12
       }
     },
-    "f9c32888-3159-44b0-a0b0-f3a77f16ef6f": {
-      "type": "rich-text",
-      "blocks": {
-        "template--15921100652706__f9c32888-3159-44b0-a0b0-f3a77f16ef6f-1666265433de2911ce-0": {
-          "type": "heading",
-          "settings": {
-            "custom_liquid": "Who Xialla is For",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "template--15921100652706__f9c32888-3159-44b0-a0b0-f3a77f16ef6f-1666265433de2911ce-0"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "0a027983-7e31-47a1-8863-e22bcb16fd71": {
       "type": "rich-text",
       "blocks": {
@@ -304,7 +281,7 @@
         "template--15921100652706__067bd4cd-1595-4fd9-b5e6-454f34f78f53-16662654337cd1b25c-2"
       ],
       "settings": {
-        "title": "How to use Xialla",
+        "title": "How to Wear Xialla",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -312,6 +289,102 @@
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16a64dbe-3e7d-49b7-b16f-5502dfed06e1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15921100652706__16a64dbe-3e7d-49b7-b16f-5502dfed06e1-1666265433de2911ce-0": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "Specifications and Sizing",
+            "heading_size": "h1"
+          }
+        },
+        "template--15921100652706__16a64dbe-3e7d-49b7-b16f-5502dfed06e1-1666265433de2911ce-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Xialla comes in three sizes, Regular, Slender and Thicker. The three sizes differ only in the diameter and circumference of the ring. Xialla is very stretchy, able to stretch to 4x its original size. Xialla's ring is designed to fit slightly snug. It may seem smaller than expected when you receive it, but the stretchiness allows a broad range of fit. <\/p><p>If you're unsure of your size, start with the Regular. If you need to change size, it's free and hassle-free. There's no need to return the original. We simply send the free replacement. <\/p>"
+          }
+        },
+        "template--15921100652706__16a64dbe-3e7d-49b7-b16f-5502dfed06e1-1666265433de2911ce-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15921100652706__16a64dbe-3e7d-49b7-b16f-5502dfed06e1-1666265433de2911ce-0",
+        "template--15921100652706__16a64dbe-3e7d-49b7-b16f-5502dfed06e1-1666265433de2911ce-1",
+        "template--15921100652706__16a64dbe-3e7d-49b7-b16f-5502dfed06e1-1666265433de2911ce-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "5eb77dca-27bb-40ab-99ec-47eafe994e52": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "template--15921100652706__5eb77dca-27bb-40ab-99ec-47eafe994e52-16662654337cd1b25c-0": {
+          "type": "column",
+          "settings": {
+            "custom_liquid": "Regular",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15921100652706__5eb77dca-27bb-40ab-99ec-47eafe994e52-16662654337cd1b25c-1": {
+          "type": "column",
+          "settings": {
+            "custom_liquid": "Slender",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15921100652706__5eb77dca-27bb-40ab-99ec-47eafe994e52-16662654337cd1b25c-2": {
+          "type": "column",
+          "settings": {
+            "custom_liquid": "Thicker",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15921100652706__5eb77dca-27bb-40ab-99ec-47eafe994e52-16662654337cd1b25c-0",
+        "template--15921100652706__5eb77dca-27bb-40ab-99ec-47eafe994e52-16662654337cd1b25c-1",
+        "template--15921100652706__5eb77dca-27bb-40ab-99ec-47eafe994e52-16662654337cd1b25c-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
@@ -465,10 +538,11 @@
   },
   "order": [
     "main",
-    "f9c32888-3159-44b0-a0b0-f3a77f16ef6f",
     "0a027983-7e31-47a1-8863-e22bcb16fd71",
     "9faa5139-e198-4c4b-85ca-cd1bd2ba4b8a",
     "067bd4cd-1595-4fd9-b5e6-454f34f78f53",
+    "16a64dbe-3e7d-49b7-b16f-5502dfed06e1",
+    "5eb77dca-27bb-40ab-99ec-47eafe994e52",
     "image-with-text",
     "multicolumn",
     "product-recommendations"
