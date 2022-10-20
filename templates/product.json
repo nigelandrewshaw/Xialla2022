@@ -166,7 +166,7 @@
         "02399bc1-f798-48d2-bb9d-4d8ad1d2bbe6": {
           "type": "text",
           "settings": {
-            "text": "<p>Because Xialla's unique design enhances sensations of length, girth and sensory stimulation, Xialla is also for couples who simply desire feelings of heightened intensity and pleasure.<\/p>"
+            "text": "<p>Because Xialla's unique design enhances sensations of length, girth and sensory stimulation, Xialla is also for couples who may not have ED, but simply desire feelings of heightened intensity and pleasure.<\/p>"
           }
         },
         "template--15921100652706__0a027983-7e31-47a1-8863-e22bcb16fd71-1666265433de2911ce-2": {
@@ -190,7 +190,7 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
