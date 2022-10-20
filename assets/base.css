@@ -2985,6 +2985,7 @@ details-disclosure > details {
   --font-heading-family: "rufina", sans-serif !important;
 }
 
+/* Xialla */ 
 /* Added By Zeian Shahzad */
 .banner__heading,
 .rich-text__heading,
@@ -3087,13 +3088,27 @@ cart-remove-button .button {
 [id^=x-] {
   position: relative;
   top: -130px;
+  height: 0px;
 }
 
 .contents-link {
   position: relative;
-  top: 160px;
+  top: 140px;
   font-size: 1.2rem;
   color: #cda788 !important;
+  text-decoration: none;
+}
+
+.contents-link:hover{
+  text-decoration: underline !important;
+}
+
+.blog-contents ul li a{
+  text-decoration: none;
+}
+
+.blog-contents ul li a:hover{
+  text-decoration: underline;
 }
 
 [id=x-contents] {
@@ -3116,12 +3131,14 @@ cart-remove-button .button {
   .blog-contents{
       background-color: #f2f2f2;
       padding: 20px;
-      padding-top: 0px;
+      padding-bottom: 10px;
+      
   }
 
   .blog-contents h2{
     margin-top: 0px !important;
   }
+
     
 
 /* END - Blog table of contents */
