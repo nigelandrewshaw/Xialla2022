@@ -141,16 +141,138 @@
         "padding_bottom": 12
       }
     },
+    "f9c32888-3159-44b0-a0b0-f3a77f16ef6f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15921100652706__f9c32888-3159-44b0-a0b0-f3a77f16ef6f-1666265433de2911ce-0": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "Who Xialla is For",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--15921100652706__f9c32888-3159-44b0-a0b0-f3a77f16ef6f-1666265433de2911ce-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "0a027983-7e31-47a1-8863-e22bcb16fd71": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15921100652706__0a027983-7e31-47a1-8863-e22bcb16fd71-1666265433de2911ce-0": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "Who is Xialla For?",
+            "heading_size": "h1"
+          }
+        },
+        "template--15921100652706__0a027983-7e31-47a1-8863-e22bcb16fd71-1666265433de2911ce-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Xialla is for any man who wants a better, harder, longer lasting erection. Xialla is also for men with more severe ED who may use Xialla in combination with drugs, injections or pumps to overcome difficulties getting and maintain an erection sufficient for complete and satisfying intercourse.<\/p>"
+          }
+        },
+        "cade1599-b820-4078-ae1d-4f91fd58e26d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Xialla is particularly well suited for men who have identified venous leak (blood outflow) as one of the causes of their ED. <\/p>"
+          }
+        },
+        "02399bc1-f798-48d2-bb9d-4d8ad1d2bbe6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Because Xialla's unique design enhances sensations of length, girth and sensory stimulation, Xialla is also for couples who simply desire feelings of heightened intensity and pleasure.<\/p>"
+          }
+        },
+        "template--15921100652706__0a027983-7e31-47a1-8863-e22bcb16fd71-1666265433de2911ce-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15921100652706__0a027983-7e31-47a1-8863-e22bcb16fd71-1666265433de2911ce-0",
+        "template--15921100652706__0a027983-7e31-47a1-8863-e22bcb16fd71-1666265433de2911ce-1",
+        "cade1599-b820-4078-ae1d-4f91fd58e26d",
+        "02399bc1-f798-48d2-bb9d-4d8ad1d2bbe6",
+        "template--15921100652706__0a027983-7e31-47a1-8863-e22bcb16fd71-1666265433de2911ce-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "9faa5139-e198-4c4b-85ca-cd1bd2ba4b8a": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15921100652706__9faa5139-e198-4c4b-85ca-cd1bd2ba4b8a-1666265433b3bf9e6a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unique Design",
+            "heading_size": "h1"
+          }
+        },
+        "template--15921100652706__9faa5139-e198-4c4b-85ca-cd1bd2ba4b8a-1666265433b3bf9e6a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Xialla consists of the ring, the loop, the band and the tab lock. Each part of Xialla is carefully designed to create a unique anchoring system. The result is that Xialla is held in place so it doesn't move during sex, making it 3x more effective than regular rings at treating blood outflow (venous leak).<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15921100652706__9faa5139-e198-4c4b-85ca-cd1bd2ba4b8a-1666265433b3bf9e6a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15921100652706__9faa5139-e198-4c4b-85ca-cd1bd2ba4b8a-1666265433b3bf9e6a-0",
+        "template--15921100652706__9faa5139-e198-4c4b-85ca-cd1bd2ba4b8a-1666265433b3bf9e6a-1",
+        "template--15921100652706__9faa5139-e198-4c4b-85ca-cd1bd2ba4b8a-1666265433b3bf9e6a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Xialla_Parts-80_474994d2-54bd-4514-af18-747f8317cb35.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "067bd4cd-1595-4fd9-b5e6-454f34f78f53": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--15921100652706__067bd4cd-1595-4fd9-b5e6-454f34f78f53-16662654337cd1b25c-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Place_the_ring.png",
+            "image": "shopify:\/\/shop_images\/Place_the_ring_2x-80.jpg",
             "custom_liquid": "",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Slip the ring over the penis and down to the base. The loop and band will hang downwards.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -158,9 +280,9 @@
         "template--15921100652706__067bd4cd-1595-4fd9-b5e6-454f34f78f53-16662654337cd1b25c-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Stretch_the_loop.png",
+            "image": "shopify:\/\/shop_images\/Stretch_the_loop_2x-80.jpg",
             "custom_liquid": "",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Stretch the loop around the scrotum and bring it up above the testicles.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -168,9 +290,9 @@
         "template--15921100652706__067bd4cd-1595-4fd9-b5e6-454f34f78f53-16662654337cd1b25c-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Attach_the_band.png",
+            "image": "shopify:\/\/shop_images\/Attach_the_band_2x-80.jpg",
             "custom_liquid": "",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Attach the tab lock to the adhesive pad just above the buttocks, to secure Xialla in place.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -182,14 +304,14 @@
         "template--15921100652706__067bd4cd-1595-4fd9-b5e6-454f34f78f53-16662654337cd1b25c-2"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "How to use Xialla",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
@@ -343,6 +465,9 @@
   },
   "order": [
     "main",
+    "f9c32888-3159-44b0-a0b0-f3a77f16ef6f",
+    "0a027983-7e31-47a1-8863-e22bcb16fd71",
+    "9faa5139-e198-4c4b-85ca-cd1bd2ba4b8a",
     "067bd4cd-1595-4fd9-b5e6-454f34f78f53",
     "image-with-text",
     "multicolumn",
