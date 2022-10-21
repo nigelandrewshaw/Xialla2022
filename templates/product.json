@@ -148,7 +148,7 @@
           "type": "heading",
           "settings": {
             "custom_liquid": "Who is Xialla For?",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "template--15921100652706__0a027983-7e31-47a1-8863-e22bcb16fd71-1666265433de2911ce-1": {
@@ -204,7 +204,7 @@
           "type": "heading",
           "settings": {
             "heading": "Unique Design is 3x More Effective",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "template--15921100652706__9faa5139-e198-4c4b-85ca-cd1bd2ba4b8a-1666265433b3bf9e6a-1": {
@@ -248,7 +248,7 @@
           "type": "heading",
           "settings": {
             "custom_liquid": "Soft, Stretchy and Comfortable",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "template--15921100652706__4eb37bfb-e60f-44fe-b0f9-9e877627c9ea-1666265433de2911ce-1": {
@@ -300,7 +300,7 @@
           "type": "heading",
           "settings": {
             "custom_liquid": "Sizing",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "template--15921100652706__16a64dbe-3e7d-49b7-b16f-5502dfed06e1-1666265433de2911ce-1": {
@@ -419,7 +419,7 @@
       ],
       "settings": {
         "title": "Quick and Easy to Wear",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
