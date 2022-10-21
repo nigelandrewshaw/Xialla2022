@@ -341,8 +341,8 @@
         "template--15921100652706__5eb77dca-27bb-40ab-99ec-47eafe994e52-16662654337cd1b25c-0": {
           "type": "column",
           "settings": {
-            "custom_liquid": "Regular",
-            "text": "<p>Erect penis circumference<br\/>5-6\" (13-15 cm) <\/p><p>Flaccid penis circumference<br\/>4-5\" (10-13 cm)<br\/><\/p>",
+            "custom_liquid": "Erect penis circumference",
+            "text": "<p>5-6\" | Size Regular<br\/>Under 5\" | Size Slender<br\/>Over 6\" | Size Thicker<br\/><\/p>",
             "link_label": "",
             "link": ""
           }
