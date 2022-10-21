@@ -342,7 +342,7 @@
           "type": "column",
           "settings": {
             "custom_liquid": "Regular",
-            "text": "<p><strong>FIT<br\/><\/strong>Erect penis circumference<br\/>5-6\" (13-15 cm) <\/p><p>Flaccid penis circumference<br\/>4-5\" (10-13 cm)<\/p><p><strong>XIALLA RING<br\/><\/strong>Inner diameter<br\/>0.94\" (2.4 cm)<\/p><p>Inner circumference<br\/>2.9\" (7.4 cm)<br\/><\/p>",
+            "text": "<p>Erect penis circumference<br\/>5-6\" (13-15 cm) <\/p><p>Flaccid penis circumference<br\/>4-5\" (10-13 cm)<br\/><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -351,7 +351,7 @@
           "type": "column",
           "settings": {
             "custom_liquid": "Slender",
-            "text": "<p><strong>FIT<\/strong><br\/>Erect penis circumference<br\/>Under 5\" (13 cm)<\/p><p>Flaccid penis circumference<br\/>Under 4\" (10 cm)<\/p><p><strong>XIALLA RING<br\/><\/strong>Inner diameter<br\/>0.85\" (2.2 cm)<\/p><p>Inner circumference<br\/>2.7\" (6.8 cm)<\/p>",
+            "text": "<p>Erect penis circumference<br\/>Under 5\" (13 cm)<\/p><p>Flaccid penis circumference<br\/>Under 4\" (10 cm)<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -360,7 +360,7 @@
           "type": "column",
           "settings": {
             "custom_liquid": "Thicker",
-            "text": "<p><strong>FIT<\/strong><br\/>Erect penis circumference<br\/>Over 6\" (15 cm)<\/p><p>Flaccid penis circumference<br\/>Over 5\" (13 cm)<\/p><p><strong>XIALLA RING<br\/><\/strong>Inner diameter<br\/>1.14\" (2.9 cm)<\/p><p>Inner circumference<br\/>3.6\" (9.1 cm)<\/p>",
+            "text": "<p>Erect penis circumference<br\/>Over 6\" (15 cm)<\/p><p>Flaccid penis circumference<br\/>Over 5\" (13 cm)<\/p>",
             "link_label": "",
             "link": ""
           }
