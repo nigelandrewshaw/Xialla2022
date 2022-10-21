@@ -475,6 +475,14 @@
             "link": "shopify:\/\/blogs\/help\/how-many-times-can-xialla-be-used-and-how-long-does-it-last",
             "icon": "none"
           }
+        },
+        "1d56cbd8-4ae1-4069-95cf-835a3eafb480": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is the circumference and diameter of the Xialla ring?",
+            "link": "shopify:\/\/blogs\/help\/what-is-the-circumference-and-diameter-of-the-xialla-ring",
+            "icon": "none"
+          }
         }
       },
       "block_order": [
@@ -483,7 +491,8 @@
         "template--15957959803042__b60594ad-1f79-4ba0-92fe-396394ecfa8d-16650052608d3c441a-2",
         "template--15957959803042__b60594ad-1f79-4ba0-92fe-396394ecfa8d-16650052608d3c441a-3",
         "38654cc0-2369-4de0-9c44-88fe664ff622",
-        "ac089aea-a53b-40f9-a544-297182b972bf"
+        "ac089aea-a53b-40f9-a544-297182b972bf",
+        "1d56cbd8-4ae1-4069-95cf-835a3eafb480"
       ],
       "settings": {
         "caption": "",
