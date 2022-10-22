@@ -354,7 +354,49 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 20,
-        "padding_bottom": 36
+        "padding_bottom": 0
+      }
+    },
+    "00fe8795-c2ce-4103-b50e-2613c73f9858": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15921100652706__00fe8795-c2ce-4103-b50e-2613c73f9858-16664400388c2d5384-0": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--15921100652706__00fe8795-c2ce-4103-b50e-2613c73f9858-16664400388c2d5384-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you're unsure of your size, start with the Regular. If you need to change size, it's free and hassle-free. There's no need to return the original. We'll simply send the free replacement. <\/p>"
+          }
+        },
+        "template--15921100652706__00fe8795-c2ce-4103-b50e-2613c73f9858-16664400388c2d5384-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15921100652706__00fe8795-c2ce-4103-b50e-2613c73f9858-16664400388c2d5384-0",
+        "template--15921100652706__00fe8795-c2ce-4103-b50e-2613c73f9858-16664400388c2d5384-1",
+        "template--15921100652706__00fe8795-c2ce-4103-b50e-2613c73f9858-16664400388c2d5384-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
       }
     },
     "067bd4cd-1595-4fd9-b5e6-454f34f78f53": {
@@ -564,6 +606,7 @@
     "fb02fb41-3064-4581-834c-7c29ded82fc1",
     "16a64dbe-3e7d-49b7-b16f-5502dfed06e1",
     "5eb77dca-27bb-40ab-99ec-47eafe994e52",
+    "00fe8795-c2ce-4103-b50e-2613c73f9858",
     "067bd4cd-1595-4fd9-b5e6-454f34f78f53",
     "image-with-text",
     "multicolumn",
