@@ -70,8 +70,7 @@
               {% assign start-index = start-index | divided_by: 60 %}
             
 
-
-              {%- for list-article in blog.articles offset: start-index -%}
+              {%- for list-article in blog.articles offset: index-of-last-article-to-start-at -%}
                 <!-- 
                   Xialla 2022-10-08 10:43:05 Omit current blog from list since we always
                   use this at the bottom of a blog article as a "Learn More" section. 
