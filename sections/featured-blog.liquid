@@ -34,7 +34,6 @@
 -%}
 
 <!-- Xialla 2022-10-09 18:18:57 Only display if not on Help blog. Otherwise ignore completely. --> 
-{% if  blog.title <> "Help" %}
   <div class="blog color-{{ section.settings.color_scheme }} gradient{% if section.settings.heading == blank %} no-heading{% endif %}">
     <div class="page-width-desktop isolate{% if posts_displayed < 3 %} page-width-tablet{% endif %} section-{{ section.id }}-padding">
       {%- unless section.settings.heading == blank -%}
@@ -55,50 +54,85 @@
             class="blog__posts articles-wrapper contains-card contains-card--article{% if settings.card_style == 'standard' %} contains-card--standard{% endif %} grid grid--peek grid--2-col-tablet grid--{{ section.settings.columns_desktop }}-col-desktop slider {% if posts_displayed > 2 %}slider--tablet{% else %}slider--mobile{% endif %}"
             role="list"
           >
-            <!-- Xialla 2022-10-09 17:09:51 -->
-            <!-- See if the current article is in the first n articles where n is the post limit --> 
-            {%- liquid 
-              assign is_current_in_limit = false
-              for list-article in section.settings.blog.articles limit: section.settings.post_limit
-                if article.title == list-article.title
-                    assign is_current_in_limit = true 
-                endif
-              endfor
-            -%}
-            <!-- Debug
-              IS CURRENT IN LIMIT: {{ is_current_in_limit }} 
-            --> 
+
+            {% if  blog.title == "Help" %}
+              <!-- Number of related articles to display --> 
+              {% assign num-articles-to-display = 3 %}
+            
+              <!-- Last article to start at when grabbing random articles to display --> 
+              {% assign index-of-last-article-to-start-at = blog.articles_count | minus: num-articles-to-display %}
+            
+              <!-- Get current second --> 
+              {% assign current-second = 'now' | date: '%S' %}
+            
+              <!-- Multiple seconds by last article by index of last article divided by 60 to get random starting index --> 
+              {% assign start-index = current-second | times: index-of-last-article-to-start-at %}
+              {% assign start-index = start-index | divided_by: 60 %}
             
 
-            <!-- if the current article is in the first n articles then the loop to display articles will 
-              need to be one greater than the loop limit becuase one article will get skipped, since we have
-              a check below to make sure the current article doesn't appear in the list of suggested articles. 
-            --> 
-            {%- liquid
-              assign adjusted_limit = section.settings.post_limit
-              if is_current_in_limit 
-                assign adjusted_limit = adjusted_limit | plus: 1
-              endif
-            -%}
-            <!-- Debug
-              SECTION SETTINGS POST LIMIT: {{ section.settings.post_limit }}
-              ADJUSTED LIMIT: {{ adjusted_limit }}  
-            --> 
 
-            {%- for list-article in section.settings.blog.articles limit: adjusted_limit -%}
-              <!-- 
-                Xialla 2022-10-08 10:43:05 Omit current blog from list since we always
-                use this at the bottom of a blog article as a "Learn More" section. 
-                Note: If you specify 4 articles in the sections settings, 3 will be displayed. 
-              -->
-              {%- if article.title != list-article.title -%}
-                <li id="Slide-{{ section.id }}-{{ forloop.index }}" class="blog__post grid__item article slider__slide slider__slide--full-width">
-                  {% render 'article-card', blog: section.settings.blog, article: list-article, media_aspect_ratio: 1.66, show_image: section.settings.show_image, show_date: section.settings.show_date, show_author: section.settings.show_author, show_excerpt: true %}
-                </li>
-              {%- else -%}
-                {% assign post_limit_plus_one = post_limit_plus_one | minus: 1 %}  
-              {%- endif -%}
-            {%- endfor -%}
+              {%- for list-article in blog.articles offset: start-index -%}
+                <!-- 
+                  Xialla 2022-10-08 10:43:05 Omit current blog from list since we always
+                  use this at the bottom of a blog article as a "Learn More" section. 
+                  Note: If you specify 4 articles in the sections settings, 3 will be displayed. 
+                -->
+                {%- if article.title != list-article.title -%}
+                  <li id="Slide-{{ section.id }}-{{ forloop.index }}" class="blog__post grid__item article slider__slide slider__slide--full-width">
+                    {% render 'article-card', blog: section.settings.blog, article: list-article, media_aspect_ratio: 1.66, show_image: section.settings.show_image, show_date: section.settings.show_date, show_author: section.settings.show_author, show_excerpt: true %}
+                  </li>
+                {%- endif -%}
+                {% if forloop.index == 3 %}
+                  {% break %}
+                {% endif %}
+              {%- endfor -%}
+            
+            {% else %}
+
+
+              <!-- Xialla 2022-10-09 17:09:51 -->
+              <!-- See if the current article is in the first n articles where n is the post limit --> 
+              {%- liquid 
+                assign is_current_in_limit = false
+                for list-article in section.settings.blog.articles limit: section.settings.post_limit
+                  if article.title == list-article.title
+                      assign is_current_in_limit = true 
+                  endif
+                endfor
+              -%}
+              <!-- Debug
+                IS CURRENT IN LIMIT: {{ is_current_in_limit }} 
+              --> 
+              
+
+              <!-- if the current article is in the first n articles then the loop to display articles will 
+                need to be one greater than the loop limit becuase one article will get skipped, since we have
+                a check below to make sure the current article doesn't appear in the list of suggested articles. 
+              --> 
+              {%- liquid
+                assign adjusted_limit = section.settings.post_limit
+                if is_current_in_limit 
+                  assign adjusted_limit = adjusted_limit | plus: 1
+                endif
+              -%}
+              <!-- Debug
+                SECTION SETTINGS POST LIMIT: {{ section.settings.post_limit }}
+                ADJUSTED LIMIT: {{ adjusted_limit }}  
+              --> 
+
+              {%- for list-article in section.settings.blog.articles limit: adjusted_limit -%}
+                <!-- 
+                  Xialla 2022-10-08 10:43:05 Omit current blog from list since we always
+                  use this at the bottom of a blog article as a "Learn More" section. 
+                  Note: If you specify 4 articles in the sections settings, 3 will be displayed. 
+                -->
+                {%- if article.title != list-article.title -%}
+                  <li id="Slide-{{ section.id }}-{{ forloop.index }}" class="blog__post grid__item article slider__slide slider__slide--full-width">
+                    {% render 'article-card', blog: section.settings.blog, article: list-article, media_aspect_ratio: 1.66, show_image: section.settings.show_image, show_date: section.settings.show_date, show_author: section.settings.show_author, show_excerpt: true %}
+                  </li>
+                {%- endif -%}
+              {%- endfor -%}
+            {% endif %}
           </ul>
           {%- if posts_exceed_limit -%}
             <div class="slider-buttons no-js-hidden{% if section.settings.post_limit < 3 %} medium-hide{% endif %}{% if section.settings.post_limit < 2 %} small-hide{% endif %}">
@@ -139,7 +173,6 @@
     </div>
   </div>
 
-{% endif %}
 
 
 {% schema %}
