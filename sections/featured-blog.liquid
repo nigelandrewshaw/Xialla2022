@@ -70,21 +70,46 @@
               {% assign start-index = start-index | divided_by: 60 %}
             
 
-              {%- for list-article in blog.articles offset: index-of-last-article-to-start-at -%}
+              {%- for list-article in blog.articles offset: start-index -%}
                 <!-- 
                   Xialla 2022-10-08 10:43:05 Omit current blog from list since we always
                   use this at the bottom of a blog article as a "Learn More" section. 
                   Note: If you specify 4 articles in the sections settings, 3 will be displayed. 
                 -->
+                {% assign need-extra-article = false %}
+                {% assign last-article-index = index-of-last-article-to-start-at %}
+
                 {%- if article.title != list-article.title -%}
                   <li id="Slide-{{ section.id }}-{{ forloop.index }}" class="blog__post grid__item article slider__slide slider__slide--full-width">
                     {% render 'article-card', blog: section.settings.blog, article: list-article, media_aspect_ratio: 1.66, show_image: section.settings.show_image, show_date: section.settings.show_date, show_author: section.settings.show_author, show_excerpt: true %}
                   </li>
+                  {% assign last-article-index = last-article-index | plus: 1 %}
+                {%- else -%}
+                  {% assign need-extra-article = true %}
                 {%- endif -%}
+
                 {% if forloop.index == 3 %}
                   {% break %}
                 {% endif %}
+
               {%- endfor -%}
+
+              {% if need-extra-article %}
+                {% assign  extra-article-index = 0 %}
+                {% if last-article-index == blog.articles_count %}
+                  {% assign extra-article-index = index-of-last-article-to-start-at | minus: 1 %}
+                {% else %}
+                  {% assign extra-article-index = last-article-index | plus: 1 %} }
+                {% endif %} 
+                
+                {%- for list-article in blog.articles offset: extra-article-index -%}
+                  <li id="Slide-{{ section.id }}-{{ forloop.index }}" class="blog__post grid__item article slider__slide slider__slide--full-width">
+                    {% render 'article-card', blog: section.settings.blog, article: list-article, media_aspect_ratio: 1.66, show_image: section.settings.show_image, show_date: section.settings.show_date, show_author: section.settings.show_author, show_excerpt: true %}
+                  </li>
+                  {% break %}
+                {% endfor %}
+              {% endif %}
+            
             
             {% else %}
 
