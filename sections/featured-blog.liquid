@@ -95,6 +95,7 @@
               {%- endfor -%}
 
               {% if need-extra-article %}
+                NEED EXTRA ARTICLE
                 {% assign  extra-article-index = 0 %}
                 {% if last-article-index == blog.articles_count %}
                   {% assign extra-article-index = index-of-last-article-to-start-at | minus: 1 %}
