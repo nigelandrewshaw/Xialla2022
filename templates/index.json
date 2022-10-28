@@ -58,6 +58,43 @@
         "fifty_percent_width": true
       }
     },
+    "eb0e15bd-6aa9-4f00-b4c1-f370e480f76b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15921100783778__eb0e15bd-6aa9-4f00-b4c1-f370e480f76b-16669864112146301e-0": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "What is Xialla?",
+            "heading_size": "h1"
+          }
+        },
+        "template--15921100783778__eb0e15bd-6aa9-4f00-b4c1-f370e480f76b-16669864112146301e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Xialla is an enhanced penis ring (cock ring) for treating erectile dysfunction. It works by slowing blood outflow (venous leak) better than regular rings.<\/p>"
+          }
+        },
+        "0abc2dca-58db-43cf-a40c-9deaed62503a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Xialla is pronounced <strong>zee-ah-la<\/strong>. The name is meant to sound unique, strong and sexy.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15921100783778__eb0e15bd-6aa9-4f00-b4c1-f370e480f76b-16669864112146301e-0",
+        "template--15921100783778__eb0e15bd-6aa9-4f00-b4c1-f370e480f76b-16669864112146301e-1",
+        "0abc2dca-58db-43cf-a40c-9deaed62503a"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "166425116431cde5aa": {
       "type": "custom-liquid",
       "settings": {
@@ -535,6 +572,7 @@
   "order": [
     "image_banner",
     "16646301897acb8964",
+    "eb0e15bd-6aa9-4f00-b4c1-f370e480f76b",
     "166425116431cde5aa",
     "1664616703a24d7b00",
     "rich_text",
