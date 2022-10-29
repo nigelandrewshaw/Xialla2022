@@ -6,15 +6,15 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "Treat ED with the #1 Rated Wearable Device",
+            "custom_liquid": "GET BACK TO<BR\/>AMAZING SEX",
             "heading_size": "h0"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "",
-            "text_style": "body"
+            "text": "Treat ED with the #1 Rated Wearable Device",
+            "text_style": "subtitle"
           }
         },
         "button": {
@@ -68,23 +68,16 @@
             "heading_size": "h1"
           }
         },
-        "template--15921100783778__eb0e15bd-6aa9-4f00-b4c1-f370e480f76b-16669864112146301e-1": {
+        "9b189938-35b9-4c7a-b0e1-07c6c625f56d": {
           "type": "text",
           "settings": {
-            "text": "<p>Xialla is an enhanced penis ring (cock ring) for treating erectile dysfunction. It works by slowing blood outflow (venous leak) better than regular rings.<\/p>"
-          }
-        },
-        "0abc2dca-58db-43cf-a40c-9deaed62503a": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Xialla is pronounced <strong>zee-ah-la<\/strong>.<\/p>"
+            "text": "<p>Soft and stretchy, Xialla is the only ED ring that doesn't move during sex… and that's the key to a strong, long-lasting erection.<\/p>"
           }
         }
       },
       "block_order": [
         "template--15921100783778__eb0e15bd-6aa9-4f00-b4c1-f370e480f76b-16669864112146301e-0",
-        "template--15921100783778__eb0e15bd-6aa9-4f00-b4c1-f370e480f76b-16669864112146301e-1",
-        "0abc2dca-58db-43cf-a40c-9deaed62503a"
+        "9b189938-35b9-4c7a-b0e1-07c6c625f56d"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -118,13 +111,6 @@
     "rich_text": {
       "type": "rich-text",
       "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "custom_liquid": "Get Back to<br\/>Amazing Sex",
-            "heading_size": "h1"
-          }
-        },
         "text": {
           "type": "text",
           "settings": {
@@ -133,7 +119,6 @@
         }
       },
       "block_order": [
-        "heading",
         "text"
       ],
       "settings": {
