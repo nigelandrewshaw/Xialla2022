@@ -246,7 +246,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/life-buoy.png",
             "custom_liquid": "",
-            "text": "<p>We will alway be there to help you. <\/p>",
+            "text": "<p>We will always be there to help you. <\/p>",
             "link_label": "",
             "link": ""
           }
