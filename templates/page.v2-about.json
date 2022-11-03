@@ -21,7 +21,7 @@
         "166441660639de8c7e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Xialla was founded in 2019 with a mission to solve erectile dysfunction for most men, so they and their partners can get back to amazing sex.<\/p><p><strong>Nigel Shaw<br\/>Founder, CEO and Inventor<\/strong><\/p>",
+            "text": "<p>Xialla was founded in 2019 with a mission to solve erectile dysfunction for most men, so they and their partners can get back to amazing sex.<\/p><p>Xialla products are manufactured with care and attention to detail, to provide the ultimate in functionality and satisfaction.<\/p><p>Xialla operates at the highest level of medical integrity. Our products undergo rigorous peer-reviewed clinical trials that are published in leading medical journals, so you can trust their efficacy.<\/p><p>Xialla's customer service is second to none. Our customers come first, always.<\/p><p><strong>Nigel Shaw<br\/>Founder, CEO and Inventor<\/strong><\/p>",
             "text_style": "body"
           }
         },
@@ -49,50 +49,6 @@
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
         "padding_top": 100,
-        "padding_bottom": 36
-      }
-    },
-    "1664418396cda882e4": {
-      "type": "image-with-text",
-      "blocks": {
-        "1664418396b10fc7bc-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Medical Integrity",
-            "heading_size": "h1"
-          }
-        },
-        "1664418396b10fc7bc-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Xialla operates at the highest level of medical integrity. Our products undergo rigorous peer-reviewd clinical trials. Unlike competitors with exaggerated claims, we provide facts so that you can make informed  decisions.<\/p><p><strong>Dr. Anthony Bella, MD, FRCS(C)<br\/>Medical Director<\/strong><\/p>",
-            "text_style": "body"
-          }
-        },
-        "1664418396b10fc7bc-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1664418396b10fc7bc-0",
-        "1664418396b10fc7bc-1",
-        "1664418396b10fc7bc-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Bella_Image_dd82e60c-2f2a-4c80-91ed-c0a96da16187.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
         "padding_bottom": 36
       }
     },
@@ -130,12 +86,57 @@
         "image": "shopify:\/\/shop_images\/shutterstock_1379935829.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "2d89dc12-9436-4160-aaf6-195144c02379": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15936918487202__2d89dc12-9436-4160-aaf6-195144c02379-1667514891e4a50dee-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Tony_Bella_1.5x.png",
+            "custom_liquid": "Dr. Anthony Bella | MD, FRCS(C)",
+            "text": "<p>Dr Bella is a urological surgeon, researcher and educator. He is the Greta and John Hansen Chair in Men's Health Research, one of only four globally and the first in Canada, Assistant Professor of Urology and Director of Basic Urologic Research at the University of Ottawa, Canada, and Associate Scientist (Neuroscience) at the Ottawa Hospital Research Institute, University of Ottawa, Canada.<\/p><p>Dr Bella was accepted to medical school at McMaster University, and after completing his studies trained in General Surgery at McMaster followed by Urological Surgery at University of Western Ontario. Dr Bella then completed a combined research and clinical fellowship under Dr Tom F. Lue at the University of California San Francisco; he was the first American Foundation for Urologic Disease Robert J. Krane Scholar, received a California UrologyFoundation Award for stem cell research, and was named the American Urologic Association Foundation Outstanding Graduate Scholar while at UCSF.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15936918487202__2d89dc12-9436-4160-aaf6-195144c02379-1667514891e4a50dee-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Julia_Shaw_1.5x.png",
+            "custom_liquid": "Julia Shaw | BSc, MSc, PhD Student",
+            "text": "<p>Julia did her undergraduate degree at McGill university in epidemiology and has a strong background in the health and fitness industry. <\/p><p>She completed her master's degree in epidemiology at the University of Ottawa during which she also worked in clinical research at the Ottawa General Hospital. Julia has been working in anesthesia research since 2018, during which she developed expertise in knowledge synthesis studies and in large data analysis.<\/p><p>Julia also worked on large, multi-center clinical trials in the older adult surgical population. Julia is pursuing her PhD in Epidemiology with a focus on quantitative methods and applied biostatistics, as well as the design and execution of cluster-randomized clnical trials.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15936918487202__2d89dc12-9436-4160-aaf6-195144c02379-1667514891e4a50dee-1",
+        "template--15936918487202__2d89dc12-9436-4160-aaf6-195144c02379-1667514891e4a50dee-0"
+      ],
+      "settings": {
+        "title": "Medical Team",
+        "heading_size": "h1",
+        "image_width": "custom_image_size_width",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -278,8 +279,8 @@
   "order": [
     "main",
     "16644166066a7a17fc",
-    "1664418396cda882e4",
     "16644175720f540a9f",
+    "2d89dc12-9436-4160-aaf6-195144c02379",
     "1664418306a32ea326",
     "1664417113f5e36280"
   ]
