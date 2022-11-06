@@ -10,10 +10,17 @@
             "heading_size": "h0"
           }
         },
+        "a5550f88-02ab-4fb5-916b-747b17de40db": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "Ask a question, earn $50",
+            "heading_size": "h2"
+          }
+        },
         "1664757852ede05a5f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>I'm really excited to announce this brand new page devoted to answering questions from our many customers.  <\/p><p>Have a question about ED or how to treat it? Send your question here and we'll be happy to answer it. <\/p><p>If we think the answer will benefit others, we'll post it here, anonymously of course, and send you a $50 coupon for Xialla products as our way of saying thanks.<\/p>"
+            "text": "<p>I'm really excited to announce this brand new page devoted to answering questions from our many customers.  <\/p><p>Have a question about ED or how to treat it? Send your question here and we'll be happy to answer it. <\/p><p>If we post it here (anonomously) we'll send you a $50 coupon for Xialla products as our way of saying thanks for helping others.<\/p><p>Nigel<\/p>"
           }
         },
         "f6a5c1eb-6ae5-4eef-8eae-a7c9dd61f4bd": {
@@ -41,6 +48,7 @@
       },
       "block_order": [
         "1664757852ede05a5f-0",
+        "a5550f88-02ab-4fb5-916b-747b17de40db",
         "1664757852ede05a5f-1",
         "f6a5c1eb-6ae5-4eef-8eae-a7c9dd61f4bd",
         "1664757852ede05a5f-2"
