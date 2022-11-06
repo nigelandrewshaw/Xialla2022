@@ -6,14 +6,25 @@
         "1664757852ede05a5f-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "Knowledge Center",
+            "custom_liquid": "Q&A",
             "heading_size": "h0"
           }
         },
         "1664757852ede05a5f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Learn about erectile dysfunction causes and treatments. Get the facts to understand how Xialla can best help with your unique ED challenges. <\/p>"
+            "text": "<p>I'm really excited to announce this brand new page devoted to answering questions from our many customers.  <\/p><p>Have a question about ED or how to treat it? Send your question here and we'll be happy to answer it. <\/p><p>If we think the answer will benefit others, we'll post it here, anonymously of course, and send you a $50 coupon for Xialla products as our way of saying thanks.<\/p>"
+          }
+        },
+        "f6a5c1eb-6ae5-4eef-8eae-a7c9dd61f4bd": {
+          "type": "button",
+          "settings": {
+            "button_label": "Click here to ask a question",
+            "button_link": "mailto:nigel@xialla.com?subject=Question for the Xialla Tem",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         },
         "1664757852ede05a5f-2": {
@@ -31,6 +42,7 @@
       "block_order": [
         "1664757852ede05a5f-0",
         "1664757852ede05a5f-1",
+        "f6a5c1eb-6ae5-4eef-8eae-a7c9dd61f4bd",
         "1664757852ede05a5f-2"
       ],
       "settings": {
