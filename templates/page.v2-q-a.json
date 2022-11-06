@@ -18,18 +18,18 @@
             "heading_size": "h1"
           }
         },
-        "template--16006413025442__0a95fbac-c813-426e-aad9-29389af0e5a7-16677745150f5014dc-1": {
+        "5fa39310-bbc2-4593-b387-3c681d1dd421": {
           "type": "text",
           "settings": {
-            "text": "<p>I'm really excited to announce this brand new page devoted to answering interesting questions from our many customers. <\/p>"
+            "text": "<p>I'm really excited to announce this brand new page devoted to answering questions from our many customers.  <\/p><p>Have a question about ED or how to treat it? Send your question here and we'll be happy to answer it. <\/p><p>If we think the answer will benefit others, we'll post it here, anonymously of course, and send you a $50 coupon for Xialla products as our way of saying thanks.<\/p>"
           }
         },
         "template--16006413025442__0a95fbac-c813-426e-aad9-29389af0e5a7-16677745150f5014dc-2": {
           "type": "button",
           "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
+            "button_label": "Click here to ask a question",
+            "button_link": "mailto:nigel@xialla.com?Subject=Question for Xialla Team",
+            "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -38,7 +38,7 @@
       },
       "block_order": [
         "template--16006413025442__0a95fbac-c813-426e-aad9-29389af0e5a7-16677745150f5014dc-0",
-        "template--16006413025442__0a95fbac-c813-426e-aad9-29389af0e5a7-16677745150f5014dc-1",
+        "5fa39310-bbc2-4593-b387-3c681d1dd421",
         "template--16006413025442__0a95fbac-c813-426e-aad9-29389af0e5a7-16677745150f5014dc-2"
       ],
       "settings": {
