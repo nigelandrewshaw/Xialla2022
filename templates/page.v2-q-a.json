@@ -8,6 +8,48 @@
         "padding_bottom": 28
       }
     },
+    "0a95fbac-c813-426e-aad9-29389af0e5a7": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16006413025442__0a95fbac-c813-426e-aad9-29389af0e5a7-16677745150f5014dc-0": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "Welcome to the new Q&A page!",
+            "heading_size": "h1"
+          }
+        },
+        "template--16006413025442__0a95fbac-c813-426e-aad9-29389af0e5a7-16677745150f5014dc-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>I'm really excited to announce this brand new page devoted to answering interesting questions from our many customers. <\/p>"
+          }
+        },
+        "template--16006413025442__0a95fbac-c813-426e-aad9-29389af0e5a7-16677745150f5014dc-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16006413025442__0a95fbac-c813-426e-aad9-29389af0e5a7-16677745150f5014dc-0",
+        "template--16006413025442__0a95fbac-c813-426e-aad9-29389af0e5a7-16677745150f5014dc-1",
+        "template--16006413025442__0a95fbac-c813-426e-aad9-29389af0e5a7-16677745150f5014dc-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "3e1f74ce-aae0-4691-81b1-e8c60f6273c4": {
       "type": "blog-collapsible-content",
       "blocks": {
@@ -18,37 +60,10 @@
             "link": "shopify:\/\/blogs\/qa\/why-is-ed-not-considered-a-disease",
             "icon": "none"
           }
-        },
-        "template--16006413025442__3e1f74ce-aae0-4691-81b1-e8c60f6273c4-1667774483e16b7838-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "link": "",
-            "icon": "none"
-          }
-        },
-        "template--16006413025442__3e1f74ce-aae0-4691-81b1-e8c60f6273c4-1667774483e16b7838-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "link": "",
-            "icon": "none"
-          }
-        },
-        "template--16006413025442__3e1f74ce-aae0-4691-81b1-e8c60f6273c4-1667774483e16b7838-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "link": "",
-            "icon": "none"
-          }
         }
       },
       "block_order": [
-        "template--16006413025442__3e1f74ce-aae0-4691-81b1-e8c60f6273c4-1667774483e16b7838-0",
-        "template--16006413025442__3e1f74ce-aae0-4691-81b1-e8c60f6273c4-1667774483e16b7838-1",
-        "template--16006413025442__3e1f74ce-aae0-4691-81b1-e8c60f6273c4-1667774483e16b7838-2",
-        "template--16006413025442__3e1f74ce-aae0-4691-81b1-e8c60f6273c4-1667774483e16b7838-3"
+        "template--16006413025442__3e1f74ce-aae0-4691-81b1-e8c60f6273c4-1667774483e16b7838-0"
       ],
       "settings": {
         "caption": "",
@@ -68,6 +83,7 @@
   },
   "order": [
     "main",
+    "0a95fbac-c813-426e-aad9-29389af0e5a7",
     "3e1f74ce-aae0-4691-81b1-e8c60f6273c4"
   ]
 }
