@@ -33,7 +33,6 @@
   endif
 -%}
 
-<!-- Xialla 2022-10-09 18:18:57 Only display if not on Help blog. Otherwise ignore completely. --> 
   <div class="blog color-{{ section.settings.color_scheme }} gradient{% if section.settings.heading == blank %} no-heading{% endif %}">
     <div class="page-width-desktop isolate{% if posts_displayed < 3 %} page-width-tablet{% endif %} section-{{ section.id }}-padding">
       {%- unless section.settings.heading == blank -%}
@@ -55,7 +54,7 @@
             role="list"
           >
 
-            {% if  blog.title == "Help" %}
+            {% if  blog.title == "Help" or blog.title == "QA" %}
               <!-- Number of related articles to display --> 
               {% assign num-articles-to-display = 3 %}
             
