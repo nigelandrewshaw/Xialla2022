@@ -1,7 +1,61 @@
 {
   "sections": {
+    "43144709-b93f-48b0-9220-c0e48294e99e": {
+      "type": "image-with-text",
+      "blocks": {
+        "0e1d023e-0c68-4218-bfa8-a94fa2591723": {
+          "type": "caption",
+          "settings": {
+            "caption": "Ask a question, earn $50 for helping others",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--16006435078306__43144709-b93f-48b0-9220-c0e48294e99e-16678283331608dfce-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Q&A",
+            "heading_size": "h0"
+          }
+        },
+        "template--16006435078306__43144709-b93f-48b0-9220-c0e48294e99e-16678283331608dfce-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>I'm really excited to announce this page devoted to answering questions from our many customers.  <\/p><p>Have a question about ED or how to treat it? Click the button below to ask and we'll be happy to answer it. If we think it will help others we'll post it here (anonymously) and we'll send you a $50 coupon for Xialla products. <\/p><p>Nigel<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16006435078306__43144709-b93f-48b0-9220-c0e48294e99e-16678283331608dfce-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "0e1d023e-0c68-4218-bfa8-a94fa2591723",
+        "template--16006435078306__43144709-b93f-48b0-9220-c0e48294e99e-16678283331608dfce-0",
+        "template--16006435078306__43144709-b93f-48b0-9220-c0e48294e99e-16678283331608dfce-1",
+        "template--16006435078306__43144709-b93f-48b0-9220-c0e48294e99e-16678283331608dfce-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IsItRightForMe_c3377209-6316-4747-97e2-6862657f040b.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1664757852ecb0f594": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "1664757852ede05a5f-0": {
           "type": "heading",
@@ -76,6 +130,7 @@
     }
   },
   "order": [
+    "43144709-b93f-48b0-9220-c0e48294e99e",
     "1664757852ecb0f594",
     "main"
   ]
