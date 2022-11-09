@@ -498,6 +498,23 @@
         "padding_bottom": 36
       }
     },
+    "4f663273-b75f-44ba-bed4-df0a9f2975d5": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Q&A | Customers are asking...",
+        "heading_size": "h1",
+        "blog": "qa",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "accent-2",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1664051083e6c268e5": {
       "type": "multicolumn",
       "blocks": {
@@ -571,6 +588,7 @@
     "1664040620aca5f6b8",
     "1664048786865ff34e",
     "166405090125a601de",
+    "4f663273-b75f-44ba-bed4-df0a9f2975d5",
     "1664051083e6c268e5"
   ]
 }
