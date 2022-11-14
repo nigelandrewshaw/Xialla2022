@@ -72,27 +72,6 @@ You can learn more about this (and learn how to cleanly revert these changes) at
        assign body_font_bold_italic = body_font_bold | font_modify: 'style', 'italic'
      %}
 
-     <!-- Xialla custom script --> 
-     <script>
-
-      /* Get qty of distinct random numbers from a range and ignore this number */ 
-      function getRandom( max, howMany, ignore )
-      {
-        var min = 1;
-        var a = new Array();
-        while (a.length < howMany) {
-            var n = Math.floor(Math.random() * (max - min) + 0.5) + min;
-            if ( (a.indexOf(n) == -1) && (n != ignore) ) {
-                a.push(n);
-            }
-        }
-        /// a.sort(function(a, b){return a-b}); // optional sorting
-        console.log(a);
-        return a;
-      }
-
-     </script>
-
     <!-- Adobe fonts -->
     <link rel="stylesheet" href="https://use.typekit.net/shw7daa.css">
 
@@ -372,7 +351,6 @@ You can learn more about this (and learn how to cleanly revert these changes) at
   </head>
 
   <body class="gradient">
-
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
       {{ "accessibility.skip_to_text" | t }}
     </a>
