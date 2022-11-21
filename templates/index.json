@@ -13,7 +13,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "Treat ED with the #1 Rated Wearable Device",
+            "text": "Venous leak contributes to 55% of ED cases. Drugs, injections and pumps don't treat venous leak. If you lose your erection, or have trouble obtaining one, you owe it to yourself to try Xialla. It's risk free with our 100% money back guarantee.",
             "text_style": "subtitle"
           }
         },
@@ -36,7 +36,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Passionate_kissing_-_mobile.jpg",
-        "image_overlay_opacity": 30,
+        "image_overlay_opacity": 50,
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "bottom-center",
