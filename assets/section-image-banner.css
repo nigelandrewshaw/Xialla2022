@@ -359,11 +359,14 @@
 
 .banner__box > * + .banner__text {
   margin-top: 1.5rem;
+  line-height: 2.3rem;
+  font-size: 1.1em;
 }
 
 @media screen and (min-width: 750px) {
   .banner__box > * + .banner__text {
     margin-top: 2rem;
+    line-height: 2.3rem;
   }
 }
 
