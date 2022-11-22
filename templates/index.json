@@ -399,22 +399,12 @@
             "link": "shopify:\/\/blogs\/knowledge-center\/how-xialla-corrects-venous-leak"
           }
         },
-        "16640487868d640e96-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Xialla_and_Medication_03a05069-a113-4049-80bd-99851502a721.png",
-            "custom_liquid": "Xialla + Medication",
-            "text": "<p>Your regularly prescribed ED medication increases blood inflow. Xialla helps you prevent blood outflow so that your erection stays stronger for longer.<\/p>",
-            "link_label": "Find out more",
-            "link": "shopify:\/\/blogs\/knowledge-center\/xialla-and-ed-medication"
-          }
-        },
         "16640487868d640e96-2": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Xialla_and_Injections.png",
             "custom_liquid": "Xialla + Injections",
-            "text": "<p>Xialla has been clinically tested to complement penile injection therapies. While injections primarily target blood inflow, Xialla targets blood outflow.<\/p>",
+            "text": "<p>Xialla has been clinically tested to complement penile injection therapies. While injections primarily target blood inflow, Xialla targets blood outflow (venous leak) .<\/p>",
             "link_label": "Find out more",
             "link": "shopify:\/\/blogs\/knowledge-center\/xialla-and-ed-medication"
           }
@@ -433,7 +423,6 @@
       "block_order": [
         "16640487868d640e96-0",
         "24214662-3e0a-439d-a332-564e2ff4f4b4",
-        "16640487868d640e96-1",
         "16640487868d640e96-2",
         "febe484e-3404-4087-bbb7-9a236bf71696"
       ],
