@@ -3087,14 +3087,14 @@ cart-remove-button .button {
 
 [id^=x-] {
   position: relative;
-  top: -140px;
+  top: -150px;
   height: 0px;
 }
 
 /* Link to go back up to contents */ 
 .contents-link {
   position: relative;
-  top: 160px;
+  top: 150px;
   font-size: 1.2rem;
   color: #cda788 !important;
   text-decoration: none;
@@ -3132,7 +3132,7 @@ cart-remove-button .button {
 
   /* Link to go back up to contents */
   .contents-link{
-      top: 100px;
+      top: 80px;
   }
 }
 
