@@ -3121,15 +3121,15 @@ cart-remove-button .button {
 
 @media only screen and (max-width: 890px) {
   
-  /* Adjust top to account for height of menu */
+/* Adjust top to account for height of menu */
   [id^=x-] {
-    top: -90px;
+    top: -120px;
   }
 
   /* Contents positioning */ 
   [id=x-contents] {
     position: relative;
-    top: -150px;
+    top: -100px;
     }
 
   /* Link to go back up to contents */
