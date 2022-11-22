@@ -3129,7 +3129,7 @@ cart-remove-button .button {
   /* Contents positioning */ 
   [id=x-contents] {
     position: relative;
-    top: -100px;
+    top: -150px;
     }
 
   /* Link to go back up to contents */
