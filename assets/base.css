@@ -3123,7 +3123,7 @@ cart-remove-button .button {
   
 /* Adjust top to account for height of menu */
   [id^=x-] {
-    top: -120px;
+    top: -90px;
   }
 
   /* Contents positioning */ 
