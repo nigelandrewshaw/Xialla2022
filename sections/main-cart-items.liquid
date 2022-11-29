@@ -32,9 +32,14 @@
 <cart-items class="page-width{% if cart == empty %} is-empty{% else %} section-{{ section.id }}-padding{% endif %}">
   <div class="title-wrapper-with-link">
     <h1 class="title title--primary">{{ 'sections.cart.title' | t }}</h1>
-    
+ 
     <!-- Xialla 2022-09-25 18:27:41 modified url to go to xialla-products collection. -->
     <a href="collections/xialla-products" class="underlined-link">{{ 'general.continue_shopping' | t }}</a>
+  </div>
+
+  <div>
+        <!-- Xialla 2022-11-29 10:45:34 added note about free shipping for orders > $50 --> 
+        <p><span style='font-weight:400'>Free shipping on orders over $50 USD</span></p>
   </div>
 
   <div class="cart__warnings">
