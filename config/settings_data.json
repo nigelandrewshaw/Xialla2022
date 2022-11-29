@@ -134,7 +134,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "FREE SHIPPING",
+              "text": "FREE SHIPPING on orders OVER $50",
               "text_alignment": "center",
               "color_scheme": "accent-2",
               "link": ""
