@@ -31,13 +31,6 @@
           "settings": {
           }
         },
-        "4f876a9b-177b-4976-8991-50cf5d16881e": {
-          "type": "text",
-          "settings": {
-            "text": "Buy 2 or more and save an additional 20%",
-            "text_style": "body"
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -131,7 +124,6 @@
         "price",
         "variant_picker",
         "quantity_selector",
-        "4f876a9b-177b-4976-8991-50cf5d16881e",
         "buy_buttons",
         "description",
         "collapsible-row-2",
