@@ -213,6 +213,14 @@
             "icon": "none"
           }
         },
+        "8ed673f4-c068-4cab-869f-81b74bd10319": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How much does shipping cost?",
+            "link": "shopify:\/\/blogs\/knowledge-center\/what-is-the-shipping-cost",
+            "icon": "none"
+          }
+        },
         "template--15957959803042__3fae06ff-9fd2-420c-a0f5-59c819526b8a-16650052608d3c441a-2": {
           "type": "collapsible_row",
           "settings": {
@@ -281,6 +289,7 @@
       "block_order": [
         "template--15957959803042__3fae06ff-9fd2-420c-a0f5-59c819526b8a-16650052608d3c441a-0",
         "template--15957959803042__3fae06ff-9fd2-420c-a0f5-59c819526b8a-16650052608d3c441a-1",
+        "8ed673f4-c068-4cab-869f-81b74bd10319",
         "template--15957959803042__3fae06ff-9fd2-420c-a0f5-59c819526b8a-16650052608d3c441a-2",
         "template--15957959803042__3fae06ff-9fd2-420c-a0f5-59c819526b8a-16650052608d3c441a-3",
         "c27ff7e6-287b-45a3-ae9d-2a2e8b785265",
