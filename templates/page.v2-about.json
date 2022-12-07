@@ -175,6 +175,50 @@
         "padding_bottom": 36
       }
     },
+    "16644175720f540a9f": {
+      "type": "image-with-text",
+      "blocks": {
+        "1664417572ffbda1ba-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Social Responsibility",
+            "heading_size": "h1"
+          }
+        },
+        "1664417572ffbda1ba-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Xialla products are designed to generate a net positive effect on individuals, famlies, social circles and society as a whole. <\/p><p>We're environmentally conscious with our products, packagng and business practices.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1664417572ffbda1ba-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664417572ffbda1ba-0",
+        "1664417572ffbda1ba-1",
+        "1664417572ffbda1ba-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/shutterstock_1379935829.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1664417113f5e36280": {
       "type": "multicolumn",
       "blocks": {
@@ -230,50 +274,6 @@
         "padding_top": 36,
         "padding_bottom": 68
       }
-    },
-    "16644175720f540a9f": {
-      "type": "image-with-text",
-      "blocks": {
-        "1664417572ffbda1ba-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Social Responsibility",
-            "heading_size": "h1"
-          }
-        },
-        "1664417572ffbda1ba-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Xialla products are designed to generate a net positive effect on individuals, famlies, social circles and society as a whole. <\/p><p>We're environmentally conscious with our products, packagng and business practices.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "1664417572ffbda1ba-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1664417572ffbda1ba-0",
-        "1664417572ffbda1ba-1",
-        "1664417572ffbda1ba-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/shutterstock_1379935829.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -281,7 +281,7 @@
     "16644166066a7a17fc",
     "2d89dc12-9436-4160-aaf6-195144c02379",
     "1664418306a32ea326",
-    "1664417113f5e36280",
-    "16644175720f540a9f"
+    "16644175720f540a9f",
+    "1664417113f5e36280"
   ]
 }
