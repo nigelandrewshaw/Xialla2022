@@ -52,106 +52,6 @@
         "padding_bottom": 36
       }
     },
-    "1664417113f5e36280": {
-      "type": "multicolumn",
-      "blocks": {
-        "16644171134b229aee-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/heart_41ec18a3-f8bf-4679-9ff0-92ec03715ea3.png",
-            "custom_liquid": "",
-            "text": "<p>You are the most important person to us.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "16644171134b229aee-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/heart-handshake_1.png",
-            "custom_liquid": "",
-            "text": "<p>We will always take care of you.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "16644171134b229aee-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/life-buoy.png",
-            "custom_liquid": "",
-            "text": "<p>We will always be there to help you. <\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "16644171134b229aee-0",
-        "16644171134b229aee-1",
-        "16644171134b229aee-2"
-      ],
-      "settings": {
-        "title": "Our promise",
-        "heading_size": "h1",
-        "image_width": "custom_image_size_width",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 68
-      }
-    },
-    "16644175720f540a9f": {
-      "type": "image-with-text",
-      "blocks": {
-        "1664417572ffbda1ba-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Social Responsibility",
-            "heading_size": "h1"
-          }
-        },
-        "1664417572ffbda1ba-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Xialla products are designed to generate a net positive effect on individuals, famlies, social circles and society as a whole. <\/p><p>We're environmentally conscious with our products, packagng and business practices.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "1664417572ffbda1ba-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1664417572ffbda1ba-0",
-        "1664417572ffbda1ba-1",
-        "1664417572ffbda1ba-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/shutterstock_1379935829.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "2d89dc12-9436-4160-aaf6-195144c02379": {
       "type": "multicolumn",
       "blocks": {
@@ -274,14 +174,114 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1664417113f5e36280": {
+      "type": "multicolumn",
+      "blocks": {
+        "16644171134b229aee-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/heart_41ec18a3-f8bf-4679-9ff0-92ec03715ea3.png",
+            "custom_liquid": "",
+            "text": "<p>You are the most important person to us.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16644171134b229aee-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/heart-handshake_1.png",
+            "custom_liquid": "",
+            "text": "<p>We will always take care of you.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16644171134b229aee-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/life-buoy.png",
+            "custom_liquid": "",
+            "text": "<p>We will always be there to help you. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16644171134b229aee-0",
+        "16644171134b229aee-1",
+        "16644171134b229aee-2"
+      ],
+      "settings": {
+        "title": "Our promise",
+        "heading_size": "h1",
+        "image_width": "custom_image_size_width",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 68
+      }
+    },
+    "16644175720f540a9f": {
+      "type": "image-with-text",
+      "blocks": {
+        "1664417572ffbda1ba-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Social Responsibility",
+            "heading_size": "h1"
+          }
+        },
+        "1664417572ffbda1ba-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Xialla products are designed to generate a net positive effect on individuals, famlies, social circles and society as a whole. <\/p><p>We're environmentally conscious with our products, packagng and business practices.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1664417572ffbda1ba-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664417572ffbda1ba-0",
+        "1664417572ffbda1ba-1",
+        "1664417572ffbda1ba-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/shutterstock_1379935829.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "16644166066a7a17fc",
-    "1664417113f5e36280",
-    "16644175720f540a9f",
     "2d89dc12-9436-4160-aaf6-195144c02379",
-    "1664418306a32ea326"
+    "1664418306a32ea326",
+    "1664417113f5e36280",
+    "16644175720f540a9f"
   ]
 }
