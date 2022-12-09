@@ -141,6 +141,14 @@
             "icon": "none"
           }
         },
+        "2e6a0d89-47e3-43db-8a00-9485f8c45636": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "When using Xialla with injection, should the injection be done before or after putting on Xialla?",
+            "link": "shopify:\/\/blogs\/qa\/when-using-xialla-with-injection-should-the-injection-be-done-before-or-after-putting-on-xialla",
+            "icon": "none"
+          }
+        },
         "72e55520-31b8-407f-8705-9e5c1b8f1df8": {
           "type": "collapsible_row",
           "settings": {
@@ -183,6 +191,7 @@
         "e2115fb1-dca4-4886-809a-76aea3ef82f7",
         "2a49311a-1ad4-4383-b662-93234b988346",
         "5f57a5ed-40ce-4abd-b6ab-4199703b0e16",
+        "2e6a0d89-47e3-43db-8a00-9485f8c45636",
         "72e55520-31b8-407f-8705-9e5c1b8f1df8",
         "0d0563dd-20f2-45e6-84de-29098a8d6541",
         "cae570c3-bae8-4624-bc2a-53905a13cbf7",
