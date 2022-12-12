@@ -69,6 +69,15 @@
             "page": ""
           }
         },
+        "3e1fd269-db88-4e0e-9098-06b578a069d1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Safety",
+            "icon": "check_mark",
+            "content": "<ul><li>Xialla is secured in place so it doesn't need to be as tight as regular rings to be effective. This makes it less likely to cause bruising or discomfort.<\/li><li>Xialla's band and loop serve as finger grips for easy and quick removal. This makes it safer in the event you need to remove the ring quickly. <\/li><li>Xialla is more stretchy than most rings, so is less likely to cause discomfort or bruising. Unlike rigid rings that can cause swelling making removal impossible, Xialla  can be removed quickly with a rapid forward pull on the loop. <\/li><li>In the event Xialla should even need to be cut off, the silicone material is soft and easy to cut.<\/li><\/ul>",
+            "page": ""
+          }
+        },
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
@@ -105,15 +114,6 @@
             "page": ""
           }
         },
-        "3e1fd269-db88-4e0e-9098-06b578a069d1": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Safety",
-            "icon": "check_mark",
-            "content": "<ul><li>Xialla is secured in place so it doesn't need to be as tight as regular rings to be effective. This makes it less likely to cause bruising or discomfort.<\/li><li>Xialla's band and loop serve as finger grips for easy and quick removal. This makes it safer in the event you need to remove the ring quickly. <\/li><li>Xialla is more stretchy than most rings, so is less likely to cause discomfort or bruising. Unlike rigid rings that can cause swelling making removal impossible, Xialla  can be removed quickly with a rapid forward pull on the loop. <\/li><li>In the event Xialla should even need to be cut off, the silicone material is soft and easy to cut.<\/li><\/ul>",
-            "page": ""
-          }
-        },
         "share": {
           "type": "share",
           "disabled": true,
@@ -141,11 +141,11 @@
         "collapsible-row-2",
         "c8bd3890-128a-4236-a845-c3887773c6b4",
         "collapsible-row-0",
+        "3e1fd269-db88-4e0e-9098-06b578a069d1",
         "collapsible-row-1",
         "0e433215-e321-4c32-8b95-b15e2cc84729",
         "collapsible-row-3",
         "defd38c8-7f87-417f-8df3-306e44e22094",
-        "3e1fd269-db88-4e0e-9098-06b578a069d1",
         "share",
         "6b59f54e-f6bf-408b-8a25-5927962faefb"
       ],
