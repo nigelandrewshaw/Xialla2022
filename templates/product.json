@@ -51,6 +51,15 @@
             "page": ""
           }
         },
+        "c8bd3890-128a-4236-a845-c3887773c6b4": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Instructions",
+            "icon": "lightning_bolt",
+            "content": "<p>Xialla can be put on in a few seconds, so it's ready when you are. <\/p><p>Full instructions: <a href=\"\/pages\/instructions\" title=\"\/pages\/instructions\">Click here<\/a>.<\/p>",
+            "page": ""
+          }
+        },
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
@@ -121,6 +130,7 @@
         "buy_buttons",
         "description",
         "collapsible-row-2",
+        "c8bd3890-128a-4236-a845-c3887773c6b4",
         "collapsible-row-0",
         "collapsible-row-1",
         "0e433215-e321-4c32-8b95-b15e2cc84729",
