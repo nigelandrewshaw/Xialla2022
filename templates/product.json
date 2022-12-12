@@ -63,9 +63,18 @@
         "defd38c8-7f87-417f-8df3-306e44e22094": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Adhesive pads",
+            "heading": "Adhesive Pads",
             "icon": "question_mark",
             "content": "<p>Xialla comes with 10 single-use adhesive pads. The pads are for securing Xialla in place. You can buy  adhesive pad refills in packs of 30.  <\/p><p>Buy adhesive pads <a href=\"\/products\/adhesive-pads-30-pack\" title=\"\/products\/adhesive-pads-30-pack\">here<\/a>.<\/p>",
+            "page": ""
+          }
+        },
+        "3e1fd269-db88-4e0e-9098-06b578a069d1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Safety and Comfort",
+            "icon": "check_mark",
+            "content": "<p>Xialla is designed with safety first, so you can use Xialla with confidence and peace of mind.<\/p><ul><li>Unlike hard rings that can cause discomfort or bruising, Xialla is made of soft, comfortable silicone.<\/li><li>Xialla is secured in place so it doesn't need to be as tight as regular rings to be effective. This makes it less likely to cause bruising or discomfort.<\/li><li>Xialla's loop serves as finger grips to widen the ring for easy and  comfortable removal. <\/li><\/ul>",
             "page": ""
           }
         },
@@ -75,15 +84,6 @@
             "heading": "Materials",
             "icon": "heart",
             "content": "<p>Xialla is made of soft, stretchy silicone with a smooth matte finish. It is hypo-allergenic and non-irritating.<\/p><p>The adhesive pads are made from smooth material that locks to the Xialla tab-lock, bonded to a hypo-allergenic adhesive backing.<\/p>",
-            "page": ""
-          }
-        },
-        "3e1fd269-db88-4e0e-9098-06b578a069d1": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Safety",
-            "icon": "check_mark",
-            "content": "<p>Xialla is designed with safety first, so you can use Xialla with confidence and peace of mind.<\/p><ul><li>Unlike hard rings that can cause discomfort or bruising, Xialla is made of soft, comfortable silicone.<\/li><li>Xialla is secured in place so it doesn't need to be as tight as regular rings to be effective. This makes it less likely to cause bruising or discomfort.<\/li><li>Xialla's loop serves as finger grips to widen the ring for easy and  comfortable removal. <\/li><\/ul>",
             "page": ""
           }
         },
@@ -141,8 +141,8 @@
         "collapsible-row-2",
         "c8bd3890-128a-4236-a845-c3887773c6b4",
         "defd38c8-7f87-417f-8df3-306e44e22094",
-        "collapsible-row-0",
         "3e1fd269-db88-4e0e-9098-06b578a069d1",
+        "collapsible-row-0",
         "collapsible-row-1",
         "0e433215-e321-4c32-8b95-b15e2cc84729",
         "collapsible-row-3",
