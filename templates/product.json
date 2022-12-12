@@ -80,6 +80,7 @@
         },
         "3e1fd269-db88-4e0e-9098-06b578a069d1": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Safety",
             "icon": "check_mark",
