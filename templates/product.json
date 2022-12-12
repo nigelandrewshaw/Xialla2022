@@ -80,11 +80,10 @@
         },
         "3e1fd269-db88-4e0e-9098-06b578a069d1": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "heading": "Safety",
             "icon": "check_mark",
-            "content": "<ul><li>Xialla is secured in place so it doesn't need to be as tight as regular rings to be effective. This makes it less likely to cause bruising or discomfort.<\/li><li>Xialla's band and loop serve as finger grips for easy and quick removal. This makes it safer in the event you need to remove the ring quickly. <\/li><li>Xialla is more stretchy than most rings, so is less likely to cause discomfort or bruising. Unlike rigid rings that can cause swelling making removal impossible, Xialla  can be removed quickly with a rapid forward pull on the loop. <\/li><li>In the event Xialla should ever need to be cut off, the silicone material is soft and easy to cut.<\/li><\/ul>",
+            "content": "<ul><li>Xialla is secured in place so it doesn't need to be as tight as regular rings to be effective. This makes it less likely to cause bruising or discomfort.<\/li><li>Xialla's band and loop serve as finger grips for easy and quick removal. This makes it safer in the event you need to remove the ring quickly. <\/li><\/ul>",
             "page": ""
           }
         },
