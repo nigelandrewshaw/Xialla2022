@@ -60,6 +60,15 @@
             "page": ""
           }
         },
+        "defd38c8-7f87-417f-8df3-306e44e22094": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Adhesive pads",
+            "icon": "question_mark",
+            "content": "<p>Xialla comes with 10 single-use adhesive pads. The pads are for securing Xialla in place. You can buy  adhesive pad refills in packs of 30.  <\/p>",
+            "page": ""
+          }
+        },
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
@@ -105,15 +114,6 @@
             "page": ""
           }
         },
-        "defd38c8-7f87-417f-8df3-306e44e22094": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Adhesive pads",
-            "icon": "question_mark",
-            "content": "<p>Xialla comes with 10 single-use adhesive pads. The pads are for securing Xialla in place. You can buy  adhesive pad refills in packs of 30.  <\/p>",
-            "page": ""
-          }
-        },
         "share": {
           "type": "share",
           "disabled": true,
@@ -140,12 +140,12 @@
         "description",
         "collapsible-row-2",
         "c8bd3890-128a-4236-a845-c3887773c6b4",
+        "defd38c8-7f87-417f-8df3-306e44e22094",
         "collapsible-row-0",
         "3e1fd269-db88-4e0e-9098-06b578a069d1",
         "collapsible-row-1",
         "0e433215-e321-4c32-8b95-b15e2cc84729",
         "collapsible-row-3",
-        "defd38c8-7f87-417f-8df3-306e44e22094",
         "share",
         "6b59f54e-f6bf-408b-8a25-5927962faefb"
       ],
@@ -167,7 +167,7 @@
         "template--15921100652706__0a027983-7e31-47a1-8863-e22bcb16fd71-1666265433de2911ce-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "<h2>Who is Xialla For?<\/h2>\n<p>Xialla is for:<\/p>\n<ul><li>Any man who wants a better, harder longer lasting erection.<\/li>\n<li>Men with more severe ED who have not yet found a solution.*<\/li>\n<li>Men and couples who may not have ED, but desire heightened intensity and pleasure.<\/li>\n<\/ul>\n<p style=\"font-size: 1.3rem\">* Men with severe ED may try Xialla either alone or in combination with other therapies for dramatic effect.<\/>",
+            "custom_liquid": "<h2>Who is Xialla For?<\/h2>\n<p>Xialla is for:<\/p>\n<ul>\n<li>Any man who has identified venous leak as one of the causes of their ED.\n<li>Any man who wants a better, harder longer lasting erection.<\/li>\n<li>Men with more severe ED who have not yet found a solution.*<\/li>\n<li>Men and couples who may not have ED, but desire heightened intensity and pleasure.<\/li>\n<\/ul>\n<p style=\"font-size: 1.3rem\">* Men with severe ED may try Xialla either alone or in combination with other therapies for dramatic effect.<\/>",
             "heading_size": "h2"
           }
         },
