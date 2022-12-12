@@ -65,7 +65,7 @@
           "settings": {
             "heading": "Materials",
             "icon": "heart",
-            "content": "<p>Soft, stretchy silicone with a smooth matte finish. Hypo-allergenic and non-irritating.<\/p>",
+            "content": "<p>Soft, stretchy silicone with a smooth matte finish. <\/p><p>Hypo-allergenic and non-irritating.<\/p>",
             "page": ""
           }
         },
@@ -105,6 +105,15 @@
             "page": ""
           }
         },
+        "3e1fd269-db88-4e0e-9098-06b578a069d1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Safety",
+            "icon": "check_mark",
+            "content": "",
+            "page": ""
+          }
+        },
         "share": {
           "type": "share",
           "disabled": true,
@@ -136,6 +145,7 @@
         "0e433215-e321-4c32-8b95-b15e2cc84729",
         "collapsible-row-3",
         "defd38c8-7f87-417f-8df3-306e44e22094",
+        "3e1fd269-db88-4e0e-9098-06b578a069d1",
         "share",
         "6b59f54e-f6bf-408b-8a25-5927962faefb"
       ],
