@@ -402,7 +402,7 @@ a.product__text {
 }
 
 .product-description-title{
-  margin-bottom: -10px;
+  margin-bottom: 0px;
 }
 
 .product--no-media .product__title,
