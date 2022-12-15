@@ -397,8 +397,8 @@ a.product__text {
 }
 
 /* Xialla Dec 15 2022 Fix product description headings so there's less space after them */ 
-.product__description.rte.quick-add-hidden p strong {
-  margin-bottom: -40px!important;  
+.custom-product-header {
+  margin-bottom: -20px;  
 }
 
 .product--no-media .product__title,
