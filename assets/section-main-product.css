@@ -397,8 +397,8 @@ a.product__text {
 }
 
 /* Xialla Dec 15 2022 Fix product description headings so there's less space after them */ 
-.product__description.p:strong {
-  color: red; 
+.product__description p strong {
+  margin-bottom: -20px !important; 
 }
 
 .product--no-media .product__title,
