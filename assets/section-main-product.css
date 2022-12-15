@@ -396,6 +396,11 @@ a.product__text {
   font-weight: 600;
 }
 
+/* Xialla Dec 15 2022 Fix product description headings so there's less space after them */ 
+.product__description.p:strong {
+  color: red; 
+}
+
 .product--no-media .product__title,
 .product--no-media .product__text,
 .product--no-media noscript .product-form__input,
