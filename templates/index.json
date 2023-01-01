@@ -242,6 +242,7 @@
         },
         "template--15921100783778__a1576c2b-d8eb-4c41-bfe2-1a0e64a86341-1672589115e6bfd74f-2": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "custom_liquid": "Shockwave Therpy",
             "text": "<ul><li>Shockwave therapy is proven effective in clinical trials.<\/li><li><\/li><\/ul>",
