@@ -253,7 +253,7 @@
           "type": "column",
           "settings": {
             "custom_liquid": "Vacuum Erection Devices (VEDs)",
-            "text": "<ul><li>$20-250<\/li><li>Promotes blood inflow<\/li><li>VED rings can move during sexual activity, reducing effectiveness<\/li><li>May use with Xialla for better results<\/li><\/ul>",
+            "text": "<ul><li>$20-250<\/li><li>Promotes blood <em>inflow<\/em><\/li><li>VED rings can move during sexual activity, reducing effectiveness<\/li><li>May use with Xialla for better results<\/li><\/ul>",
             "link_label": "Learn more",
             "link": "\/blogs\/knowledge-center\/using-xialla-with-ed-pumps"
           }
