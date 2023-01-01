@@ -213,48 +213,67 @@
     "a1576c2b-d8eb-4c41-bfe2-1a0e64a86341": {
       "type": "multicolumn",
       "blocks": {
+        "5578dcca-4dce-4786-8455-ba4b5be600e5": {
+          "type": "column",
+          "settings": {
+            "custom_liquid": "Xialla",
+            "text": "<ul><li>$49 one-time purchase<\/li><li>$29 for 30 single use pads refill<\/li><li>Treats excess blood <em>outflow<\/em> (venous leak)<\/li><li>Doesn't move during sexual activity<\/li><\/ul>",
+            "link_label": "Learn more",
+            "link": "shopify:\/\/products\/xialla"
+          }
+        },
         "dadcc71a-4210-4db2-93b8-903cc07c2730": {
           "type": "column",
           "settings": {
             "custom_liquid": "Oral ED Medication",
-            "text": "<ul><li>Oral ED medication promotes blood <em>inflow.<\/em><\/li><li>Xialla treats excess blood <em>outflow (venous leak).<\/em><\/li><\/ul>",
+            "text": "<ul><li>$5-20 per use<\/li><li>Promotes blood <em>inflow<\/em><\/li><li>May use with Xialla for severe ED<\/li><\/ul>",
             "link_label": "Learn more",
-            "link": "https:\/\/xialla.com\/blogs\/knowledge-center\/xialla-and-ed-medication"
+            "link": "\/blogs\/knowledge-center\/xialla-and-ed-medication#x-oral-medication-for-ed"
           }
         },
         "template--15921100783778__a1576c2b-d8eb-4c41-bfe2-1a0e64a86341-1672589115e6bfd74f-0": {
           "type": "column",
           "settings": {
             "custom_liquid": "Injection ED Medication",
-            "text": "<ul><li>Injection ED medication promotes blood <em>inflow.<\/em><\/li><li>Xialla treats excess blood <em>outflow (venous leak).<\/em><\/li><\/ul>",
+            "text": "<ul><li>$15-30 per use<\/li><li>Promotes blood <em>inflow<\/em><\/li><li>May use with Xialla for severe ED<\/li><\/ul>",
             "link_label": "Learn more",
-            "link": "https:\/\/xialla.com\/blogs\/knowledge-center\/xialla-and-ed-medication"
+            "link": "\/blogs\/knowledge-center\/xialla-and-ed-medication#x-injection-medication-for-ed"
           }
         },
         "template--15921100783778__a1576c2b-d8eb-4c41-bfe2-1a0e64a86341-1672589115e6bfd74f-1": {
           "type": "column",
           "settings": {
             "custom_liquid": "Eddie by Giddy",
-            "text": "<ul><li>Eddie can move during sexual activity, reducing effectiveness. <\/li><li>Xialla's ring is prevented from moving by the loop, band and tab-lock.<\/li><li>Xialla costs $49 with no subscription. Giddy costs $188 every 4 months.<\/li><\/ul>",
+            "text": "<ul><li>$188 every 4 months subscription<\/li><li>Can move during sexual activity, reducing effectiveness. <\/li><\/ul>",
             "link_label": "Learn more",
             "link": "\/blogs\/knowledge-center\/is-xialla-better-that-eddie-if-so-why"
           }
         },
+        "b98ffd56-ebb9-4328-b3ab-11f34bbb49b8": {
+          "type": "column",
+          "settings": {
+            "custom_liquid": "Vacuum Erection Devices (VEDs)",
+            "text": "<ul><li>$20-250<\/li><li>Promotes blood inflow<\/li><li>Rings can move during sexual activity, reducing effectiveness<\/li><li>May use with Xialla for better results<\/li><\/ul>",
+            "link_label": "Learn more",
+            "link": "\/blogs\/knowledge-center\/using-xialla-with-ed-pumps"
+          }
+        },
         "template--15921100783778__a1576c2b-d8eb-4c41-bfe2-1a0e64a86341-1672589115e6bfd74f-2": {
           "type": "column",
-          "disabled": true,
           "settings": {
-            "custom_liquid": "Shockwave Therpy",
-            "text": "<ul><li>Shockwave therapy is proven effective in clinical trials.<\/li><li><\/li><\/ul>",
-            "link_label": "",
-            "link": ""
+            "custom_liquid": "Shockwave Therapy",
+            "text": "<ul><li>$2,500<\/li><li>Promotes blood <em>inflow<\/em><\/li><li>May use with Xialla for severe ED<\/li><\/ul>",
+            "link_label": "Learn more",
+            "link": "\/blogs\/knowledge-center\/8-ed-treatment-types#x-shockwave-therapy"
           }
         }
       },
       "block_order": [
+        "5578dcca-4dce-4786-8455-ba4b5be600e5",
         "dadcc71a-4210-4db2-93b8-903cc07c2730",
         "template--15921100783778__a1576c2b-d8eb-4c41-bfe2-1a0e64a86341-1672589115e6bfd74f-0",
         "template--15921100783778__a1576c2b-d8eb-4c41-bfe2-1a0e64a86341-1672589115e6bfd74f-1",
+        "b98ffd56-ebb9-4328-b3ab-11f34bbb49b8",
         "template--15921100783778__a1576c2b-d8eb-4c41-bfe2-1a0e64a86341-1672589115e6bfd74f-2"
       ],
       "settings": {
