@@ -235,9 +235,9 @@
           "type": "column",
           "settings": {
             "custom_liquid": "Xialla vs Eddie by Giddy",
-            "text": "<ul><li>The Giddy ring can move during sexual activity, reducing effectiveness. <\/li><li>Xialla's patented mechanism prevents the ring from moving, making it 3x more effective at treating blood outflow (venous leak).<\/li><\/ul>",
+            "text": "<ul><li>Eddie can move during sexual activity, reducing effectiveness. <\/li><li>Xialla's ring is prevented from moving by the loop, band and tab-lock.<\/li><\/ul>",
             "link_label": "Learn more",
-            "link": ""
+            "link": "\/blogs\/knowledge-center\/is-xialla-better-that-eddie-if-so-why"
           }
         },
         "template--15921100783778__a1576c2b-d8eb-4c41-bfe2-1a0e64a86341-1672589115e6bfd74f-2": {
@@ -265,7 +265,7 @@
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
