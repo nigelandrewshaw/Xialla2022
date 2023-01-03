@@ -216,8 +216,9 @@
         "5578dcca-4dce-4786-8455-ba4b5be600e5": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Xialla_83b4adc4-9d45-4b23-a897-0a4e54d8d112.png",
             "custom_liquid": "Xialla",
-            "text": "<ul><li>$49 one-time purchase<\/li><li>$29 for 30 single use pads refill<\/li><li>Treats excess blood <em>outflow<\/em> (venous leak)<\/li><li>Doesn't move during sexual activity<\/li><\/ul>",
+            "text": "<ul><li>$49 one-time purchase<\/li><li>$29 for 30 single use pads refill<\/li><li>Treats excess blood <em>outflow<\/em> (venous leak)<\/li><li>Proven in independently published clinical trials<\/li><li>Doesn't move during sexual activity<\/li><\/ul>",
             "link_label": "Learn more",
             "link": "shopify:\/\/products\/xialla"
           }
@@ -225,46 +226,81 @@
         "dadcc71a-4210-4db2-93b8-903cc07c2730": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Medication_21987ae6-36aa-441d-896a-2ea972725403.png",
             "custom_liquid": "Oral ED Medication",
             "text": "<ul><li>$5-20 per use<\/li><li>Promotes blood <em>inflow<\/em><\/li><li>May use with Xialla for severe ED<\/li><\/ul>",
             "link_label": "Learn more",
-            "link": "\/blogs\/knowledge-center\/xialla-and-ed-medication#x-oral-medication-for-ed"
+            "link": "shopify:\/\/blogs\/knowledge-center\/8-ed-treatment-types"
           }
         },
         "template--15921100783778__a1576c2b-d8eb-4c41-bfe2-1a0e64a86341-1672589115e6bfd74f-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Injection.png",
             "custom_liquid": "Injection ED Medication",
             "text": "<ul><li>$15-30 per use<\/li><li>Promotes blood <em>inflow<\/em><\/li><li>May use with Xialla for severe ED<\/li><\/ul>",
             "link_label": "Learn more",
-            "link": "\/blogs\/knowledge-center\/xialla-and-ed-medication#x-injection-medication-for-ed"
+            "link": "shopify:\/\/blogs\/knowledge-center\/8-ed-treatment-types"
           }
         },
         "template--15921100783778__a1576c2b-d8eb-4c41-bfe2-1a0e64a86341-1672589115e6bfd74f-1": {
           "type": "column",
           "settings": {
-            "custom_liquid": "Eddie by Giddy",
-            "text": "<ul><li>$188 every 4 months subscription<\/li><li>Can move during sexual activity, reducing effectiveness<\/li><\/ul>",
+            "image": "shopify:\/\/shop_images\/Giddy.png",
+            "custom_liquid": "Eddie by Giddy ™",
+            "text": "<ul><li>$188 every 4 months subscription<\/li><li>Treats excess blood <em>outflow<\/em> (venous leak)<\/li><li>Can move during sexual activity, reducing effectiveness<\/li><li>Hard plastic rings may be uncomfortable to women's intimate area<\/li><\/ul>",
             "link_label": "Learn more",
-            "link": "\/blogs\/knowledge-center\/is-xialla-better-than-eddie-if-so-why"
+            "link": "shopify:\/\/blogs\/knowledge-center\/choose-best-ed-ring"
           }
         },
         "b98ffd56-ebb9-4328-b3ab-11f34bbb49b8": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Pump_ccaa2357-45e9-46f0-b47b-6da0ce76b118.png",
             "custom_liquid": "Vacuum Erection Devices (VEDs)",
             "text": "<ul><li>$20-250<\/li><li>Promotes blood <em>inflow<\/em><\/li><li>VED rings can move during sexual activity, reducing effectiveness<\/li><li>May use with Xialla for better results<\/li><\/ul>",
             "link_label": "Learn more",
-            "link": "\/blogs\/knowledge-center\/using-xialla-with-ed-pumps"
+            "link": "shopify:\/\/blogs\/knowledge-center\/8-ed-treatment-types"
           }
         },
         "template--15921100783778__a1576c2b-d8eb-4c41-bfe2-1a0e64a86341-1672589115e6bfd74f-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Shockwave.png",
             "custom_liquid": "Shockwave Therapy",
-            "text": "<ul><li>$2,500<\/li><li>Promotes blood <em>inflow<\/em><\/li><li>May use with Xialla for severe ED<\/li><\/ul>",
+            "text": "<ul><li>$2,500<\/li><li>Promotes blood <em>inflow<\/em><\/li><li>Proven in independent clinical trials<\/li><li>May use with Xialla for severe ED<\/li><\/ul>",
             "link_label": "Learn more",
-            "link": "\/blogs\/knowledge-center\/8-ed-treatment-types#x-shockwave-therapy"
+            "link": "shopify:\/\/blogs\/knowledge-center\/8-ed-treatment-types"
+          }
+        },
+        "def1470b-ca9c-4248-8653-f9f1f253bb18": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ring.png",
+            "custom_liquid": "Regular ED Ring",
+            "text": "<ul><li>$5-50<\/li><li>Treats excess blood <em>outflow<\/em> (venous leak)<\/li><li>Can move during sexual activity, reducing effectiveness<\/li><li>Can be difficult to remove<\/li><\/ul>",
+            "link_label": "Learn more",
+            "link": "shopify:\/\/blogs\/knowledge-center\/choose-best-ed-ring"
+          }
+        },
+        "38b04a25-1d02-4b7d-a6d9-1a46ffae0635": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Supplements.png",
+            "custom_liquid": "Testosterone Supplements",
+            "text": "<ul><li>$40-80 per month<\/li><li>Often covered by inurance<\/li><li>Replaces testosterone lost due to aging<\/li><li>Proven in clincal trials<\/li><li>May use with Xialla for improved results <\/li><\/ul>",
+            "link_label": "Learn more",
+            "link": "shopify:\/\/blogs\/knowledge-center\/8-ed-treatment-types"
+          }
+        },
+        "131b3dca-7ca7-4478-bce6-023a41447e4b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Venoseal.png",
+            "custom_liquid": "Venoseal ™",
+            "text": "<ul><li>$29<\/li><li>Treats excess blood <em>outflow<\/em> (venous leak)<\/li><li>Can move during sexual activity, reducing effectiveness<\/li><li>Hard plastic closure ring may be uncomfortable to women's intimate area<\/li><\/ul>",
+            "link_label": "",
+            "link": "shopify:\/\/blogs\/knowledge-center\/choose-best-ed-ring"
           }
         }
       },
@@ -274,12 +310,15 @@
         "template--15921100783778__a1576c2b-d8eb-4c41-bfe2-1a0e64a86341-1672589115e6bfd74f-0",
         "template--15921100783778__a1576c2b-d8eb-4c41-bfe2-1a0e64a86341-1672589115e6bfd74f-1",
         "b98ffd56-ebb9-4328-b3ab-11f34bbb49b8",
-        "template--15921100783778__a1576c2b-d8eb-4c41-bfe2-1a0e64a86341-1672589115e6bfd74f-2"
+        "template--15921100783778__a1576c2b-d8eb-4c41-bfe2-1a0e64a86341-1672589115e6bfd74f-2",
+        "def1470b-ca9c-4248-8653-f9f1f253bb18",
+        "38b04a25-1d02-4b7d-a6d9-1a46ffae0635",
+        "131b3dca-7ca7-4478-bce6-023a41447e4b"
       ],
       "settings": {
         "title": "Compare",
         "heading_size": "h1",
-        "image_width": "full",
+        "image_width": "custom_image_size_width",
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "left",
