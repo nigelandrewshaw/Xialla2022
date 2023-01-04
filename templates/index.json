@@ -320,7 +320,7 @@
         "heading_size": "h1",
         "image_width": "custom_image_size_width",
         "image_ratio": "adapt",
-        "columns_desktop": 4,
+        "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
