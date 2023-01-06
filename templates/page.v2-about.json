@@ -67,10 +67,11 @@
         },
         "9666b5bd-252d-41b1-84fd-80df9eabc536": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Dean_Elterman_1.5x_5218d377-c3eb-4196-a650-50a98ca69f8e.png",
             "custom_liquid": "Dr. Dean Elterman | MD, MSc, FRCSC",
-            "text": "<p>Dr. Dean S. Elterman completed his medical degree followed by residency in urologic surgery at the University of Toronto. He became a fellow of the Royal College of Physicians and Surgeons of Canada in 2011. Dr. Elterman completed a two-year fellowship in Voiding Dysfunction, Neuro-Urology, Female Urology and Pelvic Reconstruction at Memorial Sloan-Kettering Cancer Center and New York Presbyterian Hospital\/Weill Cornell Medical College in New York City.<\/p><p>Dr. Elterman has worked in the areas of men’s health and survivorship at the Iris Cantor Men’s Health Center at New York Presbyterian Hospital\/Weill Cornell Medical College and at the University of Toronto. He is the Medical Director of the Prostate Cancer Rehabilitation Clinic at Princess Margaret Hospital Cancer Centre.<\/p><p>He completed his Masters degree in Clinical Epidemiology and Health Services Research at Weill Cornell Graduate School of Medical Sciences.<\/p>",
+            "text": "<p>Dr. Elterman completed his medical degree followed by residency in urologic surgery at the University of Toronto. He became a fellow of the Royal College of Physicians and Surgeons of Canada in 2011. Dr. Elterman completed a two-year fellowship in Voiding Dysfunction, Neuro-Urology, Female Urology and Pelvic Reconstruction at Memorial Sloan-Kettering Cancer Center and New York Presbyterian Hospital\/Weill Cornell Medical College in New York City.<\/p><p>Dr. Elterman has worked in the areas of men’s health and survivorship at the Iris Cantor Men’s Health Center at New York Presbyterian Hospital\/Weill Cornell Medical College and at the University of Toronto. He is the Medical Director of the Prostate Cancer Rehabilitation Clinic at Princess Margaret Hospital Cancer Centre.<\/p><p>He completed his Masters degree in Clinical Epidemiology and Health Services Research at Weill Cornell Graduate School of Medical Sciences.<\/p>",
             "link_label": "",
             "link": ""
           }
