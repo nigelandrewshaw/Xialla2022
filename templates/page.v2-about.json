@@ -59,8 +59,29 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Tony_Bella_1.5x.png",
-            "custom_liquid": "Dr. Anthony Bella | MD, FRCS(C)",
+            "custom_liquid": "Dr. Anthony Bella | MD, FRCSC",
             "text": "<p>Dr. Bella is a urological surgeon, researcher and educator. He is the Greta and John Hansen Chair in Men's Health Research, one of only four globally and the first in Canada, Assistant Professor of Urology and Director of Basic Urologic Research at the University of Ottawa, Canada, and Associate Scientist (Neuroscience) at the Ottawa Hospital Research Institute, University of Ottawa, Canada.<\/p><p>Dr. Bella was accepted to medical school at McMaster University, and after completing his studies trained in General Surgery at McMaster followed by Urological Surgery at University of Western Ontario. <\/p><p>Dr. Bella then completed a combined research and clinical fellowship under Dr. Tom F. Lue at the University of California San Francisco; he was the first American Foundation for Urologic Disease Robert J. Krane Scholar, received a California Urology Foundation Award for stem cell research, and was named the American Urologic Association Foundation Outstanding Graduate Scholar while at UCSF.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "9666b5bd-252d-41b1-84fd-80df9eabc536": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dean_Elterman_1.5x_5218d377-c3eb-4196-a650-50a98ca69f8e.png",
+            "custom_liquid": "Dr. Dean Elterman | MD, MSc, FRCSC",
+            "text": "<p>Dr. Dean S. Elterman completed his medical degree followed by residency in urologic surgery at the University of Toronto. He became a fellow of the Royal College of Physicians and Surgeons of Canada in 2011. Dr. Elterman completed a two-year fellowship in Voiding Dysfunction, Neuro-Urology, Female Urology and Pelvic Reconstruction at Memorial Sloan-Kettering Cancer Center and New York Presbyterian Hospital\/Weill Cornell Medical College in New York City.<\/p><p>Dr. Elterman has worked in the areas of men’s health and survivorship at the Iris Cantor Men’s Health Center at New York Presbyterian Hospital\/Weill Cornell Medical College and at the University of Toronto. He is the Medical Director of the Prostate Cancer Rehabilitation Clinic at Princess Margaret Hospital Cancer Centre.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b4eba3f9-ade5-444f-b641-d2a5bb2d2761": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Faysal_Yafi_1.5x.png",
+            "custom_liquid": "Dr. Faysal Yafi | MD, FRCSC",
+            "text": "<p>Dr. Faysal Yafi<strong> <\/strong>is Associate Professor of Urology, Chief of the Division Men’s Health and Reconstructive Urology, Director of Men’s Health and Newport Urology and co-Director of the Eric S. Wisenbaugh GURS Fellowship in Male Reconstructive and Prosthetic Urology at the University of California, Irvine.<\/p><p>Dr. Yafi is the Middle East Liaison for the Sexual Medicine Society of North America. He is the current chair of the Consultation and Guidelines committee and is the two time chair of the Grants and Prizes committee for the International Society for Sexual Medicine.<\/p><p>Dr. Yafi also serves on the editorial boards of the Thai Journal of Urology, the Journal of Visualized Surgery, and the Video Journal of Prosthetic Urology.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -78,6 +99,8 @@
       },
       "block_order": [
         "template--15936918487202__2d89dc12-9436-4160-aaf6-195144c02379-1667514891e4a50dee-1",
+        "9666b5bd-252d-41b1-84fd-80df9eabc536",
+        "b4eba3f9-ade5-444f-b641-d2a5bb2d2761",
         "template--15936918487202__2d89dc12-9436-4160-aaf6-195144c02379-1667514891e4a50dee-0"
       ],
       "settings": {
