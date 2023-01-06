@@ -67,7 +67,6 @@
         },
         "9666b5bd-252d-41b1-84fd-80df9eabc536": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Dean_Elterman_1.5x_5218d377-c3eb-4196-a650-50a98ca69f8e.png",
             "custom_liquid": "Dr. Dean Elterman | MD, MSc, FRCSC",
@@ -81,7 +80,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Faysal_Yafi_1.5x.png",
             "custom_liquid": "Dr. Faysal Yafi | MD, FRCSC",
-            "text": "<p>Dr. Faysal Yafi<strong> <\/strong>is Associate Professor of Urology, Chief of the Division Men’s Health and Reconstructive Urology, Director of Men’s Health and Newport Urology and co-Director of the Eric S. Wisenbaugh GURS Fellowship in Male Reconstructive and Prosthetic Urology at the University of California, Irvine.<\/p><p>Dr. Yafi is the Middle East Liaison for the Sexual Medicine Society of North America. He is the current chair of the Consultation and Guidelines committee and is the two time chair of the Grants and Prizes committee for the International Society for Sexual Medicine.<\/p><p>Dr. Yafi also serves on the editorial boards of the Thai Journal of Urology, the Journal of Visualized Surgery, and the Video Journal of Prosthetic Urology.<\/p>",
+            "text": "<p>Dr. Yafi is Associate Professor of Urology, Chief of the Division Men’s Health and Reconstructive Urology, Director of Men’s Health and Newport Urology and co-Director of the Eric S. Wisenbaugh GURS Fellowship in Male Reconstructive and Prosthetic Urology at the University of California, Irvine. His practice is specialized in men’s health, erectile dysfunction, hypogonadism, Peyronie’s disease, prosthetic surgery, male voiding dysfunction\/enlarged prostate and male infertility.<\/p><p>Dr. Yafi earned his medical degree from the American University of Beirut. He then served his internship in General Surgery at the Mayo Clinic in Rochester, Minnesota and subsequently completed his residency in Urology at McGill University in Montreal, Quebec. He then completed a two year fellowship in Andrology, Sexual Medicine and Prosthetic Urology at Tulane University. Dr. Yafi is certified by the American Board of Urology and is a fellow of the Royal College of Surgeons of Canada.<\/p><p>Dr. Yafi serves on numerous national and international society committees as both member and chair. <\/p>",
             "link_label": "",
             "link": ""
           }
