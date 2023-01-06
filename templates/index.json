@@ -54,14 +54,14 @@
         "template--15921100783778__1935713a-17ad-4ca6-b987-f0c8533fcf21-1672967383b14b16bb-0": {
           "type": "heading",
           "settings": {
-            "heading": "Medically Proven",
+            "heading": "Clinically Proven",
             "heading_size": "h1"
           }
         },
         "template--15921100783778__1935713a-17ad-4ca6-b987-f0c8533fcf21-1672967383b14b16bb-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Xialla is proven in clinical trials and backed by the strongest medical team of any ED ring.<\/p>",
+            "text": "<p>Xialla is proven in clinical trials and backed by a world class medical team.<\/p><p>You can trust that Xialla is based on science and proven results.<\/p>",
             "text_style": "body"
           }
         },
