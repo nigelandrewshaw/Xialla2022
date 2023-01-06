@@ -48,50 +48,6 @@
         "show_text_below": true
       }
     },
-    "1935713a-17ad-4ca6-b987-f0c8533fcf21": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--15921100783778__1935713a-17ad-4ca6-b987-f0c8533fcf21-1672967383b14b16bb-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Clinically Proven",
-            "heading_size": "h1"
-          }
-        },
-        "template--15921100783778__1935713a-17ad-4ca6-b987-f0c8533fcf21-1672967383b14b16bb-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Xialla is proven in clinical trials and backed by a world class medical team.<\/p><p>You can trust that Xialla is based on leading medical science and proven results.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--15921100783778__1935713a-17ad-4ca6-b987-f0c8533fcf21-1672967383b14b16bb-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "About Us",
-            "button_link": "shopify:\/\/pages\/about-us"
-          }
-        }
-      },
-      "block_order": [
-        "template--15921100783778__1935713a-17ad-4ca6-b987-f0c8533fcf21-1672967383b14b16bb-0",
-        "template--15921100783778__1935713a-17ad-4ca6-b987-f0c8533fcf21-1672967383b14b16bb-1",
-        "template--15921100783778__1935713a-17ad-4ca6-b987-f0c8533fcf21-1672967383b14b16bb-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Xialla_Team_2x-80_4ed8a0c4-da80-4e53-8470-246ccab1f20d.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 52,
-        "padding_bottom": 52
-      }
-    },
     "166425116431cde5aa": {
       "type": "custom-liquid",
       "settings": {
@@ -488,6 +444,50 @@
         "padding_bottom": 68
       }
     },
+    "1935713a-17ad-4ca6-b987-f0c8533fcf21": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15921100783778__1935713a-17ad-4ca6-b987-f0c8533fcf21-1672967383b14b16bb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Clinically Proven",
+            "heading_size": "h1"
+          }
+        },
+        "template--15921100783778__1935713a-17ad-4ca6-b987-f0c8533fcf21-1672967383b14b16bb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Xialla is proven in clinical trials and backed by a world class medical team.<\/p><p>You can trust that Xialla is based on leading medical science and proven results.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15921100783778__1935713a-17ad-4ca6-b987-f0c8533fcf21-1672967383b14b16bb-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "About Us",
+            "button_link": "shopify:\/\/pages\/about-us"
+          }
+        }
+      },
+      "block_order": [
+        "template--15921100783778__1935713a-17ad-4ca6-b987-f0c8533fcf21-1672967383b14b16bb-0",
+        "template--15921100783778__1935713a-17ad-4ca6-b987-f0c8533fcf21-1672967383b14b16bb-1",
+        "template--15921100783778__1935713a-17ad-4ca6-b987-f0c8533fcf21-1672967383b14b16bb-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Xialla_Team_2x-80_4ed8a0c4-da80-4e53-8470-246ccab1f20d.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
     "4f663273-b75f-44ba-bed4-df0a9f2975d5": {
       "type": "featured-blog",
       "settings": {
@@ -564,7 +564,6 @@
   },
   "order": [
     "image_banner",
-    "1935713a-17ad-4ca6-b987-f0c8533fcf21",
     "166425116431cde5aa",
     "1664616703a24d7b00",
     "eb0e15bd-6aa9-4f00-b4c1-f370e480f76b",
@@ -577,6 +576,7 @@
     "166437503538559b7f",
     "1664040620aca5f6b8",
     "1664048786865ff34e",
+    "1935713a-17ad-4ca6-b987-f0c8533fcf21",
     "4f663273-b75f-44ba-bed4-df0a9f2975d5",
     "1664051083e6c268e5"
   ]
