@@ -67,7 +67,6 @@
         },
         "9666b5bd-252d-41b1-84fd-80df9eabc536": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Dean_Elterman_1.5x_5218d377-c3eb-4196-a650-50a98ca69f8e.png",
             "custom_liquid": "Dr. Dean Elterman | MD, MSc, FRCSC",
