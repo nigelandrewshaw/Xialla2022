@@ -536,7 +536,7 @@
     "4f663273-b75f-44ba-bed4-df0a9f2975d5": {
       "type": "featured-blog",
       "settings": {
-        "heading": "Q&A | Customers are asking...",
+        "heading": "Q&A | You Asked Us...",
         "heading_size": "h1",
         "blog": "qa",
         "post_limit": 3,
