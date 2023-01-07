@@ -71,7 +71,7 @@
         "template--15921100783778__c19dadeb-5a90-4ac2-bbaa-fdc431219fc2-1673102868864ae82b-1": {
           "type": "text",
           "settings": {
-            "text": "<p><a href=\"\/pages\/clinical-trials\" title=\"Clinical Trials\">Clinical Trials<\/a><\/p>"
+            "text": "<p><a href=\"\/pages\/about-us\" title=\"About Us\">About Us<\/a><\/p>"
           }
         },
         "template--15921100783778__c19dadeb-5a90-4ac2-bbaa-fdc431219fc2-1673102868864ae82b-2": {
@@ -97,7 +97,7 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 0,
-        "padding_bottom": 68
+        "padding_bottom": 48
       }
     },
     "166425116431cde5aa": {
