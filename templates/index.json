@@ -48,6 +48,16 @@
         "show_text_below": true
       }
     },
+    "f3b666dc-45b6-48d1-b5df-b8acee40e44b": {
+      "type": "custom-image-section",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Nigel_and_Tony_2x_6594f06a-3cdf-484f-bf37-57a3d0051849.png",
+        "image_mobile": "shopify:\/\/shop_images\/Nigel_and_Tony_Mobile_2x_2d745fe2-1266-47bb-94fc-9a58a0070209.png",
+        "padding_top": 68,
+        "padding_bottom": 0,
+        "fifty_percent_width": false
+      }
+    },
     "166425116431cde5aa": {
       "type": "custom-liquid",
       "settings": {
@@ -564,6 +574,7 @@
   },
   "order": [
     "image_banner",
+    "f3b666dc-45b6-48d1-b5df-b8acee40e44b",
     "166425116431cde5aa",
     "1664616703a24d7b00",
     "eb0e15bd-6aa9-4f00-b4c1-f370e480f76b",
