@@ -54,7 +54,7 @@
         "image": "shopify:\/\/shop_images\/Nigel_and_Tony_3.5x.png",
         "image_mobile": "shopify:\/\/shop_images\/Nigel_and_Tony_Mobile_2x_2d745fe2-1266-47bb-94fc-9a58a0070209.png",
         "padding_top": 80,
-        "padding_bottom": 0,
+        "padding_bottom": 36,
         "fifty_percent_width": true
       }
     },
