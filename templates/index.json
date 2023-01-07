@@ -71,7 +71,7 @@
         "template--15921100783778__c19dadeb-5a90-4ac2-bbaa-fdc431219fc2-1673102868864ae82b-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Clinical Trials<\/p>"
+            "text": "<p><a href=\"\/pages\/clinical-trials\" title=\"Clinical Trials\">Clinical Trials<\/a><\/p>"
           }
         },
         "template--15921100783778__c19dadeb-5a90-4ac2-bbaa-fdc431219fc2-1673102868864ae82b-2": {
