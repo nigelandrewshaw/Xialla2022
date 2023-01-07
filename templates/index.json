@@ -516,8 +516,8 @@
         "template--15921100783778__1935713a-17ad-4ca6-b987-f0c8533fcf21-1672967383b14b16bb-2": {
           "type": "button",
           "settings": {
-            "button_label": "About Us",
-            "button_link": "shopify:\/\/pages\/about-us"
+            "button_label": "Clinical Trials",
+            "button_link": "shopify:\/\/pages\/clinical-trials"
           }
         }
       },
