@@ -412,16 +412,24 @@
 
 @media screen and (max-width: 667px) {
   .banner__heading {
-    font-size: 2.6rem; 
+    font-size: 3rem; 
   }
 }
 
 /* Xialla fit header to mobile screen without wrapping */
 @media screen and (max-width: 568px) {
   .banner__heading {
-    font-size: 2.2rem; 
+    font-size: 3rem; 
   }
 }
+
+/* Xialla fit header to mobile screen without wrapping */
+@media screen and (max-width: 414px) {
+  .banner__heading {
+    font-size: 3rem; 
+  }
+}
+
 
 
 
