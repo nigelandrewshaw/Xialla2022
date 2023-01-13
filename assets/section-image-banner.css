@@ -403,10 +403,10 @@
   line-height: 1.1em; 
 }
 
-/* Xialla fit header to mobile screen without wrapping */
-@media screen and (max-width: 749px) {
+/* Xialla fit header to iphone SE screen without wrapping */
+@media screen and (max-width: 568px) {
   .banner__heading {
-    font-size: 3rem; 
+    font-size: 2.2rem; 
   }
 }
 
@@ -417,12 +417,16 @@
   }
 }
 
-/* Xialla fit header to iphone SE screen without wrapping */
-@media screen and (max-width: 568px) {
+/* Xialla fit header to mobile screen without wrapping */
+@media screen and (max-width: 749px) {
   .banner__heading {
-    font-size: 2.2rem; 
+    font-size: 3rem; 
   }
 }
+
+
+
+
 
 .banner__box .banner__heading + * {
   margin-top: 1rem;
