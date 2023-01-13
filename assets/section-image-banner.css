@@ -420,7 +420,7 @@
 /* Xialla fit header to iphone SE screen without wrapping */
 @media screen and (max-width: 568px) {
   .banner__heading {
-    font-size: 2.5rem; 
+    font-size: 2.4rem; 
   }
 }
 
