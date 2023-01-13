@@ -403,12 +403,11 @@
   line-height: 1.1em; 
 }
 
-/* Xialla fit header to iphone SE screen without wrapping */
-
 /* Xialla fit header to mobile screen without wrapping */
-@media screen and (max-width: 749px) {
+
+@media screen and (max-width: 568px) {
   .banner__heading {
-    font-size: 3rem; 
+    font-size: 2.2rem; 
   }
 }
 
@@ -418,12 +417,15 @@
   }
 }
 
-
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 749px) {
   .banner__heading {
-    font-size: 2.2rem; 
+    font-size: 3rem; 
   }
 }
+
+
+
+
 
 
 
