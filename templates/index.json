@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "THE ONLY ED RING <i><span style=\"font-size:.8em\"> that <\/span><\/i> <BR\/>STAYS IN PLACE",
+            "custom_liquid": "THE ONLY ED RING <span style=\"font-size:.8em\"> that <\/span><BR\/>STAYS IN PLACE",
             "heading_size": "h0"
           }
         },
