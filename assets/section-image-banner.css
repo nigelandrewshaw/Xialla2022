@@ -403,11 +403,10 @@
   line-height: 1.1em; 
 }
 
-/* Xialla fit header to mobile screen without wrapping */
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 749px) {
   .banner__heading {
-    font-size: 2.2rem; 
+    font-size: 3rem; 
   }
 }
 
@@ -417,9 +416,10 @@
   }
 }
 
-@media screen and (max-width: 749px) {
+/* Xialla fit header to mobile screen without wrapping */
+@media screen and (max-width: 568px) {
   .banner__heading {
-    font-size: 3rem; 
+    font-size: 2.2rem; 
   }
 }
 
@@ -427,12 +427,7 @@
 
 
 
-
-
-}
-
-
-
+/* END: Xialla fit header to mobile screen without wrapping */
 
 
 .banner__box .banner__heading + * {
