@@ -68,34 +68,47 @@
         "section_visibility": "hide-for-desktop"
       }
     },
-    "eb0e15bd-6aa9-4f00-b4c1-f370e480f76b": {
-      "type": "rich-text",
+    "3c36047f-88ad-4488-bd35-720b0c5475e6": {
+      "type": "multicolumn",
       "blocks": {
-        "template--15921100783778__eb0e15bd-6aa9-4f00-b4c1-f370e480f76b-16669864112146301e-0": {
-          "type": "heading",
+        "template--15921100783778__3c36047f-88ad-4488-bd35-720b0c5475e6-1673636735bc0d137a-0": {
+          "type": "column",
           "settings": {
-            "custom_liquid": "More Effective",
-            "heading_size": "h1"
+            "custom_liquid": "3x More Effective",
+            "text": "<p>Xialla is the only ED ring that stays in place during sex. That's the key to treating venous leak and obtaining a strong, long-lasting erection.<\/p>",
+            "link_label": "",
+            "link": ""
           }
         },
-        "9b189938-35b9-4c7a-b0e1-07c6c625f56d": {
-          "type": "text",
+        "template--15921100783778__3c36047f-88ad-4488-bd35-720b0c5475e6-1673636735bc0d137a-1": {
+          "type": "column",
           "settings": {
-            "text": "<p>Soft and stretchy, Xialla is the only ED ring that stays in place during sex… and that's the key to treating venous leak and obtaining a strong, long-lasting erection.<\/p>"
+            "custom_liquid": "More Comfortable",
+            "text": "<p>Because Xialla is held in place it  doesn't need to be as tight as other rings. That makes Xialla more comfortable. <\/p>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "template--15921100783778__eb0e15bd-6aa9-4f00-b4c1-f370e480f76b-16669864112146301e-0",
-        "9b189938-35b9-4c7a-b0e1-07c6c625f56d"
+        "template--15921100783778__3c36047f-88ad-4488-bd35-720b0c5475e6-1673636735bc0d137a-0",
+        "template--15921100783778__3c36047f-88ad-4488-bd35-720b0c5475e6-1673636735bc0d137a-1"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 8,
-        "padding_bottom": 52
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "rich_text": {
@@ -127,14 +140,14 @@
         "1664385983a83d9c9a-0": {
           "type": "heading",
           "settings": {
-            "heading": "The Best for Venous Leak",
+            "heading": "Start with or Without an Erection",
             "heading_size": "h1"
           }
         },
         "1664385983a83d9c9a-1": {
           "type": "text",
           "settings": {
-            "text": "<p>\"The more a ring moves during sex, the less effective it is at treating venous leak. That's why I invented Xialla... I couldn't find a ring that stays in place.\"<\/p><p><strong>Nigel Shaw<br\/>Inventor of Xialla<\/strong><\/p>",
+            "text": "<p>\"Regular rings require you to start with an erection. That's sometimes not possible. Xialla can be put on with or without a prior erection. Either way it will help you obtain and maintain rigidity\"<\/p><p><strong>Nigel Shaw<br\/>Inventor of Xialla<\/strong><\/p>",
             "text_style": "body"
           }
         },
@@ -566,7 +579,7 @@
     "image_banner",
     "166425116431cde5aa",
     "1664616703a24d7b00",
-    "eb0e15bd-6aa9-4f00-b4c1-f370e480f76b",
+    "3c36047f-88ad-4488-bd35-720b0c5475e6",
     "rich_text",
     "16643859836004dd98",
     "1664328183da5cbb42",
