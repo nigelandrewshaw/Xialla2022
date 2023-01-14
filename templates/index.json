@@ -74,8 +74,8 @@
         "template--15921100783778__3c36047f-88ad-4488-bd35-720b0c5475e6-1673636735bc0d137a-0": {
           "type": "column",
           "settings": {
-            "custom_liquid": "3x More Effective",
-            "text": "<p>Xialla is the only ED ring that stays in place during sex. That's the key to treating venous leak and obtaining a strong, long-lasting erection.<\/p>",
+            "custom_liquid": "It's 3x More Effective",
+            "text": "<p>A ring that moves allows blood to escape. A ring that stays in place traps blood better, creating a stronger and longer lasting erection.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -83,8 +83,17 @@
         "template--15921100783778__3c36047f-88ad-4488-bd35-720b0c5475e6-1673636735bc0d137a-1": {
           "type": "column",
           "settings": {
-            "custom_liquid": "More Comfortable",
-            "text": "<p>Because Xialla is held in place it  doesn't need to be as tight as other rings. That makes Xialla more comfortable. <\/p>",
+            "custom_liquid": "It's More Comfortable",
+            "text": "<p>Because Xialla stays in place it  doesn't need to be as tight as other rings in order to be effective. That makes Xialla more comfortable. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "46fb8c71-a345-4dcc-9613-eff9dc7627a7": {
+          "type": "column",
+          "settings": {
+            "custom_liquid": "You Don't Need an Erection to Start",
+            "text": "<p>Put Xialla on your erect or flaccid penis and it will help you obtain and maintain rigidity. <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -92,21 +101,22 @@
       },
       "block_order": [
         "template--15921100783778__3c36047f-88ad-4488-bd35-720b0c5475e6-1673636735bc0d137a-0",
-        "template--15921100783778__3c36047f-88ad-4488-bd35-720b0c5475e6-1673636735bc0d137a-1"
+        "template--15921100783778__3c36047f-88ad-4488-bd35-720b0c5475e6-1673636735bc0d137a-1",
+        "46fb8c71-a345-4dcc-9613-eff9dc7627a7"
       ],
       "settings": {
-        "title": "",
+        "title": "Because Xialla Stays in Place...",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 2,
+        "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -140,7 +150,7 @@
         "1664385983a83d9c9a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Start with or Without an Erection",
+            "heading": "Start With or Without an Erection",
             "heading_size": "h1"
           }
         },
