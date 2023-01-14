@@ -2991,6 +2991,7 @@ details-disclosure > details {
 .rich-text__heading,
 .multicolumn-list h3 {
   text-transform: none !important;
+  font-size: 2rem;
 }
 body.gradient {
   overflow-x: hidden;

@@ -400,8 +400,10 @@
 
 .banner__heading {
   margin-bottom: 0;
-  line-height: 1.1em; 
+  line-height: 1.1em;
+  font-size: 4rem;
 }
+
 
 
 @media screen and (max-width: 749px) {
