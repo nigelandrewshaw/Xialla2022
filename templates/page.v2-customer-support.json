@@ -72,7 +72,7 @@
           "type": "heading",
           "settings": {
             "custom_liquid": "Try a search",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "2aab5d4a-50f6-465d-b81f-bcd101a8d9a0": {
@@ -121,7 +121,7 @@
           "type": "heading",
           "settings": {
             "custom_liquid": "Check the FAQ",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "16642029020637dba4-1": {
