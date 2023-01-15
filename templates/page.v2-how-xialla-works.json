@@ -58,7 +58,7 @@
           "type": "heading",
           "settings": {
             "heading": "Blood inflow",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "1664068719b18e0627-1": {
@@ -102,7 +102,7 @@
           "type": "heading",
           "settings": {
             "heading": "Blood outflow",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "166406887132bc9846-1": {
@@ -146,7 +146,7 @@
           "type": "heading",
           "settings": {
             "heading": "Rings move",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "16640688860628df4d-1": {
@@ -190,7 +190,7 @@
           "type": "heading",
           "settings": {
             "heading": "Xialla stays in place",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "166406889285689f1a-1": {
