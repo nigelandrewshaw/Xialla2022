@@ -226,6 +226,48 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "b90757f7-2bee-40e3-86b5-f5d25002780d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15922081300642__b90757f7-2bee-40e3-86b5-f5d25002780d-16738023754863e600-0": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--15922081300642__b90757f7-2bee-40e3-86b5-f5d25002780d-16738023754863e600-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Next: Clinical Trials &gt;&gt;<\/p>"
+          }
+        },
+        "template--15922081300642__b90757f7-2bee-40e3-86b5-f5d25002780d-16738023754863e600-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15922081300642__b90757f7-2bee-40e3-86b5-f5d25002780d-16738023754863e600-0",
+        "template--15922081300642__b90757f7-2bee-40e3-86b5-f5d25002780d-16738023754863e600-1",
+        "template--15922081300642__b90757f7-2bee-40e3-86b5-f5d25002780d-16738023754863e600-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -234,6 +276,7 @@
     "16640687197a1c1d7d",
     "16640688717ef55265",
     "16640688860ad3c7b8",
-    "16640688928116c051"
+    "16640688928116c051",
+    "b90757f7-2bee-40e3-86b5-f5d25002780d"
   ]
 }
