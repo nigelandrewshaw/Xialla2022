@@ -240,13 +240,13 @@
         "template--15922081300642__b90757f7-2bee-40e3-86b5-f5d25002780d-16738023754863e600-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Next: Clinical Trials &gt;&gt;<\/p>"
+            "text": "<p><a href=\"\/pages\/clinical-trials\" title=\"Clinical Trials\">Next: Clinical Trials &gt;&gt;<\/a><\/p>"
           }
         },
         "template--15922081300642__b90757f7-2bee-40e3-86b5-f5d25002780d-16738023754863e600-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": "",
             "button_style_secondary": false,
             "button_label_2": "",
