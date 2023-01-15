@@ -434,9 +434,10 @@ h5,
   font-size: calc(var(--font-heading-scale) * 4rem);
 }
 
+/* Nigel Xialla Jan 14, 2022. This controls page title size */ 
 @media only screen and (min-width: 750px) {
   .h0 {
-    font-size: calc(var(--font-heading-scale) * 3.2rem);
+    font-size: calc(var(--font-heading-scale) * 4rem);
   }
 }
 
