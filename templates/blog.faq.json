@@ -19,7 +19,7 @@
         "1664757852ede05a5f-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "How can we help?",
+            "custom_liquid": "<span style=\"font-size:3rem\">How can we help?<\/style>",
             "heading_size": "h0"
           }
         },
