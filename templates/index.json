@@ -80,15 +80,6 @@
             "link": ""
           }
         },
-        "template--15921100783778__3c36047f-88ad-4488-bd35-720b0c5475e6-1673636735bc0d137a-1": {
-          "type": "column",
-          "settings": {
-            "custom_liquid": "It's More Comfortable",
-            "text": "<p>A ring that's not held in place needs to be very tight in order to work. Xialla doesn't need to be as tight, and that makes Xialla more comfortable. <\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "46fb8c71-a345-4dcc-9613-eff9dc7627a7": {
           "type": "column",
           "settings": {
@@ -97,12 +88,21 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "template--15921100783778__3c36047f-88ad-4488-bd35-720b0c5475e6-1673636735bc0d137a-1": {
+          "type": "column",
+          "settings": {
+            "custom_liquid": "More Comfortable",
+            "text": "<p>A ring that's not held in place needs to be very tight in order to work. Xialla doesn't need to be as tight, and that makes Xialla more comfortable. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "template--15921100783778__3c36047f-88ad-4488-bd35-720b0c5475e6-1673636735bc0d137a-0",
-        "template--15921100783778__3c36047f-88ad-4488-bd35-720b0c5475e6-1673636735bc0d137a-1",
-        "46fb8c71-a345-4dcc-9613-eff9dc7627a7"
+        "46fb8c71-a345-4dcc-9613-eff9dc7627a7",
+        "template--15921100783778__3c36047f-88ad-4488-bd35-720b0c5475e6-1673636735bc0d137a-1"
       ],
       "settings": {
         "title": "The Only Ring that Stays in Place",
