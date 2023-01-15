@@ -6,7 +6,7 @@
         "1664757852ede05a5f-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "<span style=\"font-size:3rem\">Knowledge Center<\/span>",
+            "custom_liquid": "Knowledge Center",
             "heading_size": "h0"
           }
         },
