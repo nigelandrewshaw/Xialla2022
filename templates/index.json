@@ -48,6 +48,62 @@
         "show_text_below": true
       }
     },
+    "a82ea835-4b05-4801-a3e2-3b4811d7109f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15921100783778__a82ea835-4b05-4801-a3e2-3b4811d7109f-16741738536c64343f-0": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "Are You Frustrated Trying to Fix your ED?",
+            "heading_size": "h1"
+          }
+        },
+        "template--15921100783778__a82ea835-4b05-4801-a3e2-3b4811d7109f-16741738536c64343f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Your doctor and the internet tell you that all ED is treatable and that there are multiple options. But nothing works for your ED. You feel frustrated and hopeless.<\/p>"
+          }
+        },
+        "31149d76-a69f-4657-ac7c-0d7359794619": {
+          "type": "text",
+          "settings": {
+            "text": "<p>ED pills, injections and pumps treat the problem of too little blood inflow. But if your ED is caused by excess blood outflow (venous leak), then conventional treatments aren't enough. You may get an erection but it goes away, or you may not be able to achieve an erection at all. <\/p>"
+          }
+        },
+        "16d15281-a702-41ee-b722-215b7912bb91": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Xialla is unlike anything else, designed specifically to treat the problem of excess blood outflow (venous leak). <\/p><p>It may be the answer you've been looking for. <\/p>"
+          }
+        },
+        "template--15921100783778__a82ea835-4b05-4801-a3e2-3b4811d7109f-16741738536c64343f-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Is it Right for Me?",
+            "button_link": "shopify:\/\/pages\/is-xialla-right-for-me",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15921100783778__a82ea835-4b05-4801-a3e2-3b4811d7109f-16741738536c64343f-0",
+        "template--15921100783778__a82ea835-4b05-4801-a3e2-3b4811d7109f-16741738536c64343f-1",
+        "31149d76-a69f-4657-ac7c-0d7359794619",
+        "16d15281-a702-41ee-b722-215b7912bb91",
+        "template--15921100783778__a82ea835-4b05-4801-a3e2-3b4811d7109f-16741738536c64343f-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "166425116431cde5aa": {
       "type": "custom-liquid",
       "settings": {
@@ -587,6 +643,7 @@
   },
   "order": [
     "image_banner",
+    "a82ea835-4b05-4801-a3e2-3b4811d7109f",
     "166425116431cde5aa",
     "1664616703a24d7b00",
     "3c36047f-88ad-4488-bd35-720b0c5475e6",
