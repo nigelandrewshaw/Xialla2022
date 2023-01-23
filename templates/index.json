@@ -193,6 +193,7 @@
       ],
       "settings": {
         "title": "The Only ED Ring that Stays in Place",
+        "title-centered": true,
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -388,6 +389,7 @@
       ],
       "settings": {
         "title": "",
+        "title-centered": false,
         "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "adapt",
@@ -539,6 +541,7 @@
       ],
       "settings": {
         "title": "Use Alone or with Other Therapies",
+        "title-centered": false,
         "heading_size": "h1",
         "image_width": "custom_image_size_width",
         "image_ratio": "adapt",
@@ -656,6 +659,7 @@
       ],
       "settings": {
         "title": "Buy with Confidence",
+        "title-centered": false,
         "heading_size": "h1",
         "image_width": "custom_image_size_width",
         "image_ratio": "adapt",
