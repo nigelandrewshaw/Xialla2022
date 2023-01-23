@@ -443,9 +443,9 @@
         "continue_to_shipping_method": "Continue to shipping and payment"
       },
       "order_summary": {
-        "discount_title": "Coupon",
-        "discount_label": "Coupon code",
-        "discount_placeholder": "Coupon code"
+        "discount_title": "Discount",
+        "discount_label": "Discount code",
+        "discount_placeholder": "Discount code"
       },
       "customer_account": {
         "sign_out_link_label": "Sign out",
