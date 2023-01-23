@@ -2,6 +2,7 @@
 This file has been modified by the Yoast SEO for Shopify app.
 You can learn more about this (and learn how to cleanly revert these changes) at https://yoa.st/removing-theme-changes.
 {%- endcomment -%}
+
 {%- liquid
 	assign disabled_by_yoast_seo = true
 	if content_for_header contains 'yoast-active-script'
@@ -526,6 +527,19 @@ You can learn more about this (and learn how to cleanly revert these changes) at
     {%- endif -%}
 
     <div class="header__icons">
+
+    <style>
+      .header-icons__menu-item{
+        font-size: 1.6rem;
+      }
+      .header-icons__menu-item:hover{
+        text-decoration: underline !important;
+        text-underline-offset: 0.3rem;
+        text-decoration-thickness: 0.2rem !important;
+      }
+    </style>
+    <a class="header__menu-item header-icons__menu-item" href="http://www.xialla.com">Xialla</a>
+
       <details-modal class="header__search">
         <details>
           <summary class="header__icon header__icon--search header__icon--summary link focus-inset modal__toggle" aria-haspopup="dialog" aria-label="{{ 'general.search.search' | t }}">
@@ -639,7 +653,6 @@ You can learn more about this (and learn how to cleanly revert these changes) at
 <!-- Xialla Nigel Jan 21, 2023 add script to open menu on hover --> 
 <script>
   let items = document.querySelector(".header__inline-menu").querySelectorAll("details");
-  console.log(items)
   items.forEach(item => {
     item.addEventListener("mouseover", () => {
       item.setAttribute("open", true);

@@ -974,7 +974,7 @@ a.product__text {
 }
 
 .product-popup-modal__button:hover {
-  text-decoration-thickness: 0.2rem;
+  /* text-decoration-thickness: 0.2rem; */
 }
 
 .product-popup-modal__content-info {

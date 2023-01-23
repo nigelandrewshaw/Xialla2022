@@ -21,7 +21,7 @@
 
 .list-menu__item--active:hover {
   /* Xialla 2022-09-27 07:47:08 Remove underline for active item */ 
-  /* text-decoration-thickness: 0.2rem; */
+  /* /* text-decoration-thickness: 0.2rem; */ */
 }
 
 .list-menu--disclosure.localization-selector {

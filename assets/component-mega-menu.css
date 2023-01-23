@@ -83,7 +83,7 @@
 }
 
 .mega-menu__link--active:hover {
-  text-decoration-thickness: 0.2rem;
+  /* text-decoration-thickness: 0.2rem; */
 }
 
 .mega-menu .mega-menu__list--condensed {
