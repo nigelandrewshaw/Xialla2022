@@ -145,48 +145,6 @@
         "section_visibility": "hide-for-mobile"
       }
     },
-    "78724e41-f8b2-4f7a-a66a-8e49639ae7f2": {
-      "type": "rich-text",
-      "blocks": {
-        "template--15921100783778__78724e41-f8b2-4f7a-a66a-8e49639ae7f2-167448847499fd73a5-0": {
-          "type": "heading",
-          "settings": {
-            "custom_liquid": "The Only ED Ring that Stays in Place",
-            "heading_size": "h0"
-          }
-        },
-        "template--15921100783778__78724e41-f8b2-4f7a-a66a-8e49639ae7f2-167448847499fd73a5-1": {
-          "type": "text",
-          "settings": {
-            "text": ""
-          }
-        },
-        "template--15921100783778__78724e41-f8b2-4f7a-a66a-8e49639ae7f2-167448847499fd73a5-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--15921100783778__78724e41-f8b2-4f7a-a66a-8e49639ae7f2-167448847499fd73a5-0",
-        "template--15921100783778__78724e41-f8b2-4f7a-a66a-8e49639ae7f2-167448847499fd73a5-1",
-        "template--15921100783778__78724e41-f8b2-4f7a-a66a-8e49639ae7f2-167448847499fd73a5-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
     "1664616703a24d7b00": {
       "type": "custom-liquid",
       "settings": {
@@ -234,7 +192,7 @@
         "template--15921100783778__3c36047f-88ad-4488-bd35-720b0c5475e6-1673636735bc0d137a-1"
       ],
       "settings": {
-        "title": "",
+        "title": "The Only ED Ring that Stays in Place",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -719,7 +677,6 @@
     "2bf3d88c-11f2-46b5-88c2-3fbf640152a1",
     "a82ea835-4b05-4801-a3e2-3b4811d7109f",
     "166425116431cde5aa",
-    "78724e41-f8b2-4f7a-a66a-8e49639ae7f2",
     "1664616703a24d7b00",
     "3c36047f-88ad-4488-bd35-720b0c5475e6",
     "rich_text",
