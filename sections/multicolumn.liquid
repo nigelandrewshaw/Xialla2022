@@ -28,16 +28,9 @@
   <div class="page-width section-{{ section.id }}-padding isolate">
     {%- unless section.settings.title == blank -%}
 <div class="title-wrapper-with-link title-wrapper--self-padded-mobile title-wrapper--no-top-margin" {%- if section.settings.title-centered -%} style="justify-content:center" {%- endif -%} >
-    
-        {%- if section.settings.title-centered -%}
-            <h2 class="title {{ section.settings.heading_size }}">
+            <h2 class="title {{ section.settings.heading_size }}" {%- if section.settings.title-centered -%} style="text-align:center" {%- endif -%} >
               {{ section.settings.title | escape }}
             </h2>
-        {%- else -%}
-          <h2 class="title {{ section.settings.heading_size }}">
-            {{ section.settings.title | escape }}
-          </h2>
-        {%- endif -%}
         {%- if section.settings.button_label != blank and show_mobile_slider -%}
           <a href="{{ section.settings.button_link }}" class="link underlined-link large-up-hide">{{ section.settings.button_label | escape }}</a>
         {%- endif -%}
