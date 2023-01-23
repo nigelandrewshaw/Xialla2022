@@ -48,6 +48,36 @@
         "show_text_below": true
       }
     },
+    "2bf3d88c-11f2-46b5-88c2-3fbf640152a1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15921100783778__2bf3d88c-11f2-46b5-88c2-3fbf640152a1-167448272198b62cb3-0": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "\"Xialla is an innovative breakthrough in the treatment of erectile dysfunction\"",
+            "heading_size": "h1"
+          }
+        },
+        "template--15921100783778__2bf3d88c-11f2-46b5-88c2-3fbf640152a1-167448272198b62cb3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Dr. Faysal Yafi, FRCS(C)<\/strong><\/p><p>Associate Professor of Urology, Chief of the Division Men’s Health and Reconstructive Urology, Director of Men’s Health and Newport Urology and co-Director of the Eric S. Wisenbaugh GURS Fellowship in Male Reconstructive and Prosthetic Urology at the University of California, Irvine.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15921100783778__2bf3d88c-11f2-46b5-88c2-3fbf640152a1-167448272198b62cb3-0",
+        "template--15921100783778__2bf3d88c-11f2-46b5-88c2-3fbf640152a1-167448272198b62cb3-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 52
+      }
+    },
     "a82ea835-4b05-4801-a3e2-3b4811d7109f": {
       "type": "rich-text",
       "disabled": true,
@@ -644,6 +674,7 @@
   },
   "order": [
     "image_banner",
+    "2bf3d88c-11f2-46b5-88c2-3fbf640152a1",
     "a82ea835-4b05-4801-a3e2-3b4811d7109f",
     "166425116431cde5aa",
     "1664616703a24d7b00",
