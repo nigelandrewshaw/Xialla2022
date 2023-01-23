@@ -28,9 +28,17 @@
   <div class="page-width section-{{ section.id }}-padding isolate">
     {%- unless section.settings.title == blank -%}
       <div class="title-wrapper-with-link title-wrapper--self-padded-mobile title-wrapper--no-top-margin">
-        <h2 class="title {{ section.settings.heading_size }}">
-          {{ section.settings.title | escape }}
-        </h2>
+        {%- if section.settings.title-centered == 'centered' -%}
+          <centered>
+            <h2 class="title {{ section.settings.heading_size }}">
+              {{ section.settings.title | escape }}
+            </h2>
+          </centered>
+        {%- else -%}
+          <h2 class="title {{ section.settings.heading_size }}">
+            {{ section.settings.title | escape }}
+          </h2>
+        {%- endif -%}
         {%- if section.settings.button_label != blank and show_mobile_slider -%}
           <a href="{{ section.settings.button_link }}" class="link underlined-link large-up-hide">{{ section.settings.button_label | escape }}</a>
         {%- endif -%}
@@ -149,6 +157,12 @@
       "label": "t:sections.multicolumn.settings.title.label"
     },
     {
+      "type": "checkbox",
+      "id": "title-centered",
+      "default": false,
+      "label": "Centered"
+    },
+    {
       "type": "select",
       "id": "heading_size",
       "options": [
@@ -184,12 +198,10 @@
           "value": "full",
           "label": "t:sections.multicolumn.settings.image_width.options__3.label"
         },
-
         {
           "value": "custom_image_size_width",
           "label": "Image Size"
         }
-        
       ],
       "default": "full",
       "label": "t:sections.multicolumn.settings.image_width.label"
@@ -359,15 +371,11 @@
           "id": "image",
           "label": "t:sections.multicolumn.blocks.column.settings.image.label"
         },
-        
-
         {
           "type": "liquid",
           "id": "custom_liquid",
-          "label": "t:sections.multicolumn.blocks.column.settings.title.label"   
+          "label": "t:sections.multicolumn.blocks.column.settings.title.label"
         },
-        
-        
         {
           "type": "richtext",
           "id": "text",
