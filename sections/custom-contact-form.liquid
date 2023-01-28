@@ -19,9 +19,10 @@
 {%- endstyle -%}
 
 <script>
+alert("addEventListener");
+
 window.addEventListener('load', function () {
     document.getElementById('{{ section.settings.form-id }}').submit(function(e){
-        alert("addEventListener");
         e.preventDefault();
         $.ajax({ 
             url: '{{ section.settings.zapier-webhook-url }}/silent',
