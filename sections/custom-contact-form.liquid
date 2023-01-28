@@ -20,25 +20,7 @@
 
 <script>
 
-/* Handle form event and post to Zapier */
-/*
-window.onload = (event) => { 
-    document.getElementById('{{ section.settings.form-id }}').submit(function(e){
-        e.preventDefault();
-        $.ajax({ 
-            url: '{{ section.settings.zapier-webhook-url }}/silent',
-            type: 'get',
-            data:document.getElementById('{{ section.settings.form-id }}').serialize(),
-            success:function(){
-            // Hide the the form header and form itself 
-            //$('#xialla-subscribe-form-wrapper').css('display', 'none');
-            // Show the thank-you part
-            document.getElementById('#submit-success-wrapper').css('display', 'flex');
-            }
-        });
-    });
-};
-*/
+
 
 
 </script> 
@@ -145,6 +127,23 @@ window.onload = (event) => {
     {{ section.settings.success-message }}
   </div>
 </div>
+
+<script>
+    document.getElementById('{{ section.settings.form-id }}').submit(function(e){
+            e.preventDefault();
+            $.ajax({ 
+                url: '{{ section.settings.zapier-webhook-url }}/silent',
+                type: 'get',
+                data:document.getElementById('{{ section.settings.form-id }}').serialize(),
+                success:function(){
+                // Hide the the form header and form itself 
+                //$('#xialla-subscribe-form-wrapper').css('display', 'none');
+                // Show the thank-you part
+                document.getElementById('#submit-success-wrapper').css('display', 'flex');
+                }
+            });
+        });
+    </script>
 
 {% schema %}
   {
