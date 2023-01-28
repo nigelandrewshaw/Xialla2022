@@ -46,11 +46,12 @@ window.addEventListener('load', function () {
     {%- else -%}
       <h2 class="visually-hidden">{{ 'templates.contact.form.title' | t }}</h2>
     {%- endif -%}
-    {%- form 'contact', id: section.settings.form-id -%}
+    {%- form 'contact', id: section.settings.heading -%}
 lkjlkjlkjlkjlkjkj
     {%- endform -%}
 
 
+    <!--
     {%- form 'contact', id: "hello" -%}
     
       {%- if form.posted_successfully? -%}
@@ -142,6 +143,8 @@ lkjlkjlkjlkjlkjkj
         </button>
       </div>
     {%- endform -%}
+    --> 
+
   </div>
   <div id="submit-success-wrapper" style="display:none" >
     {{ section.settings.success-message }}
