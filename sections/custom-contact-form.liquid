@@ -18,17 +18,11 @@
   }
 {%- endstyle -%}
 
-
-<script>
-    alert( "hello");
-</script>
-
-
 <script>
 window.addEventListener('load', function () {
     
     document.getElementById('{{ section.settings.form-id }}').submit(function(e){
-       // e.preventDefault();
+       // e.preventDefault(); // Shopify doesn't like this
         $.ajax({ 
             url: '{{ section.settings.zapier-webhook-url }}/silent',
             type: 'get',
