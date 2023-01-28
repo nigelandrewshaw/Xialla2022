@@ -44,8 +44,8 @@ window.addEventListener('load', function () {
     {%- else -%}
       <h2 class="visually-hidden">{{ 'templates.contact.form.title' | t }}</h2>
     {%- endif -%}
-    <form>
-        
+    <form id="{{ section.settings.form-id }}">
+        Hello!
     </form>
     <!-- 
     {%- form, id: section.settings.form-id -%}
