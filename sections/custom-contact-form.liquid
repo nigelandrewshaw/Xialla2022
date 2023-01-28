@@ -46,7 +46,6 @@ document.getElementById('#{{ section.settings.form-id }}').submit(function(e){
     {%- else -%}
       <h2 class="visually-hidden">{{ 'templates.contact.form.title' | t }}</h2>
     {%- endif -%}
-    <form id="{{section.settings.form-id}}"></form>
     {%- form 'contact', id: section.settings.form-id, class: 'isolate' -%}
       {%- if form.posted_successfully? -%}
         <h2
