@@ -21,7 +21,7 @@
 <script>
 
 /* Handle form event and post to Zapier */
-document.ready(function() {  
+window.onload = (event) => { 
     document.getElementById('#{{ section.settings.form-id }}').submit(function(e){
         e.preventDefault();
         $.ajax({ 
@@ -36,7 +36,7 @@ document.ready(function() {
             }
         });
     });
-});
+};
 
 
 </script> 
