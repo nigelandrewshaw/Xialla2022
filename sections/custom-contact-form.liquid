@@ -18,6 +18,27 @@
   }
 {%- endstyle -%}
 
+<script>
+
+/* Handle form event and post to Zapier */
+
+$('#{{ section.settings.form-id }}').submit(function(e){
+      e.preventDefault();
+      $.ajax({ 
+        url: '{{ section.settings.zapier-webhook-url }}',
+        type: 'get',
+        data:$('#{{ section.settings.form-id }}').serialize(),
+        success:function(){
+          // Hide the the form header and form itself 
+          //$('#xialla-subscribe-form-wrapper').css('display', 'none');
+          // Show the thank-you part
+          $('#submit-success-wrapper').css('display', 'flex');
+        }
+      });
+    });
+
+</script> 
+
 <div class="color-{{ section.settings.color_scheme }} gradient">
   <div class="contact page-width page-width--narrow section-{{ section.id }}-padding">
     {%- if section.settings.heading != blank -%}
@@ -116,6 +137,9 @@
       </div>
     {%- endform -%}
   </div>
+  <div id="submit-success-wrapper" style="display:none" >
+    "Thank you"
+  </div>
 </div>
 
 {% schema %}
@@ -127,7 +151,7 @@
       {
         "type": "text",
         "id": "heading",
-        "default": "Custom Contact form",
+        "default": "Custom contact form",
         "label": "Heading"
       },
       {
@@ -135,6 +159,18 @@
         "id": "form-id",
         "default": "form-id",
         "label": "Form ID"
+      },
+      {
+        "type": "text",
+        "id": "zapier-webhook-url",
+        "default": "https://hooks.zapier.com/hooks/catch/4718621/owcjpup/silent/",
+        "label": "Zapier webhook url"
+      },
+      {
+        "type": "text",
+        "id": "success-message",
+        "default": "Thank you",
+        "label": "Success message"
       },
       {
         "type": "select",
