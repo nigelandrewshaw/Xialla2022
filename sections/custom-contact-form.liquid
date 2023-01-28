@@ -22,7 +22,8 @@
 window.addEventListener('load', function () {
     
     document.getElementById('{{ section.settings.form-id }}').submit(function(e){
-       // e.preventDefault(); // Shopify doesn't like this
+        /*
+        e.preventDefault(); 
         $.ajax({ 
             url: '{{ section.settings.zapier-webhook-url }}/silent',
             type: 'get',
@@ -34,6 +35,7 @@ window.addEventListener('load', function () {
             document.getElementById('#submit-success-wrapper').css('display', 'flex');
             }
         });
+        */
     });
 })
 </script>
