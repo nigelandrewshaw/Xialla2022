@@ -46,10 +46,29 @@ window.addEventListener('load', function () {
     {%- else -%}
       <h2 class="visually-hidden">{{ 'templates.contact.form.title' | t }}</h2>
     {%- endif -%}
-    {%- form 'contact', id: section.settings.heading -%}
+    {%- form 'contact', id: section.settings.form-id -%}
 lkjlkjlkjlkjlkjkj
     {%- endform -%}
 
+    <script>
+        alert("hell0");
+            
+            document.getElementById('{{ section.settings.form-id }}').submit(function(e){
+                e.preventDefault(); 
+                $.ajax({ 
+                    url: '{{ section.settings.zapier-webhook-url }}/silent',
+                    type: 'get',
+                    data:document.getElementById('{{ section.settings.form-id }}').serialize(),
+                    success:function(){
+                    // Hide the the form header and form itself 
+                    //$('#xialla-subscribe-form-wrapper').css('display', 'none');
+                    // Show the thank-you part
+                    // document.getElementById('#submit-success-wrapper').css('display', 'flex');
+                    }
+                });
+            });
+
+        </script>
 
     <!--
     {%- form 'contact', id: "hello" -%}
