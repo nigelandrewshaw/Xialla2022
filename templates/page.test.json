@@ -85,10 +85,10 @@
         "01f69147-5411-4c7e-a7c8-64fc632d1a0d"
       ],
       "settings": {
-        "heading": "Custom Contact form",
+        "heading": "Custom contact form",
         "form-id": "nigel-test",
         "zapier-webhook-url": "https:\/\/hooks.zapier.com\/hooks\/catch\/4718621\/bvllhos\/",
-        "success-message": "Thank you",
+        "success-message": "Thank you!!!",
         "heading_size": "h1",
         "color_scheme": "background-1",
         "padding_top": 36,
