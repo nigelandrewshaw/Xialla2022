@@ -48,7 +48,7 @@ window.onload = (event) => {
     {%- else -%}
       <h2 class="visually-hidden">{{ 'templates.contact.form.title' | t }}</h2>
     {%- endif -%}
-    {%- form 'contact', id: section.settings.form-id, class: 'isolate' -%}
+    {%- form 'contact', id: section.settings.form-id -%}
       {%- if form.posted_successfully? -%}
         <h2
           class="form-status form-status-list form__message"
