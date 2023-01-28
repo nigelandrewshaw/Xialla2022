@@ -22,7 +22,9 @@
 
 /* Handle form event and post to Zapier */
 
-$(document).ready(function() { 
+onload = "handleForm()";
+
+function handleForm(){
     document.getElementById('#{{ section.settings.form-id }}').submit(function(e){
         e.preventDefault();
         $.ajax({ 
@@ -37,7 +39,7 @@ $(document).ready(function() {
             }
         });
     });
-});
+};
 
 </script> 
 
