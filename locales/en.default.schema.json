@@ -596,6 +596,12 @@
         "name": "Contact form"
       }
     },
+    "contact-form-custom": {
+      "name": "Contact form - Custom",
+      "presets": {
+        "name": "Contact form - Custom"
+      }
+    },
     "custom-contact-form": {
       "name": "Custom contact form",
       "presets": {
