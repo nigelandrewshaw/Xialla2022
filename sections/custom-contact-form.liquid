@@ -92,6 +92,28 @@
           {%- endif -%}
         </div>
       </div>
+      {%- for block in section.blocks -%}
+        {% case block.type %}
+          {%- when 'phone' -%}
+          {%- when 'text' -%}
+            <div class="field">
+              <input
+                {% if block.settings.required %}
+                  required="true"
+                  aria-required="true"
+                {% endif %}
+                type="text"
+                class="field__input"
+                placeholder="{{ block.settings.name }}">
+              <label class="field__label" for="{{ block.settings.name }}">{{ block.settings.name }}
+              {% if block.settings.required %}
+                 <span aria-hidden="true">*</span>
+              {% endif %}
+              </label>
+            </div>
+          {%- when 'textarea' -%}
+        {%- endcase -%}
+      {%- endfor -%}
       <div class="field">
         <input
           type="tel"
@@ -260,17 +282,31 @@
         "name": "Field",
         "settings": [
           {
+            "type": "text",
+            "label": "Name",
+            "id": "name"
+          },
+          {
+            "type": "checkbox",
+            "label": "Required",
+            "id": "required"
+          },
+          {
             "type": "select",
             "label": "Field type",
             "id": "field-type",
             "options": [
               {
-                "value": "input",
-                "label": "Input"
+                "value": "text",
+                "label": "Text"
               },
               {
                 "value": "textarea",
                 "label": "Text area"
+              }
+              {
+                "value": "phone",
+                "label": "Phone"
               }
             ]
           }
@@ -283,4 +319,5 @@
     }
   ]
 }
+
 {% endschema %}
