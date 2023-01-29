@@ -54,7 +54,10 @@
       {%- for block in section.blocks -%}
         {% case block.settings.field-type %}
          ------ {{ block.settings.field-type }} -------
-          <!--
+      
+         {% comment %}
+          
+         
           {%- when 'email' -%}
             <div class="field field--with-error">
               <input
@@ -136,7 +139,7 @@
                 {% endif %}
               </label>
             </div>
-          --> 
+              {% endcomment %}
 
         {%- endcase -%}
       {%- endfor -%}
