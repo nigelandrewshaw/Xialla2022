@@ -600,6 +600,11 @@
       "name": "Custom contact form",
       "presets": {
         "name": "Custom contact form"
+      }, 
+      "blocks": {
+        "field": {
+          "name": "Field"
+        }
       }
     },
     "custom-liquid": {
