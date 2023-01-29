@@ -603,11 +603,7 @@
       },
       "blocks": {
         "field": {
-<<<<<<< HEAD
           "name": "Field", 
-=======
-          "name": "Field-XXX",
->>>>>>> 70707bc07e08cba24672cd9538d5f4b0154190ad
           "settings": {
             "name": {
               "label": "Name"
