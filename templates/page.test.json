@@ -22,11 +22,18 @@
           "settings": {
             "field-type": "textarea"
           }
+        },
+        "b69e21a6-ddca-42b7-a77d-15d8b48596da": {
+          "type": "contact-field",
+          "settings": {
+            "field-type": "input"
+          }
         }
       },
       "block_order": [
         "b0ae68fe-f44c-4d88-90aa-74b106e14b86",
-        "bcf655e3-6aee-4dce-af9e-a2f18b06794f"
+        "bcf655e3-6aee-4dce-af9e-a2f18b06794f",
+        "b69e21a6-ddca-42b7-a77d-15d8b48596da"
       ],
       "settings": {
         "heading": "Custom contact form",
