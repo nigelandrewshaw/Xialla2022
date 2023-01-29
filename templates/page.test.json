@@ -29,17 +29,36 @@
         },
         "b69e21a6-ddca-42b7-a77d-15d8b48596da": {
           "type": "contact-field",
+          "disabled": true,
+          "settings": {
+            "name": "Last Name",
+            "required": false,
+            "field-type": "input"
+          }
+        },
+        "bc8cb2c9-e40e-493c-8a4c-451de0f3ac01": {
+          "type": "contact-field",
           "settings": {
             "name": "",
             "required": false,
-            "field-type": "input"
+            "field-type": "text"
+          }
+        },
+        "0e32b5fc-5301-4cf6-aa4b-6d3afa54fc82": {
+          "type": "contact-field",
+          "settings": {
+            "name": "",
+            "required": false,
+            "field-type": "text"
           }
         }
       },
       "block_order": [
         "b0ae68fe-f44c-4d88-90aa-74b106e14b86",
         "bcf655e3-6aee-4dce-af9e-a2f18b06794f",
-        "b69e21a6-ddca-42b7-a77d-15d8b48596da"
+        "b69e21a6-ddca-42b7-a77d-15d8b48596da",
+        "bc8cb2c9-e40e-493c-8a4c-451de0f3ac01",
+        "0e32b5fc-5301-4cf6-aa4b-6d3afa54fc82"
       ],
       "settings": {
         "heading": "Custom contact form",
