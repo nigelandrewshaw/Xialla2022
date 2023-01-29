@@ -132,12 +132,12 @@
 
 <script>
     $( document ).ready(function() {  
-        $('#{{ section.settings.form-id }}').submit(function(e){
+        $('{{ section.settings.form-id }}').submit(function(e){
             e.preventDefault(); 
             $.ajax({ 
                 url: '{{ section.settings.zapier-webhook-url }}/silent',
                 type: 'get',
-                data:$('#{{ section.settings.form-id }}').serialize(),
+                data:$('{{ section.settings.form-id }}').serialize(),
                 success:function(){
                 // Hide the the form header and form itself 
                 //$('#xialla-subscribe-form-wrapper').css('display', 'none');
