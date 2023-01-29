@@ -54,6 +54,7 @@ lkjlkjlkjlkjlkjkj
             var form = document.getElementById('{{ section.settings.form-id }}')
             
             document.getElementById("{{ section.settings.form-id }}").addEventListener("submit", function(e){
+                alert("asdfasldkfajsdf");
                 e.preventDefault(); 
                 $.ajax({ 
                     url: '{{ section.settings.zapier-webhook-url }}/silent',
