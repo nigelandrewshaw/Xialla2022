@@ -128,7 +128,7 @@
 </div>
 
 <script>
-    $('#{{ section.settings.form-id }}').submit(function(e){
+    $('{{ section.settings.form-id }}').submit(function(e){
         e.preventDefault(); 
         $.ajax({ 
             url: '{{ section.settings.zapier-webhook-url }}/silent',
