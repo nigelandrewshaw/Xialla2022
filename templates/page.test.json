@@ -22,9 +22,9 @@
         "bcf655e3-6aee-4dce-af9e-a2f18b06794f": {
           "type": "contact-field",
           "settings": {
-            "name": "",
+            "name": "Testing 2",
             "required": false,
-            "field-type": "textarea"
+            "field-type": "text"
           }
         },
         "b69e21a6-ddca-42b7-a77d-15d8b48596da": {
