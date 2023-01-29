@@ -154,131 +154,78 @@
 </script>
 
 {% schema %}
-  {
-    "name": "t:sections.custom-contact-form.name",
-    "tag": "section",
-    "class": "section",
-    "settings": [
-      {
-        "type": "text",
-        "id": "heading",
-        "default": "Custom contact form",
-        "label": "Heading"
-      },
-      {
-        "type": "text",
-        "id": "form-id",
-        "default": "form-id",
-        "label": "Form ID"
-      },
-      {
-        "type": "text",
-        "id": "zapier-webhook-url",
-        "default": "https://hooks.zapier.com/hooks/catch/4718621/owcjpup/silent/",
-        "label": "Zapier webhook url"
-      },
-      {
-        "type": "text",
-        "id": "success-message",
-        "default": "Thank you",
-        "label": "Success message"
-      },
-      {
-        "type": "select",
-        "id": "heading_size",
-        "options": [
-          {
-            "value": "h2",
-            "label": "t:sections.all.heading_size.options__1.label"
-          }, {
-            "value": "h1",
-            "label": "t:sections.all.heading_size.options__2.label"
-          }, {
-            "value": "h0",
-            "label": "t:sections.all.heading_size.options__3.label"
-          }
-        ],
-        "default": "h1",
-        "label": "t:sections.all.heading_size.label"
-      },
-      {
-        "type": "select",
-        "id": "color_scheme",
-        "options": [
-          {
-            "value": "accent-1",
-            "label": "t:sections.all.colors.accent_1.label"
-          },
-          {
-            "value": "accent-2",
-            "label": "t:sections.all.colors.accent_2.label"
-          },
-          {
-            "value": "background-1",
-            "label": "t:sections.all.colors.background_1.label"
-          },
-          {
-            "value": "background-2",
-            "label": "t:sections.all.colors.background_2.label"
-          }, {
-            "value": "inverse",
-            "label": "t:sections.all.colors.inverse.label"
-          }
-        ],
-        "default": "background-1",
-        "label": "t:sections.all.colors.label"
-      },
-      {
-        "type": "header",
-        "content": "t:sections.all.padding.section_padding_heading"
-      }, {
-        "type": "range",
-        "id": "padding_top",
-        "min": 0,
-        "max": 100,
-        "step": 4,
-        "unit": "px",
-        "label": "t:sections.all.padding.padding_top",
-        "default": 36
-      }, {
-        "type": "range",
-        "id": "padding_bottom",
-        "min": 0,
-        "max": 100,
-        "step": 4,
-        "unit": "px",
-        "label": "t:sections.all.padding.padding_bottom",
-        "default": 36
-      }
-    ],
-    "blocks": [
+{
+  "name": "t:sections.custom-contact-form.name",
+  "tag": "section",
+  "class": "section",
+  "settings": [
+    {
+      "type": "text",
+      "id": "heading",
+      "default": "Custom contact form",
+      "label": "Heading"
+    },
+    {
+      "type": "text",
+      "id": "form-id",
+      "default": "form-id",
+      "label": "Form ID"
+    },
+    {
+      "type": "text",
+      "id": "zapier-webhook-url",
+      "default": "https://hooks.zapier.com/hooks/catch/4718621/owcjpup/silent/",
+      "label": "Zapier webhook url"
+    },
+    {
+      "type": "text",
+      "id": "success-message",
+      "default": "Thank you",
+      "label": "Success message"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_top",
+      "default": 36
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_bottom",
+      "default": 36
+    }
+  ],
+  "blocks": [
+    {
+      "type": "field",
+      "name": "t:sections.custom-contact-form.blocks.field.name",
+      "settings": [
         {
-        "type": "field",
-        "name": "t:sections.custom-contact-form.blocks.field.name",
-        "settings": [
+          "type": "text",
+          "id": "field-type",
+          "label": "t:sections.custom-contact-form.blocks.field.settings.field-type",
+          "options": [
             {
-            "type": "text",
-            "id": "field-type",
-            "label": "t:sections.custom-contact-form.blocks.field.settings.field-type",
-            "options": [
-                {
-                  "value": "input",
-                  "label": "t:sections.image-with-text.settings.content_layout.options__1.label"
-                },
-                {
-                  "value": "textarea",
-                  "label": "t:sections.image-with-text.settings.content_layout.options__2.label"
-                }
-              ]
+              "value": "input",
+              "label": "t:sections.image-with-text.settings.content_layout.options__1.label"
+            },
+            {
+              "value": "textarea",
+              "label": "t:sections.image-with-text.settings.content_layout.options__2.label"
             }
           ]
         }
-    ],
-    "presets": [
-      {
-        "name": "t:sections.custom-contact-form.presets.name"
-      }
-    ]
-    
-  }
+      ]
+    }
+  ]
+}
 {% endschema %}
