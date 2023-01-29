@@ -603,7 +603,7 @@
       }, 
       "blocks": {
         "field": {
-          "name": "Field-XXX", 
+          "name": "Field", 
           "settings": {
             "name": {
               "label": "Name"
