@@ -20,7 +20,6 @@
 
 
 <div class="color-{{ section.settings.color_scheme }} gradient">
-  Hhas;dlfkjas;ldkfja;sldkfj;aslkdjf;laksjdf;lkajsd;flkajdsf
   <div class="contact page-width page-width--narrow section-{{ section.id }}-padding">
     {%- if section.settings.heading != blank -%}
       <h2 class="title title-wrapper--no-top-margin {{ section.settings.heading_size }}">{{ section.settings.heading | escape }}</h2>
@@ -52,7 +51,7 @@
         </ul>
       {%- endif -%}
       {%- for block in section.blocks -%}
-        Hello
+        {{ block.settings.field-type }}
         {% case block.settings.field-type %}
         
          {% comment %}
