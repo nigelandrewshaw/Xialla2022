@@ -600,10 +600,10 @@
       "name": "Custom contact form",
       "presets": {
         "name": "Custom contact form"
-      }, 
+      },
       "blocks": {
         "field": {
-          "name": "Field-XXX", 
+          "name": "Field-XXX",
           "settings": {
             "name": {
               "label": "Name"
