@@ -50,60 +50,57 @@
           </li>
         </ul>
       {%- endif -%}
-      <div class="contact__fields">
-        <div class="field">
-          <input
-            class="field__input"
-            autocomplete="name"
-            type="text"
-            id="contact-name"
-            name="contact-name"
-            value="{% if form.name %}{{ form.name }}{% elsif customer %}{{ customer.name }}{% endif %}"
-            placeholder="{{ 'templates.contact.form.name' | t }}">
-          <label class="field__label" for="ContactForm-name">{{ 'templates.contact.form.name' | t }}
-            <span aria-hidden="true">*</span>
-          </label>
-        </div>
-        <div class="field field--with-error">
-          <input
-            required="true"
-            autocomplete="email"
-            type="email"
-            id="contact-email"
-            class="field__input"
-            name="contact-email"
-            spellcheck="false"
-            autocapitalize="off"
-            value="{% if form.email %}{{ form.email }}{% elsif customer %}{{ customer.email }}{% endif %}"
-            aria-required="true"
-            {% if form.errors contains 'email' %}
-                aria-invalid="true"
-                aria-describedby="ContactForm-email-error"
-            {% endif %}
-            placeholder="{{ 'templates.contact.form.email' | t }}">
-          <label class="field__label" for="ContactForm-email">{{ 'templates.contact.form.email' | t }}
-            <span aria-hidden="true">*</span>
-          </label>
-          {%- if form.errors contains 'email' -%}
-            <small class="contact__field-error" id="ContactForm-email-error">
-              <span class="visually-hidden">{{ 'accessibility.error' | t }}</span>
-              <span class="form__message">{% render 'icon-error' %}{{ form.errors.translated_fields['email'] | capitalize }} {{ form.errors.messages['email'] }}</span>
-            </small>
-          {%- endif -%}
-        </div>
-      </div>
       {%- for block in section.blocks -%}
-        2. {{ block.settings.field-type }}
         {% case block.settings.field-type %}
+          {%- when 'email' -%}
+            <div class="field field--with-error">
+              <input
+                required="true"
+                autocomplete="email"
+                type="email"
+                id= {{ block.settings.id }}
+                class="field__input"
+                name= {{ block.settings.name }}
+                spellcheck="false"
+                autocapitalize="off"
+                value="{% if form.email %}{{ form.email }}{% elsif customer %}{{ customer.email }}{% endif %}"
+                aria-required="true"
+                {% if form.errors contains 'email' %}
+                    aria-invalid="true"
+                    aria-describedby="ContactForm-email-error"
+                {% endif %}
+                placeholder= {{ block.settings.name }}>
+              <label class="field__label" for="ContactForm-email">{{ block.settings.name }}
+                <span aria-hidden="true">*</span>
+              </label>
+              {%- if form.errors contains 'email' -%}
+                <small class="contact__field-error" id="ContactForm-email-error">
+                  <span class="visually-hidden">{{ 'accessibility.error' | t }}</span>
+                  <span class="form__message">{% render 'icon-error' %}{{ form.errors.translated_fields['email'] | capitalize }} {{ form.errors.messages['email'] }}</span>
+                </small>
+              {%- endif -%}
+            </div>
           {%- when 'phone' -%}
+            <div class="field">
+              <input
+                type="tel"
+                id= {{ block.settings.id }}
+                class="field__input"
+                autocomplete="tel"
+                name= {{ block.settings.name }}
+                pattern="[0-9\-]*"
+                value="{% if form.phone %}{{ form.phone }}{% elsif customer %}{{ customer.phone }}{% endif %}"
+                placeholder="{{ 'templates.contact.form.phone' | t }}">
+              <label class="field__label" for="ContactForm-phone"{{ block.settings.name }}</label>
+            </div>
           {%- when 'text' -%}
-            Text Div
             <div class="field">
               <input
                 {% if block.settings.required %}
                   required="true"
                   aria-required="true"
                 {% endif %}
+                id = {{ block.settings.id }}
                 type="text"
                 class="field__input"
                 placeholder="{{ block.settings.name }}">
@@ -114,31 +111,29 @@
               </label>
             </div>
           {%- when 'textarea' -%}
+            <div class="field">
+              <textarea
+              {% if block.settings.required %}
+                  required="true"
+                  aria-required="true"
+                {% endif %}
+                rows="10"
+                id = {{ block.settings.id }}
+                class="text-area field__input"
+                name = {{ block.settings.name }}
+                placeholder = {{ block.settings.name }}
+                {{- form.body -}}
+              </textarea>
+              <label class="form__label field__label" for="ContactForm-body">{{ block.settings.name }}
+                {% if block.settings.required %}
+                    <span aria-hidden="true">*</span>
+                {% endif %}
+              </label>
+      </div>
         {%- endcase -%}
       {%- endfor -%}
-      <div class="field">
-        <input
-          type="tel"
-          id="ContactForm-phone"
-          class="field__input"
-          autocomplete="tel"
-          name="contact[{{ 'templates.contact.form.phone' | t }}]"
-          pattern="[0-9\-]*"
-          value="{% if form.phone %}{{ form.phone }}{% elsif customer %}{{ customer.phone }}{% endif %}"
-          placeholder="{{ 'templates.contact.form.phone' | t }}">
-        <label class="field__label" for="ContactForm-phone">{{ 'templates.contact.form.phone' | t }}</label>
-      </div>
-      <div class="field">
-        <textarea
-          rows="10"
-          id="ContactForm-body"
-          class="text-area field__input"
-          name="contact[{{ 'templates.contact.form.comment' | t }}]"
-          placeholder="{{ 'templates.contact.form.comment' | t }}">
-          {{- form.body -}}
-        </textarea>
-        <label class="form__label field__label" for="ContactForm-body">{{ 'templates.contact.form.comment' | t }}</label>
-      </div>
+
+      
       <div class="contact__button">
         <button type="submit" class="button">
           {{ 'templates.contact.form.send' | t }}
@@ -299,16 +294,20 @@
             "id": "field-type",
             "options": [
               {
+                "value": "email",
+                "label": "Email"
+              },
+              {
+                "value": "phone",
+                "label": "Phone"
+              },
+              {
                 "value": "text",
                 "label": "Text"
               },
               {
                 "value": "textarea",
                 "label": "Text area"
-              },
-              {
-                "value": "phone",
-                "label": "Phone"
               }
             ]
           }
