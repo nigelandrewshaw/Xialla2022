@@ -10,6 +10,24 @@
     },
     "2dbac18c-8404-4646-9f5e-f7f9939f0dbd": {
       "type": "custom-contact-form",
+      "blocks": {
+        "b0ae68fe-f44c-4d88-90aa-74b106e14b86": {
+          "type": "contact-field",
+          "settings": {
+            "field-type": "textarea"
+          }
+        },
+        "bcf655e3-6aee-4dce-af9e-a2f18b06794f": {
+          "type": "contact-field",
+          "settings": {
+            "field-type": "textarea"
+          }
+        }
+      },
+      "block_order": [
+        "b0ae68fe-f44c-4d88-90aa-74b106e14b86",
+        "bcf655e3-6aee-4dce-af9e-a2f18b06794f"
+      ],
       "settings": {
         "heading": "Custom contact form",
         "form-id": "form-id",
