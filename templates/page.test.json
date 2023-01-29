@@ -18,10 +18,28 @@
             "required": false,
             "field-type": "text"
           }
+        },
+        "3fd8610d-55e8-4dc3-a029-6905e5042d97": {
+          "type": "contact-field",
+          "settings": {
+            "name": "Testin",
+            "required": true,
+            "field-type": "email"
+          }
+        },
+        "bdfc12c4-56df-4492-9b9f-e1ccbdb02c8b": {
+          "type": "contact-field",
+          "settings": {
+            "name": "",
+            "required": false,
+            "field-type": "email"
+          }
         }
       },
       "block_order": [
-        "055453ce-94cc-473b-97d5-959b6fa98254"
+        "055453ce-94cc-473b-97d5-959b6fa98254",
+        "3fd8610d-55e8-4dc3-a029-6905e5042d97",
+        "bdfc12c4-56df-4492-9b9f-e1ccbdb02c8b"
       ],
       "settings": {
         "heading": "Custom contact form",
