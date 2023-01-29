@@ -7,23 +7,9 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
-    },
-    "46a29028-bd1f-4ad0-9d57-1e554d21e946": {
-      "type": "custom-contact-form",
-      "settings": {
-        "heading": "Custom contact form",
-        "form-id": "form-id",
-        "zapier-webhook-url": "https:\/\/hooks.zapier.com\/hooks\/catch\/4718621\/owcjpup\/silent\/",
-        "success-message": "Thank you",
-        "heading_size": "h1",
-        "color_scheme": "background-1",
-        "padding_top": 52,
-        "padding_bottom": 76
-      }
     }
   },
   "order": [
-    "main",
-    "46a29028-bd1f-4ad0-9d57-1e554d21e946"
+    "main"
   ]
 }
