@@ -51,8 +51,9 @@ lkjlkjlkjlkjlkjkj
     {%- endform -%}
 
     <script>            
-            document.getElementById('{{ section.settings.form-id }}').submit(function(e){
-                /*
+            var form = document.getElementById('{{ section.settings.form-id }}')
+            
+            document.getElementById("{{ section.settings.form-id }}").addEventListener("submit", function(e){
                 e.preventDefault(); 
                 $.ajax({ 
                     url: '{{ section.settings.zapier-webhook-url }}/silent',
@@ -65,10 +66,10 @@ lkjlkjlkjlkjlkjkj
                     // document.getElementById('#submit-success-wrapper').css('display', 'flex');
                     }
                 });
-                */
-            });
+            }
+        );
 
-        </script>
+    </script>
 
     <!--
     {%- form 'contact', id: "hello" -%}
