@@ -131,18 +131,20 @@
 </script>
 
 <script>
-    $('#{{ section.settings.form-id }}').submit(function(e){
-        e.preventDefault(); 
-        $.ajax({ 
-            url: '{{ section.settings.zapier-webhook-url }}/silent',
-            type: 'get',
-            data:$('#{{ section.settings.form-id }}').serialize(),
-            success:function(){
-            // Hide the the form header and form itself 
-            //$('#xialla-subscribe-form-wrapper').css('display', 'none');
-            // Show the thank-you part
-            // document.getElementById('#submit-success-wrapper').css('display', 'flex');
-            }
+    $( document ).ready(function() {  
+        $('#{{ section.settings.form-id }}').submit(function(e){
+            e.preventDefault(); 
+            $.ajax({ 
+                url: '{{ section.settings.zapier-webhook-url }}/silent',
+                type: 'get',
+                data:$('#{{ section.settings.form-id }}').serialize(),
+                success:function(){
+                // Hide the the form header and form itself 
+                //$('#xialla-subscribe-form-wrapper').css('display', 'none');
+                // Show the thank-you part
+                // document.getElementById('#submit-success-wrapper').css('display', 'flex');
+                }
+            });
         });
     });
 </script>
