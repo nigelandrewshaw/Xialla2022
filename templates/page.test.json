@@ -8,13 +8,6 @@
         "padding_bottom": 28
       }
     },
-    "9d905392-c8f5-462a-82c3-ca07da820ec6": {
-      "type": "contact-form-custom",
-      "settings": {
-        "heading": "",
-        "description": ""
-      }
-    },
     "2dbac18c-8404-4646-9f5e-f7f9939f0dbd": {
       "type": "custom-contact-form",
       "settings": {
@@ -31,7 +24,6 @@
   },
   "order": [
     "main",
-    "9d905392-c8f5-462a-82c3-ca07da820ec6",
     "2dbac18c-8404-4646-9f5e-f7f9939f0dbd"
   ]
 }
