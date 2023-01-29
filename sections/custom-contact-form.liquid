@@ -60,7 +60,7 @@
                 required="true"
                 autocomplete="email"
                 type="email"
-                id= {{ block.settings.id }}
+                id = {{ block.settings.id }}
                 class="field__input"
                 name= {{ block.settings.name }}
                 spellcheck="false"
@@ -72,6 +72,9 @@
                     aria-describedby="ContactForm-email-error"
                 {% endif %}
                 placeholder= {{ block.settings.name }}>
+
+         {% comment %}
+
               <label class="field__label" for="ContactForm-email">{{ block.settings.name }}
                 <span aria-hidden="true">*</span>
               </label>
@@ -81,6 +84,9 @@
                   <span class="form__message">{% render 'icon-error' %}{{ form.errors.translated_fields['email'] | capitalize }} {{ form.errors.messages['email'] }}</span>
                 </small>
               {%- endif -%}
+
+            {% endcomment %}
+
             </div>
 
          {% comment %}
