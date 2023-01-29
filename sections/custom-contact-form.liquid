@@ -29,7 +29,7 @@
       <h2 class="visually-hidden">{{ 'templates.contact.form.title' | t }}</h2>
     {%- endif -%}
 
-    {%- form 'contact', id: 'section.settings.form-id' -%}
+    {%- form 'contact', id: '{{ section.settings.form-id }}' -%}
     
       {%- if form.posted_successfully? -%}
         <h2
