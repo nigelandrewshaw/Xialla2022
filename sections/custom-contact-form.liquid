@@ -52,8 +52,8 @@
       {%- endif -%}
       {%- for block in section.blocks -%}
         {% case block.settings.field-type %}
-          {%- when 'email' -%}
             <!--
+          {%- when 'email' -%}
             <div class="field field--with-error">
               <input
                 required="true"
@@ -82,6 +82,7 @@
               {%- endif -%}
             </div>
             --> 
+            <!--
           {%- when 'phone' -%}
             <div class="field">
               <input
@@ -95,6 +96,7 @@
                 placeholder="{{ 'templates.contact.form.phone' | t }}">
               <label class="field__label" for="ContactForm-phone"{{ block.settings.name }}</label>
             </div>
+            --> 
           {%- when 'text' -%}
             <div class="field">
               <input
@@ -112,6 +114,7 @@
                 {% endif %}
               </label>
             </div>
+          <!--
           {%- when 'textarea' -%}
             <div class="field">
               <textarea
@@ -131,6 +134,7 @@
                 {% endif %}
               </label>
             </div>
+          --> 
         {%- endcase -%}
       {%- endfor -%}
 
