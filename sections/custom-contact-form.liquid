@@ -93,8 +93,8 @@
         </div>
       </div>
       {%- for block in section.blocks -%}
+        VALUE: {{ block.settings.field-type.value }}
         {% case block.settings.field-type.value %}
-            "BLOCK FIELD TYPE VALUE" {{ block.settings.field-type.value }}
           {%- when 'phone' -%}
           {%- when 'text' -%}
             <div class="field">
