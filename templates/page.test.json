@@ -8,38 +8,29 @@
         "padding_bottom": 28
       }
     },
-    "a3f2e615-be09-47d4-9f00-9618242a4e85": {
+    "4463b72a-9b34-4db7-8037-f8c4be9367cb": {
       "type": "custom-contact-form",
       "blocks": {
-        "055453ce-94cc-473b-97d5-959b6fa98254": {
-          "type": "contact-field",
-          "settings": {
-            "name": "Address 1",
-            "required": false,
-            "field-type": "text"
-          }
-        },
-        "3fd8610d-55e8-4dc3-a029-6905e5042d97": {
-          "type": "contact-field",
-          "settings": {
-            "name": "Testin",
-            "required": true,
-            "field-type": "email"
-          }
-        },
-        "bdfc12c4-56df-4492-9b9f-e1ccbdb02c8b": {
+        "1fcdf3e5-61b9-419c-a7b0-cf3fbcf9cff7": {
           "type": "contact-field",
           "settings": {
             "name": "",
             "required": false,
-            "field-type": "email"
+            "field-type": "text"
+          }
+        },
+        "acf4dfae-3355-4d17-8cf0-cefb563c0d35": {
+          "type": "contact-field",
+          "settings": {
+            "name": "Testing",
+            "required": false,
+            "field-type": "text"
           }
         }
       },
       "block_order": [
-        "055453ce-94cc-473b-97d5-959b6fa98254",
-        "3fd8610d-55e8-4dc3-a029-6905e5042d97",
-        "bdfc12c4-56df-4492-9b9f-e1ccbdb02c8b"
+        "1fcdf3e5-61b9-419c-a7b0-cf3fbcf9cff7",
+        "acf4dfae-3355-4d17-8cf0-cefb563c0d35"
       ],
       "settings": {
         "heading": "Custom contact form",
@@ -55,6 +46,6 @@
   },
   "order": [
     "main",
-    "a3f2e615-be09-47d4-9f00-9618242a4e85"
+    "4463b72a-9b34-4db7-8037-f8c4be9367cb"
   ]
 }
