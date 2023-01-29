@@ -93,12 +93,11 @@
         </div>
       </div>
       {%- for block in section.blocks -%}
-        1. {{ block.field-type }}
         2. {{ block.settings.field-type }}
-        3. {{ block.settings.field-type.value }}
-        {% case block.settings.field-type.value %}
+        {% case block.settings.field-type %}
           {%- when 'phone' -%}
           {%- when 'text' -%}
+            Text Div
             <div class="field">
               <input
                 {% if block.settings.required %}
