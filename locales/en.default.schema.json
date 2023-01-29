@@ -603,7 +603,21 @@
       }, 
       "blocks": {
         "field": {
-          "name": "Field"
+          "name": "Field", 
+          "settings": {
+            "name": {
+              "label": "Name"
+            },
+            "field-type": {
+              "label": "Field type",
+              "options__1": {
+                "label": "Text"
+              },
+              "options__2": {
+                "label": "Text area"
+              }
+            }
+          }
         }
       }
     },
