@@ -51,10 +51,7 @@
         </ul>
       {%- endif -%}
       {%- for block in section.blocks -%}
-        {{ block.settings.field-type }}<br/>
         {% case block.settings.field-type %}
-        
-         {% comment %}
          
           {%- when 'email' -%}
             <div class="field field--with-error">
@@ -84,6 +81,8 @@
                 </small>
               {%- endif -%}
             </div>
+
+         {% comment %}
            
           {%- when 'phone' -%}
             <div class="field">
