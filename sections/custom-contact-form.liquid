@@ -18,25 +18,7 @@
   }
 {%- endstyle -%}
 
-<script>
-window.addEventListener('load', function () {
-    
-    document.getElementById('{{ section.settings.form-id }}').submit(function(e){
-        e.preventDefault(); 
-        $.ajax({ 
-            url: '{{ section.settings.zapier-webhook-url }}/silent',
-            type: 'get',
-            data:document.getElementById('{{ section.settings.form-id }}').serialize(),
-            success:function(){
-            // Hide the the form header and form itself 
-            //$('#xialla-subscribe-form-wrapper').css('display', 'none');
-            // Show the thank-you part
-            // document.getElementById('#submit-success-wrapper').css('display', 'flex');
-            }
-        });
-    });
-})
-</script>
+
 
 
 <div class="color-{{ section.settings.color_scheme }} gradient">
@@ -51,28 +33,6 @@ window.addEventListener('load', function () {
 
     </form>
 
-
-    <script>            
-            var form = document.getElementById('{{ section.settings.form-id }}')
-            
-            document.getElementById("{{ section.settings.form-id }}").addEventListener("submit", function(e){
-                alert("asdfasldkfajsdf");
-                e.preventDefault(); 
-                $.ajax({ 
-                    url: '{{ section.settings.zapier-webhook-url }}/silent',
-                    type: 'get',
-                    data:document.getElementById('{{ section.settings.form-id }}').serialize(),
-                    success:function(){
-                    // Hide the the form header and form itself 
-                    //$('#xialla-subscribe-form-wrapper').css('display', 'none');
-                    // Show the thank-you part
-                    // document.getElementById('#submit-success-wrapper').css('display', 'flex');
-                    }
-                });
-            }
-        );
-
-    </script>
 
     <!--
     {%- form 'contact', id: "hello" -%}
@@ -174,7 +134,22 @@ window.addEventListener('load', function () {
   </div>
 </div>
 
-
+<script>
+    #('#{{ section.settings.form-id }}').submit(function(e){
+        e.preventDefault(); 
+        $.ajax({ 
+            url: '{{ section.settings.zapier-webhook-url }}/silent',
+            type: 'get',
+            data:document.getElementById('{{ section.settings.form-id }}').serialize(),
+            success:function(){
+            // Hide the the form header and form itself 
+            //$('#xialla-subscribe-form-wrapper').css('display', 'none');
+            // Show the thank-you part
+            // document.getElementById('#submit-success-wrapper').css('display', 'flex');
+            }
+        });
+    });
+</script>
 
 {% schema %}
   {
