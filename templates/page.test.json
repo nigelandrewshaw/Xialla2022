@@ -16,7 +16,7 @@
           "settings": {
             "name": "",
             "required": false,
-            "field-type": "text"
+            "field-type": "email"
           }
         },
         "acf4dfae-3355-4d17-8cf0-cefb563c0d35": {
