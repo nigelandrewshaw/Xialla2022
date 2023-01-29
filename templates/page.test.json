@@ -8,56 +8,20 @@
         "padding_bottom": 28
       }
     },
-    "2dbac18c-8404-4646-9f5e-f7f9939f0dbd": {
+    "a3f2e615-be09-47d4-9f00-9618242a4e85": {
       "type": "custom-contact-form",
       "blocks": {
-        "b0ae68fe-f44c-4d88-90aa-74b106e14b86": {
+        "055453ce-94cc-473b-97d5-959b6fa98254": {
           "type": "contact-field",
           "settings": {
-            "name": "Testing",
-            "required": true,
-            "field-type": "text"
-          }
-        },
-        "bcf655e3-6aee-4dce-af9e-a2f18b06794f": {
-          "type": "contact-field",
-          "settings": {
-            "name": "Testing 2",
-            "required": false,
-            "field-type": "text"
-          }
-        },
-        "b69e21a6-ddca-42b7-a77d-15d8b48596da": {
-          "type": "contact-field",
-          "settings": {
-            "name": "Last Name",
-            "required": false,
-            "field-type": "input"
-          }
-        },
-        "bc8cb2c9-e40e-493c-8a4c-451de0f3ac01": {
-          "type": "contact-field",
-          "settings": {
-            "name": "First Name",
-            "required": false,
-            "field-type": "text"
-          }
-        },
-        "0e32b5fc-5301-4cf6-aa4b-6d3afa54fc82": {
-          "type": "contact-field",
-          "settings": {
-            "name": "Date of Birth",
+            "name": "Address 1",
             "required": false,
             "field-type": "text"
           }
         }
       },
       "block_order": [
-        "b0ae68fe-f44c-4d88-90aa-74b106e14b86",
-        "bcf655e3-6aee-4dce-af9e-a2f18b06794f",
-        "b69e21a6-ddca-42b7-a77d-15d8b48596da",
-        "bc8cb2c9-e40e-493c-8a4c-451de0f3ac01",
-        "0e32b5fc-5301-4cf6-aa4b-6d3afa54fc82"
+        "055453ce-94cc-473b-97d5-959b6fa98254"
       ],
       "settings": {
         "heading": "Custom contact form",
@@ -73,6 +37,6 @@
   },
   "order": [
     "main",
-    "2dbac18c-8404-4646-9f5e-f7f9939f0dbd"
+    "a3f2e615-be09-47d4-9f00-9618242a4e85"
   ]
 }
