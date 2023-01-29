@@ -54,6 +54,7 @@
         {% case block.settings.field-type %}
          
           {%- when 'email' -%}
+            {{ block.settings.field-type }}
             <div class="field field--with-error">
               <input
                 required="true"
