@@ -55,12 +55,11 @@
       <div class="contact__fields">
         <div class="field">
           <input
-            required="true"
             class="field__input"
             autocomplete="name"
             type="text"
-            id="ContactForm-name"
-            name="contact[{{ 'templates.contact.form.name' | t }}]"
+            id="contact-name"
+            name="contact-name"
             value="{% if form.name %}{{ form.name }}{% elsif customer %}{{ customer.name }}{% endif %}"
             placeholder="{{ 'templates.contact.form.name' | t }}">
           <label class="field__label" for="ContactForm-name">{{ 'templates.contact.form.name' | t }}
@@ -72,16 +71,16 @@
             required="true"
             autocomplete="email"
             type="email"
-            id="ContactForm-email"
+            id="contact-email"
             class="field__input"
-            name="contact[email]"
+            name="contact-email"
             spellcheck="false"
             autocapitalize="off"
             value="{% if form.email %}{{ form.email }}{% elsif customer %}{{ customer.email }}{% endif %}"
             aria-required="true"
             {% if form.errors contains 'email' %}
-            aria-invalid="true"
-            aria-describedby="ContactForm-email-error"
+                aria-invalid="true"
+                aria-describedby="ContactForm-email-error"
             {% endif %}
             placeholder="{{ 'templates.contact.form.email' | t }}">
           <label class="field__label" for="ContactForm-email">{{ 'templates.contact.form.email' | t }}
