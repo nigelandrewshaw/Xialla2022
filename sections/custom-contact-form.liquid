@@ -28,14 +28,8 @@
     {%- else -%}
       <h2 class="visually-hidden">{{ 'templates.contact.form.title' | t }}</h2>
     {%- endif -%}
-    <form id="{{ section.settings.form-id }}">
-        lkjlkjlkjlkjlkjkj
 
-    </form>
-
-
-    <!--
-    {%- form 'contact', id: "hello" -%}
+    {%- form 'contact', id: "{{ section.settings.form-id }}" -%}
     
       {%- if form.posted_successfully? -%}
         <h2
@@ -126,7 +120,6 @@
         </button>
       </div>
     {%- endform -%}
-    --> 
 
   </div>
   <div id="submit-success-wrapper" style="display:none" >
@@ -135,7 +128,7 @@
 </div>
 
 <script>
-    #('#{{ section.settings.form-id }}').submit(function(e){
+    $('#{{ section.settings.form-id }}').submit(function(e){
         e.preventDefault(); 
         $.ajax({ 
             url: '{{ section.settings.zapier-webhook-url }}/silent',
