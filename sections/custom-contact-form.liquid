@@ -1,15 +1,19 @@
 {{ 'section-contact-form.css' | asset_url | stylesheet_tag }}
 
 {%- style -%}
-  .section-contact-form-padding {
-    padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }} px;
-    padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }} px;
+  .section-{{ section.id }}-padding {
+    padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}
+    px;
+    padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}
+    px;
   }
 
   @media screen and (min-width: 750px) {
-    .section-contact-form-padding {
-      padding-top: {{ section.settings.padding_top }} px;
-      padding-bottom: {{ section.settings.padding_bottom }} px;
+    .section-{{ section.id }}-padding {
+      padding-top: {{ section.settings.padding_top }}
+      px;
+      padding-bottom: {{ section.settings.padding_bottom }}
+      px;
     }
   }
 {%- endstyle -%}
@@ -250,6 +254,7 @@
       "default": 36
     }
   ],
+<<<<<<< HEAD
 
   "blocks": [
     {
@@ -275,15 +280,12 @@
     }
   ],
   
+=======
+>>>>>>> c38bb13f064e1700db416a85a6763beb7d2132a3
   "presets": [
-    {
-      "name": "Custom Contact Form", 
-      "blocks": [
-        {
-          "type": "field"
-        }
-      ]
-    }
-  ]
+      {
+        "name": "Custom Contact Form"
+      }
+    ]
 }
 {% endschema %}
