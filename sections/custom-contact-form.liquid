@@ -154,40 +154,106 @@
 </script>
 
 {% schema %}
-{
-  "name": "t:sections.custom-contact-form.name",
-  "tag": "section",
-  "class": "section",
-  "settings": [
-    {
-      "type": "text",
-      "id": "heading",
-      "default": "Custom contact form",
-      "label": "Heading"
-    },
-    {
-      "type": "text",
-      "id": "form-id",
-      "default": "form-id",
-      "label": "Form ID"
-    },
-    {
-      "type": "text",
-      "id": "zapier-webhook-url",
-      "default": "https://hooks.zapier.com/hooks/catch/4718621/owcjpup/silent/",
-      "label": "Zapier webhook url"
-    },
-    {
-      "type": "text",
-      "id": "success-message",
-      "default": "Thank you",
-      "label": "Success message"
-    },
-    {
-      "type": "select",
-      "id": "heading_size",
-      "options": [
+  {
+    "name": "t:sections.custom-contact-form.name",
+    "tag": "section",
+    "class": "section",
+    "settings": [
+      {
+        "type": "text",
+        "id": "heading",
+        "default": "Custom contact form",
+        "label": "Heading"
+      },
+      {
+        "type": "text",
+        "id": "form-id",
+        "default": "form-id",
+        "label": "Form ID"
+      },
+      {
+        "type": "text",
+        "id": "zapier-webhook-url",
+        "default": "https://hooks.zapier.com/hooks/catch/4718621/owcjpup/silent/",
+        "label": "Zapier webhook url"
+      },
+      {
+        "type": "text",
+        "id": "success-message",
+        "default": "Thank you",
+        "label": "Success message"
+      },
+      {
+        "type": "select",
+        "id": "heading_size",
+        "options": [
+          {
+            "value": "h2",
+            "label": "t:sections.all.heading_size.options__1.label"
+          }, {
+            "value": "h1",
+            "label": "t:sections.all.heading_size.options__2.label"
+          }, {
+            "value": "h0",
+            "label": "t:sections.all.heading_size.options__3.label"
+          }
+        ],
+        "default": "h1",
+        "label": "t:sections.all.heading_size.label"
+      },
+      {
+        "type": "select",
+        "id": "color_scheme",
+        "options": [
+          {
+            "value": "accent-1",
+            "label": "t:sections.all.colors.accent_1.label"
+          },
+          {
+            "value": "accent-2",
+            "label": "t:sections.all.colors.accent_2.label"
+          },
+          {
+            "value": "background-1",
+            "label": "t:sections.all.colors.background_1.label"
+          },
+          {
+            "value": "background-2",
+            "label": "t:sections.all.colors.background_2.label"
+          }, {
+            "value": "inverse",
+            "label": "t:sections.all.colors.inverse.label"
+          }
+        ],
+        "default": "background-1",
+        "label": "t:sections.all.colors.label"
+      },
+      {
+        "type": "header",
+        "content": "t:sections.all.padding.section_padding_heading"
+      }, {
+        "type": "range",
+        "id": "padding_top",
+        "min": 0,
+        "max": 100,
+        "step": 4,
+        "unit": "px",
+        "label": "t:sections.all.padding.padding_top",
+        "default": 36
+      }, {
+        "type": "range",
+        "id": "padding_bottom",
+        "min": 0,
+        "max": 100,
+        "step": 4,
+        "unit": "px",
+        "label": "t:sections.all.padding.padding_bottom",
+        "default": 36
+      }
+    ],
+    "blocks": [
         {
+<<<<<<< HEAD
           "value": "h2",
           "label": "t:sections.all.heading_size.options__1.label"
         },
@@ -266,18 +332,45 @@
           "id": "field-type",
           "label": "t:sections.custom-contact-form.blocks.field.settings.field-type",
           "options": [
+=======
+        "type": "field",
+        "name": "t:sections.custom-contact-form.blocks.field.name",
+        "settings": [
             {
-              "value": "input",
-              "label": "t:sections.image-with-text.settings.content_layout.options__1.label"
+            "type": "image_picker",
+            "id": "image",
+            "label": "t:sections.multicolumn.blocks.column.settings.image.label"
             },
             {
-              "value": "textarea",
-              "label": "t:sections.image-with-text.settings.content_layout.options__2.label"
+            "type": "liquid",
+            "id": "custom_liquid",
+            "label": "t:sections.multicolumn.blocks.column.settings.title.label"
+            },
+>>>>>>> 70707bc07e08cba24672cd9538d5f4b0154190ad
+            {
+            "type": "richtext",
+            "id": "text",
+            "default": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "label": "t:sections.multicolumn.blocks.column.settings.text.label"
+            },
+            {
+            "type": "text",
+            "id": "link_label",
+            "label": "t:sections.multicolumn.blocks.column.settings.link_label.label"
+            },
+            {
+            "type": "url",
+            "id": "link",
+            "label": "t:sections.multicolumn.blocks.column.settings.link.label"
             }
-          ]
+        ]
         }
-      ]
-    }
-  ]
-}
+    ],
+    "presets": [
+      {
+        "name": "t:sections.custom-contact-form.presets.name"
+      }
+    ]
+    
+  }
 {% endschema %}
