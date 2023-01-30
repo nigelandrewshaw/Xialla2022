@@ -123,7 +123,7 @@
                 placeholder="{{ 'templates.contact.form.comment' | t }}">
                 {{- form.body -}}
               </textarea>
-              <label class="form__label field__label" for="ContactForm-body">{{ 'templates.contact.form.comment' | t }}</label>
+              <label class="form__label field__label" for="ContactForm-body">{{ block.settings.name }}</label>
             </div>
 
         {%- endcase -%}
