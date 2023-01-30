@@ -54,6 +54,7 @@
         {% case block.settings.field-type %}
          
           {%- when 'email' -%}
+            {{ block.settings.field-type }}
             <div class="field field--with-error">
               <input
                 autocomplete="email"
@@ -70,6 +71,9 @@
                 aria-describedby="ContactForm-email-error"
                 {% endif %}
                 placeholder="{{ 'templates.contact.form.email' | t }}">
+
+         {% comment %}
+
               <label class="field__label" for="ContactForm-email">{{ block.settings.name }}
                 <span aria-hidden="true">*</span>
               </label>
@@ -79,6 +83,9 @@
                   <span class="form__message">{% render 'icon-error' %}{{ form.errors.translated_fields['email'] | capitalize }} {{ form.errors.messages['email'] }}</span>
                 </small>
               {%- endif -%}
+
+            {% endcomment %}
+
             </div>
 
          {% comment %}
