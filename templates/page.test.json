@@ -15,6 +15,7 @@
           "type": "contact-field",
           "settings": {
             "name": "",
+            "zapier-id": "",
             "required": false,
             "field-type": "email"
           }
@@ -23,6 +24,16 @@
           "type": "contact-field",
           "settings": {
             "name": "Your Comments",
+            "zapier-id": "",
+            "required": false,
+            "field-type": "textarea"
+          }
+        },
+        "d7101d85-4a6b-4ad9-bedc-395eacd28f8d": {
+          "type": "contact-field",
+          "settings": {
+            "name": "Enter your info",
+            "zapier-id": "",
             "required": false,
             "field-type": "textarea"
           }
@@ -30,7 +41,8 @@
       },
       "block_order": [
         "1fcdf3e5-61b9-419c-a7b0-cf3fbcf9cff7",
-        "acf4dfae-3355-4d17-8cf0-cefb563c0d35"
+        "acf4dfae-3355-4d17-8cf0-cefb563c0d35",
+        "d7101d85-4a6b-4ad9-bedc-395eacd28f8d"
       ],
       "settings": {
         "heading": "Custom contact form",
