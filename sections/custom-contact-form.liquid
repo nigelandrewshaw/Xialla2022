@@ -57,21 +57,20 @@
             {{ block.settings.field-type }}
             <div class="field field--with-error">
               <input
-                required="true"
                 autocomplete="email"
                 type="email"
-                id = {{ block.settings.id }}
+                id="ContactForm-email"
                 class="field__input"
-                name= {{ block.settings.name }}
+                name="contact[email]"
                 spellcheck="false"
                 autocapitalize="off"
                 value="{% if form.email %}{{ form.email }}{% elsif customer %}{{ customer.email }}{% endif %}"
                 aria-required="true"
                 {% if form.errors contains 'email' %}
-                    aria-invalid="true"
-                    aria-describedby="ContactForm-email-error"
+                aria-invalid="true"
+                aria-describedby="ContactForm-email-error"
                 {% endif %}
-                placeholder= {{ block.settings.name }}>
+                placeholder="{{ 'templates.contact.form.email' | t }}">
 
          {% comment %}
 
