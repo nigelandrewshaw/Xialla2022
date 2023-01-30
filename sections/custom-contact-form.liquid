@@ -54,12 +54,11 @@
         {% case block.settings.field-type %}
          
           {%- when 'email' -%}
-            {{ block.settings.field-type }}
             <div class="field field--with-error">
               <input
                 autocomplete="email"
                 type="email"
-                id="ContactForm-email"
+                id={{ block.settings.id }}
                 class="field__input"
                 name="contact[email]"
                 spellcheck="false"
@@ -70,7 +69,7 @@
                 aria-invalid="true"
                 aria-describedby="ContactForm-email-error"
                 {% endif %}
-                placeholder="{{ 'templates.contact.form.email' | t }}">
+                placeholder="{{ block.settings.name }}">
               <label class="field__label" for="ContactForm-email">{{ block.settings.name }}
                 <span aria-hidden="true">*</span>
               </label>
