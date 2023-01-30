@@ -58,7 +58,7 @@
               <input
                 autocomplete="email"
                 type="email"
-                id={{ block.settings.id }}
+                id="ContactForm-email"
                 class="field__input"
                 name="contact[email]"
                 spellcheck="false"
@@ -69,7 +69,7 @@
                 aria-invalid="true"
                 aria-describedby="ContactForm-email-error"
                 {% endif %}
-                placeholder="{{ block.settings.name }}">
+                placeholder="{{ 'templates.contact.form.email' | t }}">
               <label class="field__label" for="ContactForm-email">{{ block.settings.name }}
                 <span aria-hidden="true">*</span>
               </label>
