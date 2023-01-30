@@ -22,7 +22,7 @@
         "acf4dfae-3355-4d17-8cf0-cefb563c0d35": {
           "type": "contact-field",
           "settings": {
-            "name": "Testing",
+            "name": "Your Comments",
             "required": false,
             "field-type": "textarea"
           }
