@@ -24,7 +24,7 @@
           "settings": {
             "name": "Testing",
             "required": false,
-            "field-type": "text"
+            "field-type": "textarea"
           }
         }
       },
