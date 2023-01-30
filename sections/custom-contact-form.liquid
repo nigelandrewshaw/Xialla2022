@@ -114,23 +114,15 @@
             </div>
           
           {%- when 'textarea' -%}
-            <div class="field">
-              <textarea
-                {% if block.settings.required %}
-                  required="true"
-                  aria-required="true"
-                {% endif %}
-                rows="10"
-                id = {{ block.settings.id }}
-                class="text-area field__input"
-                name = {{ block.settings.name }}
-                placeholder = {{ block.settings.name }}
-                {{- form.body -}}>
-              <label class="form__label field__label" for="ContactForm-body">{{ block.settings.name }}
-                {% if block.settings.required %}
-                    <span aria-hidden="true">*</span>
-                {% endif %}
-              </label>
+            <textarea
+              rows="10"
+              id="ContactForm-body"
+              class="text-area field__input"
+              name="contact[{{ 'templates.contact.form.comment' | t }}]"
+              placeholder="{{ 'templates.contact.form.comment' | t }}">
+              {{- form.body -}}
+            </textarea>
+            <label class="form__label field__label" for="ContactForm-body">{{ 'templates.contact.form.comment' | t }}</label>
             </div>
 
         {%- endcase -%}
