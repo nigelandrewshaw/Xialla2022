@@ -80,9 +80,7 @@
                   </small>
                 {%- endif -%}
             </div>
-
-         {% comment %}
-           
+      
           {%- when 'phone' -%}
             <div class="field">
               <input
@@ -98,7 +96,6 @@
             </div>
 
           {%- when 'text' -%}
-            alskjflaskdfklj
             <div class="field">
               <input
                 {% if block.settings.required %}
@@ -135,7 +132,6 @@
                 {% endif %}
               </label>
             </div>
-              {% endcomment %}
 
         {%- endcase -%}
       {%- endfor -%}
