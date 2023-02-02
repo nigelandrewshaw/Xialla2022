@@ -209,29 +209,6 @@
         "padding_bottom": 36
       }
     },
-    "rich_text": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Soft and stretchy, Xialla is the only ED ring that doesn't move during sex… and that's the key to a strong, long-lasting erection.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "text"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 24,
-        "padding_bottom": 80
-      }
-    },
     "16643859836004dd98": {
       "type": "image-with-text",
       "blocks": {
@@ -263,7 +240,7 @@
         "1664385983a83d9c9a-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Xialla_on_orange_almost_square_1.0x_9165a3f0-ddc8-456d-a499-74cc99dd45cc.jpg",
+        "image": "shopify:\/\/shop_images\/Xialla_Parts-80_474994d2-54bd-4514-af18-747f8317cb35.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -273,6 +250,96 @@
         "color_scheme": "background-2",
         "mobile_content_alignment": "left",
         "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
+    "4ddf447f-f278-4efd-bc1c-e9485748a58c": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15921100783778__4ddf447f-f278-4efd-bc1c-e9485748a58c-16753566988a0d0f6b-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Stick_the_Pad-80_00306121-fc0a-4287-a35b-e4e1a79cf82c.jpg",
+            "custom_liquid": "Stick the pad",
+            "text": "<p>Stick an adhesive pad to your lower back just above the buttocks.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15921100783778__4ddf447f-f278-4efd-bc1c-e9485748a58c-16753566988a0d0f6b-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Place_the_Ring_Erect-80.jpg",
+            "custom_liquid": "Place the ring",
+            "text": "<p>Place the ring around the base of your penis and let the loop and band hang in front of your scrotum. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15921100783778__4ddf447f-f278-4efd-bc1c-e9485748a58c-16753566988a0d0f6b-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Place_the_Ring_Flaccid_-80.jpg",
+            "custom_liquid": "Erect or flaccid",
+            "text": "<p>The ring can be place on an erect or a flaccid penis.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "db239680-7c87-4ca0-9daa-888664445a59": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Stretch_the_Loop-80.jpg",
+            "custom_liquid": "Stretch the loop",
+            "text": "<p>Stretch the loop up and around your scrotum.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "9d8017e7-a263-45e2-a4af-b05cb48757e1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Attach_the_Band-80.jpg",
+            "custom_liquid": "Pull the band",
+            "text": "<p>Pull the band back between your legs.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "6dfcf703-db4d-4abb-8bb3-a80de8f4ce61": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Attach_the_Band_2-80.jpg",
+            "custom_liquid": "Attach the tab lock",
+            "text": "<p>Attach the tab lock to the adhesive pad to lock Xialla in place. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15921100783778__4ddf447f-f278-4efd-bc1c-e9485748a58c-16753566988a0d0f6b-0",
+        "template--15921100783778__4ddf447f-f278-4efd-bc1c-e9485748a58c-16753566988a0d0f6b-1",
+        "template--15921100783778__4ddf447f-f278-4efd-bc1c-e9485748a58c-16753566988a0d0f6b-2",
+        "db239680-7c87-4ca0-9daa-888664445a59",
+        "9d8017e7-a263-45e2-a4af-b05cb48757e1",
+        "6dfcf703-db4d-4abb-8bb3-a80de8f4ce61"
+      ],
+      "settings": {
+        "title": "How to Wear",
+        "title-centered": false,
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Buy",
+        "button_link": "shopify:\/\/products\/xialla",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 52,
         "padding_bottom": 36
       }
     },
@@ -683,8 +750,8 @@
     "166425116431cde5aa",
     "1664616703a24d7b00",
     "3c36047f-88ad-4488-bd35-720b0c5475e6",
-    "rich_text",
     "16643859836004dd98",
+    "4ddf447f-f278-4efd-bc1c-e9485748a58c",
     "1664328183da5cbb42",
     "1664046577e327ab78",
     "multicolumn",
