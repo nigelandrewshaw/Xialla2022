@@ -77,10 +77,10 @@
     "5f4ff035-bbd7-4d22-99f3-61c9ceb54cee": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div id=\"top-questions\" height=\"0\" width=\"0\">",
+        "custom_liquid": "<div id=\"x-top-questions\">",
         "color_scheme": "background-1",
         "padding_top": 0,
-        "padding_bottom": 100,
+        "padding_bottom": 0,
         "section_visibility": "visible"
       }
     },
