@@ -255,7 +255,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "How much does shipping cost?",
-            "link": "shopify:\/\/blogs\/knowledge-center\/what-is-the-shipping-cost",
+            "link": "shopify:\/\/blogs\/help\/what-is-the-shipping-cost",
             "icon": "none"
           }
         },
