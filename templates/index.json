@@ -13,7 +13,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "Xialla is the world's only effective treatment for blood outflow (venous leak) that causes up to 70% of ED.",
+            "text": "Xialla is the world's only effective treatment for blood outflow (venous leak), the cause of 70% of ED.",
             "text_style": "subtitle"
           }
         },
@@ -54,7 +54,7 @@
         "template--15921100783778__2bf3d88c-11f2-46b5-88c2-3fbf640152a1-167448272198b62cb3-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "\"Xialla is an innovative breakthrough in the treatment of venous leak related ED.\"",
+            "custom_liquid": "\"Finally a breakthrough for treating venous leak related ED.\"",
             "heading_size": "h1"
           }
         },
