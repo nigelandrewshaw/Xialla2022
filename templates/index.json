@@ -321,7 +321,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Final-80.jpg",
             "custom_liquid": "Enjoy",
-            "text": "<p>Once in place, Xialla is nearly unnoticeable. All you and your partner will experience is Xialla's many <a href=\"\/blogs\/knowledge-center\/what-makes-xialla-amazing\" title=\"What makes Xialla amazing\">benefits<\/a>.<\/p>",
+            "text": "<p>Once in place, Xialla is nearly unnoticeable... except for its amazing <a href=\"\/blogs\/knowledge-center\/what-makes-xialla-amazing\" title=\"What makes Xialla amazing\">benefits<\/a>.<\/p>",
             "link_label": "",
             "link": ""
           }
