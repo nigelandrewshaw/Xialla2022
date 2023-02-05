@@ -104,6 +104,7 @@
       ],
       "settings": {
         "title": "Medical Team",
+        "title-centered": false,
         "heading_size": "h1",
         "image_width": "custom_image_size_width",
         "image_ratio": "adapt",
@@ -111,6 +112,61 @@
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "4811e90f-4bed-4eff-a39f-736c8c4d1936": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15936918487202__4811e90f-4bed-4eff-a39f-736c8c4d1936-16756243168de80318-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Omer_Raheem.png",
+            "custom_liquid": "Dr. Omer Raheem | MDMSc, MCh, MRCSI",
+            "text": "<p>Dr. Raheem is a board-certified fellowship trained urologist specializing in men’s sexual health and male infertility with experience in erectile dysfunction, penile implants, Peyronie’s disease and complex penile reconstruction.<\/p><p>He completed his residency training in urology at the University of California, San Diego and fellowship training in andrology and men’s sexual health at the University of Washington, Seattle. Prior to his training in the United States, he completed general surgery and urology training at the Royal College of Surgeons in Dublin, Ireland. During my training, Dr. Raheem earned Master in Surgery (MCh) and Master of Science (MSc) from the University of Dublin, Trinity College.<br\/><br\/>Dr. Raheem is currently an Associate Editor of Sexual Medicine and Sexual Medicine Reviews, official journals of the Sexual Medicine Society of North America (SMSNA).<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15936918487202__4811e90f-4bed-4eff-a39f-736c8c4d1936-16756243168de80318-1": {
+          "type": "column",
+          "settings": {
+            "custom_liquid": "",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15936918487202__4811e90f-4bed-4eff-a39f-736c8c4d1936-16756243168de80318-2": {
+          "type": "column",
+          "settings": {
+            "custom_liquid": "",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15936918487202__4811e90f-4bed-4eff-a39f-736c8c4d1936-16756243168de80318-0",
+        "template--15936918487202__4811e90f-4bed-4eff-a39f-736c8c4d1936-16756243168de80318-1",
+        "template--15936918487202__4811e90f-4bed-4eff-a39f-736c8c4d1936-16756243168de80318-2"
+      ],
+      "settings": {
+        "title": "Medical Partners",
+        "title-centered": false,
+        "heading_size": "h1",
+        "image_width": "custom_image_size_width",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
@@ -182,6 +238,7 @@
       ],
       "settings": {
         "title": "Advisory Board",
+        "title-centered": false,
         "heading_size": "h1",
         "image_width": "custom_image_size_width",
         "image_ratio": "adapt",
@@ -282,6 +339,7 @@
       ],
       "settings": {
         "title": "Our promise",
+        "title-centered": false,
         "heading_size": "h1",
         "image_width": "custom_image_size_width",
         "image_ratio": "adapt",
@@ -302,6 +360,7 @@
     "main",
     "16644166066a7a17fc",
     "2d89dc12-9436-4160-aaf6-195144c02379",
+    "4811e90f-4bed-4eff-a39f-736c8c4d1936",
     "1664418306a32ea326",
     "16644175720f540a9f",
     "1664417113f5e36280"
