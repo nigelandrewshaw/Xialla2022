@@ -152,6 +152,50 @@
         "padding_bottom": 52
       }
     },
+    "4b7d0b4e-3845-41d0-b6d7-a674894e66f4": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15921100783778__4b7d0b4e-3845-41d0-b6d7-a674894e66f4-1675718367fe2b8b9c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "ED causes and treatments",
+            "heading_size": "h1"
+          }
+        },
+        "template--15921100783778__4b7d0b4e-3845-41d0-b6d7-a674894e66f4-1675718367fe2b8b9c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>ED is caused by either<\/p><ul><li>Excess blood outflow (venous leak), or<\/li><li>Insufficient blood inflow.<\/li><\/ul><p>Xialla is the only effective treatment for excess blood outflow.<\/p><p>If you have both causes, combine Xialla with oral or injected medication or a pump for excellent results.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15921100783778__4b7d0b4e-3845-41d0-b6d7-a674894e66f4-1675718367fe2b8b9c-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy",
+            "button_link": "shopify:\/\/products\/xialla"
+          }
+        }
+      },
+      "block_order": [
+        "template--15921100783778__4b7d0b4e-3845-41d0-b6d7-a674894e66f4-1675718367fe2b8b9c-0",
+        "template--15921100783778__4b7d0b4e-3845-41d0-b6d7-a674894e66f4-1675718367fe2b8b9c-1",
+        "template--15921100783778__4b7d0b4e-3845-41d0-b6d7-a674894e66f4-1675718367fe2b8b9c-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Artboard_2_2x_76101573-8353-47cd-9a72-543c12cffb69.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
     "16643859836004dd98": {
       "type": "image-with-text",
       "blocks": {
@@ -204,50 +248,6 @@
         "padding_top": 0,
         "padding_bottom": 0,
         "section_visibility": "visible"
-      }
-    },
-    "4b7d0b4e-3845-41d0-b6d7-a674894e66f4": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--15921100783778__4b7d0b4e-3845-41d0-b6d7-a674894e66f4-1675718367fe2b8b9c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "ED causes and treatments",
-            "heading_size": "h1"
-          }
-        },
-        "template--15921100783778__4b7d0b4e-3845-41d0-b6d7-a674894e66f4-1675718367fe2b8b9c-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>ED is caused by either<\/p><ul><li>Excess blood outflow (venous leak), or<\/li><li>Insufficient blood inflow.<\/li><\/ul><p>Xialla is the only effective treatment for excess blood outflow.<\/p><p>If you have both causes, combine Xialla with oral or injected medication or a pump for excellent results.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--15921100783778__4b7d0b4e-3845-41d0-b6d7-a674894e66f4-1675718367fe2b8b9c-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Buy",
-            "button_link": "shopify:\/\/products\/xialla"
-          }
-        }
-      },
-      "block_order": [
-        "template--15921100783778__4b7d0b4e-3845-41d0-b6d7-a674894e66f4-1675718367fe2b8b9c-0",
-        "template--15921100783778__4b7d0b4e-3845-41d0-b6d7-a674894e66f4-1675718367fe2b8b9c-1",
-        "template--15921100783778__4b7d0b4e-3845-41d0-b6d7-a674894e66f4-1675718367fe2b8b9c-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Artboard_2_2x_76101573-8353-47cd-9a72-543c12cffb69.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 24,
-        "padding_bottom": 24
       }
     },
     "4ddf447f-f278-4efd-bc1c-e9485748a58c": {
@@ -746,9 +746,9 @@
     "166425116431cde5aa",
     "1664616703a24d7b00",
     "3c36047f-88ad-4488-bd35-720b0c5475e6",
+    "4b7d0b4e-3845-41d0-b6d7-a674894e66f4",
     "16643859836004dd98",
     "3e8aa883-d657-4705-9744-a0dc19bc5805",
-    "4b7d0b4e-3845-41d0-b6d7-a674894e66f4",
     "4ddf447f-f278-4efd-bc1c-e9485748a58c",
     "1664328183da5cbb42",
     "1664046577e327ab78",
