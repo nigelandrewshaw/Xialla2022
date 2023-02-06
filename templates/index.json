@@ -78,63 +78,6 @@
         "padding_bottom": 52
       }
     },
-    "a82ea835-4b05-4801-a3e2-3b4811d7109f": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "template--15921100783778__a82ea835-4b05-4801-a3e2-3b4811d7109f-16741738536c64343f-0": {
-          "type": "heading",
-          "settings": {
-            "custom_liquid": "Are You Frustrated Trying to Fix your ED?",
-            "heading_size": "h1"
-          }
-        },
-        "template--15921100783778__a82ea835-4b05-4801-a3e2-3b4811d7109f-16741738536c64343f-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Your doctor and the internet tell you that all ED is treatable and that there are multiple options. But nothing works for your ED. You feel frustrated and hopeless.<\/p>"
-          }
-        },
-        "31149d76-a69f-4657-ac7c-0d7359794619": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Conventional ED treatments address the problem of too little blood inflow. But if your ED is caused by excess blood outflow (venous leak), those treatments aren't enough. You may get an erection but it goes away, or you may not be able to achieve an erection at all. <\/p>"
-          }
-        },
-        "16d15281-a702-41ee-b722-215b7912bb91": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Xialla is unlike anything else, designed specifically to treat the problem of excess blood outflow (venous leak). <\/p><p>It may be the answer to all your frustration.<\/p>"
-          }
-        },
-        "template--15921100783778__a82ea835-4b05-4801-a3e2-3b4811d7109f-16741738536c64343f-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Is it Right for Me?",
-            "button_link": "shopify:\/\/pages\/is-xialla-right-for-me",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--15921100783778__a82ea835-4b05-4801-a3e2-3b4811d7109f-16741738536c64343f-0",
-        "template--15921100783778__a82ea835-4b05-4801-a3e2-3b4811d7109f-16741738536c64343f-1",
-        "31149d76-a69f-4657-ac7c-0d7359794619",
-        "16d15281-a702-41ee-b722-215b7912bb91",
-        "template--15921100783778__a82ea835-4b05-4801-a3e2-3b4811d7109f-16741738536c64343f-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 84,
-        "padding_bottom": 52
-      }
-    },
     "166425116431cde5aa": {
       "type": "custom-liquid",
       "settings": {
@@ -265,19 +208,18 @@
     },
     "4b7d0b4e-3845-41d0-b6d7-a674894e66f4": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--15921100783778__4b7d0b4e-3845-41d0-b6d7-a674894e66f4-1675718367fe2b8b9c-0": {
           "type": "heading",
           "settings": {
-            "heading": "Causes of ED",
+            "heading": "ED causes and treatments",
             "heading_size": "h1"
           }
         },
         "template--15921100783778__4b7d0b4e-3845-41d0-b6d7-a674894e66f4-1675718367fe2b8b9c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>ED is caused by either<\/p><ul><li>excess blood outflow (venous leak), or<\/li><li>insufficient blood inflow.<\/li><\/ul><p>Xialla is the only effective treatment for excess blood outflow.<\/p><p>If you have both causes, combine Xialla with oral or injected medication or a pump for excellent results.<\/p>",
+            "text": "<p>ED is caused by either<\/p><ul><li>Excess blood outflow (venous leak), or<\/li><li>Insufficient blood inflow.<\/li><\/ul><p>Xialla is the only effective treatment for excess blood outflow.<\/p><p>If you have both causes, combine Xialla with oral or injected medication or a pump for excellent results.<\/p>",
             "text_style": "body"
           }
         },
@@ -295,7 +237,7 @@
         "template--15921100783778__4b7d0b4e-3845-41d0-b6d7-a674894e66f4-1675718367fe2b8b9c-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Artboard_2_2x_37b979ce-a1b3-4695-9d62-3d24a303b54c.png",
+        "image": "shopify:\/\/shop_images\/Artboard_2_2x_76101573-8353-47cd-9a72-543c12cffb69.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -801,7 +743,6 @@
   "order": [
     "image_banner",
     "2bf3d88c-11f2-46b5-88c2-3fbf640152a1",
-    "a82ea835-4b05-4801-a3e2-3b4811d7109f",
     "166425116431cde5aa",
     "1664616703a24d7b00",
     "3c36047f-88ad-4488-bd35-720b0c5475e6",
