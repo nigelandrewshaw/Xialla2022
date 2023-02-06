@@ -246,8 +246,8 @@
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
-        "padding_top": 80,
-        "padding_bottom": 80
+        "padding_top": 48,
+        "padding_bottom": 48
       }
     },
     "4ddf447f-f278-4efd-bc1c-e9485748a58c": {
