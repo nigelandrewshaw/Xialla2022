@@ -172,7 +172,7 @@
         "template--15921100783778__4b7d0b4e-3845-41d0-b6d7-a674894e66f4-1675718367fe2b8b9c-2": {
           "type": "button",
           "settings": {
-            "button_label": "Buy",
+            "button_label": "",
             "button_link": "shopify:\/\/products\/xialla"
           }
         }
