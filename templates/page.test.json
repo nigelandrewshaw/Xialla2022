@@ -23,10 +23,10 @@
         "2e338a64-6c38-45ed-94e4-b310e6d45ade": {
           "type": "contact-field",
           "settings": {
-            "name": "",
-            "zapier-id": "",
+            "name": "Address",
+            "zapier-id": "address",
             "required": false,
-            "field-type": "email"
+            "field-type": "text"
           }
         },
         "7defe1f5-7ac9-485a-a6e1-21549af7f5e4": {
