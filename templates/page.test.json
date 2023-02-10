@@ -23,8 +23,8 @@
         "2e338a64-6c38-45ed-94e4-b310e6d45ade": {
           "type": "contact-field",
           "settings": {
-            "name": "Testing-Form",
-            "zapier-id": "https:\/\/hooks.zapier.com\/hooks\/catch\/4718621\/bvllhos\/",
+            "name": "",
+            "zapier-id": "",
             "required": false,
             "field-type": "email"
           }
@@ -47,7 +47,7 @@
       "settings": {
         "heading": "Custom contact form",
         "form-id": "form-id",
-        "zapier-webhook-url": "https:\/\/hooks.zapier.com\/hooks\/catch\/4718621\/owcjpup\/silent\/",
+        "zapier-webhook-url": "https:\/\/hooks.zapier.com\/hooks\/catch\/4718621\/bvllhos\/",
         "success-message": "Thank you",
         "heading_size": "h1",
         "color_scheme": "background-1",
