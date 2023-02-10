@@ -10,6 +10,50 @@
     },
     "f65f2db8-af37-4d01-82dc-82abd91dfeda": {
       "type": "custom-contact-form",
+      "blocks": {
+        "061761fc-135f-4acc-84fe-03b396dd6c2a": {
+          "type": "contact-field",
+          "settings": {
+            "name": "Email",
+            "zapier-id": "email",
+            "required": true,
+            "field-type": "email"
+          }
+        },
+        "117efac9-80b4-49eb-83d3-79ea1dabcf53": {
+          "type": "contact-field",
+          "settings": {
+            "name": "First Name",
+            "zapier-id": "first-name",
+            "required": false,
+            "field-type": "text"
+          }
+        },
+        "bb8aba71-8db4-47f9-8894-94016f483965": {
+          "type": "contact-field",
+          "settings": {
+            "name": "Last Name",
+            "zapier-id": "last-name",
+            "required": false,
+            "field-type": "text"
+          }
+        },
+        "9c781487-08a4-41b8-b09f-bee00d436ab2": {
+          "type": "contact-field",
+          "settings": {
+            "name": "Details",
+            "zapier-id": "details",
+            "required": false,
+            "field-type": "textarea"
+          }
+        }
+      },
+      "block_order": [
+        "061761fc-135f-4acc-84fe-03b396dd6c2a",
+        "117efac9-80b4-49eb-83d3-79ea1dabcf53",
+        "bb8aba71-8db4-47f9-8894-94016f483965",
+        "9c781487-08a4-41b8-b09f-bee00d436ab2"
+      ],
       "settings": {
         "heading": "Custom contact form",
         "form-id": "form-id",
