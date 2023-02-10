@@ -1,9 +1,9 @@
+{{ 'section-contact-form.css' | asset_url | stylesheet_tag }}
 
 {%- style -%}
-
 .section-{{ section.id }}-padding {
-  padding-top: calc({{ section.settings.padding_top }}px * 0.75);
-  padding-bottom: calc({{ section.settings.padding_bottom }}px  * 0.75);
+  padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
+  padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
 }
 
 @media screen and (min-width: 750px) {
@@ -13,6 +13,7 @@
   }
 }
 {%- endstyle -%}
+
 
 
 <div class="color-{{ section.settings.color_scheme }} gradient">
@@ -54,9 +55,9 @@
               <input
                 autocomplete="email"
                 type="email"
-                id="ContactForm-email"
+                id="{{ block.settings.zapier-id }}"
                 class="field__input"
-                name="contact[email]"
+                name="{{ block.settings.zapier-id }}"
                 spellcheck="false"
                 autocapitalize="off"
                 value="{% if form.email %}{{ form.email }}{% elsif customer %}{{ customer.email }}{% endif %}"
@@ -81,14 +82,14 @@
             <div class="field">
               <input
                 type="tel"
-                id="ContactForm-phone"
+                id="{{ block.settings.id }}"
                 class="field__input"
                 autocomplete="tel"
-                name="contact[{{ 'templates.contact.form.phone' | t }}]"
+                name="{{ block.settings.zapier-id }}"
                 pattern="[0-9\-]*"
                 value="{% if form.phone %}{{ form.phone }}{% elsif customer %}{{ customer.phone }}{% endif %}"
                 placeholder="{{ 'templates.contact.form.phone' | t }}">
-              <label class="field__label" for="ContactForm-phone">{{ 'templates.contact.form.phone' | t }}</label>
+              <label class="field__label" for="{{ block.settings.name }}">{{ block.settings.name }}</label>
             </div>
 
           {%- when 'text' -%}
@@ -98,9 +99,10 @@
                   required="true"
                   aria-required="true"
                 {% endif %}
-                id = {{ block.settings.id }}
+                id = "{{ block.settings.id }}"
                 type="text"
                 class="field__input"
+                name="{{ block.settings.zapier-id }}"
                 placeholder="{{ block.settings.name }}">
               <label class="field__label" for="{{ block.settings.name }}">{{ block.settings.name }}
                 {% if block.settings.required %}
@@ -115,15 +117,16 @@
                 rows="10"
                 id="ContactForm-body"
                 class="text-area field__input"
-                name="{{ block.settings.name }}"
+                name="{{ block.settings.zapier-id }}"
                 placeholder="{{ 'templates.contact.form.comment' | t }}">
                 {{- form.body -}}
               </textarea>
-              <label class="form__label field__label" for="ContactForm-body">{{ block.settings.name }}</label>
+              <label class="form__label field__label" for="{{ block.settings.name }}">{{ block.settings.name }}</label>
             </div>
 
         {%- endcase -%}
       {%- endfor -%}
+
       
       <div class="contact__button">
         <button type="submit" class="button">
@@ -277,7 +280,7 @@
           {
             "type": "text",
             "label": "Zapier ID",
-            "id": "name"
+            "id": "zapier-id"
           },
           {
             "type": "checkbox",
