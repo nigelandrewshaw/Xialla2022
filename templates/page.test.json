@@ -14,9 +14,9 @@
         "256f4581-385c-489c-874f-3b93279a4c3c": {
           "type": "contact-field",
           "settings": {
-            "name": "",
-            "zapier-id": "",
-            "required": false,
+            "name": "Email",
+            "zapier-id": "email",
+            "required": true,
             "field-type": "email"
           }
         },
