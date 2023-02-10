@@ -1,4 +1,4 @@
-{{ 'section-contact-form.css' | asset_url | stylesheet_tag }}
+{{ 'section-custom-contact-form.css' | asset_url | stylesheet_tag }}
 
 {%- style -%}
   .section-{{ section.id }}-padding {
@@ -128,7 +128,6 @@
 
         {%- endcase -%}
       {%- endfor -%}
-
       
       <div class="contact__button">
         <button type="submit" class="button">
