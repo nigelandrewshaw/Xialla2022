@@ -32,10 +32,10 @@
         "7defe1f5-7ac9-485a-a6e1-21549af7f5e4": {
           "type": "contact-field",
           "settings": {
-            "name": "",
-            "zapier-id": "",
+            "name": "More Info",
+            "zapier-id": "more-info",
             "required": false,
-            "field-type": "email"
+            "field-type": "textarea"
           }
         }
       },
