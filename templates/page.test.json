@@ -8,10 +8,10 @@
         "padding_bottom": 28
       }
     },
-    "4463b72a-9b34-4db7-8037-f8c4be9367cb": {
+    "7b880bb7-9469-4680-ac93-19d07c90d6f7": {
       "type": "custom-contact-form",
       "blocks": {
-        "1fcdf3e5-61b9-419c-a7b0-cf3fbcf9cff7": {
+        "256f4581-385c-489c-874f-3b93279a4c3c": {
           "type": "contact-field",
           "settings": {
             "name": "",
@@ -20,34 +20,34 @@
             "field-type": "email"
           }
         },
-        "acf4dfae-3355-4d17-8cf0-cefb563c0d35": {
+        "2e338a64-6c38-45ed-94e4-b310e6d45ade": {
           "type": "contact-field",
           "settings": {
-            "name": "Your Comments",
+            "name": "",
             "zapier-id": "",
             "required": false,
-            "field-type": "textarea"
+            "field-type": "email"
           }
         },
-        "d7101d85-4a6b-4ad9-bedc-395eacd28f8d": {
+        "7defe1f5-7ac9-485a-a6e1-21549af7f5e4": {
           "type": "contact-field",
           "settings": {
-            "name": "Enter your info",
+            "name": "",
             "zapier-id": "",
             "required": false,
-            "field-type": "textarea"
+            "field-type": "email"
           }
         }
       },
       "block_order": [
-        "1fcdf3e5-61b9-419c-a7b0-cf3fbcf9cff7",
-        "acf4dfae-3355-4d17-8cf0-cefb563c0d35",
-        "d7101d85-4a6b-4ad9-bedc-395eacd28f8d"
+        "256f4581-385c-489c-874f-3b93279a4c3c",
+        "2e338a64-6c38-45ed-94e4-b310e6d45ade",
+        "7defe1f5-7ac9-485a-a6e1-21549af7f5e4"
       ],
       "settings": {
         "heading": "Custom contact form",
         "form-id": "form-id",
-        "zapier-webhook-url": "https:\/\/hooks.zapier.com\/hooks\/catch\/4718621\/bvllhos\/",
+        "zapier-webhook-url": "https:\/\/hooks.zapier.com\/hooks\/catch\/4718621\/owcjpup\/silent\/",
         "success-message": "Thank you",
         "heading_size": "h1",
         "color_scheme": "background-1",
@@ -58,9 +58,6 @@
   },
   "order": [
     "main",
-    "4463b72a-9b34-4db7-8037-f8c4be9367cb"
+    "7b880bb7-9469-4680-ac93-19d07c90d6f7"
   ]
 }
-
-
-
