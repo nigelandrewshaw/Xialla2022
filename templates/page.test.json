@@ -46,7 +46,7 @@
       ],
       "settings": {
         "heading": "Custom contact form",
-        "form-id": "form-id",
+        "form-id": "nigel-form",
         "zapier-webhook-url": "https:\/\/hooks.zapier.com\/hooks\/catch\/4718621\/bvllhos\/",
         "success-message": "Thank you",
         "heading_size": "h1",
