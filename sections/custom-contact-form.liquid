@@ -147,10 +147,10 @@
             {{ section.settings.submit-button-label }}
           </button>
       </div>
-      <div id="success-wrapper" style="display:none" >
+      <div id="success-wrapper" {% if section.settings.form-mode != "success" %} style="display:none" {% endif %}>
         {{ section.settings.success-message }}
       </div>
-      <div id="error-wrapper" style="display:none" >
+      <div id="error-wrapper" {% if section.settings.form-mode != "error" %} style="display:none" {% endif %}>
         {{ section.settings.error-message }}
       </div>
 
