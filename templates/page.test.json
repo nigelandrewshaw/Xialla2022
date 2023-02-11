@@ -25,7 +25,7 @@
           "settings": {
             "name": "First Name",
             "zapier-id": "first-name",
-            "required": false,
+            "required": true,
             "field-type": "text"
           }
         },
@@ -34,7 +34,7 @@
           "settings": {
             "name": "Last Name",
             "zapier-id": "last-name",
-            "required": false,
+            "required": true,
             "field-type": "text"
           }
         },
