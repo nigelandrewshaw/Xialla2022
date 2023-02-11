@@ -24,6 +24,15 @@
       <h2 class="visually-hidden">{{ 'templates.contact.form.title' | t }}</h2>
     {%- endif -%}
 
+    {% case section.settings.form-mode %} 
+      {% when 'normal' %}
+        <p class="caption-large">Normal</p>
+      {% when 'success' %}
+        <p class="caption-large">Success</p>
+      {% when 'error' %}
+        <p class="caption-large">Error</p>
+    {% endcase %} %}
+
     {%- form 'contact', id: section.settings.form-id -%}
     
       {%- if form.posted_successfully? -%}
