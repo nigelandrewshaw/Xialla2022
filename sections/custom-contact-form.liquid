@@ -138,14 +138,18 @@
 
         {%- endcase -%}
       {%- endfor -%}
-
-      <div class="contact__button">
+      <div id="button-wrapper" class="contact__button">
           <button type="submit" class="button">
             {{ 'templates.contact.form.send' | t }}
           </button>
-          <p id="custom-form-success-message" class="success-message">{{ section.settings.success-message }}</p>  
-          <p id="custom-form-error-message" class="error-message">{{ section.settings.error-message }}</p>
       </div>
+      <div id="success-wrapper" style="display:none" >
+        {{ section.settings.success-message }}
+      </div>
+      <div id="error-wrapper" style="display:none" >
+        {{ section.settings.error-message }}
+      </div>
+
     {%- endform -%}
 
   </div>
@@ -164,13 +168,14 @@
             $.ajax({ 
                 url: '{{ section.settings.zapier-webhook-url }}silent',
                 type: 'get',
-                data:$('#{{ section.settings.form-id }}').serialize(),
+                data:$('{{ section.settings.form-id }}').serialize(),
                 success:function(){
-                    alert("Success");
-                // Hide submit button
-                $('#xialla-subscribe-form-wrapper').css('display', 'none');
-                // Show the thank-you part
-                // document.getElementById('#submit-success-wrapper').css('display', 'flex');
+                  alert("Success");
+                  // Hide submit button
+                  $('#button-wrapper').css('display', 'none');
+                  // Show the success message
+                  $('#success-wrapper').css('display', 'block');
+                },
                 }
             });
         });
@@ -209,21 +214,9 @@
     },
     {
       "type": "text",
-      "id": "success-message-id",
-      "default": "custom-form-success-message",
-      "label": "Success message ID"
-    },
-    {
-      "type": "text",
       "id": "error-message",
       "default": "Error. Please try again later.",
       "label": "Error message"
-    },
-    {
-      "type": "text",
-      "id": "error-message-id",
-      "default": "custom-form-error-message",
-      "label": "Error message ID"
     },
     {
       "type": "text",
