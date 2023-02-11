@@ -15,7 +15,7 @@
           "type": "contact-field",
           "settings": {
             "name": "Email",
-            "zapier-id": "",
+            "zapier-id": "email",
             "required": true,
             "field-type": "email"
           }
@@ -24,7 +24,7 @@
           "type": "contact-field",
           "settings": {
             "name": "First Name",
-            "zapier-id": "",
+            "zapier-id": "first-name",
             "required": false,
             "field-type": "text"
           }
@@ -33,7 +33,7 @@
           "type": "contact-field",
           "settings": {
             "name": "Last Name",
-            "zapier-id": "",
+            "zapier-id": "last-name",
             "required": false,
             "field-type": "text"
           }
@@ -42,7 +42,7 @@
           "type": "contact-field",
           "settings": {
             "name": "Details",
-            "zapier-id": "",
+            "zapier-id": "details",
             "required": false,
             "field-type": "textarea"
           }
