@@ -12,6 +12,16 @@
     padding-bottom: {{ section.settings.padding_bottom }}px;
   }
 }
+
+.success-message{
+  font-size: 1.5rem;
+}
+
+.error-message{
+  font-size: 1.5rem;
+  color: red;
+}
+
 {%- endstyle -%}
 
 
@@ -24,14 +34,7 @@
       <h2 class="visually-hidden">{{ 'templates.contact.form.title' | t }}</h2>
     {%- endif -%}
 
-    {% case section.settings.form-mode %} 
-      {% when 'normal' %}
-        <p class="caption-large">Normal</p>
-      {% when 'success' %}
-        <p class="caption-large">Success</p>
-      {% when 'error' %}
-        <p class="caption-large">Error</p>
-    {% endcase %}
+
 
     {%- form 'contact', id: section.settings.form-id -%}
     
@@ -136,11 +139,12 @@
         {%- endcase -%}
       {%- endfor -%}
 
-      
       <div class="contact__button">
-        <button type="submit" class="button">
-          {{ 'templates.contact.form.send' | t }}
-        </button>
+          <button type="submit" class="button">
+            {{ 'templates.contact.form.send' | t }}
+          </button>
+          <p id="custom-form-success-message" class="success-message">{{ section.settings.success-message }}</p>  
+          <p id="custom-form-error-message" class="error-message">{{ section.settings.error-message }}</p>
       </div>
     {%- endform -%}
 
@@ -163,8 +167,8 @@
                 data:$('#{{ section.settings.form-id }}').serialize(),
                 success:function(){
                     alert("Success");
-                // Hide the the form header and form itself 
-                //$('#xialla-subscribe-form-wrapper').css('display', 'none');
+                // Hide submit button
+                $('#xialla-subscribe-form-wrapper').css('display', 'none');
                 // Show the thank-you part
                 // document.getElementById('#submit-success-wrapper').css('display', 'flex');
                 }
@@ -205,9 +209,21 @@
     },
     {
       "type": "text",
+      "id": "success-message-id",
+      "default": "custom-form-success-message",
+      "label": "Success message ID"
+    },
+    {
+      "type": "text",
       "id": "error-message",
       "default": "Error. Please try again later.",
       "label": "Error message"
+    },
+    {
+      "type": "text",
+      "id": "error-message-id",
+      "default": "custom-form-error-message",
+      "label": "Error message ID"
     },
     {
       "type": "text",
