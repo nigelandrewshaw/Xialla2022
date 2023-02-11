@@ -139,27 +139,22 @@
         {%- endcase -%}
       {%- endfor -%}
 
-      
-
-
-      <div id="button-wrapper" class="contact__button" {% if section.settings.form-mode != "normal" %} style="display:none" {% endif %}>
+      <div id="button-wrapper-{{ section.settings.form-id }}" class="contact__button" {% if section.settings.form-mode != "normal" %} style="display:none" {% endif %}>
           <button type="submit" class="button">
             {{ section.settings.submit-button-label }}
           </button>
       </div>
-      <div id="success-wrapper" {% if section.settings.form-mode != "success" %} style="display:none" {% endif %}>
+      <div id="success-wrapper-{{ section.settings.form-id }}" {% if section.settings.form-mode != "success" %} style="display:none" {% endif %}>
         <span class = "success-message">{{ section.settings.success-message }}</span>
       </div>
-      <div id="error-wrapper" {% if section.settings.form-mode != "error" %} style="display:none" {% endif %}>
+      <div id="error-wrapper-{{ section.settings.form-id }}" {% if section.settings.form-mode != "error" %} style="display:none" {% endif %}>
         <span class = "error-message">{{ section.settings.error-message }}</span>
       </div>
 
     {%- endform -%}
 
   </div>
-  <div id="submit-success-wrapper" style="display:none" >
-    {{ section.settings.success-message }}
-  </div>
+
 </div>
 
 <script src="https://code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous">
@@ -174,18 +169,17 @@
                 type: 'get',
                 data:$('{{ section.settings.form-id }}').serialize(),
                 success:function(){
-                  alert("Success");
+                  //alert("Success");
                   // Hide submit button
-                  $('#button-wrapper').css('display', 'none');
+                  $('#button-wrapper-{{ section.settings.form-id }}').css('display', 'none');
                   // Show the success message
-                  $('#success-wrapper').css('display', 'block');
+                  $('#success-wrapper-{{ section.settings.form-id }}').css('display', 'block');
                 },
                 error:function(){
-                  alert("Error");
                   // Hide submit button
-                  $('#button-wrapper').css('display', 'none');
+                  $('#button-wrapper-{{ section.settings.form-id }}').css('display', 'none');
                   // Show the error message
-                  $('#error-wrapper').css('display', 'block');
+                  $('#error-wrapper-{{ section.settings.form-id }}').css('display', 'block');
                 }
             });
         });
