@@ -61,7 +61,7 @@
         "success-message": "Thank you",
         "error-message": "Error. Please try again later.",
         "submit-button-label": "Sign me up",
-        "form-mode": "normal",
+        "form-mode": "error",
         "heading_size": "h1",
         "color_scheme": "background-1",
         "padding_top": 40,
