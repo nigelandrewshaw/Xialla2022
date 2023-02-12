@@ -168,7 +168,7 @@
         $('#{{ section.settings.form-id }}').submit(function(e){
             e.preventDefault(); 
             $.ajax({ 
-                url: '{{ section.settings.zapier-webhook-url }}silent',
+                url: '{{ section.settings.zapier-webhook-url }}',
                 type: 'get',
                 data:$('{{ section.settings.form-id }}').serialize(),
                 success:function(){
