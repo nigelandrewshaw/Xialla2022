@@ -73,7 +73,10 @@
                 spellcheck="false"
                 autocapitalize="off"
                 value="{% if form.email %}{{ form.email }}{% elsif customer %}{{ customer.email }}{% endif %}"
-                aria-required="true"
+                {% if block.settings.required %}
+                  required="true"
+                  aria-required="true"
+                {% endif %}
                 {% if form.errors contains 'email' %}
                 aria-invalid="true"
                 aria-describedby="ContactForm-email-error"
