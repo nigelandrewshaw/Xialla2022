@@ -58,7 +58,7 @@
         "heading": "Custom contact form",
         "form-id": "form-id",
         "zapier-webhook-url": "https:\/\/hooks.zapier.com\/hooks\/catch\/4718621\/3ygftxp\/",
-        "success-message": "Thank you",
+        "success-message": "Thank you for signing up. Your product is on the way.",
         "error-message": "Error. Please try again later.",
         "submit-button-label": "Sign me up",
         "form-mode": "normal",
