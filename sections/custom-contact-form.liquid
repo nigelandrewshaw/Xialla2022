@@ -186,8 +186,7 @@
                     <option value="">Select</option>
                     {% assign options = block.settings.content | split: ", " %}
                     {% for choice in options %}
-                      HELLO: {{ choice }}
-                      <option value="{{ choice }}">option</option>
+                      <option value="{{ choice }}">choice</option>
                     {% endfor %}
                 </select>
               </div>
