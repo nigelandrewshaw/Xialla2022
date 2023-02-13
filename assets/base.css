@@ -1761,7 +1761,7 @@ details[open] > .share-button__fallback {
 }
 
 .field__input:focus,
-.select__select:focus,
+
 .customer .field input:focus,
 .customer select:focus,
 .localization-form__select:focus.localization-form__select:after {
