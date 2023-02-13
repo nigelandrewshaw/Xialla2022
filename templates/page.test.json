@@ -56,7 +56,7 @@
       ],
       "settings": {
         "heading": "Custom contact form",
-        "form-id": "form-id",
+        "form-id": "test-form",
         "zapier-webhook-url": "https:\/\/hooks.zapier.com\/hooks\/catch\/4718621\/bvllhos\/",
         "success-message": "Thank you for signing up. Your product is on the way.",
         "error-message": "Error. Please try again later.",
