@@ -189,11 +189,6 @@
                       <option value="{{ option }}">option</option>
                     {% endfor %}
                 </select>
-                <label class="select__label" for="{{ block.settings.id }}">{{ block.settings.label }}
-                  {% if block.settings.required %}
-                    <span aria-hidden="true">*</span>
-                  {% endif %}
-                </label>
               </div>
 
           {%- when 'plain-text' -%}
