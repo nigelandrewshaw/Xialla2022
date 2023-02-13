@@ -162,7 +162,9 @@
               </div>
 
           {%- when 'plain-text' -%}
-            <label class="plain__text">{{ block.settings.label }}</label>
+            <div>
+              <label class="plain__text" for="{{ block.settings.name }}">{{ block.settings.label }}</label>
+            </div>
 
         {%- endcase -%}
       {%- endfor -%}
