@@ -139,27 +139,6 @@
               <label class="form__label field__label" for="{{ block.settings.label }}">{{ block.settings.label }}</label>
             </div>
 
-            {%- when 'checkbox' -%}
-              <div class="field">
-                <input
-                  {% if block.settings.required %}
-                    required="true"
-                    aria-required="true"
-                  {% endif %}
-                  id = "{{ block.settings.id }}"
-                  type="checkbox"
-                  class="field__input"
-                  name="{{ block.settings.zapier-id }}"
-                  placeholder="{{ block.settings.label }}">
-                <label class="field__label" for="{{ block.settings.label }}">{{ block.settings.label }}
-                  {% if block.settings.required %}
-                    <span aria-hidden="true">*</span>
-                  {% endif %}
-                </label>
-              </div>
-
-          {%- when 'plain-text' -%}
-            <label class="form__label field__label">{{ block.settings.label }}</label>
 
         {%- endcase -%}
       {%- endfor -%}
