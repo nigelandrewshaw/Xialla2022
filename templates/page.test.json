@@ -16,6 +16,7 @@
           "settings": {
             "label": "Testing",
             "id": "",
+            "content": "",
             "required": true,
             "field-type": "email"
           }
@@ -25,6 +26,7 @@
           "settings": {
             "label": "Testing 2",
             "id": "",
+            "content": "",
             "required": true,
             "field-type": "text"
           }
@@ -34,6 +36,7 @@
           "settings": {
             "label": "Testing 3",
             "id": "",
+            "content": "",
             "required": true,
             "field-type": "text"
           }
@@ -43,8 +46,9 @@
           "settings": {
             "label": "Testing 4",
             "id": "",
+            "content": "",
             "required": true,
-            "field-type": "checkbox"
+            "field-type": "select"
           }
         }
       },
