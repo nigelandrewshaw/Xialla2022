@@ -71,9 +71,9 @@
               <input
                 autocomplete="email"
                 type="email"
-                id="{{ block.settings.zapier-id }}"
+                id="{{ block.settings.id }}"
                 class="field__input"
-                name="{{ block.settings.zapier-id }}"
+                name="{{ block.settings.id }}"
                 spellcheck="false"
                 autocapitalize="off"
                 value="{% if form.email %}{{ form.email }}{% elsif customer %}{{ customer.email }}{% endif %}"
@@ -86,7 +86,7 @@
                 aria-describedby="ContactForm-email-error"
                 {% endif %}
                 placeholder="{{ 'templates.contact.form.email' | t }}">
-                <label class="field__label" for="{{ block.settings.name }}">{{ block.settings.label }}
+                <label class="field__label" for="{{ block.settings.id }}">{{ block.settings.label }}
                   <span aria-hidden="true">*</span>
                 </label>
                 {%- if form.errors contains 'email' -%}
@@ -104,11 +104,11 @@
                 id="{{ block.settings.id }}"
                 class="field__input"
                 autocomplete="tel"
-                name="{{ block.settings.zapier-id }}"
+                name="{{ block.settings.id }}"
                 pattern="[0-9\-]*"
                 value="{% if form.phone %}{{ form.phone }}{% elsif customer %}{{ customer.phone }}{% endif %}"
                 placeholder="{{ 'templates.contact.form.phone' | t }}">
-              <label class="field__label" for="{{ block.settings.name }}">{{ block.settings.label }}</label>
+              <label class="field__label" for="{{ block.settings.id }}">{{ block.settings.label }}</label>
             </div>
 
           {%- when 'text' -%}
@@ -121,9 +121,9 @@
                 id = "{{ block.settings.id }}"
                 type="text"
                 class="field__input"
-                name="{{ block.settings.zapier-id }}"
+                name="{{ block.settings.id }}"
                 placeholder="{{ block.settings.label }}">
-              <label class="field__label" for="{{ block.settings.name }}">{{ block.settings.label }}
+              <label class="field__label" for="{{ block.settings.id }}">{{ block.settings.label }}
                 {% if block.settings.required %}
                   <span aria-hidden="true">*</span>
                 {% endif %}
@@ -136,11 +136,11 @@
                 rows="10"
                 id="ContactForm-body"
                 class="text-area field__input"
-                name="{{ block.settings.zapier-id }}"
+                name="{{ block.settings.id }}"
                 placeholder="{{ 'templates.contact.form.comment' | t }}">
                 {{- form.body -}}
               </textarea>
-              <label class="form__label field__label" for="{{ block.settings.name }}">{{ block.settings.label }}</label>
+              <label class="form__label field__label" for="{{ block.settings.id }}">{{ block.settings.label }}</label>
             </div>
 
             {%- when 'checkbox' -%}
@@ -152,9 +152,9 @@
                   {% endif %}
                   id = "{{ block.settings.id }}"
                   type="checkbox"
-                  name="{{ block.settings.zapier-id }}"
+                  name="{{ block.settings.id }}"
                   placeholder="{{ block.settings.label }}">
-                <label class="field__label" for="{{ block.settings.name }}">{{ block.settings.label }}
+                <label class="field__label" for="{{ block.settings.id }}">{{ block.settings.label }}
                   {% if block.settings.required %}
                     <span aria-hidden="true">*</span>
                   {% endif %}
@@ -363,8 +363,8 @@
           },
           {
             "type": "text",
-            "label": "Zapier ID",
-            "id": "zapier-id"
+            "label": "ID",
+            "id": "id"
           },
           {
             "type": "checkbox",
