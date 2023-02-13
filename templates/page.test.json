@@ -14,7 +14,7 @@
         "061761fc-135f-4acc-84fe-03b396dd6c2a": {
           "type": "contact-field",
           "settings": {
-            "name": "Email",
+            "label": "Testing",
             "zapier-id": "email",
             "required": true,
             "field-type": "email"
@@ -23,7 +23,7 @@
         "117efac9-80b4-49eb-83d3-79ea1dabcf53": {
           "type": "contact-field",
           "settings": {
-            "name": "First Name",
+            "label": "Testing 2",
             "zapier-id": "first-name",
             "required": true,
             "field-type": "text"
@@ -32,7 +32,7 @@
         "bb8aba71-8db4-47f9-8894-94016f483965": {
           "type": "contact-field",
           "settings": {
-            "name": "Last Name",
+            "label": "Testing 3",
             "zapier-id": "last-name",
             "required": true,
             "field-type": "text"
@@ -41,7 +41,7 @@
         "9c781487-08a4-41b8-b09f-bee00d436ab2": {
           "type": "contact-field",
           "settings": {
-            "name": "Details",
+            "label": "Testing 4",
             "zapier-id": "details",
             "required": false,
             "field-type": "textarea"
