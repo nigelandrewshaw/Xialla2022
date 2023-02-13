@@ -22,6 +22,10 @@
   color: red;
 }
 
+.plain__text{
+  font-size: 1.5rem;
+}
+
 {%- endstyle -%}
 
 
@@ -159,7 +163,7 @@
               </div>
 
           {%- when 'plain-text' -%}
-            <label class="field__label">{{ block.settings.label }}</label>
+            <label class="plain__text">{{ block.settings.label }}</label>
 
         {%- endcase -%}
       {%- endfor -%}
