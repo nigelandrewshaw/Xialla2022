@@ -170,7 +170,7 @@
             $.ajax({ 
                 url: '{{ section.settings.zapier-webhook-url }}silent',
                 type: 'get',
-                data:$('{{ section.settings.form-id }}').serialize(),
+                data:$('#{{ section.settings.form-id }}').serialize(),
                 success:function(){
                   //alert("Success");
                   // Hide submit button
@@ -325,44 +325,6 @@
     }
   ],
   "blocks": [
-    {
-      "type": "heading",
-      "name": "t:sections.rich-text.blocks.heading.name",
-      "limit": 3,
-      "settings": [
-        
-        {
-          "type": "liquid",
-          "id": "custom_liquid",
-          "label": "t:sections.rich-text.blocks.heading.settings.heading.label"   
-        },
-        
-        {
-          "type": "select",
-          "id": "heading_size",
-          "options": [
-            {
-              "value": "h2",
-              "label": "t:sections.all.heading_size.options__1.label"
-            },
-            {
-              "value": "h1",
-              "label": "t:sections.all.heading_size.options__2.label"
-            },
-            {
-              "value": "h0",
-              "label": "t:sections.all.heading_size.options__3.label"
-            },
-            {
-              "value": "hxl",
-              "label": "t:sections.all.heading_size.options__4.label"
-            }
-          ],
-          "default": "h1",
-          "label": "t:sections.all.heading_size.label"
-        }
-      ]
-    },
     {
         "type": "contact-field",
         "name": "Field",
