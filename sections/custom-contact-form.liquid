@@ -35,6 +35,10 @@
   padding-bottom: 10px;
 }
 
+.custom__select{
+  font-size: 1.7rem;
+}
+
 
 
 {%- endstyle -%}
@@ -175,7 +179,7 @@
 
             {%- when 'select' -%}
               <div class="field">
-                <select class="select__select" style="font-size: 1.5rem"
+                <select class="select__select custom__select"
                   {% if block.settings.required %}
                     required="true"
                     aria-required="true"
