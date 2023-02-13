@@ -46,7 +46,7 @@
           "settings": {
             "label": "Testing 4",
             "id": "",
-            "content": "First,Second,Third",
+            "content": "First, Second, Third",
             "required": true,
             "field-type": "select"
           }
