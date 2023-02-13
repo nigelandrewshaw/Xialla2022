@@ -184,10 +184,9 @@
                   id = "{{ block.settings.id }}"
                   >
                     <option value="">Select</option>
-                    {{ block.settings.content }}
-                    {% assign options = block.settings.content | split: "," %}
-                    {{ options }}
+                    {% assign options = block.settings.content | split: ", " %}
                     {% for choice in options %}
+                      HELLO: {{ choice }}
                       <option value="{{ choice }}">option</option>
                     {% endfor %}
                 </select>
