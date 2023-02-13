@@ -36,7 +36,7 @@
           "settings": {
             "label": "Testing 3",
             "id": "",
-            "content": "",
+            "content": "First,Second,Third",
             "required": true,
             "field-type": "text"
           }
@@ -46,7 +46,7 @@
           "settings": {
             "label": "Testing 4",
             "id": "",
-            "content": "",
+            "content": "First,Second,Third",
             "required": true,
             "field-type": "select"
           }
