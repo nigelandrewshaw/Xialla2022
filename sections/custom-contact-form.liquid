@@ -182,7 +182,7 @@
                   id = "{{ block.settings.id }}"
                   >
                     <option value="">Select</option>
-                    {% assign options = block.settings.label | split: ", " %}
+                    {% assign options = block.settings.content | split: "," %}
                     {% for option in options %}
                       <option value="option">option</option>
                     {% endfor %}
@@ -196,7 +196,7 @@
 
           {%- when 'plain-text' -%}
             <div class="plain__text__wrapper">
-              <label class="plain__text">{{ block.settings.label }}</label>
+              <label class="plain__text">{{ block.settings.content }}</label>
             </div>
 
         {%- endcase -%}
@@ -400,6 +400,11 @@
             "id": "id"
           },
           {
+            "type": "text",
+            "label": "Content",
+            "id": "content"
+          },
+          {
             "type": "checkbox",
             "label": "Required",
             "id": "required"
@@ -408,6 +413,7 @@
             "type": "select",
             "label": "Field type",
             "id": "field-type",
+            "default": "text",
             "options": [
               {
                 "value": "email",
