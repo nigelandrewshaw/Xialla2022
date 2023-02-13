@@ -104,7 +104,7 @@
                 pattern="[0-9\-]*"
                 value="{% if form.phone %}{{ form.phone }}{% elsif customer %}{{ customer.phone }}{% endif %}"
                 placeholder="{{ 'templates.contact.form.phone' | t }}">
-              <label class="field__label" for="{{ block.settings.name }}">{{ block.settings.name }}</label>
+              <label class="field__label" for="{{ block.settings.label }}">{{ block.settings.label }}</label>
             </div>
 
           {%- when 'text' -%}
@@ -118,8 +118,8 @@
                 type="text"
                 class="field__input"
                 name="{{ block.settings.zapier-id }}"
-                placeholder="{{ block.settings.name }}">
-              <label class="field__label" for="{{ block.settings.name }}">{{ block.settings.name }}
+                placeholder="{{ block.settings.label }}">
+              <label class="field__label" for="{{ block.settings.label }}">{{ block.settings.label }}
                 {% if block.settings.required %}
                   <span aria-hidden="true">*</span>
                 {% endif %}
@@ -136,8 +136,30 @@
                 placeholder="{{ 'templates.contact.form.comment' | t }}">
                 {{- form.body -}}
               </textarea>
-              <label class="form__label field__label" for="{{ block.settings.name }}">{{ block.settings.name }}</label>
+              <label class="form__label field__label" for="{{ block.settings.label }}">{{ block.settings.label }}</label>
             </div>
+
+            {%- when 'checkbox' -%}
+              <div class="field">
+                <input
+                  {% if block.settings.required %}
+                    required="true"
+                    aria-required="true"
+                  {% endif %}
+                  id = "{{ block.settings.id }}"
+                  type="checkbox"
+                  class="field__input"
+                  name="{{ block.settings.zapier-id }}"
+                  placeholder="{{ block.settings.label }}">
+                <label class="field__label" for="{{ block.settings.label }}">{{ block.settings.label }}
+                  {% if block.settings.required %}
+                    <span aria-hidden="true">*</span>
+                  {% endif %}
+                </label>
+              </div>
+
+          {%- when 'plain-text' -%}
+            <label class="form__label field__label">{{ block.settings.label }}</label>
 
         {%- endcase -%}
       {%- endfor -%}
@@ -331,8 +353,8 @@
         "settings": [
           {
             "type": "text",
-            "label": "Name",
-            "id": "name"
+            "label": "Label",
+            "id": "label"
           },
           {
             "type": "text",
@@ -364,6 +386,14 @@
               {
                 "value": "textarea",
                 "label": "Text area"
+              },
+              {
+                "value": "checkbox",
+                "label": "Checkbox"
+              },
+              {
+                "value": "plain-text",
+                "label": "Plain text"
               }
             ]
           }
