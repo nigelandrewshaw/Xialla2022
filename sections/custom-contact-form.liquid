@@ -174,8 +174,8 @@
 
 
             {%- when 'select' -%}
-              <div>
-                <select class="select__select"
+              <div class="field">
+                <select class="select__select" style="font-size: 1.5rem"
                   {% if block.settings.required %}
                     required="true"
                     aria-required="true"
@@ -186,7 +186,7 @@
                     <option value="">Select</option>
                     {% assign options = block.settings.content | split: "," %}
                     {% for option in options %}
-                      <option value=option>option</option>
+                      <option value={{ option }}>option</option>
                     {% endfor %}
                 </select>
                 <label class="select__label" for="{{ block.settings.id }}">{{ block.settings.label }}
