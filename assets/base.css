@@ -1917,6 +1917,7 @@ input[type='checkbox'] {
   display: inline-block;
   width: auto;
   margin-right: 0.5rem;
+  border: none;
 }
 
 /* Form global */
