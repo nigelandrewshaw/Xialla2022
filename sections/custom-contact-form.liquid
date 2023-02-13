@@ -144,7 +144,7 @@
             </div>
 
             {%- when 'checkbox' -%}
-              <div class="field">
+              <div class="checkbox__wrapper">
                 <input
                   {% if block.settings.required %}
                     required="true"
@@ -162,8 +162,8 @@
               </div>
 
           {%- when 'plain-text' -%}
-            <div>
-              <label class="plain__text" for="{{ block.settings.name }}">{{ block.settings.label }}</label>
+            <div class="plain__text__wrapper">
+              <label class="plain__text">{{ block.settings.label }}</label>
             </div>
 
         {%- endcase -%}
