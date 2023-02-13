@@ -86,7 +86,7 @@
                 aria-describedby="ContactForm-email-error"
                 {% endif %}
                 placeholder="{{ 'templates.contact.form.email' | t }}">
-                <label class="field__label" for="ContactForm-email">{{ 'templates.contact.form.email' | t }}
+                <label class="field__label" for="{{ block.settings.name }}">{{ block.settings.label }}
                   <span aria-hidden="true">*</span>
                 </label>
                 {%- if form.errors contains 'email' -%}
@@ -108,7 +108,7 @@
                 pattern="[0-9\-]*"
                 value="{% if form.phone %}{{ form.phone }}{% elsif customer %}{{ customer.phone }}{% endif %}"
                 placeholder="{{ 'templates.contact.form.phone' | t }}">
-              <label class="field__label" for="{{ block.settings.label }}">{{ block.settings.label }}</label>
+              <label class="field__label" for="{{ block.settings.name }}">{{ block.settings.label }}</label>
             </div>
 
           {%- when 'text' -%}
@@ -123,7 +123,7 @@
                 class="field__input"
                 name="{{ block.settings.zapier-id }}"
                 placeholder="{{ block.settings.label }}">
-              <label class="field__label" for="{{ block.settings.label }}">{{ block.settings.label }}
+              <label class="field__label" for="{{ block.settings.name }}">{{ block.settings.label }}
                 {% if block.settings.required %}
                   <span aria-hidden="true">*</span>
                 {% endif %}
@@ -140,7 +140,7 @@
                 placeholder="{{ 'templates.contact.form.comment' | t }}">
                 {{- form.body -}}
               </textarea>
-              <label class="form__label field__label" for="{{ block.settings.label }}">{{ block.settings.label }}</label>
+              <label class="form__label field__label" for="{{ block.settings.name }}">{{ block.settings.label }}</label>
             </div>
 
             {%- when 'checkbox' -%}
@@ -154,7 +154,7 @@
                   type="checkbox"
                   name="{{ block.settings.zapier-id }}"
                   placeholder="{{ block.settings.label }}">
-                <label class="field__label" for="{{ block.settings.label }}">{{ block.settings.label }}
+                <label class="field__label" for="{{ block.settings.name }}">{{ block.settings.label }}
                   {% if block.settings.required %}
                     <span aria-hidden="true">*</span>
                   {% endif %}
