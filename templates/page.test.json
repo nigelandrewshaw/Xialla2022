@@ -44,7 +44,7 @@
             "label": "Testing 4",
             "zapier-id": "details",
             "required": false,
-            "field-type": "plain-text"
+            "field-type": "checkbox"
           }
         }
       },
