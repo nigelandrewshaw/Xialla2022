@@ -14,41 +14,41 @@
         "061761fc-135f-4acc-84fe-03b396dd6c2a": {
           "type": "contact-field",
           "settings": {
+            "field-type": "email",
             "label": "Testing",
             "id": "",
             "content": "",
-            "required": true,
-            "field-type": "email"
+            "required": true
           }
         },
         "117efac9-80b4-49eb-83d3-79ea1dabcf53": {
           "type": "contact-field",
           "settings": {
+            "field-type": "text",
             "label": "Testing 2",
             "id": "",
             "content": "",
-            "required": true,
-            "field-type": "text"
+            "required": true
           }
         },
         "bb8aba71-8db4-47f9-8894-94016f483965": {
           "type": "contact-field",
           "settings": {
+            "field-type": "text",
             "label": "Testing 3",
             "id": "",
             "content": "First,Second,Third",
-            "required": true,
-            "field-type": "text"
+            "required": true
           }
         },
         "9c781487-08a4-41b8-b09f-bee00d436ab2": {
           "type": "contact-field",
           "settings": {
+            "field-type": "select",
             "label": "Testing 4",
             "id": "",
-            "content": "First, Second, Third",
-            "required": true,
-            "field-type": "select"
+            "content": "First, Second, Third, Fourth",
+            "required": true
           }
         }
       },
