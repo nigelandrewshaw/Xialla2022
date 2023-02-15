@@ -91,6 +91,21 @@ You can learn more about this (and learn how to cleanly revert these changes) at
         return a;
       }
 
+      /* Redirect url by replacing one string in the url with another. */
+      function redirectLocation( strSearch, strReplace ) {
+        var url = window.location.href;
+        if( url.indexOf(strSearch) > -1 ) {
+          var newUrl = url.replace(strSearch, strReplace);
+          window.location.replace( newUrl );
+        }
+      }
+
+      /* Redirect any old urls from old Bodzii site to new Bodzii site */
+      window.onload = function() {
+        redirectLocation( '/post/', '/blogs/the-bodzii-blog/' );
+        // add more redirects here as needed...
+      }
+
      </script>
 
     <!-- Adobe fonts -->
