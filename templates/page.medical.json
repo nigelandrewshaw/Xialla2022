@@ -133,8 +133,8 @@
         "template--16093998776482__76ed3d80-4742-49a2-b9f2-814722b600c1-16765080900a832093-1": {
           "type": "column",
           "settings": {
-            "custom_liquid": "Patient Doesn't Need Erection to Start",
-            "text": "<p>Regular rings need an erection to start, otherwise they move out of place. Xialla works when erect or flaccid. <\/p>",
+            "custom_liquid": "Erection Not Needed to Start",
+            "text": "<p>Regular rings need an erection to start, otherwise they move out of place. With Xialla the patient can start erect or flaccid. <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -155,7 +155,7 @@
         "template--16093998776482__76ed3d80-4742-49a2-b9f2-814722b600c1-16765080900a832093-2"
       ],
       "settings": {
-        "title": "The Best Treatment For Blood Outflow",
+        "title": "Your Best Option for Treatment Venous Leak",
         "title-centered": true,
         "heading_size": "h1",
         "image_width": "full",
