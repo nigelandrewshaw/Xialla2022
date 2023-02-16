@@ -21,7 +21,7 @@
         "template--16093998776482__13e409bd-c158-4cd0-bb13-77fbbc2d6233-1676507264f95f840a-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Xialla is proven in clinical trials to treat venous leak more effectively than conventional constriction rings",
             "text_style": "body"
           }
         },
@@ -55,10 +55,53 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "318443c4-1312-45de-b061-0582341d85d8": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16093998776482__318443c4-1312-45de-b061-0582341d85d8-1676507915bcebc1f3-0": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--16093998776482__318443c4-1312-45de-b061-0582341d85d8-1676507915bcebc1f3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--16093998776482__318443c4-1312-45de-b061-0582341d85d8-1676507915bcebc1f3-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16093998776482__318443c4-1312-45de-b061-0582341d85d8-1676507915bcebc1f3-0",
+        "template--16093998776482__318443c4-1312-45de-b061-0582341d85d8-1676507915bcebc1f3-1",
+        "template--16093998776482__318443c4-1312-45de-b061-0582341d85d8-1676507915bcebc1f3-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
-    "13e409bd-c158-4cd0-bb13-77fbbc2d6233"
+    "13e409bd-c158-4cd0-bb13-77fbbc2d6233",
+    "318443c4-1312-45de-b061-0582341d85d8"
   ]
 }
