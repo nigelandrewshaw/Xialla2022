@@ -270,7 +270,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 80,
-        "padding_bottom": 36
+        "padding_bottom": 76
       }
     },
     "d60a5dd9-d164-4e59-8fcf-a3b01d463e98": {
@@ -286,14 +286,14 @@
         "template--16093998776482__d60a5dd9-d164-4e59-8fcf-a3b01d463e98-1676514196abf306bc-1": {
           "type": "text",
           "settings": {
-            "text": "<p>\"Xialla is made of soft, stretchy silicone with a silky finish that both you and your partner will love.\"<\/p><p><strong>Nigel Shaw, Inventor of Xialla<\/strong><\/p>",
+            "text": "<p>\"Xialla is made of soft, stretchy silicone with a silky finish that both the patient and their partner will love.\"<\/p><p><strong>Nigel Shaw, Inventor of Xialla<\/strong><\/p>",
             "text_style": "body"
           }
         },
         "template--16093998776482__d60a5dd9-d164-4e59-8fcf-a3b01d463e98-1676514196abf306bc-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": ""
           }
         }
