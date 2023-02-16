@@ -114,7 +114,7 @@
         "custom_liquid": "<div class='embed-container'>\n  <iframe src='https:\/\/player.vimeo.com\/video\/633942061?autoplay=1&loop=1&background=1' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen><\/iframe>\n<\/div>",
         "color_scheme": "background-1",
         "padding_top": 40,
-        "padding_bottom": 52,
+        "padding_bottom": 0,
         "section_visibility": "hide-for-mobile"
       }
     },
@@ -133,8 +133,8 @@
         "template--16093998776482__76ed3d80-4742-49a2-b9f2-814722b600c1-16765080900a832093-1": {
           "type": "column",
           "settings": {
-            "custom_liquid": "You Don't Need an Erection to Start",
-            "text": "<p>Regular rings need an erection to start, otherwise they move out of place. Xialla stays in place so you can start with or without an erection. <\/p>",
+            "custom_liquid": "Patient Doesn't Need Erection to Start",
+            "text": "<p>Regular rings need an erection to start, otherwise they move out of place. Xialla works when erect or flaccid. <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -155,20 +155,20 @@
         "template--16093998776482__76ed3d80-4742-49a2-b9f2-814722b600c1-16765080900a832093-2"
       ],
       "settings": {
-        "title": "Multicolumn",
-        "title-centered": false,
+        "title": "The Best Treatment For Blood Outflow",
+        "title-centered": true,
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
+        "padding_top": 16,
         "padding_bottom": 36
       }
     },
