@@ -112,10 +112,64 @@
       "type": "custom-liquid",
       "settings": {
         "custom_liquid": "<div class='embed-container'>\n  <iframe src='https:\/\/player.vimeo.com\/video\/633942061?autoplay=1&loop=1&background=1' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen><\/iframe>\n<\/div>",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-2",
         "padding_top": 40,
         "padding_bottom": 52,
         "section_visibility": "hide-for-mobile"
+      }
+    },
+    "76ed3d80-4742-49a2-b9f2-814722b600c1": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16093998776482__76ed3d80-4742-49a2-b9f2-814722b600c1-16765080900a832093-0": {
+          "type": "column",
+          "settings": {
+            "custom_liquid": "3x More Effective",
+            "text": "<p>A ring that moves allows blood to escape. A ring that stays in place traps blood better, creating a stronger and longer lasting erection.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16093998776482__76ed3d80-4742-49a2-b9f2-814722b600c1-16765080900a832093-1": {
+          "type": "column",
+          "settings": {
+            "custom_liquid": "You Don't Need an Erection to Start",
+            "text": "<p>Regular rings need an erection to start, otherwise they move out of place. Xialla stays in place so you can start with or without an erection. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16093998776482__76ed3d80-4742-49a2-b9f2-814722b600c1-16765080900a832093-2": {
+          "type": "column",
+          "settings": {
+            "custom_liquid": "More Comfortable",
+            "text": "<p>A ring that's not held in place needs to be very tight in order to work. Xialla doesn't need to be as tight, and that makes Xialla more comfortable. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16093998776482__76ed3d80-4742-49a2-b9f2-814722b600c1-16765080900a832093-0",
+        "template--16093998776482__76ed3d80-4742-49a2-b9f2-814722b600c1-16765080900a832093-1",
+        "template--16093998776482__76ed3d80-4742-49a2-b9f2-814722b600c1-16765080900a832093-2"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "title-centered": false,
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "accent-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "933ea82b-4b8e-4bd5-9f49-3c8ebfa8ba34": {
@@ -182,6 +236,7 @@
     "318443c4-1312-45de-b061-0582341d85d8",
     "04a736ea-1ea8-48d7-a1ac-506e9e56abfa",
     "e4cfe205-463a-4d6d-8f86-caf66e3f074e",
+    "76ed3d80-4742-49a2-b9f2-814722b600c1",
     "933ea82b-4b8e-4bd5-9f49-3c8ebfa8ba34"
   ]
 }
