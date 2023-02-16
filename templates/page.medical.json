@@ -94,8 +94,8 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 100,
+        "padding_bottom": 100
       }
     },
     "04a736ea-1ea8-48d7-a1ac-506e9e56abfa": {
@@ -155,7 +155,7 @@
         "template--16093998776482__76ed3d80-4742-49a2-b9f2-814722b600c1-16765080900a832093-2"
       ],
       "settings": {
-        "title": "Your Best Option for Treatment Venous Leak",
+        "title": "Your Best Option for Patients with Venous Leak",
         "title-centered": true,
         "heading_size": "h1",
         "image_width": "full",
@@ -169,7 +169,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 16,
-        "padding_bottom": 36
+        "padding_bottom": 80
       }
     },
     "56350d18-543a-449a-b40c-0554dfa3e444": {
@@ -256,7 +256,7 @@
         "template--16093998776482__933ea82b-4b8e-4bd5-9f49-3c8ebfa8ba34-16765080900a832093-0"
       ],
       "settings": {
-        "title": "Xialla is backed by our world class medical team",
+        "title": "Backed by our world class medical team",
         "title-centered": false,
         "heading_size": "h1",
         "image_width": "custom_image_size_width",
@@ -264,8 +264,8 @@
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
+        "button_label": "About us",
+        "button_link": "shopify:\/\/pages\/about-us",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
