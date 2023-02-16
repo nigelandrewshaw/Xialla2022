@@ -98,6 +98,16 @@
         "padding_bottom": 52
       }
     },
+    "04a736ea-1ea8-48d7-a1ac-506e9e56abfa": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class='embed-container'>\n  <iframe src='https:\/\/player.vimeo.com\/video\/633942264?autoplay=1&loop=1&background=1' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen><\/iframe>\n<div>\n<h1><center>The Only ED Ring that Stays in Place<\/center><\/h1>\n<\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52,
+        "section_visibility": "hide-for-desktop"
+      }
+    },
     "e4cfe205-463a-4d6d-8f86-caf66e3f074e": {
       "type": "custom-liquid",
       "settings": {
@@ -170,6 +180,7 @@
     "main",
     "13e409bd-c158-4cd0-bb13-77fbbc2d6233",
     "318443c4-1312-45de-b061-0582341d85d8",
+    "04a736ea-1ea8-48d7-a1ac-506e9e56abfa",
     "e4cfe205-463a-4d6d-8f86-caf66e3f074e",
     "933ea82b-4b8e-4bd5-9f49-3c8ebfa8ba34"
   ]
