@@ -14,21 +14,21 @@
         "template--16093998776482__13e409bd-c158-4cd0-bb13-77fbbc2d6233-1676507264f95f840a-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "Medical",
+            "custom_liquid": "Treat Venous Leak Effectively",
             "heading_size": "h1"
           }
         },
         "template--16093998776482__13e409bd-c158-4cd0-bb13-77fbbc2d6233-1676507264f95f840a-1": {
           "type": "text",
           "settings": {
-            "text": "Xialla is proven in clinical trials to treat venous leak more effectively than conventional constriction rings",
+            "text": "Xialla is clinically proven to treat venous leak more effectively than conventional constriction rings",
             "text_style": "body"
           }
         },
         "template--16093998776482__13e409bd-c158-4cd0-bb13-77fbbc2d6233-1676507264f95f840a-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Find out more",
+            "button_label_1": "",
             "button_link_1": "shopify:\/\/blogs\/help",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -98,6 +98,16 @@
         "padding_bottom": 52
       }
     },
+    "e4cfe205-463a-4d6d-8f86-caf66e3f074e": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class='embed-container'>\n  <iframe src='https:\/\/player.vimeo.com\/video\/633942061?autoplay=1&loop=1&background=1' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen><\/iframe>\n<\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52,
+        "section_visibility": "hide-for-mobile"
+      }
+    },
     "933ea82b-4b8e-4bd5-9f49-3c8ebfa8ba34": {
       "type": "multicolumn",
       "blocks": {
@@ -160,6 +170,7 @@
     "main",
     "13e409bd-c158-4cd0-bb13-77fbbc2d6233",
     "318443c4-1312-45de-b061-0582341d85d8",
+    "e4cfe205-463a-4d6d-8f86-caf66e3f074e",
     "933ea82b-4b8e-4bd5-9f49-3c8ebfa8ba34"
   ]
 }
