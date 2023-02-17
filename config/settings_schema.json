@@ -98,6 +98,24 @@
         "label": "t:settings_schema.colors.settings.colors_background_2.label"
       },
       {
+        "type": "color",
+        "id": "colors_background_3",
+        "default": "#F3F3F3",
+        "label": "t:settings_schema.colors.settings.colors_background_3.label"
+      },
+      {
+        "type": "color",
+        "id": "colors_background_4",
+        "default": "#F3F3F3",
+        "label": "t:settings_schema.colors.settings.colors_background_4.label"
+      },
+      {
+        "type": "color",
+        "id": "colors_background_5",
+        "default": "#F3F3F3",
+        "label": "t:settings_schema.colors.settings.colors_background_5.label"
+      },
+      {
         "id": "gradient_background_2",
         "type": "color_background",
         "label": "t:settings_schema.colors.settings.gradient_background_2.label"
@@ -533,6 +551,10 @@
           {
             "value": "background-4",
             "label": "t:sections.all.colors.background_4.label"
+          },
+          {
+            "value": "background-5",
+            "label": "t:sections.all.colors.background_5.label"
           },
           {
             "value": "inverse",
