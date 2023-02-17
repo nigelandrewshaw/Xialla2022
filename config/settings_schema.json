@@ -40,6 +40,24 @@
         "label": "t:settings_schema.colors.settings.colors_accent_2.label"
       },
       {
+        "type": "color",
+        "id": "colors_accent_3",
+        "default": "#334FB4",
+        "label": "t:settings_schema.colors.settings.colors_accent_3.label"
+      },
+      {
+        "type": "color",
+        "id": "colors_accent_4",
+        "default": "#444444",
+        "label": "t:settings_schema.colors.settings.colors_accent_4.label"
+      },
+      {
+        "type": "color",
+        "id": "colors_accent_5",
+        "default": "#555555",
+        "label": "t:settings_schema.colors.settings.colors_accent_5.label"
+      },
+      {
         "id": "gradient_accent_2",
         "type": "color_background",
         "label": "t:settings_schema.colors.settings.gradient_accent_2.label"
