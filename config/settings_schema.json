@@ -527,6 +527,14 @@
             "label": "t:sections.all.colors.background_2.label"
           },
           {
+            "value": "background-3",
+            "label": "t:sections.all.colors.background_3.label"
+          },
+          {
+            "value": "background-4",
+            "label": "t:sections.all.colors.background_4.label"
+          },
+          {
             "value": "inverse",
             "label": "t:sections.all.colors.inverse.label"
           }
