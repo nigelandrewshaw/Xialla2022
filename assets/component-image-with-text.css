@@ -327,3 +327,12 @@
     margin-left: 0;
   }
 }
+
+/* Xialla 2022-09-25 12:38:24 Make a small footer like signature
+To make a small footer like a signature or customer
+review name, set the font to bold. */ 
+
+.image-with-text__text p strong{
+  font-size: 1.2rem;
+}
+/* Xialla End */ 

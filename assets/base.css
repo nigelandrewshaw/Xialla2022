@@ -16,19 +16,19 @@
 .color-background-3 {
   --color-foreground: var(--color-base-text);
   --color-background: var(--color-base-background-3);
-  --gradient-background: var(--gradient-base-background-2);
+  --gradient-background: var(--gradient-base-background-3);
 }
 
 .color-background-4 {
   --color-foreground: var(--color-base-text);
   --color-background: var(--color-base-background-4);
-  --gradient-background: var(--gradient-base-background-2);
+  --gradient-background: var(--gradient-base-background-4);
 }
 
 .color-background-5 {
   --color-foreground: var(--color-base-text);
   --color-background: var(--color-base-background-5);
-  --gradient-background: var(--gradient-base-background-2);
+  --gradient-background: var(--gradient-base-background-5);
 }
 
 .color-inverse {
