@@ -78,9 +78,6 @@
 		{%- if updated_at != null and updated_at != empty %}
 	"dateModified": "{{ updated_at | date: "%FT%T%:z" }}",
 		{%- endif -%}
-		{%- if tags and tags != "[]" and tags != "" and tags != "null" %}
-	"keywords": {{ tags }},
-		{%- endif -%}
 		{%- if yoast_seo_page_type == 'index' and settings_data.schema.siteRepresentation.organizationName != "" %}
 	"about": {
 		"@id": "{{ shop.url }}/#/schema/organization/1"
