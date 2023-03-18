@@ -15,7 +15,8 @@
           "type": "heading",
           "settings": {
             "custom_liquid": "Instructions",
-            "heading_size": "h0"
+            "heading_size": "h0",
+            "force_h1": true
           }
         },
         "16640713311cad5bdc-1": {
@@ -45,7 +46,8 @@
           "type": "heading",
           "settings": {
             "heading": "Stick the pad",
-            "heading_size": "h2"
+            "heading_size": "h2",
+            "force_h1": false
           }
         },
         "166407198882b8045c-1": {
@@ -89,7 +91,8 @@
           "type": "heading",
           "settings": {
             "heading": "Place the ring",
-            "heading_size": "h2"
+            "heading_size": "h2",
+            "force_h1": false
           }
         },
         "166407200226b93241-1": {
@@ -133,7 +136,8 @@
           "type": "heading",
           "settings": {
             "heading": "Stretch the loop",
-            "heading_size": "h2"
+            "heading_size": "h2",
+            "force_h1": false
           }
         },
         "1664072007f23ea078-1": {
@@ -177,7 +181,8 @@
           "type": "heading",
           "settings": {
             "heading": "Attach the band",
-            "heading_size": "h2"
+            "heading_size": "h2",
+            "force_h1": false
           }
         },
         "16640720122aec6a09-1": {
@@ -221,7 +226,8 @@
           "type": "heading",
           "settings": {
             "heading": "Have amazing sex!",
-            "heading_size": "h2"
+            "heading_size": "h2",
+            "force_h1": false
           }
         },
         "16640720220347454e-1": {
@@ -265,7 +271,8 @@
           "type": "heading",
           "settings": {
             "custom_liquid": "",
-            "heading_size": "h1"
+            "heading_size": "h1",
+            "force_h1": false
           }
         },
         "template--15922159091874__cedc275e-a808-41b3-aabd-d29a7c3e133b-16738023140d0ce651-1": {
