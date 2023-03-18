@@ -15,7 +15,8 @@
           "type": "heading",
           "settings": {
             "heading": "Q&A",
-            "heading_size": "h0"
+            "heading_size": "h0",
+            "force_h1": true
           }
         },
         "template--16006435078306__43144709-b93f-48b0-9220-c0e48294e99e-16678283331608dfce-1": {
@@ -61,14 +62,16 @@
           "type": "heading",
           "settings": {
             "custom_liquid": "Q&A",
-            "heading_size": "h0"
+            "heading_size": "h0",
+            "force_h1": false
           }
         },
         "a5550f88-02ab-4fb5-916b-747b17de40db": {
           "type": "heading",
           "settings": {
             "custom_liquid": "Ask a question, earn $50 for helping others",
-            "heading_size": "h2"
+            "heading_size": "h2",
+            "force_h1": false
           }
         },
         "1664757852ede05a5f-1": {
