@@ -15,7 +15,8 @@
           "type": "heading",
           "settings": {
             "custom_liquid": "How Xialla Works",
-            "heading_size": "h0"
+            "heading_size": "h0",
+            "force_h1": true
           }
         },
         "16640685015fca92f6-1": {
@@ -58,7 +59,8 @@
           "type": "heading",
           "settings": {
             "heading": "Blood inflow",
-            "heading_size": "h2"
+            "heading_size": "h2",
+            "force_h1": false
           }
         },
         "1664068719b18e0627-1": {
@@ -102,7 +104,8 @@
           "type": "heading",
           "settings": {
             "heading": "Blood outflow",
-            "heading_size": "h2"
+            "heading_size": "h2",
+            "force_h1": false
           }
         },
         "166406887132bc9846-1": {
@@ -146,7 +149,8 @@
           "type": "heading",
           "settings": {
             "heading": "Rings move",
-            "heading_size": "h2"
+            "heading_size": "h2",
+            "force_h1": false
           }
         },
         "16640688860628df4d-1": {
@@ -190,7 +194,8 @@
           "type": "heading",
           "settings": {
             "heading": "Xialla stays in place",
-            "heading_size": "h2"
+            "heading_size": "h2",
+            "force_h1": false
           }
         },
         "166406889285689f1a-1": {
@@ -234,7 +239,8 @@
           "type": "heading",
           "settings": {
             "custom_liquid": "",
-            "heading_size": "h1"
+            "heading_size": "h1",
+            "force_h1": false
           }
         },
         "template--15922081300642__b90757f7-2bee-40e3-86b5-f5d25002780d-16738023754863e600-1": {
