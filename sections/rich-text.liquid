@@ -32,12 +32,10 @@
               </h2>
              {%- endcomment -%}
              {%- if block.settings.force_h1 %}
-                "HHHHHH11111"
-                <h2 class="rich-text__heading rte {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
+                <h1 class="rich-text__heading rte {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
                   {{ block.settings.custom_liquid }}
-                </h2>
+                </h1>
               {% else %}
-                "HHHHHH22222"
                 <h2 class="rich-text__heading rte {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
                   {{ block.settings.custom_liquid }}
                 </h2>
