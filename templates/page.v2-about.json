@@ -15,7 +15,8 @@
           "type": "heading",
           "settings": {
             "heading": "About Us",
-            "heading_size": "h1"
+            "heading_size": "h1",
+            "force_h1": true
           }
         },
         "166441660639de8c7e-1": {
@@ -262,7 +263,8 @@
           "type": "heading",
           "settings": {
             "heading": "Social Responsibility",
-            "heading_size": "h1"
+            "heading_size": "h1",
+            "force_h1": false
           }
         },
         "1664417572ffbda1ba-1": {
