@@ -15,7 +15,8 @@
           "type": "heading",
           "settings": {
             "custom_liquid": "Customer Support",
-            "heading_size": "h0"
+            "heading_size": "h0",
+            "force_h1": true
           }
         },
         "f16d012c-c8d8-4c56-9df1-9dacbdfafe1a": {
@@ -28,7 +29,8 @@
           "type": "heading",
           "settings": {
             "custom_liquid": "",
-            "heading_size": "h2"
+            "heading_size": "h2",
+            "force_h1": false
           }
         },
         "16642028247eeca12a-1": {
@@ -72,7 +74,8 @@
           "type": "heading",
           "settings": {
             "custom_liquid": "Try a search",
-            "heading_size": "h2"
+            "heading_size": "h2",
+            "force_h1": false
           }
         },
         "2aab5d4a-50f6-465d-b81f-bcd101a8d9a0": {
@@ -121,7 +124,8 @@
           "type": "heading",
           "settings": {
             "custom_liquid": "Check the FAQ",
-            "heading_size": "h2"
+            "heading_size": "h2",
+            "force_h1": false
           }
         },
         "16642029020637dba4-1": {
@@ -163,7 +167,8 @@
           "type": "heading",
           "settings": {
             "custom_liquid": "Get a Size Change",
-            "heading_size": "h2"
+            "heading_size": "h2",
+            "force_h1": false
           }
         },
         "166419448343f2c1c3-1": {
@@ -217,7 +222,8 @@
           "type": "heading",
           "settings": {
             "custom_liquid": "Get a Refund",
-            "heading_size": "h2"
+            "heading_size": "h2",
+            "force_h1": false
           }
         },
         "166419458970607b5c-1": {
@@ -271,7 +277,8 @@
           "type": "heading",
           "settings": {
             "custom_liquid": "Get a Warranty Replacement",
-            "heading_size": "h2"
+            "heading_size": "h2",
+            "force_h1": false
           }
         },
         "16641946442b84cb88-1": {
@@ -325,7 +332,8 @@
           "type": "heading",
           "settings": {
             "custom_liquid": "Something else?",
-            "heading_size": "h2"
+            "heading_size": "h2",
+            "force_h1": false
           }
         },
         "1664193341a8bbe3cd-1": {
@@ -369,7 +377,8 @@
           "type": "heading",
           "settings": {
             "custom_liquid": "Response Time",
-            "heading_size": "h2"
+            "heading_size": "h2",
+            "force_h1": false
           }
         },
         "1664194356a66d741c-1": {
