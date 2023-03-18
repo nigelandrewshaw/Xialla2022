@@ -15,7 +15,8 @@
           "type": "heading",
           "settings": {
             "custom_liquid": "Is Xialla Right for Me?",
-            "heading_size": "h0"
+            "heading_size": "h0",
+            "force_h1": true
           }
         },
         "23209272-dcdc-44a1-b001-5de80c280588": {
@@ -29,7 +30,8 @@
           "disabled": true,
           "settings": {
             "custom_liquid": "",
-            "heading_size": "h1"
+            "heading_size": "h1",
+            "force_h1": false
           }
         },
         "1664058936e288b3f0-2": {
@@ -147,7 +149,8 @@
           "type": "heading",
           "settings": {
             "custom_liquid": "",
-            "heading_size": "h1"
+            "heading_size": "h1",
+            "force_h1": false
           }
         },
         "template--15921842225314__4d815742-33f2-4700-a835-73679f69d444-1673802160629134af-1": {

@@ -15,7 +15,8 @@
           "type": "heading",
           "settings": {
             "custom_liquid": "Welcome to the new Q&A page!",
-            "heading_size": "h1"
+            "heading_size": "h1",
+            "force_h1": true
           }
         },
         "5fa39310-bbc2-4593-b387-3c681d1dd421": {
