@@ -31,10 +31,15 @@
                 {{ block.settings.heading | replace: 'p>', 'span>' }}
               </h2>
              {%- endcomment -%}
-              <h2 class="rich-text__heading rte {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
-                {{ block.settings.custom_liquid }}
-              </h2>
-
+             {%- if block.settings.force_h1 %}
+                <h2 class="rich-text__heading rte {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
+                  {{ block.settings.custom_liquid }}
+                </h2>
+              {% else %}
+                <h2 class="rich-text__heading rte {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
+                  {{ block.settings.custom_liquid }}
+                </h2>
+              {% endif %}
 
             
             {%- when 'caption' -%}
@@ -205,6 +210,12 @@
           ],
           "default": "h1",
           "label": "t:sections.all.heading_size.label"
+        },
+        {
+          "type": "checkbox",
+          "id": "force_h1",
+          "default": false,
+          "label": "Force H1"
         }
       ]
     },
