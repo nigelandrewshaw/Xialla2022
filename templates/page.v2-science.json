@@ -15,7 +15,8 @@
           "type": "heading",
           "settings": {
             "custom_liquid": "The Science Behind Xialla",
-            "heading_size": "h0"
+            "heading_size": "h0",
+            "force_h1": true
           }
         },
         "16640696687c13c39a-1": {
