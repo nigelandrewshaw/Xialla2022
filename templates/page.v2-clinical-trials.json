@@ -15,7 +15,8 @@
           "type": "heading",
           "settings": {
             "custom_liquid": "Clinical Trials",
-            "heading_size": "h0"
+            "heading_size": "h0",
+            "force_h1": true
           }
         },
         "16640705401541fb2d-1": {
@@ -122,6 +123,7 @@
       ],
       "settings": {
         "title": "",
+        "title-centered": false,
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -188,7 +190,8 @@
           "type": "heading",
           "settings": {
             "custom_liquid": "",
-            "heading_size": "h1"
+            "heading_size": "h1",
+            "force_h1": false
           }
         },
         "template--15922147393698__21a141ac-2792-4a4f-bde8-58d82257a1f5-16738024836ca4047e-1": {
