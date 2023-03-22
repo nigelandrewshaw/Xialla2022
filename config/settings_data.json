@@ -267,7 +267,21 @@
     },
     "content_for_index": [
 
-    ]
+    ],
+    "blocks": {
+      "uppromote-affiliate-referral-customer-referral-45105-64c32457-930d-4cb9-9641-e24c0d9cf1f4": {
+        "type": "shopify:\/\/apps\/uppromote-affiliate-referral\/blocks\/customer-referral\/64c32457-930d-4cb9-9641-e24c0d9cf1f4",
+        "disabled": true,
+        "settings": {
+        }
+      },
+      "uppromote-affiliate-referral-message-bar-45105-64c32457-930d-4cb9-9641-e24c0d9cf1f4": {
+        "type": "shopify:\/\/apps\/uppromote-affiliate-referral\/blocks\/message-bar\/64c32457-930d-4cb9-9641-e24c0d9cf1f4",
+        "disabled": true,
+        "settings": {
+        }
+      }
+    }
   },
   "presets": {
     "Default": {
