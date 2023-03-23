@@ -7,9 +7,20 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "ba34d033-90e7-42a4-8ccd-70cc27585d7d": {
+      "type": "xialla-tools",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52,
+        "section_visibility": "visible"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "ba34d033-90e7-42a4-8ccd-70cc27585d7d"
   ]
 }
