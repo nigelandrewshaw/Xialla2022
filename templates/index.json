@@ -55,7 +55,8 @@
           "type": "heading",
           "settings": {
             "custom_liquid": "\"Finally there's a real breakthrough for the treatment of ED caused by venous leak.\"",
-            "heading_size": "h1"
+            "heading_size": "h1",
+            "force_h1": false
           }
         },
         "template--15921100783778__2bf3d88c-11f2-46b5-88c2-3fbf640152a1-167448272198b62cb3-1": {
@@ -159,7 +160,8 @@
           "type": "heading",
           "settings": {
             "heading": "ED causes and treatments",
-            "heading_size": "h1"
+            "heading_size": "h1",
+            "force_h1": false
           }
         },
         "template--15921100783778__4b7d0b4e-3845-41d0-b6d7-a674894e66f4-1675718367fe2b8b9c-1": {
@@ -203,7 +205,8 @@
           "type": "heading",
           "settings": {
             "heading": "Attractive and Inconspicuous",
-            "heading_size": "h1"
+            "heading_size": "h1",
+            "force_h1": false
           }
         },
         "1664385983a83d9c9a-1": {
@@ -357,7 +360,8 @@
           "type": "heading",
           "settings": {
             "custom_liquid": "Customer Reviews",
-            "heading_size": "h1"
+            "heading_size": "h1",
+            "force_h1": false
           }
         },
         "1664046577ded4120f-1": {
@@ -476,7 +480,8 @@
           "type": "heading",
           "settings": {
             "custom_liquid": "",
-            "heading_size": "h1"
+            "heading_size": "h1",
+            "force_h1": false
           }
         },
         "166441470639b2ca88-1": {
@@ -628,7 +633,8 @@
           "type": "heading",
           "settings": {
             "heading": "Clinically Proven",
-            "heading_size": "h1"
+            "heading_size": "h1",
+            "force_h1": false
           }
         },
         "template--15921100783778__1935713a-17ad-4ca6-b987-f0c8533fcf21-1672967383b14b16bb-1": {
@@ -671,6 +677,23 @@
         "heading": "Q&A | You Asked Us...",
         "heading_size": "h1",
         "blog": "qa",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d50c1fdd-3fb3-4146-aa93-e7278fed4f88": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "News",
+        "heading_size": "h1",
+        "blog": "news-2",
         "post_limit": 3,
         "columns_desktop": 3,
         "color_scheme": "background-1",
@@ -759,6 +782,7 @@
     "1664048786865ff34e",
     "1935713a-17ad-4ca6-b987-f0c8533fcf21",
     "4f663273-b75f-44ba-bed4-df0a9f2975d5",
+    "d50c1fdd-3fb3-4146-aa93-e7278fed4f88",
     "1664051083e6c268e5"
   ]
 }
