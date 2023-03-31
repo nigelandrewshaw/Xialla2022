@@ -6,14 +6,15 @@
         "1664757852ede05a5f-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "Knowledge Center",
-            "heading_size": "h0"
+            "custom_liquid": "News",
+            "heading_size": "h0",
+            "force_h1": false
           }
         },
         "1664757852ede05a5f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Learn about erectile dysfunction causes and treatments. Get the facts to understand how Xialla can best help with your unique ED challenges. <\/p>"
+            "text": "<p>Keep up to date on the latest Xialla news and events.<\/p>"
           }
         },
         "1664757852ede05a5f-2": {
