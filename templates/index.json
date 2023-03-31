@@ -693,7 +693,7 @@
       "settings": {
         "heading": "News",
         "heading_size": "h1",
-        "blog": "news-2",
+        "blog": "news",
         "post_limit": 3,
         "columns_desktop": 3,
         "color_scheme": "background-1",
