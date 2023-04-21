@@ -75,6 +75,49 @@
         "padding_bottom": 52
       }
     },
+    "e24b7008-d07f-4a72-a3b6-3faddb967e92": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15957959803042__e24b7008-d07f-4a72-a3b6-3faddb967e92-168209694680c86ea1-0": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "Quick links",
+            "heading_size": "h1",
+            "force_h1": false
+          }
+        },
+        "template--15957959803042__e24b7008-d07f-4a72-a3b6-3faddb967e92-168209694680c86ea1-1": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "template--15957959803042__e24b7008-d07f-4a72-a3b6-3faddb967e92-168209694680c86ea1-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "How it works",
+            "button_link": "shopify:\/\/pages\/how-xialla-works",
+            "button_style_secondary": true,
+            "button_label_2": "How it's  worn",
+            "button_link_2": "shopify:\/\/pages\/instructions",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "template--15957959803042__e24b7008-d07f-4a72-a3b6-3faddb967e92-168209694680c86ea1-0",
+        "template--15957959803042__e24b7008-d07f-4a72-a3b6-3faddb967e92-168209694680c86ea1-1",
+        "template--15957959803042__e24b7008-d07f-4a72-a3b6-3faddb967e92-168209694680c86ea1-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "5f4ff035-bbd7-4d22-99f3-61c9ceb54cee": {
       "type": "custom-liquid",
       "settings": {
@@ -667,6 +710,7 @@
   "order": [
     "main",
     "1664757852ecb0f594",
+    "e24b7008-d07f-4a72-a3b6-3faddb967e92",
     "5f4ff035-bbd7-4d22-99f3-61c9ceb54cee",
     "26cc1023-207c-4337-aef9-187b0b1d4436",
     "32a96fd5-1e08-47ff-9739-9dbd79d0d8ff",
