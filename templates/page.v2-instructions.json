@@ -275,28 +275,28 @@
             "force_h1": false
           }
         },
+        "template--15922159091874__cedc275e-a808-41b3-aabd-d29a7c3e133b-16738023140d0ce651-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Watch the video",
+            "button_link": "https:\/\/youtu.be\/beEE0-BfmXU",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
         "template--15922159091874__cedc275e-a808-41b3-aabd-d29a7c3e133b-16738023140d0ce651-1": {
           "type": "text",
           "settings": {
             "text": "<p><a href=\"\/pages\/how-xialla-works\" title=\"How Xialla Works\">Next: How it Works &gt;&gt;<\/a><\/p>"
           }
-        },
-        "template--15922159091874__cedc275e-a808-41b3-aabd-d29a7c3e133b-16738023140d0ce651-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "template--15922159091874__cedc275e-a808-41b3-aabd-d29a7c3e133b-16738023140d0ce651-0",
-        "template--15922159091874__cedc275e-a808-41b3-aabd-d29a7c3e133b-16738023140d0ce651-1",
-        "template--15922159091874__cedc275e-a808-41b3-aabd-d29a7c3e133b-16738023140d0ce651-2"
+        "template--15922159091874__cedc275e-a808-41b3-aabd-d29a7c3e133b-16738023140d0ce651-2",
+        "template--15922159091874__cedc275e-a808-41b3-aabd-d29a7c3e133b-16738023140d0ce651-1"
       ],
       "settings": {
         "desktop_content_position": "center",
