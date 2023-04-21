@@ -243,28 +243,28 @@
             "force_h1": false
           }
         },
+        "template--15922081300642__b90757f7-2bee-40e3-86b5-f5d25002780d-16738023754863e600-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Watch the video",
+            "button_link": "https:\/\/youtu.be\/SAEKd8LXU5g",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
         "template--15922081300642__b90757f7-2bee-40e3-86b5-f5d25002780d-16738023754863e600-1": {
           "type": "text",
           "settings": {
             "text": "<p><a href=\"\/pages\/clinical-trials\" title=\"Clinical Trials\">Next: Clinical Trials &gt;&gt;<\/a><\/p>"
           }
-        },
-        "template--15922081300642__b90757f7-2bee-40e3-86b5-f5d25002780d-16738023754863e600-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "template--15922081300642__b90757f7-2bee-40e3-86b5-f5d25002780d-16738023754863e600-0",
-        "template--15922081300642__b90757f7-2bee-40e3-86b5-f5d25002780d-16738023754863e600-1",
-        "template--15922081300642__b90757f7-2bee-40e3-86b5-f5d25002780d-16738023754863e600-2"
+        "template--15922081300642__b90757f7-2bee-40e3-86b5-f5d25002780d-16738023754863e600-2",
+        "template--15922081300642__b90757f7-2bee-40e3-86b5-f5d25002780d-16738023754863e600-1"
       ],
       "settings": {
         "desktop_content_position": "center",
