@@ -26,6 +26,13 @@
             "picker_type": "button"
           }
         },
+        "93f2fde6-9ded-4b75-b436-cdbd5075927a": {
+          "type": "text",
+          "settings": {
+            "text": "Please note that size Slender is backordered until mid June. Orders placed now will be fulfilled as soon as inventory is in stock.",
+            "text_style": "uppercase"
+          }
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {
@@ -135,6 +142,7 @@
         "title",
         "price",
         "variant_picker",
+        "93f2fde6-9ded-4b75-b436-cdbd5075927a",
         "quantity_selector",
         "buy_buttons",
         "description",
