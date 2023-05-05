@@ -29,7 +29,7 @@
         "93f2fde6-9ded-4b75-b436-cdbd5075927a": {
           "type": "text",
           "settings": {
-            "text": "<div style=\"background-color: #eee;  padding: 10px; font-size: .8em\">NOTE: Xialla is backordered due to demand. Orders placed today will be fulfilled in early to mid June. We apologize for the inconvenience.<\/div>",
+            "text": "NOTE: Xialla is backordered due to demand. Orders placed today will be fulfilled in early to mid June. We apologize for the inconvenience. Pad refills are not backordered",
             "text_style": "uppercase"
           }
         },
