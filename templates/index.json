@@ -388,8 +388,8 @@
         "1664046577ded4120f-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "Rated 4.6\/5",
-            "heading_size": "h1",
+            "custom_liquid": "Rated 4.6 out of 5",
+            "heading_size": "h0",
             "force_h1": false
           }
         },
