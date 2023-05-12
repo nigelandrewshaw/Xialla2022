@@ -388,7 +388,7 @@
         "1664046577ded4120f-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "Customer Reviews",
+            "custom_liquid": "Rated 4.6\/5",
             "heading_size": "h1",
             "force_h1": false
           }
@@ -396,7 +396,7 @@
         "1664046577ded4120f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Rated 4.6\/5 in nearly 400 reviews.<\/p>"
+            "text": "<p>Nearly 400 verified customer reviews<\/p>"
           }
         },
         "ff7df603-2098-4a02-ab96-4dbe32df1c77": {
