@@ -412,6 +412,49 @@
         "padding_bottom": 0
       }
     },
+    "16644147062d8c9810": {
+      "type": "rich-text",
+      "blocks": {
+        "166441470639b2ca88-0": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "",
+            "heading_size": "h1",
+            "force_h1": false
+          }
+        },
+        "166441470639b2ca88-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"https:\/\/www.trustpilot.com\/review\/xialla.com\" title=\"Trustpilot reviews\">Read All Trustpilot Reviews<\/a><\/p>"
+          }
+        },
+        "166441470639b2ca88-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "166441470639b2ca88-0",
+        "166441470639b2ca88-1",
+        "166441470639b2ca88-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 72
+      }
+    },
     "4ddf447f-f278-4efd-bc1c-e9485748a58c": {
       "type": "multicolumn",
       "blocks": {
@@ -500,49 +543,6 @@
         "swipe_on_mobile": true,
         "padding_top": 52,
         "padding_bottom": 36
-      }
-    },
-    "16644147062d8c9810": {
-      "type": "rich-text",
-      "blocks": {
-        "166441470639b2ca88-0": {
-          "type": "heading",
-          "settings": {
-            "custom_liquid": "",
-            "heading_size": "h1",
-            "force_h1": false
-          }
-        },
-        "166441470639b2ca88-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><a href=\"https:\/\/www.trustpilot.com\/review\/xialla.com\" title=\"Trustpilot reviews\">Read All Trustpilot Reviews<\/a><\/p>"
-          }
-        },
-        "166441470639b2ca88-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "166441470639b2ca88-0",
-        "166441470639b2ca88-1",
-        "166441470639b2ca88-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 72
       }
     },
     "166437503538559b7f": {
@@ -806,8 +806,8 @@
     "1664328183da5cbb42",
     "1664046577e327ab78",
     "multicolumn",
-    "4ddf447f-f278-4efd-bc1c-e9485748a58c",
     "16644147062d8c9810",
+    "4ddf447f-f278-4efd-bc1c-e9485748a58c",
     "166437503538559b7f",
     "1664040620aca5f6b8",
     "1664048786865ff34e",
