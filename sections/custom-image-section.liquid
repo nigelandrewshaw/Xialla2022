@@ -57,6 +57,9 @@
   
 {%- endstyle -%}
 
+{%- if section.settings.image_link != blank -%}
+  <a href="section.settings.image_link" >
+{% endif %}
 
 <div id="image-section-{{ section.id }}" class="custom-image-section-cs">
   {%- if section.settings.image != blank -%}
@@ -84,6 +87,10 @@
   {% endif %} 
  
 </div>
+
+{%- if section.settings.image_link != blank -%}
+  </a>
+{% endif %}
 
 {% schema %}
   {
@@ -136,7 +143,13 @@
       "default": false,
       "label": "Image Size",
       "info": "Image will be sized 50%"
-      }
+      }, 
+
+      {
+        "type": "url",
+        "id": "image_link",
+        "label": "Image link"
+      },
       
     ],
     "presets": [
