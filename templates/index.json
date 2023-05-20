@@ -79,6 +79,72 @@
         "padding_bottom": 52
       }
     },
+    "1664328183da5cbb42": {
+      "type": "custom-image-section",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Artboard_1_abdcae11-54c6-4760-8942-ef2dc72deca8.png",
+        "image_mobile": "shopify:\/\/shop_images\/Artboard_1_abdcae11-54c6-4760-8942-ef2dc72deca8.png",
+        "padding_top": 52,
+        "padding_bottom": 0,
+        "fifty_percent_width": true,
+        "image_link": "https:\/\/www.trustpilot.com\/review\/xialla.com"
+      }
+    },
+    "1664046577e327ab78": {
+      "type": "rich-text",
+      "blocks": {
+        "1664046577ded4120f-0": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "Rated 4.6 out of 5",
+            "heading_size": "h0",
+            "force_h1": false
+          }
+        },
+        "1664046577ded4120f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nearly 400 verified customer reviews.<\/p>"
+          }
+        },
+        "ff7df603-2098-4a02-ab96-4dbe32df1c77": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "https:\/\/ca.trustpilot.com\/review\/xialla.com",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "1664046577ded4120f-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1664046577ded4120f-0",
+        "1664046577ded4120f-1",
+        "ff7df603-2098-4a02-ab96-4dbe32df1c77",
+        "1664046577ded4120f-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "166425116431cde5aa": {
       "type": "custom-liquid",
       "settings": {
@@ -151,52 +217,6 @@
         "swipe_on_mobile": false,
         "padding_top": 0,
         "padding_bottom": 52
-      }
-    },
-    "4b7d0b4e-3845-41d0-b6d7-a674894e66f4": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--15921100783778__4b7d0b4e-3845-41d0-b6d7-a674894e66f4-1675718367fe2b8b9c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Choose the Right Treatment for the Problem",
-            "heading_size": "h1",
-            "force_h1": false
-          }
-        },
-        "template--15921100783778__4b7d0b4e-3845-41d0-b6d7-a674894e66f4-1675718367fe2b8b9c-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>ED is caused by either<\/p><ul><li>Excess blood outflow (venous leak), or<\/li><li>Insufficient blood inflow.<\/li><\/ul><p>Xialla is the only effective treatment for excess blood outflow. <\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--15921100783778__4b7d0b4e-3845-41d0-b6d7-a674894e66f4-1675718367fe2b8b9c-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "shopify:\/\/products\/xialla"
-          }
-        }
-      },
-      "block_order": [
-        "template--15921100783778__4b7d0b4e-3845-41d0-b6d7-a674894e66f4-1675718367fe2b8b9c-0",
-        "template--15921100783778__4b7d0b4e-3845-41d0-b6d7-a674894e66f4-1675718367fe2b8b9c-1",
-        "template--15921100783778__4b7d0b4e-3845-41d0-b6d7-a674894e66f4-1675718367fe2b8b9c-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Artboard_2_2x_76101573-8353-47cd-9a72-543c12cffb69.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 24,
-        "padding_bottom": 24
       }
     },
     "16643859836004dd98": {
@@ -279,72 +299,6 @@
         "cover_image_2": "shopify:\/\/shop_images\/Screen_Shot_2023-04-06_at_5.38.59_PM.png",
         "video_url_2": "https:\/\/vimeo.com\/815475062",
         "description_2": ""
-      }
-    },
-    "1664328183da5cbb42": {
-      "type": "custom-image-section",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Artboard_1_abdcae11-54c6-4760-8942-ef2dc72deca8.png",
-        "image_mobile": "shopify:\/\/shop_images\/Artboard_1_abdcae11-54c6-4760-8942-ef2dc72deca8.png",
-        "padding_top": 52,
-        "padding_bottom": 0,
-        "fifty_percent_width": true,
-        "image_link": "https:\/\/www.trustpilot.com\/review\/xialla.com"
-      }
-    },
-    "1664046577e327ab78": {
-      "type": "rich-text",
-      "blocks": {
-        "1664046577ded4120f-0": {
-          "type": "heading",
-          "settings": {
-            "custom_liquid": "Rated 4.6 out of 5",
-            "heading_size": "h0",
-            "force_h1": false
-          }
-        },
-        "1664046577ded4120f-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Nearly 400 verified customer reviews.<\/p>"
-          }
-        },
-        "ff7df603-2098-4a02-ab96-4dbe32df1c77": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "https:\/\/ca.trustpilot.com\/review\/xialla.com",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
-        "1664046577ded4120f-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1664046577ded4120f-0",
-        "1664046577ded4120f-1",
-        "ff7df603-2098-4a02-ab96-4dbe32df1c77",
-        "1664046577ded4120f-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 0
       }
     },
     "multicolumn": {
@@ -795,16 +749,15 @@
   "order": [
     "image_banner",
     "2bf3d88c-11f2-46b5-88c2-3fbf640152a1",
+    "1664328183da5cbb42",
+    "1664046577e327ab78",
     "166425116431cde5aa",
     "1664616703a24d7b00",
     "3c36047f-88ad-4488-bd35-720b0c5475e6",
-    "4b7d0b4e-3845-41d0-b6d7-a674894e66f4",
     "16643859836004dd98",
     "5b6bb895-ad1a-4b53-a185-23732ae5beaf",
     "3e8aa883-d657-4705-9744-a0dc19bc5805",
     "2d3744d8-e996-45a8-97b5-bc89789308f6",
-    "1664328183da5cbb42",
-    "1664046577e327ab78",
     "multicolumn",
     "16644147062d8c9810",
     "4ddf447f-f278-4efd-bc1c-e9485748a58c",
