@@ -616,10 +616,12 @@ You can learn more about this (and learn how to cleanly revert these changes) at
         </a>
       {%- endif -%}
 
+      <!-- Hide the buy button on the product page with if template.name <> "product" below. The 
+      empty cart button is a buy button. --> 
       <a href="{{ routes.cart_url }}" class="header__icon header__icon--cart link focus-inset" id="cart-icon-bubble">
         {%- liquid
           if cart == empty
-            if template.name <> "product"
+            if template.name <> "product" 
               render 'icon-cart-empty'
             endif
           else
