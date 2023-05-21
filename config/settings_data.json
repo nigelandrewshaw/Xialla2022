@@ -183,13 +183,6 @@
               "subtext": "<p>Our mission is to treat ED for most men, so they and their partners can get back to amazing sex.<\/p>"
             }
           },
-          "62ca2749-54a9-4d07-95c6-dfc11fe673b2": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Products",
-              "menu": "products"
-            }
-          },
           "ae73e85d-893a-47db-b9bd-6f3a6d8fe234": {
             "type": "link_list",
             "settings": {
@@ -202,6 +195,13 @@
             "settings": {
               "heading": "Learn More",
               "menu": "learn-more"
+            }
+          },
+          "62ca2749-54a9-4d07-95c6-dfc11fe673b2": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Products",
+              "menu": "products"
             }
           },
           "8f42e25f-4b9f-487f-b080-f1fd2176a6b5": {
@@ -230,9 +230,9 @@
         "block_order": [
           "e2490186-aa7f-4df9-9ce6-0ad41a06edb4",
           "footer-2",
-          "62ca2749-54a9-4d07-95c6-dfc11fe673b2",
           "ae73e85d-893a-47db-b9bd-6f3a6d8fe234",
           "0eb54e94-9ff3-4e2f-a644-93b4815d7137",
+          "62ca2749-54a9-4d07-95c6-dfc11fe673b2",
           "8f42e25f-4b9f-487f-b080-f1fd2176a6b5",
           "731f8259-9d36-4e3e-82f5-fef1d13179a3",
           "358860d3-a186-4e6a-86a9-76c9caa18721"
@@ -278,6 +278,12 @@
       "uppromote-affiliate-referral-message-bar-45105-64c32457-930d-4cb9-9641-e24c0d9cf1f4": {
         "type": "shopify:\/\/apps\/uppromote-affiliate-referral\/blocks\/message-bar\/64c32457-930d-4cb9-9641-e24c0d9cf1f4",
         "disabled": true,
+        "settings": {
+        }
+      },
+      "yoast-seo-metatags": {
+        "type": "shopify:\/\/apps\/yoast-seo-seo-for-everyone\/blocks\/metatags\/7c777011-bc88-4743-a24e-64336e1e5b46",
+        "disabled": false,
         "settings": {
         }
       }

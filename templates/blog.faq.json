@@ -29,42 +29,11 @@
           "settings": {
             "text": "<p>Find answers to common questions about Xialla such as how it works, how to wear, orders and shipping, warranty and troubleshooting. <\/p>"
           }
-        },
-        "96978ad4-d9fb-497f-af07-43be1301d717": {
-          "type": "button",
-          "settings": {
-            "button_label": "Search the FAQ",
-            "button_link": "\/search",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
-        "47bb0fea-047f-4038-aea8-3f6ac7bc8d35": {
-          "type": "text",
-          "settings": {
-            "text": "<p>If you can't find the answer, please contact us.<\/p>"
-          }
-        },
-        "1664757852ede05a5f-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "CONTACT CUSTOMER SUPPORT",
-            "button_link": "\/pages\/customer-support#shopify-section-template--15926248636578__9640ba25-c4de-4c2a-95bc-e141abce6439",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "1664757852ede05a5f-0",
-        "1664757852ede05a5f-1",
-        "96978ad4-d9fb-497f-af07-43be1301d717",
-        "47bb0fea-047f-4038-aea8-3f6ac7bc8d35",
-        "1664757852ede05a5f-2"
+        "1664757852ede05a5f-1"
       ],
       "settings": {
         "desktop_content_position": "center",
