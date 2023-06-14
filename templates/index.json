@@ -79,6 +79,63 @@
         "padding_bottom": 52
       }
     },
+    "c34e9865-c5ed-4f7d-b6be-565659fc87be": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AsSeenInJSM_2x_15a8022a-b5d9-4108-99a0-cf8488367449.png",
+            "custom_liquid": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AsSeenInEAU_2x_c02d63f7-cde9-4a2d-9ef1-3e38ed92855a.png",
+            "custom_liquid": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AsSeenInUCI_2x_895d5411-7080-4796-8828-974660ba1b9b.png",
+            "custom_liquid": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-0",
+        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-1",
+        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-2"
+      ],
+      "settings": {
+        "title": "As seen in",
+        "title-centered": true,
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 64,
+        "padding_bottom": 96
+      }
+    },
     "1664328183da5cbb42": {
       "type": "custom-image-section",
       "settings": {
@@ -749,6 +806,7 @@
   "order": [
     "image_banner",
     "2bf3d88c-11f2-46b5-88c2-3fbf640152a1",
+    "c34e9865-c5ed-4f7d-b6be-565659fc87be",
     "1664328183da5cbb42",
     "1664046577e327ab78",
     "166425116431cde5aa",
