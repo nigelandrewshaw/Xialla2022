@@ -341,16 +341,6 @@
         "padding_bottom": 80
       }
     },
-    "5b6bb895-ad1a-4b53-a185-23732ae5beaf": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div id=\"x-how-xialla-is-worn\">",
-        "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "section_visibility": "visible"
-      }
-    },
     "3e8aa883-d657-4705-9744-a0dc19bc5805": {
       "type": "custom-liquid",
       "settings": {
@@ -835,7 +825,6 @@
     "1664616703a24d7b00",
     "3c36047f-88ad-4488-bd35-720b0c5475e6",
     "16643859836004dd98",
-    "5b6bb895-ad1a-4b53-a185-23732ae5beaf",
     "3e8aa883-d657-4705-9744-a0dc19bc5805",
     "2d3744d8-e996-45a8-97b5-bc89789308f6",
     "multicolumn",
