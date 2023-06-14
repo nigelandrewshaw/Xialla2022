@@ -344,7 +344,7 @@
     "3e8aa883-d657-4705-9744-a0dc19bc5805": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div id=\"x-how-to-wear\">",
+        "custom_liquid": "<div id=\"x-how-to-put-on-videos\">",
         "color_scheme": "background-1",
         "padding_top": 0,
         "padding_bottom": 0,
@@ -474,6 +474,16 @@
         "full_width": true,
         "padding_top": 0,
         "padding_bottom": 72
+      }
+    },
+    "e8442a3f-d4dc-4f07-ba86-837b16332689": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"x-how-to-wear\">",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section_visibility": "visible"
       }
     },
     "4ddf447f-f278-4efd-bc1c-e9485748a58c": {
@@ -829,6 +839,7 @@
     "2d3744d8-e996-45a8-97b5-bc89789308f6",
     "multicolumn",
     "16644147062d8c9810",
+    "e8442a3f-d4dc-4f07-ba86-837b16332689",
     "4ddf447f-f278-4efd-bc1c-e9485748a58c",
     "166437503538559b7f",
     "1664040620aca5f6b8",
