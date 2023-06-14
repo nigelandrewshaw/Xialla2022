@@ -48,37 +48,6 @@
         "show_text_below": true
       }
     },
-    "2bf3d88c-11f2-46b5-88c2-3fbf640152a1": {
-      "type": "rich-text",
-      "blocks": {
-        "template--15921100783778__2bf3d88c-11f2-46b5-88c2-3fbf640152a1-167448272198b62cb3-0": {
-          "type": "heading",
-          "settings": {
-            "custom_liquid": "\"Finally there's a real breakthrough for the treatment of ED caused by venous leak.\"",
-            "heading_size": "h1",
-            "force_h1": false
-          }
-        },
-        "template--15921100783778__2bf3d88c-11f2-46b5-88c2-3fbf640152a1-167448272198b62cb3-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Dr. Faysal Yafi, MD, FRCSC<\/strong><\/p><p>Chief of the Division Men’s Health and Reconstructive Urology, University of California Irvine<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--15921100783778__2bf3d88c-11f2-46b5-88c2-3fbf640152a1-167448272198b62cb3-0",
-        "template--15921100783778__2bf3d88c-11f2-46b5-88c2-3fbf640152a1-167448272198b62cb3-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 100,
-        "padding_bottom": 52
-      }
-    },
     "c34e9865-c5ed-4f7d-b6be-565659fc87be": {
       "type": "multicolumn",
       "blocks": {
@@ -134,6 +103,37 @@
         "swipe_on_mobile": false,
         "padding_top": 64,
         "padding_bottom": 96
+      }
+    },
+    "2bf3d88c-11f2-46b5-88c2-3fbf640152a1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15921100783778__2bf3d88c-11f2-46b5-88c2-3fbf640152a1-167448272198b62cb3-0": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "\"Finally there's a real breakthrough for the treatment of ED caused by venous leak.\"",
+            "heading_size": "h1",
+            "force_h1": false
+          }
+        },
+        "template--15921100783778__2bf3d88c-11f2-46b5-88c2-3fbf640152a1-167448272198b62cb3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Dr. Faysal Yafi, MD, FRCSC<\/strong><\/p><p>Chief of the Division Men’s Health and Reconstructive Urology, University of California Irvine<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15921100783778__2bf3d88c-11f2-46b5-88c2-3fbf640152a1-167448272198b62cb3-0",
+        "template--15921100783778__2bf3d88c-11f2-46b5-88c2-3fbf640152a1-167448272198b62cb3-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 52
       }
     },
     "1664328183da5cbb42": {
@@ -542,8 +542,8 @@
         "title": "How to Wear",
         "title-centered": false,
         "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
+        "image_width": "half",
+        "image_ratio": "circle",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "none",
@@ -805,8 +805,8 @@
   },
   "order": [
     "image_banner",
-    "2bf3d88c-11f2-46b5-88c2-3fbf640152a1",
     "c34e9865-c5ed-4f7d-b6be-565659fc87be",
+    "2bf3d88c-11f2-46b5-88c2-3fbf640152a1",
     "1664328183da5cbb42",
     "1664046577e327ab78",
     "166425116431cde5aa",
