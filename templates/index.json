@@ -149,7 +149,7 @@
     "438d2518-5933-4ba4-9e6d-5a577089327a": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div id=\"x-reviews\">",
+        "custom_liquid": "<div id=\"x-rated-a-out-of-b\">",
         "color_scheme": "background-1",
         "padding_top": 0,
         "padding_bottom": 0,
