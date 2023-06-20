@@ -64,30 +64,30 @@
         "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/AsSeenInJSM-100.jpg",
+            "image": "shopify:\/\/shop_images\/AsSeenInJSM.jpg",
             "custom_liquid": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "text": "<p>Clinical trials showed Xialla to be effective used alone and in combination with drug or injection therapy.<\/p>",
+            "link_label": "Learn",
+            "link": "shopify:\/\/pages\/clinical-trials"
           }
         },
         "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/AsSeenInEAU-100.jpg",
+            "image": "shopify:\/\/shop_images\/AsSeenInEAU_021f8bfc-3034-4c67-ac52-238e064aa575.jpg",
             "custom_liquid": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "text": "<p>Dr. Faysal Yafi presents state-of-the-art lecture on wearables for erectile quality at EAU23 conference.<\/p>",
+            "link_label": "Learn",
+            "link": "shopify:\/\/blogs\/news\/dean-elterman-and-faysal-yafi-attend-and-present-at-eua23"
           }
         },
         "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/AsSeenInUCI-100.jpg",
+            "image": "shopify:\/\/shop_images\/AsSeenInUCI.jpg",
             "custom_liquid": "",
-            "text": "",
-            "link_label": "",
+            "text": "<p>Xialla sponsors UC Irvine Men's Health Course featuring world-renowned experts<\/p>",
+            "link_label": "Learn",
             "link": ""
           }
         }
@@ -101,7 +101,7 @@
         "title": "As Seen In...",
         "title-centered": true,
         "heading_size": "h1",
-        "image_width": "custom_image_size_width",
+        "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "center",
