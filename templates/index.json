@@ -66,7 +66,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/AsSeenInJSM.jpg",
             "custom_liquid": "",
-            "text": "<p>Clinical trials showed Xialla to be effective used alone and in combination with drug or injection therapy.<\/p>",
+            "text": "<p>Clinical trials showed Xialla to be effective used alone and in combination with other therapies.<\/p>",
             "link_label": "Learn",
             "link": "shopify:\/\/pages\/clinical-trials"
           }
@@ -76,7 +76,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/AsSeenInEAU_021f8bfc-3034-4c67-ac52-238e064aa575.jpg",
             "custom_liquid": "",
-            "text": "<p>Dr. Faysal Yafi presents state-of-the-art lecture on wearables for erectile quality at EAU23 conference.<\/p>",
+            "text": "<p>Dr. Faysal Yafi presents state-of-the-art lecture on Wearables for Erectile Quality at EAU23.<\/p>",
             "link_label": "Learn",
             "link": "shopify:\/\/blogs\/news\/dean-elterman-and-faysal-yafi-attend-and-present-at-eua23"
           }
@@ -86,7 +86,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/AsSeenInUCI.jpg",
             "custom_liquid": "",
-            "text": "<p>Xialla sponsors UC Irvine Men's Health Course featuring world-renowned experts<\/p>",
+            "text": "<p>Xialla sponsors UC Irvine Men's Health Course featuring world-renowned experts.<\/p>",
             "link_label": "Learn",
             "link": ""
           }
