@@ -74,10 +74,10 @@
         "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/AsSeenInEAU_021f8bfc-3034-4c67-ac52-238e064aa575.jpg",
+            "image": "shopify:\/\/shop_images\/AsSeenInUCI.png",
             "custom_liquid": "",
-            "text": "<p>Dr. Faysal Yafi presents state-of-the-art lecture on Wearables for Erectile Quality at EAU23.<\/p>",
-            "link_label": "Learn",
+            "text": "",
+            "link_label": "",
             "link": "shopify:\/\/blogs\/news\/dean-elterman-and-faysal-yafi-attend-and-present-at-eua23"
           }
         },
