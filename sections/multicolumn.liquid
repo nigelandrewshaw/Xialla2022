@@ -102,6 +102,15 @@
 
                 {% comment %} Added by Zeian - End {% endcomment %}
 
+                {% comment %} Added by Zeian - Image URL {% endcomment %}
+
+                {% if block.settings.custom_image_url != blank %}
+                  <a
+                    class="custom_image_url multicolumn-card__image-wrapper"
+                    href="{{ block.settings.custom_image_url }}"
+                  >
+                {% endif %}
+
                 <div class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--{{ section.settings.image_width }}-width{% if section.settings.image_width != 'full' or spaced_image %} multicolumn-card-spacing{% endif %}">
                   <div
                     class="media media--transparent media--{{ section.settings.image_ratio }}"
@@ -121,6 +130,14 @@
                     }}
                   </div>
                 </div>
+
+                {% comment %} Added by Zeian - Image URL {% endcomment %}
+
+                {% if block.settings.custom_image_url != blank %}
+                  </a>
+                {% endif %}
+
+                
               {%- endif -%}
               <div class="multicolumn-card__info">
                 {%- comment -%}
