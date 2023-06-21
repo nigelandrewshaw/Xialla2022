@@ -65,6 +65,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/AsSeenInJSM.png",
+            "custom_image_url": "shopify:\/\/pages\/clinical-trials",
             "custom_liquid": "",
             "text": "",
             "link_label": "",
@@ -75,6 +76,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/AsSeenInUCI.png",
+            "custom_image_url": "shopify:\/\/blogs\/news\/dean-elterman-and-faysal-yafi-attend-and-present-at-eua23",
             "custom_liquid": "",
             "text": "",
             "link_label": "",
@@ -85,6 +87,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/AsSeenInEAU.png",
+            "custom_image_url": "",
             "custom_liquid": "",
             "text": "",
             "link_label": "",
@@ -248,6 +251,7 @@
         "template--15921100783778__3c36047f-88ad-4488-bd35-720b0c5475e6-1673636735bc0d137a-0": {
           "type": "column",
           "settings": {
+            "custom_image_url": "",
             "custom_liquid": "3x More Effective",
             "text": "<p>A ring that moves allows blood to escape. A ring that stays in place traps blood better, creating a stronger and longer lasting erection.<\/p>",
             "link_label": "",
@@ -257,6 +261,7 @@
         "46fb8c71-a345-4dcc-9613-eff9dc7627a7": {
           "type": "column",
           "settings": {
+            "custom_image_url": "",
             "custom_liquid": "You Don't Need an Erection to Start",
             "text": "<p>Regular rings need an erection to start, otherwise they move out of place. Xialla stays in place so you can start with or without an erection. <\/p>",
             "link_label": "",
@@ -266,6 +271,7 @@
         "template--15921100783778__3c36047f-88ad-4488-bd35-720b0c5475e6-1673636735bc0d137a-1": {
           "type": "column",
           "settings": {
+            "custom_image_url": "",
             "custom_liquid": "More Comfortable",
             "text": "<p>A ring that's not held in place needs to be very tight in order to work. Xialla doesn't need to be as tight, and that makes Xialla more comfortable. <\/p>",
             "link_label": "",
@@ -374,6 +380,7 @@
         "column1": {
           "type": "column",
           "settings": {
+            "custom_image_url": "",
             "custom_liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0248\/5918\/1149\/files\/TrustpilotStars200.png?v=1665408732\" width=90 height=18><br\/>\"Climaxes have been mind blowing\"",
             "text": "<p>Our lovemaking has gone from one time a month to several times a week.<\/p><p><strong>TE United States<\/strong><\/p>",
             "link_label": "",
@@ -383,6 +390,7 @@
         "column2": {
           "type": "column",
           "settings": {
+            "custom_image_url": "",
             "custom_liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0248\/5918\/1149\/files\/TrustpilotStars200.png?v=1665408732\" width=90 height=18><br\/>\"It has brought me and my wife immense pleasure and happiness\"",
             "text": "<p>And the customer service left me extremely impressed.<\/p><p><strong>Charlie Flores<\/strong><\/p>",
             "link_label": "",
@@ -392,6 +400,7 @@
         "column3": {
           "type": "column",
           "settings": {
+            "custom_image_url": "",
             "custom_liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0248\/5918\/1149\/files\/TrustpilotStars200.png?v=1665408732\" width=90 height=18><br\/>\"Xialla is an amazing product\"",
             "text": "<p>Xialla is a Godsend. I truly thank Nigel for inventing this amazing product. <\/p><p><strong>Kenneth Akers<\/strong><\/p>",
             "link_label": "",
@@ -402,6 +411,7 @@
           "type": "column",
           "disabled": true,
           "settings": {
+            "custom_image_url": "",
             "custom_liquid": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
@@ -493,6 +503,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Stick_the_Pad-80_6075e1e5-b285-4c64-b688-03028d7219e9.jpg",
+            "custom_image_url": "",
             "custom_liquid": "Stick the pad",
             "text": "<p>Stick an adhesive pad to your lower back just above the buttocks.<\/p>",
             "link_label": "",
@@ -503,6 +514,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Place_the_Ring_Erect-80_8d862dee-62eb-4e45-a1ad-c3a840fd7600.jpg",
+            "custom_image_url": "",
             "custom_liquid": "Place the ring",
             "text": "<p>Place the ring around the base of your penis and let the loop and band hang in front of your scrotum. <\/p>",
             "link_label": "",
@@ -513,6 +525,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Place_the_Ring_Flaccid_-80_f18b905e-e497-4419-9249-ba37c47e0e11.jpg",
+            "custom_image_url": "",
             "custom_liquid": "Erect or flaccid",
             "text": "<p>You don't need an erection to start. The ring can be placed on an erect or a flaccid penis.<\/p>",
             "link_label": "",
@@ -523,6 +536,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Stretch_the_Loop-80_56359f24-f9cc-45b2-b707-eb2c9af380a9.jpg",
+            "custom_image_url": "",
             "custom_liquid": "Stretch the loop",
             "text": "<p>Stretch the loop up and around your scrotum.<\/p>",
             "link_label": "",
@@ -533,6 +547,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Attach_the_Band_2-80_61e5cda5-569e-41e4-bc53-2928c49b616d.jpg",
+            "custom_image_url": "",
             "custom_liquid": "Attach the tab lock",
             "text": "<p>Attach the tab lock to the adhesive pad to lock Xialla in place. <\/p>",
             "link_label": "",
@@ -543,6 +558,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Final-80.jpg",
+            "custom_image_url": "",
             "custom_liquid": "Enjoy",
             "text": "<p>Once in place, Xialla is nearly unnoticeable... except for its amazing <a href=\"\/blogs\/knowledge-center\/what-makes-xialla-amazing\" title=\"What makes Xialla amazing\">benefits<\/a>.<\/p>",
             "link_label": "",
@@ -614,6 +630,7 @@
           "type": "column",
           "disabled": true,
           "settings": {
+            "custom_image_url": "",
             "custom_liquid": "Just Xialla",
             "text": "<p>Xialla is designed for men of any age or medical profile who experience ED due to venous leak (excess blood outflow).<\/p>",
             "link_label": "",
@@ -624,6 +641,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Xialla_Alone.png",
+            "custom_image_url": "",
             "custom_liquid": "Just Xialla",
             "text": "<p>Xialla is designed for men of any age or medical profile who experience ED due to venous leak (excess blood outflow).<\/p>",
             "link_label": "Find out more",
@@ -634,6 +652,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Xialla_and_Medication_03a05069-a113-4049-80bd-99851502a721.png",
+            "custom_image_url": "",
             "custom_liquid": "Xialla + Medication",
             "text": "<p>Your regularly prescribed ED medication increases blood inflow. Xialla helps you prevent venous leak (blood outflow) so that your erection stays stronger for longer.<\/p>",
             "link_label": "Find out more",
@@ -644,6 +663,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Xialla_and_Injections.png",
+            "custom_image_url": "",
             "custom_liquid": "Xialla + Injections",
             "text": "<p>Xialla has been clinically tested to complement penile injection therapies. While injections primarily target blood inflow, Xialla targets venous leak (blood outflow).<\/p>",
             "link_label": "Find out more",
@@ -654,6 +674,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Xialla_and_Pumps.png",
+            "custom_image_url": "",
             "custom_liquid": "Xialla + Pumps",
             "text": "<p>Use Xialla in place of the standard constriction rings used with vacuum pumps to prevent loss of the erection due to venous leak (blood outflow).<\/p>",
             "link_label": "Find out more",
@@ -782,6 +803,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/heart_41ec18a3-f8bf-4679-9ff0-92ec03715ea3.png",
+            "custom_image_url": "",
             "custom_liquid": "Safe",
             "text": "<p>Xialla is a safe, natural, comfortable, and drug-free treatment. <\/p>",
             "link_label": "",
@@ -792,6 +814,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/file-check-2_854eebb1-8acc-469f-a0a6-9fb9596277fe.png",
+            "custom_image_url": "",
             "custom_liquid": "Effective",
             "text": "<p>A majority of men with ED see significant improvements.<\/p>",
             "link_label": "",
@@ -802,6 +825,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/shield-check_26176265-3086-4aec-8ee3-7833809ab68a.png",
+            "custom_image_url": "",
             "custom_liquid": "Guaranteed",
             "text": "<p>If it doesn't work for you, just request an instant refund within 60 days.<br\/><\/p>",
             "link_label": "",
