@@ -84,10 +84,10 @@
         "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/AsSeenInUCI.jpg",
+            "image": "shopify:\/\/shop_images\/AsSeenInEAU.png",
             "custom_liquid": "",
-            "text": "<p>Xialla sponsors UC Irvine Men's Health Course featuring world-renowned experts.<\/p>",
-            "link_label": "Learn",
+            "text": "",
+            "link_label": "",
             "link": ""
           }
         }
@@ -110,7 +110,7 @@
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "padding_top": 80,
         "padding_bottom": 40
       }
