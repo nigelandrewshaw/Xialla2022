@@ -64,10 +64,10 @@
         "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/AsSeenInJSM.jpg",
+            "image": "shopify:\/\/shop_images\/AsSeenInJSM.png",
             "custom_liquid": "",
-            "text": "<p>Clinical trials showed Xialla to be effective used alone and in combination with other therapies.<\/p>",
-            "link_label": "Learn",
+            "text": "",
+            "link_label": "",
             "link": "shopify:\/\/pages\/clinical-trials"
           }
         },
@@ -101,7 +101,7 @@
         "title": "As Seen In...",
         "title-centered": true,
         "heading_size": "h1",
-        "image_width": "custom_image_size_width",
+        "image_width": "custom_image_size_scaled",
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "center",
