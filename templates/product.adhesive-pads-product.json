@@ -17,8 +17,9 @@
         },
         "ee8afffc-f49c-40fc-95ae-42083dbe5df9": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "<b>BACKORDER<\/b><br><br> Xialla is backordered due to demand. Orders placed today will be fulfilled in mid to late June. We appreciate your business and apologize sincerely for making you wait.<br><br>Nigel, Inventor and CEO",
+            "text": "BACKORDER Xialla is backordered due to demand. Orders placed today will be fulfilled in mid to late June. We appreciate your business and apologize sincerely for making you wait.Nigel, Inventor and CEO",
             "text_style": "uppercase"
           }
         },
