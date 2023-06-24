@@ -102,6 +102,7 @@
         "16640709607651e7a8-0": {
           "type": "column",
           "settings": {
+            "custom_image_url": "",
             "custom_liquid": "Clinical trial #1",
             "text": "<p>Littlemore, A., Laing, L., & Bella, A. (2017). 109 Evaluation of a FDA and Health Canada Compliant Novel Medical Device for Improving Erectile Function Across Erectile Dysfunction Etiologies. The Journal of Sexual Medicine, 14(1). doi:10.1016\/j.jsxm.2016.11.062<\/p><p><a href=\"https:\/\/www.sciencedirect.com\/science\/article\/abs\/pii\/S1743609516305446\" title=\"https:\/\/www.sciencedirect.com\/science\/article\/abs\/pii\/S1743609516305446\">View online<\/a><\/p>",
             "link_label": "Download (.pdf)",
@@ -111,16 +112,28 @@
         "16640709607651e7a8-1": {
           "type": "column",
           "settings": {
+            "custom_image_url": "",
             "custom_liquid": "Clinical trial #2",
             "text": "<p>Littlemore, A., Laing, L., & Bella, A. (2017). 106 Salvage of Post-Prostatectomy Injection Therapy (With and Without Venoseal for Cvod) Treatment Failures by Injection Therapy Coupled With Novel Silicone Loop Occlusion Device. The Journal of Sexual Medicine, 14(1). doi:10.1016\/j.jsxm.2016.11.059<\/p><p><a href=\"https:\/\/www.sciencedirect.com\/science\/article\/abs\/pii\/S1743609516305410\" title=\"https:\/\/www.sciencedirect.com\/science\/article\/abs\/pii\/S1743609516305410\">View online<\/a><\/p>",
             "link_label": "Download (.pdf)",
             "link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0248\/5918\/1149\/files\/Xialla_Clinical_Trial_2.pdf?v=1630330511"
           }
+        },
+        "42fe290b-edd7-4576-83b3-850782e19054": {
+          "type": "column",
+          "settings": {
+            "custom_image_url": "",
+            "custom_liquid": "Clinical trial #3",
+            "text": "<p>Littlemore, A. & Bella, A. (2017) 122 Salvage of Climacturia Non-surgical Treatment Failures using a Patient and Partner-friendly Novel Soft Silicone Occlusion Loop during Sexual Activity. The Journal of Sexual Medicine, 14(1). doi:10.1016\/j.jsxm.2016.11.059<\/p><p><a href=\"https:\/\/www.sciencedirect.com\/science\/article\/abs\/pii\/S1743609516309924\" title=\"https:\/\/www.sciencedirect.com\/science\/article\/abs\/pii\/S1743609516309924\">View online<\/a><\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "16640709607651e7a8-0",
-        "16640709607651e7a8-1"
+        "16640709607651e7a8-1",
+        "42fe290b-edd7-4576-83b3-850782e19054"
       ],
       "settings": {
         "title": "",
