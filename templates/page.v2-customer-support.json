@@ -290,6 +290,16 @@
         "padding_bottom": 24
       }
     },
+    "751d37c7-70d1-4f5e-8986-d2db0b9948e0": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"x-warranty\">",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52,
+        "section_visibility": "visible"
+      }
+    },
     "166419464516b7482c": {
       "type": "rich-text",
       "blocks": {
@@ -443,6 +453,7 @@
     "16641944830d0831df",
     "a72622f1-778d-4cc6-89f0-568dce8ba157",
     "166419458965c84720",
+    "751d37c7-70d1-4f5e-8986-d2db0b9948e0",
     "166419464516b7482c",
     "1664193341ab068420",
     "166419435633e85953"
