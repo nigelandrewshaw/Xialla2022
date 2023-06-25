@@ -28,8 +28,9 @@
         },
         "93f2fde6-9ded-4b75-b436-cdbd5075927a": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "<b>BACKORDER<\/b><br><br> Xialla is backordered due to demand. Orders placed today will be fulfilled in mid to late June. We appreciate your business and apologize sincerely for making you wait.<br><br>Nigel, Inventor and CEO",
+            "text": "BACKORDER Xialla is backordered due to demand. Orders placed today will be fulfilled in mid to late June. We appreciate your business and apologize sincerely for making you wait.Nigel, Inventor and CEO",
             "text_style": "uppercase"
           }
         },
@@ -352,6 +353,7 @@
         "template--15921100652706__5eb77dca-27bb-40ab-99ec-47eafe994e52-16662654337cd1b25c-0": {
           "type": "column",
           "settings": {
+            "custom_image_url": "",
             "custom_liquid": "Erect penis circumference",
             "text": "<p>5-6\" | Size Regular<br\/>Under 5\" | Size Slender<br\/>Over 6\" | Size Thicker<br\/><\/p>",
             "link_label": "",
@@ -361,6 +363,7 @@
         "template--15921100652706__5eb77dca-27bb-40ab-99ec-47eafe994e52-16662654337cd1b25c-1": {
           "type": "column",
           "settings": {
+            "custom_image_url": "",
             "custom_liquid": "Flaccid penis circumference",
             "text": "<p>4-5\" | Size Regular<br\/>Under 4\" | Size Slender<br\/>Over 5\" | Size Thicker<\/p>",
             "link_label": "",
@@ -449,6 +452,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Place_the_ring_4x_a6568987-689b-4691-8136-ea9d8b050fa4.png",
+            "custom_image_url": "",
             "custom_liquid": "",
             "text": "<p>Slip the ring over the penis and down to the base. The loop and band will hang downwards.<\/p>",
             "link_label": "",
@@ -459,6 +463,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Stretch_the_loop_4x_d67e1a16-68dc-4f60-9e76-f7ac0cd8731e.png",
+            "custom_image_url": "",
             "custom_liquid": "",
             "text": "<p>Stretch the loop around the scrotum and bring it up above the testicles.<\/p>",
             "link_label": "",
@@ -469,6 +474,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Attach_the_band_4x_95fb9332-ff64-49c5-84ff-1970b8adf129.png",
+            "custom_image_url": "",
             "custom_liquid": "",
             "text": "<p>Attach the tab lock to the adhesive pad just above the buttocks to secure Xialla in place.<\/p>",
             "link_label": "",
@@ -543,6 +549,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/box.png",
+            "custom_image_url": "",
             "custom_liquid": "Discreet Packaging",
             "text": "<p>Xialla is shipped to you in plain packaging for your privacy and comfort.<\/p>",
             "link_label": "",
@@ -553,6 +560,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/heart_41ec18a3-f8bf-4679-9ff0-92ec03715ea3.png",
+            "custom_image_url": "",
             "custom_liquid": "Safe",
             "text": "<p>Xialla is body safe, hypoallergenic, and FDA, Health Canada and CE compliant.<\/p>",
             "link_label": "",
@@ -563,6 +571,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/truck_1d0400aa-852c-4f3f-bcc0-bb7135ad1e00.png",
+            "custom_image_url": "",
             "custom_liquid": "Free Shipping",
             "text": "<p>Standard shipping is included in the purchase price—no extra fees! <\/p>",
             "link_label": "",
@@ -573,6 +582,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/file-check-2_854eebb1-8acc-469f-a0a6-9fb9596277fe.png",
+            "custom_image_url": "",
             "custom_liquid": "Clinically Tested",
             "text": "<p>Xialla has been proven effective in two physician-led clinical trials.<\/p>",
             "link_label": "",
@@ -583,6 +593,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/refresh-ccw_914cc7a8-0934-4fe1-9a29-8dc03768976f.png",
+            "custom_image_url": "",
             "custom_liquid": "Free Size Changes",
             "text": "<p>Ordered the wrong size? We'll send you the right one for free.<\/p>",
             "link_label": "",
@@ -593,6 +604,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/shield-check_26176265-3086-4aec-8ee3-7833809ab68a.png",
+            "custom_image_url": "",
             "custom_liquid": "Trusted",
             "text": "<p>Xialla is the highest-rated ED treatment based on verified customer reviews.<\/p>",
             "link_label": "",

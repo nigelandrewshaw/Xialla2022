@@ -160,6 +160,16 @@
         "padding_bottom": 24
       }
     },
+    "3cd0a0ae-7382-4dfe-9038-6a2de31370ae": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"x-size-change\">",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section_visibility": "visible"
+      }
+    },
     "16641944830d0831df": {
       "type": "rich-text",
       "blocks": {
@@ -215,6 +225,16 @@
         "padding_bottom": 24
       }
     },
+    "a72622f1-778d-4cc6-89f0-568dce8ba157": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"x-refund\">",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section_visibility": "visible"
+      }
+    },
     "166419458965c84720": {
       "type": "rich-text",
       "blocks": {
@@ -268,6 +288,16 @@
         "full_width": true,
         "padding_top": 24,
         "padding_bottom": 24
+      }
+    },
+    "751d37c7-70d1-4f5e-8986-d2db0b9948e0": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"x-warranty\">",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section_visibility": "visible"
       }
     },
     "166419464516b7482c": {
@@ -351,7 +381,7 @@
         "011cf9a8-a0f6-4314-8c20-246fab3ac989": {
           "type": "text",
           "settings": {
-            "text": "<p>Click the chat button on the bottom right of this website.<\/p>"
+            "text": "<p>Or, click the chat button on the bottom right of this website to talk to us. We're friendly and want to hear from you!<\/p>"
           }
         }
       },
@@ -419,8 +449,11 @@
     "1664202824be897408",
     "16642031908360cdbc",
     "1664202902b981e9b5",
+    "3cd0a0ae-7382-4dfe-9038-6a2de31370ae",
     "16641944830d0831df",
+    "a72622f1-778d-4cc6-89f0-568dce8ba157",
     "166419458965c84720",
+    "751d37c7-70d1-4f5e-8986-d2db0b9948e0",
     "166419464516b7482c",
     "1664193341ab068420",
     "166419435633e85953"
