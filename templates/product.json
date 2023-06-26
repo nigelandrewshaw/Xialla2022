@@ -15,16 +15,16 @@
           "settings": {
           }
         },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
         "66068d01-4d98-47a4-842e-8488df3cf9d3": {
           "type": "text",
           "settings": {
             "text": "Includes 10 adhesive pads",
             "text_style": "body"
-          }
-        },
-        "price": {
-          "type": "price",
-          "settings": {
           }
         },
         "variant_picker": {
@@ -148,8 +148,8 @@
       "block_order": [
         "vendor",
         "title",
-        "66068d01-4d98-47a4-842e-8488df3cf9d3",
         "price",
+        "66068d01-4d98-47a4-842e-8488df3cf9d3",
         "variant_picker",
         "93f2fde6-9ded-4b75-b436-cdbd5075927a",
         "quantity_selector",
