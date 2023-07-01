@@ -138,14 +138,23 @@
         "template--15921100783778__2bf3d88c-11f2-46b5-88c2-3fbf640152a1-167448272198b62cb3-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Dr. Faysal Yafi, MD, FRCSC<\/strong><\/p><p>Chief of the Division Men’s Health and Reconstructive Urology, University of California Irvine<\/p>"
+            "text": "<p><strong>Dr. Faysal Yafi, MD, FRCSC<\/strong><\/p>"
+          }
+        },
+        "3cc52eb9-db4d-4ab5-b9f6-b15cdd510e54": {
+          "type": "caption",
+          "settings": {
+            "caption": "Chief of the Division Men’s Health and Reconstructive Urology, University of California Irvine",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
           }
         }
       },
       "block_order": [
         "template--15921100783778__2bf3d88c-11f2-46b5-88c2-3fbf640152a1-167448272198b62cb3-0",
         "9927aae6-39c2-433b-b39b-858c9bebb9b9",
-        "template--15921100783778__2bf3d88c-11f2-46b5-88c2-3fbf640152a1-167448272198b62cb3-1"
+        "template--15921100783778__2bf3d88c-11f2-46b5-88c2-3fbf640152a1-167448272198b62cb3-1",
+        "3cc52eb9-db4d-4ab5-b9f6-b15cdd510e54"
       ],
       "settings": {
         "desktop_content_position": "center",
