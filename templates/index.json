@@ -114,8 +114,8 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 80,
-        "padding_bottom": 40
+        "padding_top": 60,
+        "padding_bottom": 60
       }
     },
     "2bf3d88c-11f2-46b5-88c2-3fbf640152a1": {
@@ -159,7 +159,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-2",
         "full_width": true,
         "padding_top": 64,
         "padding_bottom": 64
@@ -175,12 +175,22 @@
         "section_visibility": "visible"
       }
     },
+    "166425116431cde5aa": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class='embed-container'>\n  <iframe src='https:\/\/player.vimeo.com\/video\/633942061?autoplay=1&loop=1&background=1' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen><\/iframe>\n<\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "section_visibility": "hide-for-mobile"
+      }
+    },
     "1664328183da5cbb42": {
       "type": "custom-image-section",
       "settings": {
         "image": "shopify:\/\/shop_images\/Artboard_1_abdcae11-54c6-4760-8942-ef2dc72deca8.png",
         "image_mobile": "shopify:\/\/shop_images\/Artboard_1_abdcae11-54c6-4760-8942-ef2dc72deca8.png",
-        "padding_top": 52,
+        "padding_top": 60,
         "padding_bottom": 0,
         "fifty_percent_width": true,
         "image_link": "https:\/\/www.trustpilot.com\/review\/xialla.com"
@@ -238,17 +248,7 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "166425116431cde5aa": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class='embed-container'>\n  <iframe src='https:\/\/player.vimeo.com\/video\/633942061?autoplay=1&loop=1&background=1' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen><\/iframe>\n<\/div>",
-        "color_scheme": "background-1",
-        "padding_top": 100,
-        "padding_bottom": 0,
-        "section_visibility": "hide-for-mobile"
+        "padding_bottom": 60
       }
     },
     "1664616703a24d7b00": {
@@ -311,11 +311,11 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 52
+        "padding_top": 60,
+        "padding_bottom": 60
       }
     },
     "16643859836004dd98": {
@@ -879,9 +879,9 @@
     "c34e9865-c5ed-4f7d-b6be-565659fc87be",
     "2bf3d88c-11f2-46b5-88c2-3fbf640152a1",
     "438d2518-5933-4ba4-9e6d-5a577089327a",
+    "166425116431cde5aa",
     "1664328183da5cbb42",
     "1664046577e327ab78",
-    "166425116431cde5aa",
     "1664616703a24d7b00",
     "3c36047f-88ad-4488-bd35-720b0c5475e6",
     "16643859836004dd98",
