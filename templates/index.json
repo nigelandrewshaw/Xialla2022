@@ -308,6 +308,49 @@
         "padding_bottom": 0
       }
     },
+    "16644147062d8c9810": {
+      "type": "rich-text",
+      "blocks": {
+        "166441470639b2ca88-0": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "",
+            "heading_size": "h1",
+            "force_h1": false
+          }
+        },
+        "166441470639b2ca88-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"https:\/\/www.trustpilot.com\/review\/xialla.com\" title=\"Trustpilot reviews\">Read All Trustpilot Reviews<\/a><\/p>"
+          }
+        },
+        "166441470639b2ca88-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "166441470639b2ca88-0",
+        "166441470639b2ca88-1",
+        "166441470639b2ca88-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "1664616703a24d7b00": {
       "type": "custom-liquid",
       "settings": {
@@ -457,49 +500,6 @@
         "cover_image_2": "shopify:\/\/shop_images\/Screen_Shot_2023-04-06_at_5.38.59_PM.png",
         "video_url_2": "https:\/\/vimeo.com\/815475062",
         "description_2": ""
-      }
-    },
-    "16644147062d8c9810": {
-      "type": "rich-text",
-      "blocks": {
-        "166441470639b2ca88-0": {
-          "type": "heading",
-          "settings": {
-            "custom_liquid": "",
-            "heading_size": "h1",
-            "force_h1": false
-          }
-        },
-        "166441470639b2ca88-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><a href=\"https:\/\/www.trustpilot.com\/review\/xialla.com\" title=\"Trustpilot reviews\">Read All Trustpilot Reviews<\/a><\/p>"
-          }
-        },
-        "166441470639b2ca88-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "166441470639b2ca88-0",
-        "166441470639b2ca88-1",
-        "166441470639b2ca88-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 72
       }
     },
     "e8442a3f-d4dc-4f07-ba86-837b16332689": {
@@ -883,12 +883,12 @@
     "3c36047f-88ad-4488-bd35-720b0c5475e6",
     "1664328183da5cbb42",
     "1664046577e327ab78",
+    "16644147062d8c9810",
     "1664616703a24d7b00",
     "16643859836004dd98",
     "3e8aa883-d657-4705-9744-a0dc19bc5805",
     "multicolumn",
     "2d3744d8-e996-45a8-97b5-bc89789308f6",
-    "16644147062d8c9810",
     "e8442a3f-d4dc-4f07-ba86-837b16332689",
     "4ddf447f-f278-4efd-bc1c-e9485748a58c",
     "166437503538559b7f",
