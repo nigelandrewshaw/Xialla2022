@@ -114,8 +114,8 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 80,
-        "padding_bottom": 40
+        "padding_top": 100,
+        "padding_bottom": 100
       }
     },
     "2bf3d88c-11f2-46b5-88c2-3fbf640152a1": {
@@ -129,24 +129,40 @@
             "force_h1": false
           }
         },
+        "9927aae6-39c2-433b-b39b-858c9bebb9b9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Xialla is an improved ED ring that works by slowing blood outflow (venous leak). Xialla's patented mechanism stops the ring from moving, making it 3x more effective. <\/p>"
+          }
+        },
         "template--15921100783778__2bf3d88c-11f2-46b5-88c2-3fbf640152a1-167448272198b62cb3-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Dr. Faysal Yafi, MD, FRCSC<\/strong><\/p><p>Chief of the Division Men’s Health and Reconstructive Urology, University of California Irvine<\/p>"
+            "text": "<p><strong>Dr. Faysal Yafi, MD, FRCSC<\/strong><\/p>"
+          }
+        },
+        "3cc52eb9-db4d-4ab5-b9f6-b15cdd510e54": {
+          "type": "caption",
+          "settings": {
+            "caption": "Chief of the Division Men’s Health and Reconstructive Urology, University of California Irvine",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
           }
         }
       },
       "block_order": [
         "template--15921100783778__2bf3d88c-11f2-46b5-88c2-3fbf640152a1-167448272198b62cb3-0",
-        "template--15921100783778__2bf3d88c-11f2-46b5-88c2-3fbf640152a1-167448272198b62cb3-1"
+        "9927aae6-39c2-433b-b39b-858c9bebb9b9",
+        "template--15921100783778__2bf3d88c-11f2-46b5-88c2-3fbf640152a1-167448272198b62cb3-1",
+        "3cc52eb9-db4d-4ab5-b9f6-b15cdd510e54"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-2",
         "full_width": true,
-        "padding_top": 64,
-        "padding_bottom": 64
+        "padding_top": 100,
+        "padding_bottom": 100
       }
     },
     "438d2518-5933-4ba4-9e6d-5a577089327a": {
@@ -159,12 +175,79 @@
         "section_visibility": "visible"
       }
     },
+    "166425116431cde5aa": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class='embed-container'>\n  <iframe src='https:\/\/player.vimeo.com\/video\/633942061?autoplay=1&loop=1&background=1' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen><\/iframe>\n<\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "section_visibility": "hide-for-mobile"
+      }
+    },
+    "3c36047f-88ad-4488-bd35-720b0c5475e6": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15921100783778__3c36047f-88ad-4488-bd35-720b0c5475e6-1673636735bc0d137a-0": {
+          "type": "column",
+          "settings": {
+            "custom_image_url": "",
+            "custom_liquid": "3x More Effective",
+            "text": "<p>A ring that moves allows blood to escape. A ring that stays in place traps blood better, creating a stronger and longer lasting erection.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "46fb8c71-a345-4dcc-9613-eff9dc7627a7": {
+          "type": "column",
+          "settings": {
+            "custom_image_url": "",
+            "custom_liquid": "You Don't Need an Erection to Start",
+            "text": "<p>Regular rings need an erection to start, otherwise they move out of place. Xialla stays in place so you can start with or without an erection. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15921100783778__3c36047f-88ad-4488-bd35-720b0c5475e6-1673636735bc0d137a-1": {
+          "type": "column",
+          "settings": {
+            "custom_image_url": "",
+            "custom_liquid": "More Comfortable",
+            "text": "<p>A ring that's not held in place needs to be very tight in order to work. Xialla doesn't need to be as tight, and that makes Xialla more comfortable. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15921100783778__3c36047f-88ad-4488-bd35-720b0c5475e6-1673636735bc0d137a-0",
+        "46fb8c71-a345-4dcc-9613-eff9dc7627a7",
+        "template--15921100783778__3c36047f-88ad-4488-bd35-720b0c5475e6-1673636735bc0d137a-1"
+      ],
+      "settings": {
+        "title": "The Only Effective Treatment For Blood Outflow (Venous Leak)",
+        "title-centered": true,
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
     "1664328183da5cbb42": {
       "type": "custom-image-section",
       "settings": {
         "image": "shopify:\/\/shop_images\/Artboard_1_abdcae11-54c6-4760-8942-ef2dc72deca8.png",
         "image_mobile": "shopify:\/\/shop_images\/Artboard_1_abdcae11-54c6-4760-8942-ef2dc72deca8.png",
-        "padding_top": 52,
+        "padding_top": 100,
         "padding_bottom": 0,
         "fifty_percent_width": true,
         "image_link": "https:\/\/www.trustpilot.com\/review\/xialla.com"
@@ -225,14 +308,47 @@
         "padding_bottom": 0
       }
     },
-    "166425116431cde5aa": {
-      "type": "custom-liquid",
+    "16644147062d8c9810": {
+      "type": "rich-text",
+      "blocks": {
+        "166441470639b2ca88-0": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "",
+            "heading_size": "h1",
+            "force_h1": false
+          }
+        },
+        "166441470639b2ca88-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"https:\/\/www.trustpilot.com\/review\/xialla.com\" title=\"Trustpilot reviews\">Read All Trustpilot Reviews<\/a><\/p>"
+          }
+        },
+        "166441470639b2ca88-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "166441470639b2ca88-0",
+        "166441470639b2ca88-1",
+        "166441470639b2ca88-2"
+      ],
       "settings": {
-        "custom_liquid": "<div class='embed-container'>\n  <iframe src='https:\/\/player.vimeo.com\/video\/633942061?autoplay=1&loop=1&background=1' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen><\/iframe>\n<\/div>",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
-        "padding_top": 100,
-        "padding_bottom": 0,
-        "section_visibility": "hide-for-mobile"
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "1664616703a24d7b00": {
@@ -243,63 +359,6 @@
         "padding_top": 84,
         "padding_bottom": 40,
         "section_visibility": "hide-for-desktop"
-      }
-    },
-    "3c36047f-88ad-4488-bd35-720b0c5475e6": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--15921100783778__3c36047f-88ad-4488-bd35-720b0c5475e6-1673636735bc0d137a-0": {
-          "type": "column",
-          "settings": {
-            "custom_image_url": "",
-            "custom_liquid": "3x More Effective",
-            "text": "<p>A ring that moves allows blood to escape. A ring that stays in place traps blood better, creating a stronger and longer lasting erection.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "46fb8c71-a345-4dcc-9613-eff9dc7627a7": {
-          "type": "column",
-          "settings": {
-            "custom_image_url": "",
-            "custom_liquid": "You Don't Need an Erection to Start",
-            "text": "<p>Regular rings need an erection to start, otherwise they move out of place. Xialla stays in place so you can start with or without an erection. <\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--15921100783778__3c36047f-88ad-4488-bd35-720b0c5475e6-1673636735bc0d137a-1": {
-          "type": "column",
-          "settings": {
-            "custom_image_url": "",
-            "custom_liquid": "More Comfortable",
-            "text": "<p>A ring that's not held in place needs to be very tight in order to work. Xialla doesn't need to be as tight, and that makes Xialla more comfortable. <\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15921100783778__3c36047f-88ad-4488-bd35-720b0c5475e6-1673636735bc0d137a-0",
-        "46fb8c71-a345-4dcc-9613-eff9dc7627a7",
-        "template--15921100783778__3c36047f-88ad-4488-bd35-720b0c5475e6-1673636735bc0d137a-1"
-      ],
-      "settings": {
-        "title": "The Only Effective Treatment For Blood Outflow (Venous Leak)",
-        "title-centered": true,
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 52
       }
     },
     "16643859836004dd98": {
@@ -344,7 +403,7 @@
         "color_scheme": "background-2",
         "mobile_content_alignment": "left",
         "padding_top": 100,
-        "padding_bottom": 80
+        "padding_bottom": 100
       }
     },
     "3e8aa883-d657-4705-9744-a0dc19bc5805": {
@@ -355,23 +414,6 @@
         "padding_top": 0,
         "padding_bottom": 0,
         "section_visibility": "visible"
-      }
-    },
-    "2d3744d8-e996-45a8-97b5-bc89789308f6": {
-      "type": "custom-videos-section",
-      "settings": {
-        "heading": "Xialla Can be Put On Flaccid or Erect",
-        "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/Screen_Shot_2023-04-06_at_5.37.49_PM.png",
-        "video_url": "https:\/\/vimeo.com\/815473717",
-        "description": "How to wear Xialla - Flaccid penis",
-        "full_width": true,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "cover_image_2": "shopify:\/\/shop_images\/Screen_Shot_2023-04-06_at_5.38.59_PM.png",
-        "video_url_2": "https:\/\/vimeo.com\/815475062",
-        "description_2": ""
       }
     },
     "multicolumn": {
@@ -436,54 +478,28 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 100,
-        "padding_bottom": 0
+        "padding_bottom": 100
       }
     },
-    "16644147062d8c9810": {
-      "type": "rich-text",
-      "blocks": {
-        "166441470639b2ca88-0": {
-          "type": "heading",
-          "settings": {
-            "custom_liquid": "",
-            "heading_size": "h1",
-            "force_h1": false
-          }
-        },
-        "166441470639b2ca88-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><a href=\"https:\/\/www.trustpilot.com\/review\/xialla.com\" title=\"Trustpilot reviews\">Read All Trustpilot Reviews<\/a><\/p>"
-          }
-        },
-        "166441470639b2ca88-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "166441470639b2ca88-0",
-        "166441470639b2ca88-1",
-        "166441470639b2ca88-2"
-      ],
+    "2d3744d8-e996-45a8-97b5-bc89789308f6": {
+      "type": "custom-videos-section",
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
+        "heading": "Xialla Can be Put On Flaccid or Erect",
+        "heading_size": "h1",
+        "cover_image": "shopify:\/\/shop_images\/Screen_Shot_2023-04-06_at_5.37.49_PM.png",
+        "video_url": "https:\/\/vimeo.com\/815473717",
+        "description": "How to wear Xialla - Flaccid penis",
         "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 72
+        "color_scheme": "background-1",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "cover_image_2": "shopify:\/\/shop_images\/Screen_Shot_2023-04-06_at_5.38.59_PM.png",
+        "video_url_2": "https:\/\/vimeo.com\/815475062",
+        "description_2": ""
       }
     },
     "e8442a3f-d4dc-4f07-ba86-837b16332689": {
@@ -589,7 +605,21 @@
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 52,
-        "padding_bottom": 36
+        "padding_bottom": 100
+      }
+    },
+    "1664040620aca5f6b8": {
+      "type": "video",
+      "settings": {
+        "heading": "I Encourage You to Try Xialla",
+        "heading_size": "h1",
+        "cover_image": "shopify:\/\/shop_images\/Cover_Image.jpg",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=NmwWVrx7EDE",
+        "description": "Why Xialla",
+        "full_width": false,
+        "color_scheme": "background-2",
+        "padding_top": 100,
+        "padding_bottom": 100
       }
     },
     "166437503538559b7f": {
@@ -602,25 +632,11 @@
         "description": "How to Wear Xialla",
         "full_width": true,
         "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36,
+        "padding_top": 80,
+        "padding_bottom": 100,
         "cover_image_2": "shopify:\/\/shop_images\/Why_Xialla_is_better_a7941b64-2b28-425e-a7c9-8bacab6d2609.jpg",
         "video_url_2": "https:\/\/youtu.be\/SAEKd8LXU5g",
         "description_2": "Why is Xialla Better?"
-      }
-    },
-    "1664040620aca5f6b8": {
-      "type": "video",
-      "settings": {
-        "heading": "I Encourage You to Try Xialla",
-        "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/Cover_Image.jpg",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=NmwWVrx7EDE",
-        "description": "Why Xialla",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "1664048786865ff34e": {
@@ -700,11 +716,11 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 68
+        "padding_top": 80,
+        "padding_bottom": 100
       }
     },
     "1935713a-17ad-4ca6-b987-f0c8533fcf21": {
@@ -748,8 +764,8 @@
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
-        "padding_top": 24,
-        "padding_bottom": 52
+        "padding_top": 84,
+        "padding_bottom": 84
       }
     },
     "a137f6a2-25f7-48ec-8f6a-d8a837a239ce": {
@@ -770,13 +786,13 @@
         "blog": "qa",
         "post_limit": 3,
         "columns_desktop": 3,
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "show_image": true,
         "show_date": true,
         "show_author": false,
         "show_view_all": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 80,
+        "padding_bottom": 100
       }
     },
     "d50c1fdd-3fb3-4146-aa93-e7278fed4f88": {
@@ -792,8 +808,8 @@
         "show_date": true,
         "show_author": false,
         "show_view_all": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 80,
+        "padding_bottom": 100
       }
     },
     "1664051083e6c268e5": {
@@ -849,11 +865,11 @@
         "background_style": "primary",
         "button_label": "Buy",
         "button_link": "shopify:\/\/products\/xialla",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 60
+        "padding_top": 80,
+        "padding_bottom": 100
       }
     }
   },
@@ -863,20 +879,20 @@
     "c34e9865-c5ed-4f7d-b6be-565659fc87be",
     "2bf3d88c-11f2-46b5-88c2-3fbf640152a1",
     "438d2518-5933-4ba4-9e6d-5a577089327a",
+    "166425116431cde5aa",
+    "3c36047f-88ad-4488-bd35-720b0c5475e6",
     "1664328183da5cbb42",
     "1664046577e327ab78",
-    "166425116431cde5aa",
+    "16644147062d8c9810",
     "1664616703a24d7b00",
-    "3c36047f-88ad-4488-bd35-720b0c5475e6",
     "16643859836004dd98",
     "3e8aa883-d657-4705-9744-a0dc19bc5805",
-    "2d3744d8-e996-45a8-97b5-bc89789308f6",
     "multicolumn",
-    "16644147062d8c9810",
+    "2d3744d8-e996-45a8-97b5-bc89789308f6",
     "e8442a3f-d4dc-4f07-ba86-837b16332689",
     "4ddf447f-f278-4efd-bc1c-e9485748a58c",
-    "166437503538559b7f",
     "1664040620aca5f6b8",
+    "166437503538559b7f",
     "1664048786865ff34e",
     "1935713a-17ad-4ca6-b987-f0c8533fcf21",
     "a137f6a2-25f7-48ec-8f6a-d8a837a239ce",
