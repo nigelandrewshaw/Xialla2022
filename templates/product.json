@@ -107,7 +107,7 @@
           "settings": {
             "heading": "Shipping",
             "icon": "truck",
-            "content": "<p><strong>Shipping Costs<\/strong><\/p><p><strong>Free shipping<\/strong>: USA\/Canadian orders of $50 USD or more.<br\/><strong>$10<\/strong>: Orders under $50 USD. <br\/><strong>$40<\/strong>: International orders.<\/p><p><strong>Shipping Times<\/strong><\/p><p><strong>USA and Canada:<\/strong>  5-7 business days. <br\/><strong>Expedited: <\/strong>3-5 business days. <br\/>International: Varies by country.<\/p>",
+            "content": "<p><strong>SHIPPING COSTS<br\/>Free shipping<\/strong>: USA\/Canadian orders of $50 USD or more.<br\/><strong>$10<\/strong>: Orders under $50 USD. <br\/><strong>$40<\/strong>: International orders.<\/p><p><strong>SHIPPING TIMES<br\/>USA and Canada:<\/strong>  5-7 business days. <br\/><strong>Expedited: <\/strong>3-5 business days. <br\/>International: Varies by country.<\/p>",
             "page": ""
           }
         },
