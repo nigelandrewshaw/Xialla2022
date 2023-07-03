@@ -605,7 +605,7 @@
         "button_label": "Buy",
         "button_link": "shopify:\/\/products\/xialla",
         "color_scheme": "background-1",
-        "columns_tablet": "2",
+        "columns_tablet": "1",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 52,
