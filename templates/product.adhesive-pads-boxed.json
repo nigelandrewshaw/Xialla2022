@@ -34,6 +34,13 @@
             "picker_type": "button"
           }
         },
+        "be4c085e-9690-476e-a377-0aef2e1dd9df": {
+          "type": "text",
+          "settings": {
+            "text": "Choose 60 to get free shipping.",
+            "text_style": "body"
+          }
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {
@@ -132,6 +139,7 @@
         "ee8afffc-f49c-40fc-95ae-42083dbe5df9",
         "price",
         "variant_picker",
+        "be4c085e-9690-476e-a377-0aef2e1dd9df",
         "quantity_selector",
         "buy_buttons",
         "description",
