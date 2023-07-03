@@ -112,6 +112,7 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
+        "columns_tablet": "1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 100,
@@ -175,6 +176,16 @@
         "section_visibility": "visible"
       }
     },
+    "1664616703a24d7b00": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class='embed-container'>\n  <iframe src='https:\/\/player.vimeo.com\/video\/633942264?autoplay=1&loop=1&background=1' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen><\/iframe>\n<div>\n<h1><center>The Only ED Ring that Stays in Place<\/center><\/h1>\n<\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "section_visibility": "hide-for-desktop"
+      }
+    },
     "166425116431cde5aa": {
       "type": "custom-liquid",
       "settings": {
@@ -236,6 +247,7 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-2",
+        "columns_tablet": "1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 100,
@@ -349,16 +361,6 @@
         "full_width": true,
         "padding_top": 0,
         "padding_bottom": 0
-      }
-    },
-    "1664616703a24d7b00": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class='embed-container'>\n  <iframe src='https:\/\/player.vimeo.com\/video\/633942264?autoplay=1&loop=1&background=1' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen><\/iframe>\n<div>\n<h1><center>The Only ED Ring that Stays in Place<\/center><\/h1>\n<\/div>",
-        "color_scheme": "background-1",
-        "padding_top": 84,
-        "padding_bottom": 40,
-        "section_visibility": "hide-for-desktop"
       }
     },
     "16643859836004dd98": {
@@ -479,6 +481,7 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-2",
+        "columns_tablet": "1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 100,
@@ -495,8 +498,10 @@
         "description": "How to wear Xialla - Flaccid penis",
         "full_width": true,
         "color_scheme": "background-1",
-        "padding_top": 100,
+        "padding_top": 80,
         "padding_bottom": 100,
+        "mb_padding_top": 80,
+        "mb_padding_bottom": 100,
         "cover_image_2": "shopify:\/\/shop_images\/Screen_Shot_2023-04-06_at_5.38.59_PM.png",
         "video_url_2": "https:\/\/vimeo.com\/815475062",
         "description_2": ""
@@ -602,6 +607,7 @@
         "button_label": "Buy",
         "button_link": "shopify:\/\/products\/xialla",
         "color_scheme": "background-1",
+        "columns_tablet": "2",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 52,
@@ -634,6 +640,8 @@
         "color_scheme": "background-1",
         "padding_top": 80,
         "padding_bottom": 100,
+        "mb_padding_top": 80,
+        "mb_padding_bottom": 100,
         "cover_image_2": "shopify:\/\/shop_images\/Why_Xialla_is_better_a7941b64-2b28-425e-a7c9-8bacab6d2609.jpg",
         "video_url_2": "https:\/\/youtu.be\/SAEKd8LXU5g",
         "description_2": "Why is Xialla Better?"
@@ -717,6 +725,7 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-2",
+        "columns_tablet": "1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 80,
@@ -866,6 +875,7 @@
         "button_label": "Buy",
         "button_link": "shopify:\/\/products\/xialla",
         "color_scheme": "background-2",
+        "columns_tablet": "1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 80,
@@ -879,12 +889,12 @@
     "c34e9865-c5ed-4f7d-b6be-565659fc87be",
     "2bf3d88c-11f2-46b5-88c2-3fbf640152a1",
     "438d2518-5933-4ba4-9e6d-5a577089327a",
+    "1664616703a24d7b00",
     "166425116431cde5aa",
     "3c36047f-88ad-4488-bd35-720b0c5475e6",
     "1664328183da5cbb42",
     "1664046577e327ab78",
     "16644147062d8c9810",
-    "1664616703a24d7b00",
     "16643859836004dd98",
     "3e8aa883-d657-4705-9744-a0dc19bc5805",
     "multicolumn",
