@@ -180,8 +180,8 @@
       "settings": {
         "custom_liquid": "<div class='embed-container'>\n  <iframe src='https:\/\/player.vimeo.com\/video\/633942264?autoplay=1&loop=1&background=1' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen><\/iframe>\n<div>\n<h1><center>The Only ED Ring that Stays in Place<\/center><\/h1>\n<\/div>",
         "color_scheme": "background-1",
-        "padding_top": 84,
-        "padding_bottom": 40,
+        "padding_top": 100,
+        "padding_bottom": 100,
         "section_visibility": "hide-for-desktop"
       }
     },
