@@ -2,10 +2,7 @@
 {{ 'component-deferred-media.css' | asset_url | stylesheet_tag }}
 
 {%- style -%}
-  .section-{{ section.id }}-padding {
-    padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
-    padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
-  }
+  
 
   @media screen and (min-width: 750px) {
     .section-{{ section.id }}-padding {
@@ -63,7 +60,15 @@
     }
   }
 
+  @media screen and (max-width: 749px) {
+    .section-{{ section.id }}-padding {
+      padding-top: {{ section.settings.mb_padding_top }}px;
+      padding-bottom: {{ section.settings.mb_padding_bottom }}px;
+    }
+  }
 
+
+  
   
 {%- endstyle -%}
 
@@ -301,6 +306,7 @@
       "type": "header",
       "content": "t:sections.all.padding.section_padding_heading"
     },
+    
     {
       "type": "range",
       "id": "padding_top",
@@ -322,9 +328,32 @@
       "default": 36
     },
 
-
+    {
+      "type": "header",
+      "content": "For Mobile Only"
+    },
     
-
+    {
+      "type": "range",
+      "id": "mb_padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_top",
+      "default": 36
+    },
+    {
+      "type": "range",
+      "id": "mb_padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_bottom",
+      "default": 36
+    },
+    
     {
       "type": "header",
       "content": "Settings for second video"
