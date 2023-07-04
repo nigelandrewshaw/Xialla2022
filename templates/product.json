@@ -363,7 +363,7 @@
           "settings": {
             "custom_image_url": "",
             "custom_liquid": "Erect penis circumference",
-            "text": "<p>5-6\" | Size Regular<br\/>Under 5\" | Size Slender<br\/>Over 6\" | Size Thicker<br\/><\/p>",
+            "text": "<p>Under 5\" | Size Slender<br\/>5-6\" | Size Regular<br\/>Over 6\" | Size Thicker<br\/><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -373,7 +373,7 @@
           "settings": {
             "custom_image_url": "",
             "custom_liquid": "Flaccid penis circumference",
-            "text": "<p>4-5\" | Size Regular<br\/>Under 4\" | Size Slender<br\/>Over 5\" | Size Thicker<\/p>",
+            "text": "<p>Under 4\" | Size Slender<br\/>4-5\" | Size Regular<br\/>Over 5\" | Size Thicker<\/p>",
             "link_label": "",
             "link": ""
           }
