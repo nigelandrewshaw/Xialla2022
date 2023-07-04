@@ -107,11 +107,7 @@
           "settings": {
             "heading": "Shipping",
             "icon": "truck",
-<<<<<<< HEAD
-            "content": "<p>Shipping to the USA and Canada takes 5-7 business days. Expedited shipping is available to the USA and takes 3-5 business days. Shipping time to other countries varies on a country by country basis. <\/p><p>For orders in the USA and Canada, shipping is free for orders of $50 or more and $10 for orders under $50. (Prices in USD)<\/p><p>For international orders, shipping costs $40 USD.<\/p>",
-=======
             "content": "<p><strong>SHIPPING COSTS<br\/>Free shipping<\/strong>: USA\/Canadian orders of $50 USD or more.<br\/><strong>$10<\/strong>: Orders under $50 USD. <br\/><strong>$40<\/strong>: International orders.<\/p><p><strong>SHIPPING TIMES<br\/>USA and Canada:<\/strong>  5-7 business days. <br\/><strong>Expedited: <\/strong>3-5 business days. <br\/><strong>International:<\/strong> Varies by country.<\/p>",
->>>>>>> 0379b3425f189dcff5ea8eb502620869297e1af0
             "page": ""
           }
         },
@@ -232,7 +228,7 @@
         "template--15921100652706__9faa5139-e198-4c4b-85ca-cd1bd2ba4b8a-1666265433b3bf9e6a-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Xialla consists of the Ring, the Loop, the Band and the Tab lock.  The parts  secure Xialla stays in place during sex. <\/p><p>The result: Xialla is 3x more effective than regular rings at treating venous leak.<\/p>",
+            "text": "<p>Xialla consists of the Ring, the Loop, the Band and the Tab lock.  The parts  ensure Xialla stays in place during sex. <\/p><p>The result: Xialla is 3x more effective than regular rings at treating venous leak.<\/p>",
             "text_style": "body"
           }
         },
