@@ -62,7 +62,7 @@
           "settings": {
             "heading": "Sizing",
             "icon": "ruler",
-            "content": "<p><strong>Erect penis circumference<br\/><\/strong>5-6\" | Size Regular<br\/>Under 5\" | Size Slender<br\/>Over 6\" | Size Thicker<\/p><p><strong>Flaccid penis circumference<br\/><\/strong>4-5\" | Size Regular<br\/>Under 4\" | Size Slender<br\/>Over 5\" | Size Thicker<\/p><p><strong>Not sure? <\/strong>Choose Regular. <br\/>If you need to change size, it's free and hassle free: No need to return the original.<\/p><p><em>For the diameter and circumference of the Xialla ring for each size, <\/em><a href=\"\/blogs\/help\/what-is-the-circumference-and-diameter-of-the-xialla-ring\" title=\"\/blogs\/help\/what-is-the-circumference-and-diameter-of-the-xialla-ring\"><em>click here<\/em><\/a><em> <\/em><\/p>",
+            "content": "<p><strong>Erect penis circumference<br\/><\/strong>Under 5\" | Size Slender<br\/>5-6\" | Size Regular<br\/>Over 6\" | Size Thicker<\/p><p><strong>Flaccid penis circumference<br\/><\/strong>Under 4\" | Size Slender<br\/>4-5\" | Size Regular<br\/>Over 5\" | Size Thicker<\/p><p><strong>Not sure? <\/strong>Choose Regular. <br\/>If you need to change size, it's free and hassle free: No need to return the original.<\/p><p><em>For the diameter and circumference of the Xialla ring for each size, <\/em><a href=\"\/blogs\/help\/what-is-the-circumference-and-diameter-of-the-xialla-ring\" title=\"\/blogs\/help\/what-is-the-circumference-and-diameter-of-the-xialla-ring\"><em>click here<\/em><\/a><em> <\/em><\/p>",
             "page": ""
           }
         },
@@ -107,11 +107,7 @@
           "settings": {
             "heading": "Shipping",
             "icon": "truck",
-<<<<<<< HEAD
-            "content": "<p>Shipping to the USA and Canada takes 5-7 business days. Expedited shipping is available to the USA and takes 3-5 business days. Shipping time to other countries varies on a country by country basis. <\/p><p>For orders in the USA and Canada, shipping is free for orders of $50 or more and $10 for orders under $50. (Prices in USD)<\/p><p>For international orders, shipping costs $40 USD.<\/p>",
-=======
             "content": "<p><strong>SHIPPING COSTS<br\/>Free shipping<\/strong>: USA\/Canadian orders of $50 USD or more.<br\/><strong>$10<\/strong>: Orders under $50 USD. <br\/><strong>$40<\/strong>: International orders.<\/p><p><strong>SHIPPING TIMES<br\/>USA and Canada:<\/strong>  5-7 business days. <br\/><strong>Expedited: <\/strong>3-5 business days. <br\/><strong>International:<\/strong> Varies by country.<\/p>",
->>>>>>> 0379b3425f189dcff5ea8eb502620869297e1af0
             "page": ""
           }
         },
@@ -232,7 +228,7 @@
         "template--15921100652706__9faa5139-e198-4c4b-85ca-cd1bd2ba4b8a-1666265433b3bf9e6a-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Xialla consists of the Ring, the Loop, the Band and the Tab lock.  The parts  secure Xialla stays in place during sex. <\/p><p>The result: Xialla is 3x more effective than regular rings at treating venous leak.<\/p>",
+            "text": "<p>Xialla consists of the Ring, the Loop, the Band and the Tab lock.  The parts  secure the ring so that it doesn't move.<\/p><p>The result: Xialla is 3x more effective than regular rings at treating venous leak.<\/p>",
             "text_style": "body"
           }
         },
@@ -367,7 +363,7 @@
           "settings": {
             "custom_image_url": "",
             "custom_liquid": "Erect penis circumference",
-            "text": "<p>5-6\" | Size Regular<br\/>Under 5\" | Size Slender<br\/>Over 6\" | Size Thicker<br\/><\/p>",
+            "text": "<p>Under 5\" | Size Slender<br\/>5-6\" | Size Regular<br\/>Over 6\" | Size Thicker<br\/><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -377,7 +373,7 @@
           "settings": {
             "custom_image_url": "",
             "custom_liquid": "Flaccid penis circumference",
-            "text": "<p>4-5\" | Size Regular<br\/>Under 4\" | Size Slender<br\/>Over 5\" | Size Thicker<\/p>",
+            "text": "<p>Under 4\" | Size Slender<br\/>4-5\" | Size Regular<br\/>Over 5\" | Size Thicker<\/p>",
             "link_label": "",
             "link": ""
           }
