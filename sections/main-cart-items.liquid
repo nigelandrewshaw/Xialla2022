@@ -38,18 +38,18 @@
   </div>
 
   <div>
-      <p id="shipping-message"><span style='font-weight:400'></span>Free shipping on orders of $40 USD or more.</p>
+      <p id="shipping-message"><span style='font-weight:400'></span>Free shipping on orders of $40 or more.</p>
         
       <script>
         var selectedCountry = Shopify.country;
         
         // Update the message based on the selected country
-        var message = "<span style='font-weight:400'>Free shipping on orders of $40 USD or more.</span>";
+        var message = "<span style='font-weight:400'>Free shipping on orders of $40 or more.</span>";
         
         if (selectedCountry === 'US') {
-          message = "<span style='font-weight:400'>Free shipping on orders of $40 USD or more.</span>";
+          message = "<span style='font-weight:400'>Free shipping on orders of $40 or more.</span>";
         } else if (selectedCountry === 'CA') {
-          message = "<span style='font-weight:400'>Free shipping on orders of $50 CAD or more.</span>";
+          message = "<span style='font-weight:400'>Free shipping on orders of $50 or more.</span>";
         }
         
         // Update the HTML content with the modified message
