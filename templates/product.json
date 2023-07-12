@@ -20,10 +20,17 @@
           "settings": {
           }
         },
+        "a1ba713e-5ab2-48ef-ac2f-0ece16149f23": {
+          "type": "text",
+          "settings": {
+            "text": "FREE SHIPPING",
+            "text_style": "uppercase"
+          }
+        },
         "66068d01-4d98-47a4-842e-8488df3cf9d3": {
           "type": "text",
           "settings": {
-            "text": "Includes 10 adhesive pads (<a href='/products/pads',>Buy pads</a>)",
+            "text": "Includes 10 adhesive pads (Buy pads)",
             "text_style": "body"
           }
         },
@@ -149,6 +156,7 @@
         "vendor",
         "title",
         "price",
+        "a1ba713e-5ab2-48ef-ac2f-0ece16149f23",
         "66068d01-4d98-47a4-842e-8488df3cf9d3",
         "variant_picker",
         "93f2fde6-9ded-4b75-b436-cdbd5075927a",
