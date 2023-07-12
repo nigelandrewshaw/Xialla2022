@@ -41,14 +41,14 @@
       <p id="shipping-message"><span style='font-weight:400'></span>Free shipping on orders of $40 USD or more.</p>
         
       <script>
-        var selectedCountry = Shopify.CountrySelector.currentCountry;
+        var selectedCountry = Shopify.country;
         
         // Update the message based on the selected country
         var message = "<span style='font-weight:400'>Free shipping on orders of $40 USD or more.</span>";
         
-        if (selectedCountry === 'United States') {
+        if (selectedCountry === 'US') {
           message = "<span style='font-weight:400'>Free shipping on orders of $40 USD or more.</span>";
-        } else if (selectedCountry === 'Canada') {
+        } else if (selectedCountry === 'CA') {
           message = "<span style='font-weight:400'>Free shipping on orders of $50 CAD or more.</span>";
         }
         
