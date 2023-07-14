@@ -161,7 +161,7 @@
           "type": "button",
           "settings": {
             "button_label": "About us",
-            "button_link": "\/pages\/about#x-medical",
+            "button_link": "\/pages\/about-us#x-medical",
             "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
