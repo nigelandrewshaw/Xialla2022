@@ -156,6 +156,17 @@
             "text_style": "caption-with-letter-spacing",
             "text_size": "medium"
           }
+        },
+        "a87794db-a00a-4749-8127-bea4fe71702a": {
+          "type": "button",
+          "settings": {
+            "button_label": "About us",
+            "button_link": "",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
@@ -163,7 +174,8 @@
         "9927aae6-39c2-433b-b39b-858c9bebb9b9",
         "ae7ea7ee-d83e-4384-a47e-f682f54dfd98",
         "template--15921100783778__2bf3d88c-11f2-46b5-88c2-3fbf640152a1-167448272198b62cb3-1",
-        "3cc52eb9-db4d-4ab5-b9f6-b15cdd510e54"
+        "3cc52eb9-db4d-4ab5-b9f6-b15cdd510e54",
+        "a87794db-a00a-4749-8127-bea4fe71702a"
       ],
       "settings": {
         "desktop_content_position": "center",
