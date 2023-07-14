@@ -160,7 +160,7 @@
         "a87794db-a00a-4749-8127-bea4fe71702a": {
           "type": "button",
           "settings": {
-            "button_label": "About us",
+            "button_label": "Medical Team",
             "button_link": "\/pages\/about-us#x-medical",
             "button_style_secondary": true,
             "button_label_2": "",
