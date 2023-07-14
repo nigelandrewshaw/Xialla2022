@@ -68,8 +68,8 @@
                       src="{{ block.settings.image | image_url: width: 400 }}"
                       alt="{{ block.settings.image.alt | escape }}"
                       loading="lazy"
-                      width="{{ block.settings.image.width }}"
-                      height="{{ block.settings.image.height }}"
+                      width="{{ block.settings.image.width | divided_by: 2 }}"
+                      height="{{ block.settings.image.height | divided_by: 2 }}"
                       style="max-width: min(100%, {{ block.settings.image_width }}px);"
                     >
                   {%- else -%}
