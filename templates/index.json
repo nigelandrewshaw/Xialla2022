@@ -136,6 +136,13 @@
             "text": "<p>\"Xialla is an improved ED ring that works by slowing blood outflow (venous leak). Xialla's patented mechanism stops the ring from moving, making it 3x more effective.\" <\/p>"
           }
         },
+        "ae7ea7ee-d83e-4384-a47e-f682f54dfd98": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Faysal_Yafi_2x_8fcda17b-2893-46ed-9ac3-edbc234ecc54.png",
+            "image_padding": false
+          }
+        },
         "template--15921100783778__2bf3d88c-11f2-46b5-88c2-3fbf640152a1-167448272198b62cb3-1": {
           "type": "text",
           "settings": {
@@ -154,6 +161,7 @@
       "block_order": [
         "template--15921100783778__2bf3d88c-11f2-46b5-88c2-3fbf640152a1-167448272198b62cb3-0",
         "9927aae6-39c2-433b-b39b-858c9bebb9b9",
+        "ae7ea7ee-d83e-4384-a47e-f682f54dfd98",
         "template--15921100783778__2bf3d88c-11f2-46b5-88c2-3fbf640152a1-167448272198b62cb3-1",
         "3cc52eb9-db4d-4ab5-b9f6-b15cdd510e54"
       ],
