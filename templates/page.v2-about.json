@@ -53,6 +53,16 @@
         "padding_bottom": 36
       }
     },
+    "734732d0-7c4a-4d6f-8bf8-1c764ab6d771": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"x-medical\">",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52,
+        "section_visibility": "visible"
+      }
+    },
     "2d89dc12-9436-4160-aaf6-195144c02379": {
       "type": "multicolumn",
       "blocks": {
@@ -60,6 +70,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Tony_Bella_1.5x.png",
+            "custom_image_url": "",
             "custom_liquid": "Dr. Anthony Bella | MD, FRCSC",
             "text": "<p>Dr. Bella is a urological surgeon, researcher and educator. He is the Greta and John Hansen Chair in Men's Health Research, one of only four globally and the first in Canada, Assistant Professor of Urology and Director of Basic Urologic Research at the University of Ottawa, Canada, and Associate Scientist (Neuroscience) at the Ottawa Hospital Research Institute, University of Ottawa, Canada.<\/p><p>Dr. Bella was accepted to medical school at McMaster University, and after completing his studies trained in General Surgery at McMaster followed by Urological Surgery at University of Western Ontario. <\/p><p>Dr. Bella then completed a combined research and clinical fellowship under Dr. Tom F. Lue at the University of California San Francisco; he was the first American Foundation for Urologic Disease Robert J. Krane Scholar, received a California Urology Foundation Award for stem cell research, and was named the American Urologic Association Foundation Outstanding Graduate Scholar while at UCSF.<\/p>",
             "link_label": "",
@@ -70,6 +81,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Dean_Elterman_1.5x_5218d377-c3eb-4196-a650-50a98ca69f8e.png",
+            "custom_image_url": "",
             "custom_liquid": "Dr. Dean Elterman | MD, MSc, FRCSC",
             "text": "<p>Dr. Elterman completed his medical degree followed by residency in urologic surgery at the University of Toronto. He became a fellow of the Royal College of Physicians and Surgeons of Canada in 2011. Dr. Elterman completed a two-year fellowship in Voiding Dysfunction, Neuro-Urology, Female Urology and Pelvic Reconstruction at Memorial Sloan-Kettering Cancer Center and New York Presbyterian Hospital\/Weill Cornell Medical College in New York City.<\/p><p>Dr. Elterman has worked in the areas of men’s health and survivorship at the Iris Cantor Men’s Health Center at New York Presbyterian Hospital\/Weill Cornell Medical College and at the University of Toronto. He is the Medical Director of the Prostate Cancer Rehabilitation Clinic at Princess Margaret Hospital Cancer Centre.<\/p><p>He completed his Masters degree in Clinical Epidemiology and Health Services Research at Weill Cornell Graduate School of Medical Sciences.<\/p>",
             "link_label": "",
@@ -80,6 +92,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Faysal_Yafi_1.5x.png",
+            "custom_image_url": "",
             "custom_liquid": "Dr. Faysal Yafi | MD, FRCSC",
             "text": "<p>Dr. Yafi is Associate Professor of Urology, Chief of the Division Men’s Health and Reconstructive Urology, Director of Men’s Health and Newport Urology and co-Director of the Eric S. Wisenbaugh GURS Fellowship in Male Reconstructive and Prosthetic Urology at the University of California, Irvine. His practice is specialized in men’s health, erectile dysfunction, hypogonadism, Peyronie’s disease, prosthetic surgery, male voiding dysfunction\/enlarged prostate and male infertility.<\/p><p>Dr. Yafi earned his medical degree from the American University of Beirut. He then served his internship in General Surgery at the Mayo Clinic in Rochester, Minnesota and subsequently completed his residency in Urology at McGill University in Montreal, Quebec. He then completed a two year fellowship in Andrology, Sexual Medicine and Prosthetic Urology at Tulane University. Dr. Yafi is certified by the American Board of Urology and is a fellow of the Royal College of Surgeons of Canada.<\/p><p>Dr. Yafi serves on numerous national and international society committees as both member and chair. <\/p>",
             "link_label": "",
@@ -90,6 +103,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Julia_Shaw_1.5x.png",
+            "custom_image_url": "",
             "custom_liquid": "Julia Shaw | BSc, MSc, PhD Student",
             "text": "<p>Julia has a BSc (Hons) in Kinesiology from McGill University and an MSc in Epidemiology from the University of Ottawa. Julia has over 5 years of experience in clinical research, over 10 years of experience in the health and fitness industry, and a passion for helping others through conducting high quality research.<br\/><br\/>Julia has expertise in knowledge synthesis and population-based research, and has coordinated clinical trials looking at improving outcomes for older adults having surgery. Julia is currently pursuing her PhD in Epidemiology under the supervision of Dr. Monica Taljaard at the University of Ottawa, with a focus on quantitative methods and applied biostatistics in the area of cluster randomized clinical trials.<\/p>",
             "link_label": "",
@@ -115,6 +129,7 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
+        "columns_tablet": "1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -129,6 +144,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Omer_Raheem_1.5x.png",
+            "custom_image_url": "",
             "custom_liquid": "Dr. Omer Raheem | MDMSc, MCh, MRCSI",
             "text": "<p>Dr. Raheem is a board-certified fellowship trained urologist specializing in men’s sexual health and male infertility with experience in erectile dysfunction, penile implants, Peyronie’s disease and complex penile reconstruction.<\/p><p>He completed his residency training in urology at the University of California, San Diego and fellowship training in andrology and men’s sexual health at the University of Washington, Seattle. Prior to his training in the United States, he completed general surgery and urology training at the Royal College of Surgeons in Dublin, Ireland. During my training, Dr. Raheem earned Master in Surgery (MCh) and Master of Science (MSc) from the University of Dublin, Trinity College.<br\/><br\/>Dr. Raheem is currently an Associate Editor of Sexual Medicine and Sexual Medicine Reviews, official journals of the Sexual Medicine Society of North America (SMSNA).<\/p>",
             "link_label": "",
@@ -138,6 +154,7 @@
         "template--15936918487202__4811e90f-4bed-4eff-a39f-736c8c4d1936-16756243168de80318-1": {
           "type": "column",
           "settings": {
+            "custom_image_url": "",
             "custom_liquid": "",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
@@ -147,6 +164,7 @@
         "template--15936918487202__4811e90f-4bed-4eff-a39f-736c8c4d1936-16756243168de80318-2": {
           "type": "column",
           "settings": {
+            "custom_image_url": "",
             "custom_liquid": "",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
@@ -171,6 +189,7 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
+        "columns_tablet": "1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -184,6 +203,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Moe_Abbas_1.png",
+            "custom_image_url": "",
             "custom_liquid": "Moe Abbas<br\/><span style=font-size:16px>Marketing<\/span>",
             "text": "<p>Moe is CEO and Co-Founder of Acadium, one of Ottawa’s fastest growing high tech companies. Moe  won the Immigrant Entrepreneur award from the City of Ottawa and many others.<\/p>",
             "link_label": "",
@@ -194,6 +214,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Dane_Bedward.png",
+            "custom_image_url": "",
             "custom_liquid": "Dane Bedward<br\/><span style=font-size:16px>Medical<\/span>",
             "text": "<p>Dane Bedward is CEO of NBot Inc., a global commercialization advisory group with experience in a number of biopharmaceutical and medical device product categories.<\/p>",
             "link_label": "",
@@ -204,6 +225,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Rob_Eberschlag.png",
+            "custom_image_url": "",
             "custom_liquid": "Rob Eberschlag<br\/><span style=font-size:16px>Legal<\/span>",
             "text": "<p>Rob is a partner at WeirFoulds LLP. WeirFoulds and has 30 years of experience in corporate finance, mergers and acquisitions.<\/p>",
             "link_label": "",
@@ -214,6 +236,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Philippe_Mancini.png",
+            "custom_image_url": "",
             "custom_liquid": "Philippe Mancini<br\/><span style=font-size:16px>Finacial<\/span>",
             "text": "<p>Philippe Mancini, MSc CPA, has 25 years of financial and business management experience. He is currently a senior business consultant at Inno-Centre Montreal. Previously he was a senior manager at both KPMG and E&Y.<\/p>",
             "link_label": "",
@@ -224,6 +247,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Daniel_Nahon.png",
+            "custom_image_url": "",
             "custom_liquid": "Daniel Nanon<br\/><span style=font-size:16px>Medical<\/span>",
             "text": "<p>Daniel is a highly accomplished Medical Device Business Development and Marketing Executive and Engineer with over 27 years of medical experience.<\/p>",
             "link_label": "",
@@ -250,6 +274,7 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
+        "columns_tablet": "1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -308,6 +333,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/heart_41ec18a3-f8bf-4679-9ff0-92ec03715ea3.png",
+            "custom_image_url": "",
             "custom_liquid": "",
             "text": "<p>You are the most important person to us.<\/p>",
             "link_label": "",
@@ -318,6 +344,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/heart-handshake_1.png",
+            "custom_image_url": "",
             "custom_liquid": "",
             "text": "<p>We will always take care of you.<\/p>",
             "link_label": "",
@@ -328,6 +355,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/life-buoy.png",
+            "custom_image_url": "",
             "custom_liquid": "",
             "text": "<p>We will always be there to help you. <\/p>",
             "link_label": "",
@@ -352,6 +380,7 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
+        "columns_tablet": "1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -362,6 +391,7 @@
   "order": [
     "main",
     "16644166066a7a17fc",
+    "734732d0-7c4a-4d6f-8bf8-1c764ab6d771",
     "2d89dc12-9436-4160-aaf6-195144c02379",
     "4811e90f-4bed-4eff-a39f-736c8c4d1936",
     "1664418306a32ea326",
