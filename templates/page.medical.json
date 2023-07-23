@@ -539,12 +539,18 @@
         "template--16093998776482__27d61874-db44-4909-907a-3a9b58587ffb-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": "",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
+          }
+        },
+        "e73eab1e-d554-4dbb-8ea9-d93362fa5ba6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Download our Partnership Information Brochure<\/p>"
           }
         }
       },
@@ -552,7 +558,8 @@
         "e37fccdb-f8e5-4b0d-a52c-9e0934f564f5",
         "template--16093998776482__27d61874-db44-4909-907a-3a9b58587ffb-heading-1",
         "template--16093998776482__27d61874-db44-4909-907a-3a9b58587ffb-text-1",
-        "template--16093998776482__27d61874-db44-4909-907a-3a9b58587ffb-button-1"
+        "template--16093998776482__27d61874-db44-4909-907a-3a9b58587ffb-button-1",
+        "e73eab1e-d554-4dbb-8ea9-d93362fa5ba6"
       ],
       "settings": {
         "desktop_content_position": "center",
