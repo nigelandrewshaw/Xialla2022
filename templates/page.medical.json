@@ -573,13 +573,35 @@
             "label": "Your medical designation",
             "id": "medical-designation",
             "content": "",
-            "required": false
+            "required": true
+          }
+        },
+        "588db1a8-4a06-46b3-81ea-7072ff964ef6": {
+          "type": "contact-field",
+          "settings": {
+            "field-type": "text",
+            "label": "Your email address",
+            "id": "",
+            "content": "",
+            "required": true
+          }
+        },
+        "b4eb9817-196d-4411-9864-e0ea4392980f": {
+          "type": "contact-field",
+          "settings": {
+            "field-type": "textarea",
+            "label": "Your mailing address, so we can send free samples and literature",
+            "id": "address",
+            "content": "",
+            "required": true
           }
         }
       },
       "block_order": [
         "1e17e5ea-b43d-4488-98a3-21dc58716a40",
-        "356555eb-e2be-499d-8541-7a2c5b5db3b3"
+        "356555eb-e2be-499d-8541-7a2c5b5db3b3",
+        "588db1a8-4a06-46b3-81ea-7072ff964ef6",
+        "b4eb9817-196d-4411-9864-e0ea4392980f"
       ],
       "settings": {
         "heading": "Partnership Application Form for Urologists",
