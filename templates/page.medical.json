@@ -152,7 +152,7 @@
           "settings": {
             "button_label": "Medical Team",
             "button_link": "\/pages\/about-us#x-medical",
-            "button_style_secondary": false,
+            "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "\/pages\/about-us#x-medical",
             "button_style_secondary_2": true
