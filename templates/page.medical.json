@@ -506,7 +506,7 @@
     "04c2f305-a1e1-425f-a080-3a58ec56d7e4": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div id=\"x-medical\">",
+        "custom_liquid": "<div id=\"x-partner\">",
         "color_scheme": "background-1",
         "padding_top": 0,
         "padding_bottom": 0,
