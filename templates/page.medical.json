@@ -117,6 +117,97 @@
         "padding_bottom": 100
       }
     },
+
+
+
+    "1664048786865ff34e": {
+      "type": "multicolumn",
+      "blocks": {
+        "16640487868d640e96-0": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "custom_image_url": "",
+            "custom_liquid": "Just Xialla",
+            "text": "<p>Xialla is designed for men of any age or medical profile who experience ED due to venous leak (excess blood outflow).<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "24214662-3e0a-439d-a332-564e2ff4f4b4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Xialla_Alone.png",
+            "custom_image_url": "",
+            "custom_liquid": "Just Xialla",
+            "text": "<p>Xialla is designed for men of any age or medical profile who experience ED due to venous leak (excess blood outflow).<\/p>",
+            "link_label": "Find out more",
+            "link": "shopify:\/\/blogs\/knowledge-center\/how-xialla-corrects-venous-leak"
+          }
+        },
+        "16640487868d640e96-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Xialla_and_Medication_03a05069-a113-4049-80bd-99851502a721.png",
+            "custom_image_url": "",
+            "custom_liquid": "Xialla + Medication",
+            "text": "<p>Your regularly prescribed ED medication increases blood inflow. Xialla helps you prevent venous leak (blood outflow) so that your erection stays stronger for longer.<\/p>",
+            "link_label": "Find out more",
+            "link": "shopify:\/\/blogs\/knowledge-center\/xialla-and-ed-medication"
+          }
+        },
+        "16640487868d640e96-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Xialla_and_Injections.png",
+            "custom_image_url": "",
+            "custom_liquid": "Xialla + Injections",
+            "text": "<p>Xialla has been clinically tested to complement penile injection therapies. While injections primarily target blood inflow, Xialla targets venous leak (blood outflow).<\/p>",
+            "link_label": "Find out more",
+            "link": "shopify:\/\/blogs\/knowledge-center\/xialla-and-ed-medication"
+          }
+        },
+        "febe484e-3404-4087-bbb7-9a236bf71696": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Xialla_and_Pumps.png",
+            "custom_image_url": "",
+            "custom_liquid": "Xialla + Pumps",
+            "text": "<p>Use Xialla in place of the standard constriction rings used with vacuum pumps to prevent loss of the erection due to venous leak (blood outflow).<\/p>",
+            "link_label": "Find out more",
+            "link": "shopify:\/\/blogs\/knowledge-center\/using-xialla-with-ed-pumps"
+          }
+        }
+      },
+      "block_order": [
+        "16640487868d640e96-0",
+        "24214662-3e0a-439d-a332-564e2ff4f4b4",
+        "16640487868d640e96-1",
+        "16640487868d640e96-2",
+        "febe484e-3404-4087-bbb7-9a236bf71696"
+      ],
+      "settings": {
+        "title": "Use Alone or with Other Therapies",
+        "title-centered": false,
+        "heading_size": "h1",
+        "image_width": "custom_image_size_width",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_tablet": "1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 80,
+        "padding_bottom": 100
+      }
+    },
+
+
+
     "318443c4-1312-45de-b061-0582341d85d8": {
       "type": "rich-text",
       "blocks": {
