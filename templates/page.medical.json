@@ -566,16 +566,6 @@
             "required": true
           }
         },
-        "f4121590-6dd0-42b0-be42-4ed9d24e2e12": {
-          "type": "contact-field",
-          "settings": {
-            "field-type": "checkbox",
-            "label": "Are you a urologist?",
-            "id": "urologist",
-            "content": "",
-            "required": true
-          }
-        },
         "356555eb-e2be-499d-8541-7a2c5b5db3b3": {
           "type": "contact-field",
           "settings": {
@@ -589,7 +579,6 @@
       },
       "block_order": [
         "1e17e5ea-b43d-4488-98a3-21dc58716a40",
-        "f4121590-6dd0-42b0-be42-4ed9d24e2e12",
         "356555eb-e2be-499d-8541-7a2c5b5db3b3"
       ],
       "settings": {
