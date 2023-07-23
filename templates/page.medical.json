@@ -44,7 +44,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/FaysalYafi_Presenting_at_EU23_Milan_Italy.jpg",
-        "image_overlay_opacity": 20,
+        "image_overlay_opacity": 50,
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "bottom-center",
@@ -125,6 +125,7 @@
         "template--16093998776482__76ed3d80-4742-49a2-b9f2-814722b600c1-16765080900a832093-0": {
           "type": "column",
           "settings": {
+            "custom_image_url": "",
             "custom_liquid": "3x More Effective",
             "text": "<p>A ring that moves allows blood to escape. A ring that stays in place traps blood better, creating a stronger and longer lasting erection.<\/p>",
             "link_label": "",
@@ -134,6 +135,7 @@
         "template--16093998776482__76ed3d80-4742-49a2-b9f2-814722b600c1-16765080900a832093-1": {
           "type": "column",
           "settings": {
+            "custom_image_url": "",
             "custom_liquid": "Erection Not Needed to Start",
             "text": "<p>Regular rings need an erection to start, otherwise they move out of place. With Xialla the patient can start erect or flaccid. <\/p>",
             "link_label": "",
@@ -143,6 +145,7 @@
         "template--16093998776482__76ed3d80-4742-49a2-b9f2-814722b600c1-16765080900a832093-2": {
           "type": "column",
           "settings": {
+            "custom_image_url": "",
             "custom_liquid": "More Comfortable",
             "text": "<p>A ring that's not held in place needs to be very tight in order to work. Xialla doesn't need to be as tight, and that makes Xialla more comfortable. <\/p>",
             "link_label": "",
@@ -167,6 +170,7 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
+        "columns_tablet": "1",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 16,
@@ -239,6 +243,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Tony_Bella_1.5x.png",
+            "custom_image_url": "",
             "custom_liquid": "Dr. Anthony Bella | MD, FRCSC",
             "text": "<p>Dr. Bella is the Greta and John Hansen Chair in Men's Health Research, one of only four globally.<\/p>",
             "link_label": "",
@@ -249,6 +254,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Dean_Elterman_1.5x_5218d377-c3eb-4196-a650-50a98ca69f8e.png",
+            "custom_image_url": "",
             "custom_liquid": "Dr. Dean Elterman | MD, MSc, FRCSC",
             "text": "<p>Dr. Elterman is Medical Director of the Prostate Cancer Rehabilitation Clinic at Princess Margaret Hospital.<\/p>",
             "link_label": "",
@@ -259,6 +265,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Faysal_Yafi_1.5x.png",
+            "custom_image_url": "",
             "custom_liquid": "Dr. Faysal Yafi | MD, FRCSC",
             "text": "<p>Dr. Yafi is Chief of the Division Men’s Health and Reconstructive Urology, University of California Irvine.<\/p>",
             "link_label": "",
@@ -283,6 +290,7 @@
         "button_label": "About us",
         "button_link": "shopify:\/\/pages\/about-us",
         "color_scheme": "background-1",
+        "columns_tablet": "1",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 80,
