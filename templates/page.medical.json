@@ -502,6 +502,49 @@
         "padding_top": 100,
         "padding_bottom": 100
       }
+    },
+    "27d61874-db44-4909-907a-3a9b58587ffb": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16093998776482__27d61874-db44-4909-907a-3a9b58587ffb-heading-1": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "Partner With Us",
+            "heading_size": "h1",
+            "force_h1": false
+          }
+        },
+        "template--16093998776482__27d61874-db44-4909-907a-3a9b58587ffb-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Since Xialla launched in 2019, we have established ourselves as a trusted brand in the ED patient and medical community. As interest in and demand for Xialla grows, we are partnering with urologists to support them in connecting their patients with a safe, effective, drug-free ED treatment.<\/p><p>Relationships with urologists like you are the foundation of our business. Xialla is developed in partnership with world-leading urologists and continues to be guided by clinical trials and partner feedback. The input and support of the healthcare industry is vital to our continued growth and the impact we can make on people affected by ED.<\/p>"
+          }
+        },
+        "template--16093998776482__27d61874-db44-4909-907a-3a9b58587ffb-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16093998776482__27d61874-db44-4909-907a-3a9b58587ffb-heading-1",
+        "template--16093998776482__27d61874-db44-4909-907a-3a9b58587ffb-text-1",
+        "template--16093998776482__27d61874-db44-4909-907a-3a9b58587ffb-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -516,6 +559,7 @@
     "1664048786865ff34e",
     "56350d18-543a-449a-b40c-0554dfa3e444",
     "933ea82b-4b8e-4bd5-9f49-3c8ebfa8ba34",
-    "d60a5dd9-d164-4e59-8fcf-a3b01d463e98"
+    "d60a5dd9-d164-4e59-8fcf-a3b01d463e98",
+    "27d61874-db44-4909-907a-3a9b58587ffb"
   ]
 }
