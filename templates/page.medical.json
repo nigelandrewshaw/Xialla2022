@@ -503,6 +503,16 @@
         "padding_bottom": 76
       }
     },
+    "04c2f305-a1e1-425f-a080-3a58ec56d7e4": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"x-medical\">",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section_visibility": "visible"
+      }
+    },
     "27d61874-db44-4909-907a-3a9b58587ffb": {
       "type": "rich-text",
       "blocks": {
@@ -631,6 +641,7 @@
     "1664048786865ff34e",
     "56350d18-543a-449a-b40c-0554dfa3e444",
     "933ea82b-4b8e-4bd5-9f49-3c8ebfa8ba34",
+    "04c2f305-a1e1-425f-a080-3a58ec56d7e4",
     "27d61874-db44-4909-907a-3a9b58587ffb",
     "3122908c-43fd-4bd7-bfcb-cf78f812ee52"
   ]
