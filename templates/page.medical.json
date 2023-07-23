@@ -578,7 +578,7 @@
           "settings": {
             "field-type": "text",
             "label": "Your Name",
-            "id": "name",
+            "id": "your-name",
             "content": "",
             "required": true
           }
@@ -588,7 +588,7 @@
           "settings": {
             "field-type": "email",
             "label": "Your email address",
-            "id": "em",
+            "id": "email-address",
             "content": "",
             "required": true
           }
@@ -608,7 +608,7 @@
           "settings": {
             "field-type": "textarea",
             "label": "Your mailing address, so we can send free samples and literature",
-            "id": "address",
+            "id": "mailing-address",
             "content": "",
             "required": true
           }
