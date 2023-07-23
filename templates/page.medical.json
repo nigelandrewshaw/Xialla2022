@@ -150,7 +150,7 @@
         "template--16093998776482__318443c4-1312-45de-b061-0582341d85d8-1676507915bcebc1f3-2": {
           "type": "button",
           "settings": {
-            "button_label": "Medical Team",
+            "button_label": "",
             "button_link": "\/pages\/about-us#x-medical",
             "button_style_secondary": true,
             "button_label_2": "",
@@ -622,8 +622,8 @@
       ],
       "settings": {
         "heading": "Partnership Application Form for Urologists",
-        "form-id": "form-id",
-        "zapier-webhook-url": "https:\/\/hooks.zapier.com\/hooks\/catch\/4718621\/owcjpup\/silent\/",
+        "form-id": "partnership-form",
+        "zapier-webhook-url": "https:\/\/hooks.zapier.com\/hooks\/catch\/4718621\/31y1vld\/silent\/",
         "success-message": "Thank you. We'll be in touch shortly!",
         "error-message": "Error. Please try again later.",
         "submit-button-label": "Submit",
