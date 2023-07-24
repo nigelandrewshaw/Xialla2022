@@ -3,6 +3,12 @@
     "image_banner": {
       "type": "image-banner",
       "blocks": {
+        "e3a3a7c4-e727-499a-adb2-1a09b101fe0f": {
+          "type": "caption",
+          "settings": {
+            "caption": "Urologists"
+          }
+        },
         "heading": {
           "type": "heading",
           "settings": {
@@ -30,6 +36,7 @@
         }
       },
       "block_order": [
+        "e3a3a7c4-e727-499a-adb2-1a09b101fe0f",
         "heading",
         "text",
         "button"
