@@ -50,13 +50,13 @@
         "template--16093998776482__13e409bd-c158-4cd0-bb13-77fbbc2d6233-1676507264f95f840a-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Doctor.jpg",
-        "image_overlay_opacity": 60,
+        "image": "shopify:\/\/shop_images\/Faysal_High_Rez.jpg",
+        "image_overlay_opacity": 30,
         "image_height": "medium",
         "adapt_height_first_image": true,
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "top-left",
         "show_text_box": false,
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "color_scheme": "accent-2",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
@@ -766,115 +766,6 @@
       }
     }
   },
-  "1664328183da5cbb42": {
-    "type": "custom-image-section",
-    "settings": {
-      "image": "shopify:\/\/shop_images\/Artboard_1_abdcae11-54c6-4760-8942-ef2dc72deca8.png",
-      "image_mobile": "shopify:\/\/shop_images\/Artboard_1_abdcae11-54c6-4760-8942-ef2dc72deca8.png",
-      "padding_top": 100,
-      "padding_bottom": 0,
-      "fifty_percent_width": true,
-      "image_link": "https:\/\/www.trustpilot.com\/review\/xialla.com"
-    }
-  },
-  "1664046577e327ab78": {
-    "type": "rich-text",
-    "blocks": {
-      "1664046577ded4120f-0": {
-        "type": "heading",
-        "settings": {
-          "custom_liquid": "Rated 4.5 out of 5",
-          "heading_size": "h0",
-          "force_h1": false
-        }
-      },
-      "1664046577ded4120f-1": {
-        "type": "text",
-        "settings": {
-          "text": "<p>Over 400 verified customer reviews!<\/p>"
-        }
-      },
-      "ff7df603-2098-4a02-ab96-4dbe32df1c77": {
-        "type": "button",
-        "settings": {
-          "button_label": "",
-          "button_link": "https:\/\/ca.trustpilot.com\/review\/xialla.com",
-          "button_style_secondary": true,
-          "button_label_2": "",
-          "button_link_2": "",
-          "button_style_secondary_2": false
-        }
-      },
-      "1664046577ded4120f-2": {
-        "type": "button",
-        "settings": {
-          "button_label": "",
-          "button_link": "",
-          "button_style_secondary": false,
-          "button_label_2": "",
-          "button_link_2": "",
-          "button_style_secondary_2": false
-        }
-      }
-    },
-    "block_order": [
-      "1664046577ded4120f-0",
-      "1664046577ded4120f-1",
-      "ff7df603-2098-4a02-ab96-4dbe32df1c77",
-      "1664046577ded4120f-2"
-    ],
-    "settings": {
-      "desktop_content_position": "center",
-      "content_alignment": "center",
-      "color_scheme": "background-1",
-      "full_width": true,
-      "padding_top": 0,
-      "padding_bottom": 0
-    }
-  },
-  "16644147062d8c9810": {
-    "type": "rich-text",
-    "blocks": {
-      "166441470639b2ca88-0": {
-        "type": "heading",
-        "settings": {
-          "custom_liquid": "",
-          "heading_size": "h1",
-          "force_h1": false
-        }
-      },
-      "166441470639b2ca88-1": {
-        "type": "text",
-        "settings": {
-          "text": "<p><a href=\"https:\/\/www.trustpilot.com\/review\/xialla.com\" title=\"Trustpilot reviews\">Read All Trustpilot Reviews<\/a><\/p>"
-        }
-      },
-      "166441470639b2ca88-2": {
-        "type": "button",
-        "settings": {
-          "button_label": "",
-          "button_link": "",
-          "button_style_secondary": false,
-          "button_label_2": "",
-          "button_link_2": "",
-          "button_style_secondary_2": false
-        }
-      }
-    },
-    "block_order": [
-      "166441470639b2ca88-0",
-      "166441470639b2ca88-1",
-      "166441470639b2ca88-2"
-    ],
-    "settings": {
-      "desktop_content_position": "center",
-      "content_alignment": "center",
-      "color_scheme": "background-1",
-      "full_width": true,
-      "padding_top": 0,
-      "padding_bottom": 32
-    }
-  },
   "order": [
     "main",
     "13e409bd-c158-4cd0-bb13-77fbbc2d6233",
@@ -882,9 +773,6 @@
     "318443c4-1312-45de-b061-0582341d85d8",
     "04a736ea-1ea8-48d7-a1ac-506e9e56abfa",
     "e4cfe205-463a-4d6d-8f86-caf66e3f074e",
-    "1664328183da5cbb42",
-    "1664046577e327ab78",
-    "16644147062d8c9810",
     "d60a5dd9-d164-4e59-8fcf-a3b01d463e98",
     "2d3744d8-e996-45a8-97b5-bc89789308f6",
     "4ddf447f-f278-4efd-bc1c-e9485748a58c",
