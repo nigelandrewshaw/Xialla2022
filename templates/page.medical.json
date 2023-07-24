@@ -638,7 +638,7 @@
       "settings": {
         "heading": "Partnership Application Form for Urologists",
         "form-id": "partnership-form",
-        "zapier-webhook-url": "https:\/\/hooks.zapier.com\/hooks\/catch\/4718621\/31y1vld\/silent\/",
+        "zapier-webhook-url": "https:\/\/hooks.zapier.com\/hooks\/catch\/4718621\/31y1vld\/",
         "success-message": "Thank you. We'll be in touch shortly!",
         "error-message": "Error. Please try again later.",
         "submit-button-label": "Submit",
