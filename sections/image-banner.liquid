@@ -90,6 +90,13 @@
     <div class="banner__box content-container content-container--full-width-mobile color-{{ section.settings.color_scheme }} gradient">
       {%- for block in section.blocks -%}
         {%- case block.type -%}
+
+                     
+        {%- when 'caption' -%}
+          <p class="rich-text__caption {{ block.settings.text_style }} {{ block.settings.text_style }}--{{ block.settings.text_size }}" {{ block.shopify_attributes }}>
+            {{ block.settings.caption | escape }}
+          </p>
+
           {%- when 'heading' -%}
 
             {%- comment -%}
