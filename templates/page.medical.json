@@ -455,7 +455,7 @@
             "image": "shopify:\/\/shop_images\/Xialla_Alone.png",
             "custom_image_url": "",
             "custom_liquid": "Just Xialla",
-            "text": "<p>Xialla is designed for men of any age or medical profile who experience ED due to venous leak (excess blood outflow).<\/p>",
+            "text": "<p>Xialla is designed for men of any age or medical profile who experience ED due to venous leak\/<\/p>",
             "link_label": "Find out more",
             "link": "shopify:\/\/blogs\/knowledge-center\/how-xialla-corrects-venous-leak"
           }
@@ -466,7 +466,7 @@
             "image": "shopify:\/\/shop_images\/Xialla_and_Medication_03a05069-a113-4049-80bd-99851502a721.png",
             "custom_image_url": "",
             "custom_liquid": "Xialla + Medication",
-            "text": "<p>Your regularly prescribed ED medication increases blood inflow. Xialla helps you prevent venous leak (blood outflow) so that your erection stays stronger for longer.<\/p>",
+            "text": "<p>ED medication increases blood inflow. Xialla helps prevent venous leak (blood outflow) so that the erection stays stronger for longer.<\/p>",
             "link_label": "Find out more",
             "link": "shopify:\/\/blogs\/knowledge-center\/xialla-and-ed-medication"
           }
@@ -488,7 +488,7 @@
             "image": "shopify:\/\/shop_images\/Xialla_and_Pumps.png",
             "custom_image_url": "",
             "custom_liquid": "Xialla + Pumps",
-            "text": "<p>Use Xialla in place of the standard constriction rings used with vacuum pumps to prevent loss of the erection due to venous leak (blood outflow).<\/p>",
+            "text": "<p>Use Xialla in place of the standard constriction rings used with vacuum pumps to prevent loss of the erection due to venous leak.<\/p>",
             "link_label": "Find out more",
             "link": "shopify:\/\/blogs\/knowledge-center\/using-xialla-with-ed-pumps"
           }
