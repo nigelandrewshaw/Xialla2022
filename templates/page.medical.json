@@ -51,7 +51,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Doctor.jpg",
-        "image_overlay_opacity": 50,
+        "image_overlay_opacity": 60,
         "image_height": "medium",
         "adapt_height_first_image": true,
         "desktop_content_position": "bottom-center",
