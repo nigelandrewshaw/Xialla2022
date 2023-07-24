@@ -247,6 +247,122 @@
         "padding_bottom": 100
       }
     },
+    "2d3744d8-e996-45a8-97b5-bc89789308f6": {
+      "type": "custom-videos-section",
+      "settings": {
+        "heading": "Xialla Can be Put On Flaccid or Erect",
+        "heading_size": "h1",
+        "cover_image": "shopify:\/\/shop_images\/Screen_Shot_2023-04-06_at_5.37.49_PM.png",
+        "video_url": "https:\/\/vimeo.com\/815473717",
+        "description": "How to wear Xialla - Flaccid penis",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 80,
+        "padding_bottom": 100,
+        "mb_padding_top": 80,
+        "mb_padding_bottom": 100,
+        "cover_image_2": "shopify:\/\/shop_images\/Screen_Shot_2023-04-06_at_5.38.59_PM.png",
+        "video_url_2": "https:\/\/vimeo.com\/815475062",
+        "description_2": ""
+      }
+    },
+    "4ddf447f-f278-4efd-bc1c-e9485748a58c": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15921100783778__4ddf447f-f278-4efd-bc1c-e9485748a58c-16753566988a0d0f6b-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Stick_the_Pad-80_6075e1e5-b285-4c64-b688-03028d7219e9.jpg",
+            "custom_image_url": "",
+            "custom_liquid": "Stick the pad",
+            "text": "<p>Stick an adhesive pad to your lower back just above the buttocks.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15921100783778__4ddf447f-f278-4efd-bc1c-e9485748a58c-16753566988a0d0f6b-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Place_the_Ring_Erect-80_8d862dee-62eb-4e45-a1ad-c3a840fd7600.jpg",
+            "custom_image_url": "",
+            "custom_liquid": "Place the ring",
+            "text": "<p>Place the ring around the base of your penis and let the loop and band hang in front of your scrotum. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15921100783778__4ddf447f-f278-4efd-bc1c-e9485748a58c-16753566988a0d0f6b-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Place_the_Ring_Flaccid_-80_f18b905e-e497-4419-9249-ba37c47e0e11.jpg",
+            "custom_image_url": "",
+            "custom_liquid": "Erect or flaccid",
+            "text": "<p>You don't need an erection to start. The ring can be placed on an erect or a flaccid penis.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "db239680-7c87-4ca0-9daa-888664445a59": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Stretch_the_Loop-80_56359f24-f9cc-45b2-b707-eb2c9af380a9.jpg",
+            "custom_image_url": "",
+            "custom_liquid": "Stretch the loop",
+            "text": "<p>Stretch the loop up and around your scrotum.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "6dfcf703-db4d-4abb-8bb3-a80de8f4ce61": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Attach_the_Band_2-80_61e5cda5-569e-41e4-bc53-2928c49b616d.jpg",
+            "custom_image_url": "",
+            "custom_liquid": "Attach the tab lock",
+            "text": "<p>Attach the tab lock to the adhesive pad to lock Xialla in place. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "9d8017e7-a263-45e2-a4af-b05cb48757e1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Final-80.jpg",
+            "custom_image_url": "",
+            "custom_liquid": "Enjoy",
+            "text": "<p>Once in place, Xialla is nearly unnoticeable... except for its amazing <a href=\"\/blogs\/knowledge-center\/what-makes-xialla-amazing\" title=\"What makes Xialla amazing\">benefits<\/a>.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15921100783778__4ddf447f-f278-4efd-bc1c-e9485748a58c-16753566988a0d0f6b-0",
+        "template--15921100783778__4ddf447f-f278-4efd-bc1c-e9485748a58c-16753566988a0d0f6b-1",
+        "template--15921100783778__4ddf447f-f278-4efd-bc1c-e9485748a58c-16753566988a0d0f6b-2",
+        "db239680-7c87-4ca0-9daa-888664445a59",
+        "6dfcf703-db4d-4abb-8bb3-a80de8f4ce61",
+        "9d8017e7-a263-45e2-a4af-b05cb48757e1"
+      ],
+      "settings": {
+        "title": "How to Wear",
+        "title-centered": false,
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "circle",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Buy",
+        "button_link": "shopify:\/\/products\/xialla",
+        "color_scheme": "background-1",
+        "columns_tablet": "2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 52,
+        "padding_bottom": 100
+      }
+    },
     "76ed3d80-4742-49a2-b9f2-814722b600c1": {
       "type": "multicolumn",
       "blocks": {
@@ -648,122 +764,6 @@
         "padding_top": 100,
         "padding_bottom": 100
       }
-    },
-    "2d3744d8-e996-45a8-97b5-bc89789308f6": {
-      "type": "custom-videos-section",
-      "settings": {
-        "heading": "Xialla Can be Put On Flaccid or Erect",
-        "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/Screen_Shot_2023-04-06_at_5.37.49_PM.png",
-        "video_url": "https:\/\/vimeo.com\/815473717",
-        "description": "How to wear Xialla - Flaccid penis",
-        "full_width": true,
-        "color_scheme": "background-1",
-        "padding_top": 80,
-        "padding_bottom": 100,
-        "mb_padding_top": 80,
-        "mb_padding_bottom": 100,
-        "cover_image_2": "shopify:\/\/shop_images\/Screen_Shot_2023-04-06_at_5.38.59_PM.png",
-        "video_url_2": "https:\/\/vimeo.com\/815475062",
-        "description_2": ""
-      }
-    },
-    "4ddf447f-f278-4efd-bc1c-e9485748a58c": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--15921100783778__4ddf447f-f278-4efd-bc1c-e9485748a58c-16753566988a0d0f6b-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Stick_the_Pad-80_6075e1e5-b285-4c64-b688-03028d7219e9.jpg",
-            "custom_image_url": "",
-            "custom_liquid": "Stick the pad",
-            "text": "<p>Stick an adhesive pad to your lower back just above the buttocks.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--15921100783778__4ddf447f-f278-4efd-bc1c-e9485748a58c-16753566988a0d0f6b-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Place_the_Ring_Erect-80_8d862dee-62eb-4e45-a1ad-c3a840fd7600.jpg",
-            "custom_image_url": "",
-            "custom_liquid": "Place the ring",
-            "text": "<p>Place the ring around the base of your penis and let the loop and band hang in front of your scrotum. <\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--15921100783778__4ddf447f-f278-4efd-bc1c-e9485748a58c-16753566988a0d0f6b-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Place_the_Ring_Flaccid_-80_f18b905e-e497-4419-9249-ba37c47e0e11.jpg",
-            "custom_image_url": "",
-            "custom_liquid": "Erect or flaccid",
-            "text": "<p>You don't need an erection to start. The ring can be placed on an erect or a flaccid penis.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "db239680-7c87-4ca0-9daa-888664445a59": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Stretch_the_Loop-80_56359f24-f9cc-45b2-b707-eb2c9af380a9.jpg",
-            "custom_image_url": "",
-            "custom_liquid": "Stretch the loop",
-            "text": "<p>Stretch the loop up and around your scrotum.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "6dfcf703-db4d-4abb-8bb3-a80de8f4ce61": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Attach_the_Band_2-80_61e5cda5-569e-41e4-bc53-2928c49b616d.jpg",
-            "custom_image_url": "",
-            "custom_liquid": "Attach the tab lock",
-            "text": "<p>Attach the tab lock to the adhesive pad to lock Xialla in place. <\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "9d8017e7-a263-45e2-a4af-b05cb48757e1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Final-80.jpg",
-            "custom_image_url": "",
-            "custom_liquid": "Enjoy",
-            "text": "<p>Once in place, Xialla is nearly unnoticeable... except for its amazing <a href=\"\/blogs\/knowledge-center\/what-makes-xialla-amazing\" title=\"What makes Xialla amazing\">benefits<\/a>.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15921100783778__4ddf447f-f278-4efd-bc1c-e9485748a58c-16753566988a0d0f6b-0",
-        "template--15921100783778__4ddf447f-f278-4efd-bc1c-e9485748a58c-16753566988a0d0f6b-1",
-        "template--15921100783778__4ddf447f-f278-4efd-bc1c-e9485748a58c-16753566988a0d0f6b-2",
-        "db239680-7c87-4ca0-9daa-888664445a59",
-        "6dfcf703-db4d-4abb-8bb3-a80de8f4ce61",
-        "9d8017e7-a263-45e2-a4af-b05cb48757e1"
-      ],
-      "settings": {
-        "title": "How to Wear",
-        "title-centered": false,
-        "heading_size": "h1",
-        "image_width": "half",
-        "image_ratio": "circle",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "Buy",
-        "button_link": "shopify:\/\/products\/xialla",
-        "color_scheme": "background-1",
-        "columns_tablet": "2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 52,
-        "padding_bottom": 100
-      }
     }
   },
   "1664328183da5cbb42": {
@@ -886,11 +886,11 @@
     "1664046577e327ab78",
     "16644147062d8c9810",
     "d60a5dd9-d164-4e59-8fcf-a3b01d463e98",
+    "2d3744d8-e996-45a8-97b5-bc89789308f6",
     "4ddf447f-f278-4efd-bc1c-e9485748a58c",
     "76ed3d80-4742-49a2-b9f2-814722b600c1",
     "34758cf3-58ee-46c6-acf9-7c8cb0ede22d",
     "1664048786865ff34e",
-    "2d3744d8-e996-45a8-97b5-bc89789308f6",
     "56350d18-543a-449a-b40c-0554dfa3e444",
     "933ea82b-4b8e-4bd5-9f49-3c8ebfa8ba34",
     "04c2f305-a1e1-425f-a080-3a58ec56d7e4",
