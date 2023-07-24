@@ -229,27 +229,25 @@
 </script>
 
 <script>
-    $( document ).ready(function() {  
-        $('#{{ section.settings.form-id }}').submit(function(e){
-            e.preventDefault(); 
-            $.ajax({ 
-                url: '{{ section.settings.zapier-webhook-url }}silent',
-                type: 'get',
-                data:$('#{{ section.settings.form-id }}').serialize(),
-                success:function(){
-                  //alert("Success");
-                  // Hide submit button
-                  $('#button-wrapper-{{ section.settings.form-id }}').css('display', 'none');
-                  // Show the success message
-                  $('#success-wrapper-{{ section.settings.form-id }}').css('display', 'block');
-                },
-                error:function(){
-                  // Hide submit button
-                  $('#button-wrapper-{{ section.settings.form-id }}').css('display', 'none');
-                  // Show the error message
-                  $('#error-wrapper-{{ section.settings.form-id }}').css('display', 'block');
-                }
-            });
+    $('#{{ section.settings.form-id }}').submit(function(e){
+        e.preventDefault(); 
+        $.ajax({ 
+            url: '{{ section.settings.zapier-webhook-url }}silent',
+            type: 'get',
+            data:$('#{{ section.settings.form-id }}').serialize(),
+            success:function(){
+              //alert("Success");
+              // Hide submit button
+              $('#button-wrapper-{{ section.settings.form-id }}').css('display', 'none');
+              // Show the success message
+              $('#success-wrapper-{{ section.settings.form-id }}').css('display', 'block');
+            },
+            error:function(){
+              // Hide submit button
+              $('#button-wrapper-{{ section.settings.form-id }}').css('display', 'none');
+              // Show the error message
+              $('#error-wrapper-{{ section.settings.form-id }}').css('display', 'block');
+            }
         });
     });
 </script>
