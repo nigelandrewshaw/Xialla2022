@@ -50,8 +50,8 @@
         "template--16093998776482__13e409bd-c158-4cd0-bb13-77fbbc2d6233-1676507264f95f840a-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Faysal_High_Rez.jpg",
-        "image_overlay_opacity": 30,
+        "image": "shopify:\/\/shop_images\/Artboard_1-100.jpg",
+        "image_overlay_opacity": 20,
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "top-left",
