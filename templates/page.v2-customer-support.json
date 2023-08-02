@@ -353,7 +353,7 @@
         "heading": "How Can we Help?",
         "form-id": "customer-support-form",
         "zapier-webhook-url": "https:\/\/hooks.zapier.com\/hooks\/catch\/4718621\/b43m1pf\/",
-        "success-message": "Thank you. We'll get back to you soon!",
+        "success-message": "Thank you. We've received your request and will get back to you soon.",
         "error-message": "Error. Please try again later.",
         "submit-button-label": "Submit",
         "form-mode": "normal",
