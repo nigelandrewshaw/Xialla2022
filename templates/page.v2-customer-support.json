@@ -160,16 +160,6 @@
         "padding_bottom": 100
       }
     },
-    "3cd0a0ae-7382-4dfe-9038-6a2de31370ae": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div id=\"x-size-change\">",
-        "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "section_visibility": "visible"
-      }
-    },
     "16641944830d0831df": {
       "type": "rich-text",
       "blocks": {
@@ -211,16 +201,6 @@
         "full_width": true,
         "padding_top": 96,
         "padding_bottom": 24
-      }
-    },
-    "a72622f1-778d-4cc6-89f0-568dce8ba157": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div id=\"x-refund\">",
-        "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "section_visibility": "visible"
       }
     },
     "166419458965c84720": {
@@ -269,7 +249,7 @@
     "751d37c7-70d1-4f5e-8986-d2db0b9948e0": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div id=\"x-warranty\">",
+        "custom_liquid": "<div id=\"x-support-form\">",
         "color_scheme": "background-1",
         "padding_top": 0,
         "padding_bottom": 0,
@@ -317,6 +297,16 @@
         "full_width": true,
         "padding_top": 24,
         "padding_bottom": 100
+      }
+    },
+    "a72622f1-778d-4cc6-89f0-568dce8ba157": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"x-refund\">",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section_visibility": "visible"
       }
     },
     "9219c795-c207-4658-8e8a-305957b78d29": {
@@ -477,12 +467,11 @@
     "1664202824be897408",
     "16642031908360cdbc",
     "1664202902b981e9b5",
-    "3cd0a0ae-7382-4dfe-9038-6a2de31370ae",
     "16641944830d0831df",
-    "a72622f1-778d-4cc6-89f0-568dce8ba157",
     "166419458965c84720",
     "751d37c7-70d1-4f5e-8986-d2db0b9948e0",
     "166419464516b7482c",
+    "a72622f1-778d-4cc6-89f0-568dce8ba157",
     "9219c795-c207-4658-8e8a-305957b78d29",
     "1664193341ab068420",
     "166419435633e85953"
