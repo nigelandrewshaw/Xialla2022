@@ -296,7 +296,7 @@
           "type": "heading",
           "settings": {
             "custom_liquid": "Something Else?",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "force_h1": false
           }
         },
