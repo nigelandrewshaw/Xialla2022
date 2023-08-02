@@ -328,7 +328,7 @@
             "field-type": "select",
             "label": "How Can we Help?",
             "id": "select",
-            "content": "Change size to Slender, Change size to Regular, Change size to Thicker, Request a Refund, Request a Warranty Replacement",
+            "content": "Change Size to Slender, Change Size to Regular, Change Size to Thicker, Request a Refund, Request a Warranty Replacement, Something Else...",
             "required": true
           }
         },
