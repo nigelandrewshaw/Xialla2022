@@ -174,7 +174,7 @@
         "166419448343f2c1c3-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We'll gladly exchange your Xialla for a different size at no charge. You don't need to return the original Xialla. <\/p><p>Use the form below to request a replacement.<\/p>"
+            "text": "<p>We'll gladly exchange your Xialla for a different size at no charge. You don't need to return the original Xialla. <\/p><p>Use the <strong>Help Form<\/strong> below to request a replacement.<\/p>"
           }
         },
         "166419448343f2c1c3-2": {
@@ -217,7 +217,7 @@
         "166419458970607b5c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>At Xialla we know that there's no perfect ED treatment. We can honestly say that Xialla works for four out of five men. That's why we also stress that if Xialla doesn't work for you, or for any other reason, we'll happily refund your full purchase price within 60 days. And to save hassle, there's no need to return your Xialla. Simply discard it.<\/p><p>Use the form below to request a refund.<\/p>"
+            "text": "<p>At Xialla we know that there's no perfect ED treatment. We can honestly say that Xialla works for four out of five men. That's why we also stress that if Xialla doesn't work for you, or for any other reason, we'll happily refund your full purchase price within 60 days. And to save hassle, there's no need to return your Xialla. Simply discard it.<\/p><p>Use the <strong>Help Form<\/strong> below to request a refund.<\/p>"
           }
         },
         "166419458970607b5c-2": {
@@ -260,7 +260,7 @@
         "16641946442b84cb88-1": {
           "type": "text",
           "settings": {
-            "text": "<p>If your Xialla breaks or is otherwise defective, contact us for a free replacement within one year of purchase. You don't need to return the defective Xialla.<\/p><p>Use the form below to request a replacement.<\/p>"
+            "text": "<p>If your Xialla breaks or is otherwise defective, contact us for a free replacement within one year of purchase. You don't need to return the defective Xialla.<\/p><p>Use the <strong>Help Form<\/strong> below to request a replacement.<\/p>"
           }
         },
         "16641946442b84cb88-2": {
@@ -303,7 +303,7 @@
         "template--15926248636578__2113669a-899b-4cf2-938d-c208d88aed60-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We're here to help with any questions you have about Xialla, venous leak or related issues.<\/p><p>Use the form below to ask a question and we'll respond promptly.<\/p>"
+            "text": "<p>We're here to help with any questions you have about Xialla, venous leak or related issues.<\/p><p>Use the <strong>Help Form<\/strong> below to ask a question and we'll respond promptly.<\/p>"
           }
         },
         "template--15926248636578__2113669a-899b-4cf2-938d-c208d88aed60-button-1": {
@@ -393,7 +393,7 @@
         "2f7d8bfa-7650-4d74-8471-d68d099be857"
       ],
       "settings": {
-        "heading": "How Can we Help?",
+        "heading": "Help Form: How Can we Help?",
         "form-id": "customer-support-form",
         "zapier-webhook-url": "https:\/\/hooks.zapier.com\/hooks\/catch\/4718621\/b43m1pf\/",
         "success-message": "Thank you. We've received your request and will get back to you soon.",
