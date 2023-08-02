@@ -346,7 +346,7 @@
           "type": "contact-field",
           "settings": {
             "field-type": "select",
-            "label": "Select",
+            "label": "How Can we Help?",
             "id": "select",
             "content": "Change size to Slender, Change size to Regular, Change size to Thicker, Request a Refund, Request a Warranty Replacement",
             "required": true
