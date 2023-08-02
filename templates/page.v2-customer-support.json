@@ -22,7 +22,7 @@
         "f16d012c-c8d8-4c56-9df1-9dacbdfafe1a": {
           "type": "text",
           "settings": {
-            "text": "<p>We're here to help you with size changes, refunds, warranty replacements, or any other concern or question you might have. Just contact us and we'll get right back to you. We can't wait to hear from you!<\/p>"
+            "text": "<p>We're here to help you with size changes, refunds, warranty replacements, or any other concern or question you might have. <\/p>"
           }
         },
         "2728ce90-0d72-40fc-986d-389d11bb1bd0": {
@@ -60,11 +60,11 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 20
+        "padding_bottom": 40
       }
     },
     "16642031908360cdbc": {
@@ -110,10 +110,10 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
+        "content_alignment": "left",
+        "color_scheme": "background-2",
         "full_width": true,
-        "padding_top": 24,
+        "padding_top": 100,
         "padding_bottom": 24
       }
     },
@@ -153,11 +153,11 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
+        "content_alignment": "left",
+        "color_scheme": "background-2",
         "full_width": true,
         "padding_top": 24,
-        "padding_bottom": 24
+        "padding_bottom": 100
       }
     },
     "3cd0a0ae-7382-4dfe-9038-6a2de31370ae": {
@@ -176,7 +176,7 @@
         "166419448343f2c1c3-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "Get a Size Change",
+            "custom_liquid": "Size Change",
             "heading_size": "h2",
             "force_h1": false
           }
@@ -185,17 +185,6 @@
           "type": "text",
           "settings": {
             "text": "<p>We'll gladly exchange your Xialla for a different size at no charge.<\/p>"
-          }
-        },
-        "a7260bf3-49cb-4809-95eb-e9579438950c": {
-          "type": "button",
-          "settings": {
-            "button_label": "Request a Size Change",
-            "button_link": "mailto:help@xialla.com?subject=Size Change&body=I'd like to change my Xialla size. (specify size change here)",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
           }
         },
         "166419448343f2c1c3-2": {
@@ -213,15 +202,14 @@
       "block_order": [
         "166419448343f2c1c3-0",
         "166419448343f2c1c3-1",
-        "a7260bf3-49cb-4809-95eb-e9579438950c",
         "166419448343f2c1c3-2"
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 24,
+        "padding_top": 96,
         "padding_bottom": 24
       }
     },
@@ -241,7 +229,7 @@
         "166419458970607b5c-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "Get a Refund",
+            "custom_liquid": "Refund",
             "heading_size": "h2",
             "force_h1": false
           }
@@ -250,17 +238,6 @@
           "type": "text",
           "settings": {
             "text": "<p>At Xialla we know that there's no perfect ED treatment. We can honestly say that Xialla works for four out of five men. That's why we also stress that if Xialla doesn't work for you, or for any other reason, we'll happily refund your full purchase price within 60 days. And to save hassle, there's no need to return your Xialla. Simply discard it.<\/p>"
-          }
-        },
-        "a46fd5f9-d50a-4581-a3e6-a8088a0d720c": {
-          "type": "button",
-          "settings": {
-            "button_label": "Request a Refund",
-            "button_link": "mailto:help@xialla.com?subject=Refund&body=I'd like a refund. (optional details here)",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
           }
         },
         "166419458970607b5c-2": {
@@ -278,12 +255,11 @@
       "block_order": [
         "166419458970607b5c-0",
         "166419458970607b5c-1",
-        "a46fd5f9-d50a-4581-a3e6-a8088a0d720c",
         "166419458970607b5c-2"
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 24,
@@ -306,7 +282,7 @@
         "16641946442b84cb88-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "Get a Warranty Replacement",
+            "custom_liquid": "Warranty Replacement",
             "heading_size": "h2",
             "force_h1": false
           }
@@ -315,17 +291,6 @@
           "type": "text",
           "settings": {
             "text": "<p>If your Xialla breaks or is otherwise defective, contact us for a free replacement within one year of purchase.<\/p>"
-          }
-        },
-        "5a320a62-939a-496f-a68a-1bb5480f6aee": {
-          "type": "button",
-          "settings": {
-            "button_label": "Request a Replacement",
-            "button_link": "mailto:help@xialla.com?subject=Replacement&body=I'd like a replacement Xialla. (details here)",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
           }
         },
         "16641946442b84cb88-2": {
@@ -343,16 +308,68 @@
       "block_order": [
         "16641946442b84cb88-0",
         "16641946442b84cb88-1",
-        "5a320a62-939a-496f-a68a-1bb5480f6aee",
         "16641946442b84cb88-2"
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 24,
-        "padding_bottom": 24
+        "padding_bottom": 100
+      }
+    },
+    "9219c795-c207-4658-8e8a-305957b78d29": {
+      "type": "custom-contact-form",
+      "blocks": {
+        "ecefe35b-5f1e-43b3-b35a-79c80273125e": {
+          "type": "contact-field",
+          "settings": {
+            "field-type": "email",
+            "label": "Email",
+            "id": "email",
+            "content": "",
+            "required": true
+          }
+        },
+        "2b03a591-f027-46e9-8677-4e21a7391426": {
+          "type": "contact-field",
+          "settings": {
+            "field-type": "select",
+            "label": "Select",
+            "id": "select",
+            "content": "Change size to Slender, Change size to Regular, Change size to Thicker, Request a Refund, Request a Warranty Replacement",
+            "required": true
+          }
+        },
+        "2f7d8bfa-7650-4d74-8471-d68d099be857": {
+          "type": "contact-field",
+          "settings": {
+            "field-type": "textarea",
+            "label": "Details",
+            "id": "details",
+            "content": "",
+            "required": false
+          }
+        }
+      },
+      "block_order": [
+        "ecefe35b-5f1e-43b3-b35a-79c80273125e",
+        "2b03a591-f027-46e9-8677-4e21a7391426",
+        "2f7d8bfa-7650-4d74-8471-d68d099be857"
+      ],
+      "settings": {
+        "heading": "This form is under construction and will be working soon. Please email us at help@xialla.com.",
+        "form-id": "customer-support-form",
+        "zapier-webhook-url": "https:\/\/hooks.zapier.com\/hooks\/catch\/4718621\/owcjpup\/silent\/",
+        "success-message": "Thank you. We'll get back to you soon!",
+        "error-message": "Error. Please try again later.",
+        "submit-button-label": "Submit",
+        "form-mode": "normal",
+        "heading_size": "h1",
+        "color_scheme": "background-2",
+        "padding_top": 100,
+        "padding_bottom": 100
       }
     },
     "1664193341ab068420": {
@@ -361,7 +378,7 @@
         "1664193341a8bbe3cd-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "Something else?",
+            "custom_liquid": "Other ways to get help",
             "heading_size": "h2",
             "force_h1": false
           }
@@ -396,7 +413,7 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 24,
+        "padding_top": 100,
         "padding_bottom": 24
       }
     },
@@ -440,7 +457,7 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 24,
-        "padding_bottom": 60
+        "padding_bottom": 100
       }
     }
   },
@@ -455,6 +472,7 @@
     "166419458965c84720",
     "751d37c7-70d1-4f5e-8986-d2db0b9948e0",
     "166419464516b7482c",
+    "9219c795-c207-4658-8e8a-305957b78d29",
     "1664193341ab068420",
     "166419435633e85953"
   ]
