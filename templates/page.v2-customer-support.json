@@ -322,6 +322,16 @@
     "9219c795-c207-4658-8e8a-305957b78d29": {
       "type": "custom-contact-form",
       "blocks": {
+        "ec1b2bee-ab07-4a0a-8c9f-81e00d177713": {
+          "type": "contact-field",
+          "settings": {
+            "field-type": "text",
+            "label": "Last Name",
+            "id": "last-name",
+            "content": "",
+            "required": true
+          }
+        },
         "ecefe35b-5f1e-43b3-b35a-79c80273125e": {
           "type": "contact-field",
           "settings": {
@@ -351,12 +361,24 @@
             "content": "",
             "required": false
           }
+        },
+        "1da13074-5f4f-4ab8-ae43-b2498b2301e0": {
+          "type": "contact-field",
+          "settings": {
+            "field-type": "text",
+            "label": "First Name",
+            "id": "first-name",
+            "content": "",
+            "required": true
+          }
         }
       },
       "block_order": [
+        "ec1b2bee-ab07-4a0a-8c9f-81e00d177713",
         "ecefe35b-5f1e-43b3-b35a-79c80273125e",
         "2b03a591-f027-46e9-8677-4e21a7391426",
-        "2f7d8bfa-7650-4d74-8471-d68d099be857"
+        "2f7d8bfa-7650-4d74-8471-d68d099be857",
+        "1da13074-5f4f-4ab8-ae43-b2498b2301e0"
       ],
       "settings": {
         "heading": "This form is under construction and will be working soon. Please email us at help@xialla.com.",
