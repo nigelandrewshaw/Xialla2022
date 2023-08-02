@@ -361,7 +361,7 @@
       "settings": {
         "heading": "This form is under construction and will be working soon. Please email us at help@xialla.com.",
         "form-id": "customer-support-form",
-        "zapier-webhook-url": "https:\/\/hooks.zapier.com\/hooks\/catch\/4718621\/owcjpup\/silent\/",
+        "zapier-webhook-url": "https:\/\/hooks.zapier.com\/hooks\/catch\/4718621\/b43m1pf\/",
         "success-message": "Thank you. We'll get back to you soon!",
         "error-message": "Error. Please try again later.",
         "submit-button-label": "Submit",
