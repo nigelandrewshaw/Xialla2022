@@ -36,47 +36,50 @@
   <div class="section-{{ section.id }}-padding">
     <div style="padding-left:20px">
       <h2 class="h1">Xialla tools</h2>
-      <a id="check-email-subscription" href="#" class="button button-primary">
-        Check Email Subscriptions
-      </a>
+      <button id="fetchCustomers">Fetch Customers</button>
+      <div id="customerList"></div>
     </div>
   </div>
 </div>
 
 <script>
-  // Select the button by its ID
-  const button = document.getElementById('check-email-subscription');
-
-  // Add a click event listener to the button
-  button.addEventListener('click', async () => {
-    // Get all customers in the store using the Shopify API
-    const customers = await fetch('/admin/api/2021-09/customers.json')
-      .then(response => response.json())
-      .then(data => data.customers);
-
-  // Loop through each customer and check if they are unsubscribed
-  for (const customer of customers) {
-    if (!customer.accepts_marketing) {
-      alert(customer.id);
-      // If the customer is unsubscribed, set them to subscribed
-
-      /*
-      await fetch(`/admin/api/2021-09/customers/${customer.id}.json`, {
-        method: 'PUT',
-        headers: {
-          'Content-Type': 'application/json'
-        },
-        body: JSON.stringify({
-          customer: {
-            id: customer.id,
-            accepts_marketing: true
+  document.getElementById('fetchCustomers').addEventListener('click', function() {
+    // Define GraphQL query
+    const query = `{
+      customers(first: 10) {
+        edges {
+          node {
+            id
+            firstName
+            lastName
+            email
           }
-        })
+        }
+      }
+    }`;
+  
+    // Fetch data from Shopify
+    fetch('/api/graphql', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/graphql',
+        'X-Shopify-Storefront-Access-Token': 'YOUR_ACCESS_TOKEN'
+      },
+      body: query
+    })
+    .then(response => response.json())
+    .then(data => {
+      const customers = data.data.customers.edges;
+      let html = '<ul>';
+      customers.forEach(customer => {
+        html += `<li>${customer.node.firstName} ${customer.node.lastName} - ${customer.node.email}</li>`;
       });
-      */
-    }
-  }
-});
+      html += '</ul>';
+      document.getElementById('customerList').innerHTML = html;
+    })
+    .catch(error => console.error('An error occurred:', error));
+  });
+  
 
 </script>
 
