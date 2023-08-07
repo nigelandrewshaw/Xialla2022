@@ -303,7 +303,7 @@
         "template--15926248636578__2113669a-899b-4cf2-938d-c208d88aed60-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We're here to help with any questions you have about Xialla, venous leak or related issues.<\/p><p>Use the <strong>Help Form<\/strong> below to ask a question and we'll respond promptly.<\/p>"
+            "text": "<p>We're here to help with any questions you have about Xialla, venous leak or related issues.<\/p><p>Use the <a href=\"#x-support-form\" title=\"#x-support-form\"><strong>Help Form<\/strong><\/a> below to ask a question and we'll respond promptly.<\/p>"
           }
         },
         "template--15926248636578__2113669a-899b-4cf2-938d-c208d88aed60-button-1": {
