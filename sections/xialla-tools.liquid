@@ -46,12 +46,8 @@
   document.getElementById('fetchCustomers').addEventListener('click', function() {
     // Define GraphQL query
     const query = `{
-      customers(first: 10) {
-        edges {
-          node {
-            id
-          }
-        }
+      customers {
+        # CustomerConnection fields
       }
     }
     `;
