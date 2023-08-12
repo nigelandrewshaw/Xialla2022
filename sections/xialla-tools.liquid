@@ -45,7 +45,7 @@
 <script>
   document.getElementById('fetchCustomers').addEventListener('click', function() {
     // Define GraphQL query
-    const query = `query {
+    const query = `{
       customers(first: 10) {
         edges {
           node {
