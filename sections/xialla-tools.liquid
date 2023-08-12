@@ -45,11 +45,16 @@
 <script>
   document.getElementById('fetchCustomers').addEventListener('click', function() {
     // Define GraphQL query
-    const query = `{
-      shop {
-        name
+    const query = `query {
+      customers(first: 10) {
+        edges {
+          node {
+            id
+          }
+        }
       }
-    }`;
+    }
+    `;
   
     // Fetch data from Shopify
     fetch('/api/graphql', {
