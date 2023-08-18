@@ -65,7 +65,7 @@
         "166407061243d3cbb3-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Xialla's effectiveness has been demonstrated in two peer-reviewed clinical trials—one that focused on patients with moderate ED and one that focused on post-radical prostatectomy patients with ED. The trials included patients using Xialla alone and in combination with medication and injection therapy.<\/p><p>Results confirm that Xialla delivers significant improvements in erectile and sexual function for 66% of patients with moderate to severe ED. The results of these trials have been peer reviewed and published in the Journal of Sexual Medicine, the world’s premier, authoritative publication in the field of sexual function and dysfunction.<\/p>",
+            "text": "<p>Xialla's effectiveness has been demonstrated in two peer-reviewed clinical trials—one that focused on patients with moderate ED and one that focused on post-radical prostatectomy patients with ED. The trials included patients using Xialla alone and in combination with medication and injection therapy.<\/p><p>Results confirm that Xialla delivers significant improvements in erectile and sexual function for 66% of patients with moderate to severe ED. The results of these trials have been peer reviewed and published in the Journal of Sexual Medicine, the world’s premier, authoritative publication in the field of sexual function and dysfunction.<\/p><p>Xialla has also been shown to be effective in treating climacturia (involuntary urination during orgasm).<\/p>",
             "text_style": "body"
           }
         },
@@ -147,6 +147,7 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
+        "columns_tablet": "1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
