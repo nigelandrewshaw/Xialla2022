@@ -220,18 +220,18 @@
               "menu": "footer"
             }
           },
-          "731f8259-9d36-4e3e-82f5-fef1d13179a3": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Help",
-              "menu": "help"
-            }
-          },
           "db1a3d56-7752-414d-8f62-e594a122ef21": {
             "type": "link_list",
             "settings": {
               "heading": "Urologists",
               "menu": "urologists"
+            }
+          },
+          "731f8259-9d36-4e3e-82f5-fef1d13179a3": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Help",
+              "menu": "help"
             }
           }
         },
@@ -243,8 +243,8 @@
           "ae73e85d-893a-47db-b9bd-6f3a6d8fe234",
           "0eb54e94-9ff3-4e2f-a644-93b4815d7137",
           "8f42e25f-4b9f-487f-b080-f1fd2176a6b5",
-          "731f8259-9d36-4e3e-82f5-fef1d13179a3",
-          "db1a3d56-7752-414d-8f62-e594a122ef21"
+          "db1a3d56-7752-414d-8f62-e594a122ef21",
+          "731f8259-9d36-4e3e-82f5-fef1d13179a3"
         ],
         "settings": {
           "color_scheme": "accent-2",
