@@ -168,14 +168,6 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "e2490186-aa7f-4df9-9ce6-0ad41a06edb4": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Xialla_Logo_RGB_BeigeWhite.png",
-              "image_width": 130,
-              "alignment": ""
-            }
-          },
           "footer-2": {
             "type": "text",
             "disabled": true,
@@ -233,10 +225,18 @@
               "heading": "Help",
               "menu": "help"
             }
+          },
+          "e2490186-aa7f-4df9-9ce6-0ad41a06edb4": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Xialla_Logo_RGB_BeigeWhite.png",
+              "image_width": 130,
+              "alignment": ""
+            }
           }
         },
         "block_order": [
-          "e2490186-aa7f-4df9-9ce6-0ad41a06edb4",
           "footer-2",
           "62ca2749-54a9-4d07-95c6-dfc11fe673b2",
           "358860d3-a186-4e6a-86a9-76c9caa18721",
@@ -244,7 +244,8 @@
           "0eb54e94-9ff3-4e2f-a644-93b4815d7137",
           "8f42e25f-4b9f-487f-b080-f1fd2176a6b5",
           "db1a3d56-7752-414d-8f62-e594a122ef21",
-          "731f8259-9d36-4e3e-82f5-fef1d13179a3"
+          "731f8259-9d36-4e3e-82f5-fef1d13179a3",
+          "e2490186-aa7f-4df9-9ce6-0ad41a06edb4"
         ],
         "settings": {
           "color_scheme": "accent-2",
