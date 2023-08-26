@@ -71,7 +71,7 @@
         "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/AsSeenInJSM_bf603e08-0c4d-463d-be60-e646c3263952.png",
+            "image": "shopify:\/\/shop_images\/AsSeenInJSM.png",
             "custom_image_url": "shopify:\/\/pages\/clinical-trials",
             "custom_liquid": "",
             "text": "",
@@ -82,12 +82,12 @@
         "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/AsSeenInUCI_99aed7b6-dff9-43f4-86c1-7c819b6e8c97.png",
+            "image": "shopify:\/\/shop_images\/AsSeenInUCI_copy_a78ea9c3-2a24-4969-ace2-7f7d13ce930f.png",
             "custom_image_url": "shopify:\/\/blogs\/news\/xialla-sponsors-uci-urology-mens-health-course",
             "custom_liquid": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/blogs\/news\/dean-elterman-and-faysal-yafi-attend-and-present-at-eua23"
+            "link": "https:\/\/www.nature.com\/articles\/s41443-023-00754-w"
           }
         },
         "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-2": {
