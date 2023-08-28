@@ -230,16 +230,6 @@
         "padding_bottom": 100
       }
     },
-    "1664616703a24d7b00": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class='embed-container'>\n  <iframe src='https:\/\/player.vimeo.com\/video\/633942264?autoplay=1&loop=1&background=1' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen><\/iframe>\n<div>\n<h1><center>The Only ED Ring that Stays in Place<\/center><\/h1>\n<\/div>",
-        "color_scheme": "background-1",
-        "padding_top": 100,
-        "padding_bottom": 100,
-        "section_visibility": "hide-for-desktop"
-      }
-    },
     "f3e6f818-d3ed-4040-8cc1-3cf9e7ba0203": {
       "type": "rich-text",
       "blocks": {
@@ -306,6 +296,16 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "1664616703a24d7b00": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class='embed-container'>\n  <iframe src='https:\/\/player.vimeo.com\/video\/633942264?autoplay=1&loop=1&background=1' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen><\/iframe>\n<div>\n<h1><center>The Only ED Ring that Stays in Place<\/center><\/h1>\n<\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "section_visibility": "hide-for-desktop"
       }
     },
     "166425116431cde5aa": {
@@ -1010,8 +1010,8 @@
     "6006f24a-052c-452a-9a92-ff7fe619365f",
     "c34e9865-c5ed-4f7d-b6be-565659fc87be",
     "2bf3d88c-11f2-46b5-88c2-3fbf640152a1",
-    "1664616703a24d7b00",
     "f3e6f818-d3ed-4040-8cc1-3cf9e7ba0203",
+    "1664616703a24d7b00",
     "166425116431cde5aa",
     "3c36047f-88ad-4488-bd35-720b0c5475e6",
     "1664328183da5cbb42",
