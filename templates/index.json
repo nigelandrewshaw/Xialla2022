@@ -76,7 +76,7 @@
             "custom_liquid": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/pages\/clinical-trials"
+            "link": ""
           }
         },
         "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-1": {
@@ -87,7 +87,7 @@
             "custom_liquid": "",
             "text": "",
             "link_label": "",
-            "link": "https:\/\/www.nature.com\/articles\/s41443-023-00754-w"
+            "link": ""
           }
         },
         "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-2": {
@@ -109,7 +109,7 @@
             "custom_liquid": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "https:\/\/pubmed.ncbi.nlm.nih.gov\/37634032\/"
           }
         },
         "f709b1d5-4e5f-455a-9056-78d63395951a": {
@@ -127,7 +127,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/AsSeenInUCI_68b32ed4-a87e-4e62-ade5-ec46e686842a.png",
-            "custom_image_url": "",
+            "custom_image_url": "shopify:\/\/blogs\/news\/xialla-sponsors-uci-urology-mens-health-course",
             "custom_liquid": "",
             "text": "",
             "link_label": "",
