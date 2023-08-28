@@ -68,22 +68,22 @@
     "c34e9865-c5ed-4f7d-b6be-565659fc87be": {
       "type": "multicolumn",
       "blocks": {
-        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-0": {
+        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/AsSeenInJSM_4b0b5cc8-e7a0-4afb-8cb2-16f666548c8d.png",
-            "custom_image_url": "shopify:\/\/pages\/clinical-trials",
+            "image": "shopify:\/\/shop_images\/AsSeenInUCI_copy_a78ea9c3-2a24-4969-ace2-7f7d13ce930f.png",
+            "custom_image_url": "https:\/\/www.nature.com\/articles\/s41443-023-00754-w",
             "custom_liquid": "",
             "text": "",
             "link_label": "",
             "link": ""
           }
         },
-        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-1": {
+        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/AsSeenInUCI_copy_a78ea9c3-2a24-4969-ace2-7f7d13ce930f.png",
-            "custom_image_url": "https:\/\/www.nature.com\/articles\/s41443-023-00754-w",
+            "image": "shopify:\/\/shop_images\/AsSeenInJSM_4b0b5cc8-e7a0-4afb-8cb2-16f666548c8d.png",
+            "custom_image_url": "shopify:\/\/pages\/clinical-trials",
             "custom_liquid": "",
             "text": "",
             "link_label": "",
@@ -136,8 +136,8 @@
         }
       },
       "block_order": [
-        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-0",
         "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-1",
+        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-0",
         "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-2",
         "d1ec0405-3558-4731-b57f-715842ace2f2",
         "f709b1d5-4e5f-455a-9056-78d63395951a",
