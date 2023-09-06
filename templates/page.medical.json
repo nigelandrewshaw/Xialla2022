@@ -743,13 +743,35 @@
             "content": "",
             "required": true
           }
+        },
+        "8217cf05-f043-4f07-8c62-0807d94339b0": {
+          "type": "contact-field",
+          "settings": {
+            "field-type": "plain-text",
+            "label": "",
+            "id": "",
+            "content": "Your country. The program is currently open to urologists in Canada and the USA.",
+            "required": false
+          }
+        },
+        "73c5c057-4bc4-4a6d-9e5a-a5c4e56baeab": {
+          "type": "contact-field",
+          "settings": {
+            "field-type": "select",
+            "label": "Your country",
+            "id": "",
+            "content": "USA, Canada",
+            "required": false
+          }
         }
       },
       "block_order": [
         "1e17e5ea-b43d-4488-98a3-21dc58716a40",
         "588db1a8-4a06-46b3-81ea-7072ff964ef6",
         "356555eb-e2be-499d-8541-7a2c5b5db3b3",
-        "b4eb9817-196d-4411-9864-e0ea4392980f"
+        "b4eb9817-196d-4411-9864-e0ea4392980f",
+        "8217cf05-f043-4f07-8c62-0807d94339b0",
+        "73c5c057-4bc4-4a6d-9e5a-a5c4e56baeab"
       ],
       "settings": {
         "heading": "Form: Urologist Partner Program",
