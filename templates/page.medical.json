@@ -758,7 +758,7 @@
           "type": "contact-field",
           "settings": {
             "field-type": "textarea",
-            "label": "Your mailing address, so we can send free samples and literature.",
+            "label": "Your USA or Canada mailing address, so we can send free samples and literature.",
             "id": "mailing-address",
             "content": "",
             "required": true
