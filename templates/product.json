@@ -34,6 +34,13 @@
             "text_style": "body"
           }
         },
+        "ceee1d93-dad7-46b8-8e89-2e9b1b5eb566": {
+          "type": "text",
+          "settings": {
+            "text": "Size Slender is backordered. We suggest you try the Regular instead. If you still would like the Slender, let us know and we'll send it at no charge as soon as it's back in stock. Thank you for your patience and understanding.",
+            "text_style": "uppercase"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -87,7 +94,7 @@
           "settings": {
             "heading": "Adhesive Pads",
             "icon": "question_mark",
-            "content": "<p>Xialla comes with 10 single-use adhesive pads. The pads are for securing Xialla in place. You can buy  adhesive pad refills in packs of 30.  <\/p><p>Buy adhesive pads <a href=\"\/products\/pads\" title=\"\/products\/pads\">here<\/a>.<\/p>",
+            "content": "<p>Xialla comes with 10 single-use adhesive pads. The pads are for securing Xialla in place.  <\/p><p>You can buy adhesive pad refills <a href=\"\/products\/pads\" title=\"\/products\/pads\">here<\/a>.<\/p>",
             "page": ""
           }
         },
@@ -158,6 +165,7 @@
         "price",
         "a1ba713e-5ab2-48ef-ac2f-0ece16149f23",
         "66068d01-4d98-47a4-842e-8488df3cf9d3",
+        "ceee1d93-dad7-46b8-8e89-2e9b1b5eb566",
         "variant_picker",
         "93f2fde6-9ded-4b75-b436-cdbd5075927a",
         "quantity_selector",

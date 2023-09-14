@@ -80,8 +80,8 @@
         "template--16093998776482__af250692-7c6d-443c-9006-6305ed20edd7-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/AsSeenInUCI_99aed7b6-dff9-43f4-86c1-7c819b6e8c97.png",
-            "custom_image_url": "shopify:\/\/blogs\/news\/xialla-sponsors-uci-urology-mens-health-course",
+            "image": "shopify:\/\/shop_images\/AsSeenInUCI_copy_a78ea9c3-2a24-4969-ace2-7f7d13ce930f.png",
+            "custom_image_url": "https:\/\/www.nature.com\/articles\/s41443-023-00754-w",
             "custom_liquid": "",
             "text": "",
             "link_label": "",
@@ -704,6 +704,26 @@
     "3122908c-43fd-4bd7-bfcb-cf78f812ee52": {
       "type": "custom-contact-form",
       "blocks": {
+        "6b56447c-1f0a-4573-a2b4-529190e198e1": {
+          "type": "contact-field",
+          "settings": {
+            "field-type": "plain-text",
+            "label": "",
+            "id": "",
+            "content": "The program is currently open to urologists in the USA and Canada.",
+            "required": false
+          }
+        },
+        "cae3a199-edb8-45f0-aa41-30d522d77a2e": {
+          "type": "contact-field",
+          "settings": {
+            "field-type": "plain-text",
+            "label": "",
+            "id": "",
+            "content": "&nbsp;",
+            "required": false
+          }
+        },
         "1e17e5ea-b43d-4488-98a3-21dc58716a40": {
           "type": "contact-field",
           "settings": {
@@ -738,7 +758,7 @@
           "type": "contact-field",
           "settings": {
             "field-type": "textarea",
-            "label": "Your mailing address, so we can send free samples and literature",
+            "label": "Your USA or Canada mailing address, so we can send free samples and literature.",
             "id": "mailing-address",
             "content": "",
             "required": true
@@ -746,6 +766,8 @@
         }
       },
       "block_order": [
+        "6b56447c-1f0a-4573-a2b4-529190e198e1",
+        "cae3a199-edb8-45f0-aa41-30d522d77a2e",
         "1e17e5ea-b43d-4488-98a3-21dc58716a40",
         "588db1a8-4a06-46b3-81ea-7072ff964ef6",
         "356555eb-e2be-499d-8541-7a2c5b5db3b3",

@@ -142,7 +142,7 @@
         "unit_price": "Unit price"
       },
       "share": "Share this product",
-      "sold_out": "Sold out",
+      "sold_out": "Backordered",
       "unavailable": "Unavailable",
       "vendor": "Vendor",
       "video_exit_message": "{{ title }} opens full screen video in same window.",
@@ -460,10 +460,29 @@
         "login_title": "Sign in to view all order details",
         "customer_information_hidden_fields_message": "Sign in to view all customer information",
         "login": "Sign in"
+      },
+      "stock": {
+        "sold_out_label": "Backordered"
+      },
+      "throttle": {
+        "merchandise": {
+          "sold_out": "Backordered"
+        },
+        "inventory": {
+          "partial_inventory_banner": "Part of your cart is backordered and will not be available to purchase at checkout",
+          "sold_out": {
+            "heading": "Your cart is backordered"
+          }
+        }
       }
     },
     "addresses": {
       "province": "State\/Prov"
+    },
+    "notices": {
+      "cart": {
+        "product_sold_out": "The product '{{name}}' is backordered"
+      }
     }
   },
   "customer_accounts": {

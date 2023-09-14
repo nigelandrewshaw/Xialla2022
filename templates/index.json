@@ -43,7 +43,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/stock-photo-man-embracing-going-kiss-sensual.jpg",
-        "image_overlay_opacity": 50,
+        "image_overlay_opacity": 20,
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "bottom-center",
@@ -68,26 +68,26 @@
     "c34e9865-c5ed-4f7d-b6be-565659fc87be": {
       "type": "multicolumn",
       "blocks": {
+        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AsSeenInUCI_copy_a78ea9c3-2a24-4969-ace2-7f7d13ce930f.png",
+            "custom_image_url": "https:\/\/www.nature.com\/articles\/s41443-023-00754-w",
+            "custom_liquid": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/AsSeenInJSM_bf603e08-0c4d-463d-be60-e646c3263952.png",
+            "image": "shopify:\/\/shop_images\/AsSeenInJSM_4b0b5cc8-e7a0-4afb-8cb2-16f666548c8d.png",
             "custom_image_url": "shopify:\/\/pages\/clinical-trials",
             "custom_liquid": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/pages\/clinical-trials"
-          }
-        },
-        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/AsSeenInUCI_99aed7b6-dff9-43f4-86c1-7c819b6e8c97.png",
-            "custom_image_url": "shopify:\/\/blogs\/news\/xialla-sponsors-uci-urology-mens-health-course",
-            "custom_liquid": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/blogs\/news\/dean-elterman-and-faysal-yafi-attend-and-present-at-eua23"
+            "link": ""
           }
         },
         "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-2": {
@@ -100,12 +100,48 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "d1ec0405-3558-4731-b57f-715842ace2f2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AsSeenInPubMed.png",
+            "custom_image_url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/37634032\/",
+            "custom_liquid": "",
+            "text": "",
+            "link_label": "",
+            "link": "https:\/\/pubmed.ncbi.nlm.nih.gov\/37634032\/"
+          }
+        },
+        "f709b1d5-4e5f-455a-9056-78d63395951a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AsSeenInNIH.png",
+            "custom_image_url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/37634032\/",
+            "custom_liquid": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "93b329f8-1d40-43ed-b9d4-badc4b13c735": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AsSeenInUCI_68b32ed4-a87e-4e62-ade5-ec46e686842a.png",
+            "custom_image_url": "shopify:\/\/blogs\/news\/xialla-sponsors-uci-urology-mens-health-course",
+            "custom_liquid": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-0",
         "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-1",
-        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-2"
+        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-0",
+        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-2",
+        "d1ec0405-3558-4731-b57f-715842ace2f2",
+        "f709b1d5-4e5f-455a-9056-78d63395951a",
+        "93b329f8-1d40-43ed-b9d4-badc4b13c735"
       ],
       "settings": {
         "title": "As Seen In...",
@@ -121,7 +157,7 @@
         "color_scheme": "background-1",
         "columns_tablet": "1",
         "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 100,
         "padding_bottom": 100
       }
@@ -166,6 +202,7 @@
         },
         "a87794db-a00a-4749-8127-bea4fe71702a": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Medical Team",
             "button_link": "\/pages\/about-us#x-medical",
@@ -193,14 +230,72 @@
         "padding_bottom": 100
       }
     },
-    "438d2518-5933-4ba4-9e6d-5a577089327a": {
-      "type": "custom-liquid",
+    "f3e6f818-d3ed-4040-8cc1-3cf9e7ba0203": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15921100783778__f3e6f818-d3ed-4040-8cc1-3cf9e7ba0203-heading-1": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "\"Xialla is revolutionizing what we can offer our patients.\"",
+            "heading_size": "h1",
+            "force_h1": false
+          }
+        },
+        "template--15921100783778__f3e6f818-d3ed-4040-8cc1-3cf9e7ba0203-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"Xialla is major step forward in the treatment of erectile dysfunction, including the challenging venous leak. The patient reviews speak for themselves.\"<\/p>"
+          }
+        },
+        "f202d411-eb8a-4136-a556-4a971c542b7f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dean_Elterman_2x_879de1c7-8307-4395-ad80-560341a06370.png",
+            "image_padding": false
+          }
+        },
+        "template--15921100783778__f3e6f818-d3ed-4040-8cc1-3cf9e7ba0203-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "6b51a344-0348-46ea-b9d5-8ca6c6d29aef": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Dr. Dean Elterman, MD, MSc, FRCSC<\/strong><\/p>"
+          }
+        },
+        "a4ae32d9-0c3c-4470-b461-66013cc808db": {
+          "type": "caption",
+          "settings": {
+            "caption": "Medical Director of the Prostate Cancer Rehabilitation Clinic at Princess Margaret Hospital Cancer Centre, Toronto",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "template--15921100783778__f3e6f818-d3ed-4040-8cc1-3cf9e7ba0203-heading-1",
+        "template--15921100783778__f3e6f818-d3ed-4040-8cc1-3cf9e7ba0203-text-1",
+        "f202d411-eb8a-4136-a556-4a971c542b7f",
+        "template--15921100783778__f3e6f818-d3ed-4040-8cc1-3cf9e7ba0203-button-1",
+        "6b51a344-0348-46ea-b9d5-8ca6c6d29aef",
+        "a4ae32d9-0c3c-4470-b461-66013cc808db"
+      ],
       "settings": {
-        "custom_liquid": "<div id=\"x-rated-a-out-of-b\">",
-        "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "section_visibility": "visible"
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 100
       }
     },
     "1664616703a24d7b00": {
@@ -915,7 +1010,7 @@
     "6006f24a-052c-452a-9a92-ff7fe619365f",
     "c34e9865-c5ed-4f7d-b6be-565659fc87be",
     "2bf3d88c-11f2-46b5-88c2-3fbf640152a1",
-    "438d2518-5933-4ba4-9e6d-5a577089327a",
+    "f3e6f818-d3ed-4040-8cc1-3cf9e7ba0203",
     "1664616703a24d7b00",
     "166425116431cde5aa",
     "3c36047f-88ad-4488-bd35-720b0c5475e6",
