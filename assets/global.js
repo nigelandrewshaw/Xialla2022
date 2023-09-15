@@ -895,7 +895,7 @@ class VariantSelects extends HTMLElement {
   updateCustomMessage() {
 
     
-    const customMessageHolder = document.getElementsByClassName("custom-message");
+    const customMessageHolder = document.getElementById("custom-message");
     const optionIndex = this.currentVariant.options[index];
     if( optionIndex == 1){
       customMessageHolder.innerHTML = "Testing";
