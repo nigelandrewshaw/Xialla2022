@@ -37,7 +37,7 @@
         "ceee1d93-dad7-46b8-8e89-2e9b1b5eb566": {
           "type": "text",
           "settings": {
-            "text": "<div id=\"custom-message\" style=\"font-size: 1.4rem; background-color: #eee; padding: 8pt\">\n<b>Size Slender is backordered.<\/b> We suggest you try the Regular instead. If you still would like the Slender, let us know and we'll send it at no charge as soon as it's back in stock. Thank you for your patience and understanding.<\/div>",
+            "text": "<div id=\"custom-message\" style=\"font-size: 1.4rem; display:none; background-color: #eee; padding: 8pt\">\n<b>Size Slender is backordered.<\/b> We suggest you try the Regular instead. If you still would like the Slender, let us know and we'll send it at no charge as soon as it's back in stock. Thank you for your patience and understanding.<\/div>",
             "text_style": "uppercase"
           }
         },

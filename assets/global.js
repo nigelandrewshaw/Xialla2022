@@ -897,10 +897,10 @@ class VariantSelects extends HTMLElement {
    var customMessageHolder = document.getElementById("custom-message");
     if( customMessageHolder != null) {
       if( this.currentVariant.title == "Slender" ) {
-        customMessageHolder.style.display = 'none';
+        customMessageHolder.style.display = 'block';
       }
       else{
-        customMessageHolder.style.display = 'block';
+        customMessageHolder.style.display = 'none';
       }
     }
   }
