@@ -763,7 +763,7 @@ class VariantSelects extends HTMLElement {
     this.removeErrorMessage();
 
     // Nigel: Added this to update message when variant changes
-    this.updateFormLabel()
+    this.updateCustomMessage()
 
     if (!this.currentVariant) {
       this.toggleAddButton(true, '', true);
