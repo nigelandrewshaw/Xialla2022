@@ -898,6 +898,9 @@ class VariantSelects extends HTMLElement {
     if( this.currentVariant.title == "Slender" && customMessageHolder != null) {
       customMessageHolder.innerHTML = "Testing";
     }
+    else{
+      customMessageHolder.innerHTML = "<div id=\"custom-message\" style=\"font-size: 1.4rem; background-color: #eee; padding: 8pt\">\n<b>Size Slender is backordered.<\/b> We suggest you try the Regular instead. If you still would like the Slender, let us know and we'll send it at no charge as soon as it's back in stock. Thank you for your patience and understanding.<\/div>";      
+    }
   }
 
 
