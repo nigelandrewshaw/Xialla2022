@@ -763,7 +763,7 @@ class VariantSelects extends HTMLElement {
     this.removeErrorMessage();
 
     // Nigel: Added this to update message when variant changes
-    this.updateCustomMessage()
+    //this.updateCustomMessage()
 
     if (!this.currentVariant) {
       this.toggleAddButton(true, '', true);
@@ -895,8 +895,11 @@ class VariantSelects extends HTMLElement {
   updateCustomMessage() {
 
     const customMessageHolder = document.getElementById("custom-message");
+    const optionIndex = this.currentVariant.options[index];
+    if (optionIndex == 1 && customMessageHolder != null) {
+      customMessageHolder.innerHTML = "Testing";
+    }
 
-  
   }
 
 
