@@ -894,15 +894,15 @@ class VariantSelects extends HTMLElement {
   /* Added by Nigel Shaw Sep 14, 2023. Use to display custom message when variant selected */
   updateCustomMessage() {
 
-    /*
     customMessageHolder = document.getElementById("custom-message");
-    if( this.currentVariant.title == "Slender" && customMessageHolder != null) {
-      customMessageHolder.style.display = 'none';
+    if( customMessageHolder != null) {
+      if( this.currentVariant.title == "Slender" ) {
+        customMessageHolder.style.display = 'none';
+      }
+      else{
+        customMessageHolder.style.display = 'block';
+      }
     }
-    else{
-      customMessageHolder.style.display = 'block';
-    }
-    */
   }
 
 
