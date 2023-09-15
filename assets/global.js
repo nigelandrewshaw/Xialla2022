@@ -762,6 +762,9 @@ class VariantSelects extends HTMLElement {
     this.updatePickupAvailability();
     this.removeErrorMessage();
 
+    // Nigel: Added this to update message when variant changes
+    this.updateFormLabel()
+
     if (!this.currentVariant) {
       this.toggleAddButton(true, '', true);
       this.setUnavailable();
@@ -887,6 +890,17 @@ class VariantSelects extends HTMLElement {
     this.variantData = this.variantData || JSON.parse(this.querySelector('[type="application/json"]').textContent);
     return this.variantData;
   }
+
+  /* Added by Nigel Shaw Sep 14, 2023. Use to display custom message when variant selected */
+  updateCustomMessage() {
+    const customMessageHolder = document.getElementsByClassName("custom_message");
+    const optionIndex = this.currentVariant.options[index];
+    if( optionIndex == 1){
+      customMessageHolder.innerHTML = "Testing";
+    }
+  }
+
+
 }
 
 customElements.define('variant-selects', VariantSelects);
@@ -958,6 +972,4 @@ if(result && input_val != 0){
   add_new_element.classList.add('newsletter_already_subscribe','newsletter-form__message--success','form__message', 'newsletter-form__message');
 
 }
-
-
 
