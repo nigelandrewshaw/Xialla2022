@@ -894,7 +894,7 @@ class VariantSelects extends HTMLElement {
   /* Added by Nigel Shaw Sep 14, 2023. Use to display custom message when variant selected */
   updateCustomMessage() {
 
-    customMessageHolder = document.getElementById("custom-message");
+   var customMessageHolder = document.getElementById("custom-message");
     if( customMessageHolder != null) {
       if( this.currentVariant.title == "Slender" ) {
         customMessageHolder.style.display = 'none';
