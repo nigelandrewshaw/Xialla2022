@@ -894,12 +894,12 @@ class VariantSelects extends HTMLElement {
   /* Added by Nigel Shaw Sep 14, 2023. Use to display custom message when variant selected */
   updateCustomMessage() {
 
-    const customMessageHolder = document.getElementById("custom-message");
+    customMessageHolder = document.getElementById("custom-message");
     if( this.currentVariant.title == "Slender" && customMessageHolder != null) {
-      customMessageHolder.innerHTML = "Testing";
+      customMessageHolder.style.display = 'none';
     }
     else{
-      customMessageHolder.innerHTML = "<div id=\"custom-message\" style=\"font-size: 1.4rem; background-color: #eee; padding: 8pt\">\n<b>Size Slender is backordered.<\/b> We suggest you try the Regular instead. If you still would like the Slender, let us know and we'll send it at no charge as soon as it's back in stock. Thank you for your patience and understanding.<\/div>";      
+      customMessageHolder.style.display = 'block';
     }
   }
 
