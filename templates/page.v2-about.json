@@ -138,7 +138,6 @@
     },
     "4811e90f-4bed-4eff-a39f-736c8c4d1936": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--15936918487202__4811e90f-4bed-4eff-a39f-736c8c4d1936-16756243168de80318-0": {
           "type": "column",
@@ -177,6 +176,7 @@
         "template--15936918487202__4811e90f-4bed-4eff-a39f-736c8c4d1936-16756243168de80318-1",
         "template--15936918487202__4811e90f-4bed-4eff-a39f-736c8c4d1936-16756243168de80318-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "Medical Partners",
         "title-centered": false,
@@ -201,6 +201,7 @@
       "blocks": {
         "1664418306b35347e3-0": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Moe_Abbas_1.png",
             "custom_image_url": "",
@@ -223,6 +224,7 @@
         },
         "e18acb88-706f-4085-a86e-7f4dd46fa0ce": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Rob_Eberschlag.png",
             "custom_image_url": "",
