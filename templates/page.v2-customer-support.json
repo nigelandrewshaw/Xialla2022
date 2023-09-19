@@ -203,24 +203,24 @@
         "padding_bottom": 24
       }
     },
-    "166419458965c84720": {
+    "23ab20e8-0de2-456a-9886-202df22f51ae": {
       "type": "rich-text",
       "blocks": {
-        "166419458970607b5c-0": {
+        "ef4e777b-4f0f-48c5-bfec-4c225aaf0fa0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "Refund",
+            "custom_liquid": "Address Change",
             "heading_size": "h2",
             "force_h1": false
           }
         },
-        "166419458970607b5c-1": {
+        "a5b9577a-29c0-47cb-8610-cbce7876341b": {
           "type": "text",
           "settings": {
-            "text": "<p>At Xialla we know that there's no perfect ED treatment. We can honestly say that Xialla works for four out of five men. That's why we also stress that if Xialla doesn't work for you, or for any other reason, we'll happily refund your full purchase price within 60 days. You don't need to return the Xialla.<\/p><p>Use the <a href=\"#x-support-form\" title=\"#x-support-form\"><strong>Help Form<\/strong><\/a> below to request a refund.<\/p>"
+            "text": "<p>If you accidentally entered the wrong address, don't worry, mistakes happen. We'll update it for you. Even if your order already shipped, we'll gladly send a replacement to the correct address.<\/p><p>Use the <a href=\"#x-support-form\" title=\"#x-support-form\"><strong>Help Form<\/strong><\/a> below to request an address update.<\/p>"
           }
         },
-        "166419458970607b5c-2": {
+        "f4e51c8c-7183-4950-938e-dbb200a83df1": {
           "type": "button",
           "settings": {
             "button_label": "",
@@ -233,9 +233,52 @@
         }
       },
       "block_order": [
-        "166419458970607b5c-0",
-        "166419458970607b5c-1",
-        "166419458970607b5c-2"
+        "ef4e777b-4f0f-48c5-bfec-4c225aaf0fa0",
+        "a5b9577a-29c0-47cb-8610-cbce7876341b",
+        "f4e51c8c-7183-4950-938e-dbb200a83df1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "06699be0-04d8-4264-87f8-32383362e266": {
+      "type": "rich-text",
+      "blocks": {
+        "01d8b45e-c378-4f75-8e0c-daa056e7a9ce": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "Track my Shipment",
+            "heading_size": "h2",
+            "force_h1": false
+          }
+        },
+        "13bef33d-5b82-4337-b962-dd78d962b875": {
+          "type": "text",
+          "settings": {
+            "text": "<p>You can track your shipment easily. Try one of the following:<\/p><ul><li>Check your email for your shipping confirmation. There's a tracking link in the email. <br\/>OR<\/li><li>Log in by clicking the account icon on the top right of this website. You'll see your order and a link to track it.<\/li><\/ul><p>Still need help? Use the <a href=\"#x-support-form\" title=\"#x-support-form\"><strong>Help Form<\/strong><\/a> below to request us to track your shipment for you.<\/p>"
+          }
+        },
+        "6a37b513-3236-48c4-b91b-dcc3c6a0127e": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "01d8b45e-c378-4f75-8e0c-daa056e7a9ce",
+        "13bef33d-5b82-4337-b962-dd78d962b875",
+        "6a37b513-3236-48c4-b91b-dcc3c6a0127e"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -289,24 +332,24 @@
         "padding_bottom": 24
       }
     },
-    "06699be0-04d8-4264-87f8-32383362e266": {
+    "166419458965c84720": {
       "type": "rich-text",
       "blocks": {
-        "01d8b45e-c378-4f75-8e0c-daa056e7a9ce": {
+        "166419458970607b5c-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "Track my Shipment",
+            "custom_liquid": "Refund",
             "heading_size": "h2",
             "force_h1": false
           }
         },
-        "13bef33d-5b82-4337-b962-dd78d962b875": {
+        "166419458970607b5c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>You can track your shipment easily. Try one of the following:<\/p><ul><li>Check your email for your shipping confirmation. There's a tracking link in the email. <br\/>OR<\/li><li>Log in by clicking the account icon on the top right of this website. You'll see your order and a link to track it.<\/li><\/ul><p>Still need help? Use the <a href=\"#x-support-form\" title=\"#x-support-form\"><strong>Help Form<\/strong><\/a> below to request us to track your shipment for you.<\/p>"
+            "text": "<p>At Xialla we know that there's no perfect ED treatment. We can honestly say that Xialla works for four out of five men. That's why we also stress that if Xialla doesn't work for you, or for any other reason, we'll happily refund your full purchase price within 60 days. You don't need to return the Xialla.<\/p><p>Use the <a href=\"#x-support-form\" title=\"#x-support-form\"><strong>Help Form<\/strong><\/a> below to request a refund.<\/p>"
           }
         },
-        "6a37b513-3236-48c4-b91b-dcc3c6a0127e": {
+        "166419458970607b5c-2": {
           "type": "button",
           "settings": {
             "button_label": "",
@@ -319,9 +362,9 @@
         }
       },
       "block_order": [
-        "01d8b45e-c378-4f75-8e0c-daa056e7a9ce",
-        "13bef33d-5b82-4337-b962-dd78d962b875",
-        "6a37b513-3236-48c4-b91b-dcc3c6a0127e"
+        "166419458970607b5c-0",
+        "166419458970607b5c-1",
+        "166419458970607b5c-2"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -414,7 +457,7 @@
             "field-type": "select",
             "label": "How Can we Help?",
             "id": "select",
-            "content": "Change size to Slender, Change size to Regular, Change size to Thicker, Request a refund, Request a warranty replacement, Track my shipment, Something else...",
+            "content": "Change size to Slender, Change size to Regular, Change size to Thicker, Change my address, Track my shipment, Request a warranty replacement, Request a refund, Something else...",
             "required": true
           }
         },
@@ -544,9 +587,10 @@
     "16642031908360cdbc",
     "1664202902b981e9b5",
     "16641944830d0831df",
-    "166419458965c84720",
-    "166419464516b7482c",
+    "23ab20e8-0de2-456a-9886-202df22f51ae",
     "06699be0-04d8-4264-87f8-32383362e266",
+    "166419464516b7482c",
+    "166419458965c84720",
     "2113669a-899b-4cf2-938d-c208d88aed60",
     "751d37c7-70d1-4f5e-8986-d2db0b9948e0",
     "9219c795-c207-4658-8e8a-305957b78d29",
