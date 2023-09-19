@@ -303,7 +303,7 @@
         "13bef33d-5b82-4337-b962-dd78d962b875": {
           "type": "text",
           "settings": {
-            "text": "<p>You can track your shipment easily. Try one of the following:<\/p><p>1. <strong>Check your email<\/strong> for your shipping confirmation. There's a tracking link in the email. <\/p><p>2. <strong>Log in<\/strong> by clicking the account icon on the top right of this website, or by clicking here: <a href=\"https:\/\/www.xialla.com\/account\" title=\"https:\/\/www.xialla.com\/account\"><strong>www.xialla.com\/account<\/strong><\/a>. You'll see your order and a link to track it.<\/p><p>3. Use the <a href=\"#x-support-form\" title=\"#x-support-form\"><strong>Help Form<\/strong><\/a> below to request us to track your shipment for you.<\/p>"
+            "text": "<p>You can track your shipment easily. Try one of the following:<\/p><ul><li>Check your email for your shipping confirmation. There's a tracking link in the email. <br\/>OR<\/li><li>Log in by clicking the account icon on the top right of this website. You'll see your order and a link to track it.<\/li><\/ul><p>Still need help? Use the <a href=\"#x-support-form\" title=\"#x-support-form\"><strong>Help Form<\/strong><\/a> below to request us to track your shipment for you.<\/p>"
           }
         },
         "6a37b513-3236-48c4-b91b-dcc3c6a0127e": {
