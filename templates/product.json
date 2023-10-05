@@ -682,112 +682,112 @@
         "padding_top": 100,
         "padding_bottom": 100
       }
-    }
-  },
-  "c34e9865-c5ed-4f7d-b6be-565659fc87be": {
-    "type": "multicolumn",
-    "blocks": {
-      "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-1": {
-        "type": "column",
-        "settings": {
-          "image": "shopify:\/\/shop_images\/AsSeenInUCI_copy_a78ea9c3-2a24-4969-ace2-7f7d13ce930f.png",
-          "custom_image_url": "https:\/\/www.nature.com\/articles\/s41443-023-00754-w",
-          "custom_liquid": "",
-          "text": "",
-          "link_label": "",
-          "link": ""
-        }
-      },
-      "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-0": {
-        "type": "column",
-        "settings": {
-          "image": "shopify:\/\/shop_images\/AsSeenInJSM_4b0b5cc8-e7a0-4afb-8cb2-16f666548c8d.png",
-          "custom_image_url": "shopify:\/\/pages\/clinical-trials",
-          "custom_liquid": "",
-          "text": "",
-          "link_label": "",
-          "link": ""
-        }
-      },
-      "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-2": {
-        "type": "column",
-        "settings": {
-          "image": "shopify:\/\/shop_images\/AsSeenInEAU_9ad52dc3-3e42-4445-b64d-2f025c8d4c0e.png",
-          "custom_image_url": "shopify:\/\/blogs\/news\/dean-elterman-and-faysal-yafi-attend-and-present-at-eua23",
-          "custom_liquid": "",
-          "text": "",
-          "link_label": "",
-          "link": ""
-        }
-      },
-      "d1ec0405-3558-4731-b57f-715842ace2f2": {
-        "type": "column",
-        "settings": {
-          "image": "shopify:\/\/shop_images\/AsSeenInPubMed.png",
-          "custom_image_url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/37634032\/",
-          "custom_liquid": "",
-          "text": "",
-          "link_label": "",
-          "link": "https:\/\/pubmed.ncbi.nlm.nih.gov\/37634032\/"
-        }
-      },
-      "f709b1d5-4e5f-455a-9056-78d63395951a": {
-        "type": "column",
-        "settings": {
-          "image": "shopify:\/\/shop_images\/AsSeenInNIH.png",
-          "custom_image_url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/37634032\/",
-          "custom_liquid": "",
-          "text": "",
-          "link_label": "",
-          "link": ""
-        }
-      },
-      "93b329f8-1d40-43ed-b9d4-badc4b13c735": {
-        "type": "column",
-        "settings": {
-          "image": "shopify:\/\/shop_images\/AsSeenInUCI_68b32ed4-a87e-4e62-ade5-ec46e686842a.png",
-          "custom_image_url": "shopify:\/\/blogs\/news\/xialla-sponsors-uci-urology-mens-health-course",
-          "custom_liquid": "",
-          "text": "",
-          "link_label": "",
-          "link": ""
-        }
-      }
     },
-    "block_order": [
-      "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-1",
-      "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-0",
-      "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-2",
-      "d1ec0405-3558-4731-b57f-715842ace2f2",
-      "f709b1d5-4e5f-455a-9056-78d63395951a",
-      "93b329f8-1d40-43ed-b9d4-badc4b13c735"
-    ],
-    "settings": {
-      "title": "Recommended by leading urologists",
-      "title-centered": true,
-      "heading_size": "h1",
-      "image_width": "custom_image_size_scaled",
-      "image_ratio": "adapt",
-      "columns_desktop": 3,
-      "column_alignment": "center",
-      "background_style": "none",
-      "button_label": "",
-      "button_link": "",
-      "color_scheme": "background-1",
-      "columns_tablet": "2",
-      "columns_mobile": "1",
-      "swipe_on_mobile": false,
-      "padding_top": 100,
-      "padding_bottom": 100
+    "c34e9865-c5ed-4f7d-b6be-565659fc87be": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AsSeenInUCI_copy_a78ea9c3-2a24-4969-ace2-7f7d13ce930f.png",
+            "custom_image_url": "https:\/\/www.nature.com\/articles\/s41443-023-00754-w",
+            "custom_liquid": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AsSeenInJSM_4b0b5cc8-e7a0-4afb-8cb2-16f666548c8d.png",
+            "custom_image_url": "shopify:\/\/pages\/clinical-trials",
+            "custom_liquid": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AsSeenInEAU_9ad52dc3-3e42-4445-b64d-2f025c8d4c0e.png",
+            "custom_image_url": "shopify:\/\/blogs\/news\/dean-elterman-and-faysal-yafi-attend-and-present-at-eua23",
+            "custom_liquid": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d1ec0405-3558-4731-b57f-715842ace2f2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AsSeenInPubMed.png",
+            "custom_image_url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/37634032\/",
+            "custom_liquid": "",
+            "text": "",
+            "link_label": "",
+            "link": "https:\/\/pubmed.ncbi.nlm.nih.gov\/37634032\/"
+          }
+        },
+        "f709b1d5-4e5f-455a-9056-78d63395951a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AsSeenInNIH.png",
+            "custom_image_url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/37634032\/",
+            "custom_liquid": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "93b329f8-1d40-43ed-b9d4-badc4b13c735": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AsSeenInUCI_68b32ed4-a87e-4e62-ade5-ec46e686842a.png",
+            "custom_image_url": "shopify:\/\/blogs\/news\/xialla-sponsors-uci-urology-mens-health-course",
+            "custom_liquid": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-1",
+        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-0",
+        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-2",
+        "d1ec0405-3558-4731-b57f-715842ace2f2",
+        "f709b1d5-4e5f-455a-9056-78d63395951a",
+        "93b329f8-1d40-43ed-b9d4-badc4b13c735"
+      ],
+      "settings": {
+        "title": "Recommended by leading urologists",
+        "title-centered": true,
+        "heading_size": "h1",
+        "image_width": "custom_image_size_scaled",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_tablet": "2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
     }
   },
   "order": [
     "main",
     "5785d9c1-3cbf-4156-996f-df1fd7538dd3",
-    "c34e9865-c5ed-4f7d-b6be-565659fc87be",
     "0a027983-7e31-47a1-8863-e22bcb16fd71",
     "9faa5139-e198-4c4b-85ca-cd1bd2ba4b8a",
     "4eb37bfb-e60f-44fe-b0f9-9e877627c9ea",
+    "c34e9865-c5ed-4f7d-b6be-565659fc87be",
     "fb02fb41-3064-4581-834c-7c29ded82fc1",
     "16a64dbe-3e7d-49b7-b16f-5502dfed06e1",
     "5eb77dca-27bb-40ab-99ec-47eafe994e52",
