@@ -232,6 +232,7 @@
         "template--15921100652706__0a027983-7e31-47a1-8863-e22bcb16fd71-1666265433de2911ce-0",
         "template--15921100652706__0a027983-7e31-47a1-8863-e22bcb16fd71-1666265433de2911ce-2"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "left",
