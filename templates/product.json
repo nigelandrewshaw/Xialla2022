@@ -44,7 +44,7 @@
           "type": "text",
           "settings": {
             "text": "<div id=\"custom-message\" style=\"font-size: 1.4rem; display:none; background-color: #eee; padding: 8pt\">\n<b>Size Slender is backordered.<\/b> We suggest you try the Regular instead. If you still would like the Slender, let us know and we'll send it at no charge as soon as it's back in stock. Thank you for your patience and understanding.<\/div>",
-            "text_style": "uppercase" 
+            "text_style": "uppercase"
           }
         },
         "quantity_selector": {
@@ -227,6 +227,103 @@
         "content_alignment": "left",
         "color_scheme": "background-2",
         "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "c34e9865-c5ed-4f7d-b6be-565659fc87be": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AsSeenInUCI_copy_a78ea9c3-2a24-4969-ace2-7f7d13ce930f.png",
+            "custom_image_url": "https:\/\/www.nature.com\/articles\/s41443-023-00754-w",
+            "custom_liquid": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AsSeenInJSM_4b0b5cc8-e7a0-4afb-8cb2-16f666548c8d.png",
+            "custom_image_url": "shopify:\/\/pages\/clinical-trials",
+            "custom_liquid": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AsSeenInEAU_9ad52dc3-3e42-4445-b64d-2f025c8d4c0e.png",
+            "custom_image_url": "shopify:\/\/blogs\/news\/dean-elterman-and-faysal-yafi-attend-and-present-at-eua23",
+            "custom_liquid": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d1ec0405-3558-4731-b57f-715842ace2f2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AsSeenInPubMed.png",
+            "custom_image_url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/37634032\/",
+            "custom_liquid": "",
+            "text": "",
+            "link_label": "",
+            "link": "https:\/\/pubmed.ncbi.nlm.nih.gov\/37634032\/"
+          }
+        },
+        "f709b1d5-4e5f-455a-9056-78d63395951a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AsSeenInNIH.png",
+            "custom_image_url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/37634032\/",
+            "custom_liquid": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "93b329f8-1d40-43ed-b9d4-badc4b13c735": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AsSeenInUCI_68b32ed4-a87e-4e62-ade5-ec46e686842a.png",
+            "custom_image_url": "shopify:\/\/blogs\/news\/xialla-sponsors-uci-urology-mens-health-course",
+            "custom_liquid": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-1",
+        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-0",
+        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-2",
+        "d1ec0405-3558-4731-b57f-715842ace2f2",
+        "f709b1d5-4e5f-455a-9056-78d63395951a",
+        "93b329f8-1d40-43ed-b9d4-badc4b13c735"
+      ],
+      "settings": {
+        "title": "Recommended by leading urologists",
+        "title-centered": true,
+        "heading_size": "h1",
+        "image_width": "custom_image_size_scaled",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_tablet": "2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 100,
         "padding_bottom": 100
       }
@@ -532,6 +629,174 @@
         "padding_bottom": 100
       }
     },
+    "customer-testimonials": {
+      "type": "multicolumn",
+      "blocks": {
+        "column1": {
+          "type": "column",
+          "settings": {
+            "custom_image_url": "",
+            "custom_liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0248\/5918\/1149\/files\/TrustpilotStars200.png?v=1665408732\" width=90 height=18><br\/>\"Climaxes have been mind blowing\"",
+            "text": "<p>Our lovemaking has gone from one time a month to several times a week.<\/p><p><strong>TE United States<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "custom_image_url": "",
+            "custom_liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0248\/5918\/1149\/files\/TrustpilotStars200.png?v=1665408732\" width=90 height=18><br\/>\"It has brought me and my wife immense pleasure and happiness\"",
+            "text": "<p>And the customer service left me extremely impressed.<\/p><p><strong>Charlie Flores<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "custom_image_url": "",
+            "custom_liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0248\/5918\/1149\/files\/TrustpilotStars200.png?v=1665408732\" width=90 height=18><br\/>\"Xialla is an amazing product\"",
+            "text": "<p>Xialla is a Godsend. I truly thank Nigel for inventing this amazing product. <\/p><p><strong>Kenneth Akers<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d78a4bf9-f0b2-4f02-bb3a-a67401c5835b": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "custom_image_url": "",
+            "custom_liquid": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column1",
+        "column2",
+        "column3",
+        "d78a4bf9-f0b2-4f02-bb3a-a67401c5835b"
+      ],
+      "settings": {
+        "title": "",
+        "title-centered": false,
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_tablet": "1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "1664046577e327ab78": {
+      "type": "rich-text",
+      "blocks": {
+        "1664046577ded4120f-0": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "Rated \"Excellent\" on Trustpilot",
+            "heading_size": "h0",
+            "force_h1": false
+          }
+        },
+        "1664046577ded4120f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Over 400 verified customer reviews!<\/p>"
+          }
+        },
+        "ff7df603-2098-4a02-ab96-4dbe32df1c77": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "https:\/\/ca.trustpilot.com\/review\/xialla.com",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "1664046577ded4120f-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1664046577ded4120f-0",
+        "1664046577ded4120f-1",
+        "ff7df603-2098-4a02-ab96-4dbe32df1c77",
+        "1664046577ded4120f-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "16644147062d8c9810": {
+      "type": "rich-text",
+      "blocks": {
+        "166441470639b2ca88-0": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "",
+            "heading_size": "h1",
+            "force_h1": false
+          }
+        },
+        "166441470639b2ca88-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"https:\/\/www.trustpilot.com\/review\/xialla.com\" title=\"Trustpilot reviews\">Read All Trustpilot Reviews<\/a><\/p>"
+          }
+        },
+        "166441470639b2ca88-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "166441470639b2ca88-0",
+        "166441470639b2ca88-1",
+        "166441470639b2ca88-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 32
+      }
+    },
     "image-with-text": {
       "type": "image-with-text",
       "blocks": {
@@ -679,271 +944,6 @@
         "show_vendor": false,
         "show_rating": false,
         "columns_mobile": "1",
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
-    },
-    "c34e9865-c5ed-4f7d-b6be-565659fc87be": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/AsSeenInUCI_copy_a78ea9c3-2a24-4969-ace2-7f7d13ce930f.png",
-            "custom_image_url": "https:\/\/www.nature.com\/articles\/s41443-023-00754-w",
-            "custom_liquid": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/AsSeenInJSM_4b0b5cc8-e7a0-4afb-8cb2-16f666548c8d.png",
-            "custom_image_url": "shopify:\/\/pages\/clinical-trials",
-            "custom_liquid": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/AsSeenInEAU_9ad52dc3-3e42-4445-b64d-2f025c8d4c0e.png",
-            "custom_image_url": "shopify:\/\/blogs\/news\/dean-elterman-and-faysal-yafi-attend-and-present-at-eua23",
-            "custom_liquid": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "d1ec0405-3558-4731-b57f-715842ace2f2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/AsSeenInPubMed.png",
-            "custom_image_url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/37634032\/",
-            "custom_liquid": "",
-            "text": "",
-            "link_label": "",
-            "link": "https:\/\/pubmed.ncbi.nlm.nih.gov\/37634032\/"
-          }
-        },
-        "f709b1d5-4e5f-455a-9056-78d63395951a": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/AsSeenInNIH.png",
-            "custom_image_url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/37634032\/",
-            "custom_liquid": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "93b329f8-1d40-43ed-b9d4-badc4b13c735": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/AsSeenInUCI_68b32ed4-a87e-4e62-ade5-ec46e686842a.png",
-            "custom_image_url": "shopify:\/\/blogs\/news\/xialla-sponsors-uci-urology-mens-health-course",
-            "custom_liquid": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-1",
-        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-0",
-        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-2",
-        "d1ec0405-3558-4731-b57f-715842ace2f2",
-        "f709b1d5-4e5f-455a-9056-78d63395951a",
-        "93b329f8-1d40-43ed-b9d4-badc4b13c735"
-      ],
-      "settings": {
-        "title": "Recommended by leading urologists",
-        "title-centered": true,
-        "heading_size": "h1",
-        "image_width": "custom_image_size_scaled",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_tablet": "2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
-    },
-    "1664046577e327ab78": {
-      "type": "rich-text",
-      "blocks": {
-        "1664046577ded4120f-0": {
-          "type": "heading",
-          "settings": {
-            "custom_liquid": "Rated \"Excellent\" on Trustpilot",
-            "heading_size": "h0",
-            "force_h1": false
-          }
-        },
-        "1664046577ded4120f-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Over 400 verified customer reviews!<\/p>"
-          }
-        },
-        "ff7df603-2098-4a02-ab96-4dbe32df1c77": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "https:\/\/ca.trustpilot.com\/review\/xialla.com",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
-        "1664046577ded4120f-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1664046577ded4120f-0",
-        "1664046577ded4120f-1",
-        "ff7df603-2098-4a02-ab96-4dbe32df1c77",
-        "1664046577ded4120f-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "16644147062d8c9810": {
-      "type": "rich-text",
-      "blocks": {
-        "166441470639b2ca88-0": {
-          "type": "heading",
-          "settings": {
-            "custom_liquid": "",
-            "heading_size": "h1",
-            "force_h1": false
-          }
-        },
-        "166441470639b2ca88-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><a href=\"https:\/\/www.trustpilot.com\/review\/xialla.com\" title=\"Trustpilot reviews\">Read All Trustpilot Reviews<\/a><\/p>"
-          }
-        },
-        "166441470639b2ca88-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "166441470639b2ca88-0",
-        "166441470639b2ca88-1",
-        "166441470639b2ca88-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 32
-      }
-    },
-    "customer-testimonials": {
-      "type": "multicolumn",
-      "blocks": {
-        "column1": {
-          "type": "column",
-          "settings": {
-            "custom_image_url": "",
-            "custom_liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0248\/5918\/1149\/files\/TrustpilotStars200.png?v=1665408732\" width=90 height=18><br\/>\"Climaxes have been mind blowing\"",
-            "text": "<p>Our lovemaking has gone from one time a month to several times a week.<\/p><p><strong>TE United States<\/strong><\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "custom_image_url": "",
-            "custom_liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0248\/5918\/1149\/files\/TrustpilotStars200.png?v=1665408732\" width=90 height=18><br\/>\"It has brought me and my wife immense pleasure and happiness\"",
-            "text": "<p>And the customer service left me extremely impressed.<\/p><p><strong>Charlie Flores<\/strong><\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "custom_image_url": "",
-            "custom_liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0248\/5918\/1149\/files\/TrustpilotStars200.png?v=1665408732\" width=90 height=18><br\/>\"Xialla is an amazing product\"",
-            "text": "<p>Xialla is a Godsend. I truly thank Nigel for inventing this amazing product. <\/p><p><strong>Kenneth Akers<\/strong><\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "d78a4bf9-f0b2-4f02-bb3a-a67401c5835b": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "custom_image_url": "",
-            "custom_liquid": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column1",
-        "column2",
-        "column3",
-        "d78a4bf9-f0b2-4f02-bb3a-a67401c5835b"
-      ],
-      "settings": {
-        "title": "",
-        "title-centered": false,
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-2",
-        "columns_tablet": "1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
         "padding_top": 100,
         "padding_bottom": 100
       }
