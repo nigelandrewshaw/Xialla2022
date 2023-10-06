@@ -44,7 +44,7 @@
           "type": "text",
           "settings": {
             "text": "<div id=\"custom-message\" style=\"font-size: 1.4rem; display:none; background-color: #eee; padding: 8pt\">\n<b>Size Slender is backordered.<\/b> We suggest you try the Regular instead. If you still would like the Slender, let us know and we'll send it at no charge as soon as it's back in stock. Thank you for your patience and understanding.<\/div>",
-            "text_style": "uppercase"
+            "text_style": "uppercase" 
           }
         },
         "quantity_selector": {
@@ -329,103 +329,6 @@
         "section_visibility": "visible"
       }
     },
-    "c34e9865-c5ed-4f7d-b6be-565659fc87be": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/AsSeenInUCI_copy_a78ea9c3-2a24-4969-ace2-7f7d13ce930f.png",
-            "custom_image_url": "https:\/\/www.nature.com\/articles\/s41443-023-00754-w",
-            "custom_liquid": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/AsSeenInJSM_4b0b5cc8-e7a0-4afb-8cb2-16f666548c8d.png",
-            "custom_image_url": "shopify:\/\/pages\/clinical-trials",
-            "custom_liquid": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/AsSeenInEAU_9ad52dc3-3e42-4445-b64d-2f025c8d4c0e.png",
-            "custom_image_url": "shopify:\/\/blogs\/news\/dean-elterman-and-faysal-yafi-attend-and-present-at-eua23",
-            "custom_liquid": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "d1ec0405-3558-4731-b57f-715842ace2f2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/AsSeenInPubMed.png",
-            "custom_image_url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/37634032\/",
-            "custom_liquid": "",
-            "text": "",
-            "link_label": "",
-            "link": "https:\/\/pubmed.ncbi.nlm.nih.gov\/37634032\/"
-          }
-        },
-        "f709b1d5-4e5f-455a-9056-78d63395951a": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/AsSeenInNIH.png",
-            "custom_image_url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/37634032\/",
-            "custom_liquid": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "93b329f8-1d40-43ed-b9d4-badc4b13c735": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/AsSeenInUCI_68b32ed4-a87e-4e62-ade5-ec46e686842a.png",
-            "custom_image_url": "shopify:\/\/blogs\/news\/xialla-sponsors-uci-urology-mens-health-course",
-            "custom_liquid": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-1",
-        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-0",
-        "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-2",
-        "d1ec0405-3558-4731-b57f-715842ace2f2",
-        "f709b1d5-4e5f-455a-9056-78d63395951a",
-        "93b329f8-1d40-43ed-b9d4-badc4b13c735"
-      ],
-      "settings": {
-        "title": "Recommended by leading urologists",
-        "title-centered": true,
-        "heading_size": "h1",
-        "image_width": "custom_image_size_scaled",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_tablet": "2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
-    },
     "16a64dbe-3e7d-49b7-b16f-5502dfed06e1": {
       "type": "rich-text",
       "blocks": {
@@ -629,111 +532,40 @@
         "padding_bottom": 100
       }
     },
-    "896f6dc0-f591-4e32-8e5b-1286c09377c6": {
-      "type": "custom-image-section",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Artboard_1_abdcae11-54c6-4760-8942-ef2dc72deca8.png",
-        "padding_top": 56,
-        "padding_bottom": 12,
-        "fifty_percent_width": true,
-        "image_link": ""
-      }
-    },
-    "1664046577e327ab78": {
-      "type": "rich-text",
+    "image-with-text": {
+      "type": "image-with-text",
       "blocks": {
-        "1664046577ded4120f-0": {
+        "image-with-text-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "Rated \"Excellent\" on Trustpilot",
-            "heading_size": "h0",
-            "force_h1": false
-          }
-        },
-        "1664046577ded4120f-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Over 400 verified customer reviews!<\/p>"
-          }
-        },
-        "ff7df603-2098-4a02-ab96-4dbe32df1c77": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "https:\/\/ca.trustpilot.com\/review\/xialla.com",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
-        "1664046577ded4120f-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1664046577ded4120f-0",
-        "1664046577ded4120f-1",
-        "ff7df603-2098-4a02-ab96-4dbe32df1c77",
-        "1664046577ded4120f-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "16644147062d8c9810": {
-      "type": "rich-text",
-      "blocks": {
-        "166441470639b2ca88-0": {
-          "type": "heading",
-          "settings": {
-            "custom_liquid": "",
+            "heading": "You Deserve It",
             "heading_size": "h1",
             "force_h1": false
           }
         },
-        "166441470639b2ca88-1": {
+        "image-with-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p><a href=\"https:\/\/www.trustpilot.com\/review\/xialla.com\" title=\"Trustpilot reviews\">Read All Trustpilot Reviews<\/a><\/p>"
-          }
-        },
-        "166441470639b2ca88-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "<p>Try Xialla today and Get Back to Amazing Sex<\/p>",
+            "text_style": "body"
           }
         }
       },
       "block_order": [
-        "166441470639b2ca88-0",
-        "166441470639b2ca88-1",
-        "166441470639b2ca88-2"
+        "image-with-text-0",
+        "image-with-text-1"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 0,
+        "image": "shopify:\/\/shop_images\/Passion_roses_-_desktop.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 100,
         "padding_bottom": 100
       }
     },
@@ -850,7 +682,6 @@
         "padding_top": 100,
         "padding_bottom": 100
       }
-<<<<<<< HEAD
     },
     "c34e9865-c5ed-4f7d-b6be-565659fc87be": {
       "type": "multicolumn",
@@ -1116,29 +947,24 @@
         "padding_top": 100,
         "padding_bottom": 100
       }
-=======
->>>>>>> 77023be5b513fc25e68955140e871709481d0ff2
     }
   },
   "order": [
     "main",
     "5785d9c1-3cbf-4156-996f-df1fd7538dd3",
     "0a027983-7e31-47a1-8863-e22bcb16fd71",
+    "c34e9865-c5ed-4f7d-b6be-565659fc87be",
     "9faa5139-e198-4c4b-85ca-cd1bd2ba4b8a",
     "4eb37bfb-e60f-44fe-b0f9-9e877627c9ea",
     "fb02fb41-3064-4581-834c-7c29ded82fc1",
-    "c34e9865-c5ed-4f7d-b6be-565659fc87be",
     "16a64dbe-3e7d-49b7-b16f-5502dfed06e1",
     "5eb77dca-27bb-40ab-99ec-47eafe994e52",
     "00fe8795-c2ce-4103-b50e-2613c73f9858",
     "067bd4cd-1595-4fd9-b5e6-454f34f78f53",
-<<<<<<< HEAD
     "customer-testimonials",
-=======
-    "896f6dc0-f591-4e32-8e5b-1286c09377c6",
->>>>>>> 77023be5b513fc25e68955140e871709481d0ff2
     "1664046577e327ab78",
     "16644147062d8c9810",
+    "image-with-text",
     "multicolumn",
     "product-recommendations"
   ]
