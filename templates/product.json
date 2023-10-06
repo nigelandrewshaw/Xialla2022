@@ -195,42 +195,6 @@
         "section_visibility": "visible"
       }
     },
-    "0a027983-7e31-47a1-8863-e22bcb16fd71": {
-      "type": "rich-text",
-      "blocks": {
-        "template--15921100652706__0a027983-7e31-47a1-8863-e22bcb16fd71-1666265433de2911ce-0": {
-          "type": "heading",
-          "settings": {
-            "custom_liquid": "<h1>Who is Xialla For?<\/h1>\n<p>Xialla is for:<\/p>\n<ul>\n<li>Any man who has identified venous leak as one of the causes of their ED.\n<li>Any man who wants a better, harder longer lasting erection.<\/li>\n<li>Men with more severe ED who have not yet found a solution.*<\/li>\n<li>Men and couples who may not have ED, but desire heightened intensity and pleasure.<\/li>\n<\/ul>\n<p style=\"font-size: 1.3rem\">* Men with severe ED may try Xialla either alone or in combination with other therapies for dramatic effect.<\/>",
-            "heading_size": "h2",
-            "force_h1": false
-          }
-        },
-        "template--15921100652706__0a027983-7e31-47a1-8863-e22bcb16fd71-1666265433de2911ce-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--15921100652706__0a027983-7e31-47a1-8863-e22bcb16fd71-1666265433de2911ce-0",
-        "template--15921100652706__0a027983-7e31-47a1-8863-e22bcb16fd71-1666265433de2911ce-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-2",
-        "full_width": true,
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
-    },
     "c34e9865-c5ed-4f7d-b6be-565659fc87be": {
       "type": "multicolumn",
       "blocks": {
@@ -952,7 +916,6 @@
   "order": [
     "main",
     "5785d9c1-3cbf-4156-996f-df1fd7538dd3",
-    "0a027983-7e31-47a1-8863-e22bcb16fd71",
     "c34e9865-c5ed-4f7d-b6be-565659fc87be",
     "9faa5139-e198-4c4b-85ca-cd1bd2ba4b8a",
     "4eb37bfb-e60f-44fe-b0f9-9e877627c9ea",
