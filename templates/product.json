@@ -135,6 +135,15 @@
             "page": ""
           }
         },
+        "364d5220-1cdb-4152-85c4-bb01df2037f0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "FAQ",
+            "icon": "question_mark",
+            "content": "<ul><li><strong>Does Xialla work with pumps?<\/strong><br\/>Yes. <a href=\"\/blogs\/help\/does-xialla-work-with-pumps\" title=\"\/blogs\/help\/does-xialla-work-with-pumps\">Read more &gt;&gt;<\/a><br\/> <\/li><li><strong>Does Xialla work with ED meds or injections?<\/strong><br\/>Yes. <a href=\"\/blogs\/help\/does-xialla-work-with-injections\" title=\"\/blogs\/help\/does-xialla-work-with-injections\">Read more &gt;&gt;<\/a><br\/><\/li><li><strong>How effective is Xialla?<\/strong><br\/>Xialla helps four out of five men get an erection. <a href=\"\/blogs\/help\/how-effective-is-xialla\" title=\"\/blogs\/help\/how-effective-is-xialla\">Read more &gt;&gt;<br\/><\/a><\/li><li><strong>More questions?<\/strong> <a href=\"\/blogs\/help\" title=\"\/blogs\/help\">See our FAQ<\/a> for answers to many common questions about Xialla.<\/li><\/ul><p><\/p>",
+            "page": ""
+          }
+        },
         "share": {
           "type": "share",
           "disabled": true,
@@ -170,6 +179,7 @@
         "collapsible-row-1",
         "0e433215-e321-4c32-8b95-b15e2cc84729",
         "collapsible-row-3",
+        "364d5220-1cdb-4152-85c4-bb01df2037f0",
         "share",
         "6b59f54e-f6bf-408b-8a25-5927962faefb"
       ],
