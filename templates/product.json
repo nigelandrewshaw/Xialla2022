@@ -347,6 +347,184 @@
         "padding_bottom": 100
       }
     },
+    "e04e7bc5-c69d-4877-9f0d-d1d4b5313f54": {
+      "type": "custom-image-section",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Artboard_1_abdcae11-54c6-4760-8942-ef2dc72deca8.png",
+        "padding_top": 100,
+        "padding_bottom": 0,
+        "fifty_percent_width": true,
+        "image_link": ""
+      }
+    },
+    "1664046577e327ab78": {
+      "type": "rich-text",
+      "blocks": {
+        "1664046577ded4120f-0": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "Rated \"Excellent\" on Trustpilot",
+            "heading_size": "h0",
+            "force_h1": false
+          }
+        },
+        "1664046577ded4120f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Over 400 verified customer reviews!<\/p>"
+          }
+        },
+        "ff7df603-2098-4a02-ab96-4dbe32df1c77": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "https:\/\/ca.trustpilot.com\/review\/xialla.com",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "1664046577ded4120f-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1664046577ded4120f-0",
+        "1664046577ded4120f-1",
+        "ff7df603-2098-4a02-ab96-4dbe32df1c77",
+        "1664046577ded4120f-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "customer-testimonials": {
+      "type": "multicolumn",
+      "blocks": {
+        "column1": {
+          "type": "column",
+          "settings": {
+            "custom_image_url": "",
+            "custom_liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0248\/5918\/1149\/files\/TrustpilotStars200.png?v=1665408732\" width=90 height=18><br\/>\"Climaxes have been mind blowing\"",
+            "text": "<p>Our lovemaking has gone from one time a month to several times a week.<\/p><p><strong>TE United States<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "custom_image_url": "",
+            "custom_liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0248\/5918\/1149\/files\/TrustpilotStars200.png?v=1665408732\" width=90 height=18><br\/>\"It has brought me and my wife immense pleasure and happiness\"",
+            "text": "<p>And the customer service left me extremely impressed.<\/p><p><strong>Charlie Flores<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "custom_image_url": "",
+            "custom_liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0248\/5918\/1149\/files\/TrustpilotStars200.png?v=1665408732\" width=90 height=18><br\/>\"Xialla is an amazing product\"",
+            "text": "<p>Xialla is a Godsend. I truly thank Nigel for inventing this amazing product. <\/p><p><strong>Kenneth Akers<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d78a4bf9-f0b2-4f02-bb3a-a67401c5835b": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "custom_image_url": "",
+            "custom_liquid": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column1",
+        "column2",
+        "column3",
+        "d78a4bf9-f0b2-4f02-bb3a-a67401c5835b"
+      ],
+      "settings": {
+        "title": "",
+        "title-centered": false,
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_tablet": "1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 32,
+        "padding_bottom": 24
+      }
+    },
+    "16644147062d8c9810": {
+      "type": "rich-text",
+      "blocks": {
+        "166441470639b2ca88-0": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "",
+            "heading_size": "h1",
+            "force_h1": false
+          }
+        },
+        "166441470639b2ca88-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"https:\/\/www.trustpilot.com\/review\/xialla.com\" title=\"Trustpilot reviews\">Read All Trustpilot Reviews<\/a><\/p>"
+          }
+        },
+        "166441470639b2ca88-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "166441470639b2ca88-0",
+        "166441470639b2ca88-1",
+        "166441470639b2ca88-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
     "4eb37bfb-e60f-44fe-b0f9-9e877627c9ea": {
       "type": "rich-text",
       "blocks": {
@@ -603,184 +781,6 @@
         "padding_bottom": 100
       }
     },
-    "e04e7bc5-c69d-4877-9f0d-d1d4b5313f54": {
-      "type": "custom-image-section",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Artboard_1_abdcae11-54c6-4760-8942-ef2dc72deca8.png",
-        "padding_top": 100,
-        "padding_bottom": 0,
-        "fifty_percent_width": true,
-        "image_link": ""
-      }
-    },
-    "1664046577e327ab78": {
-      "type": "rich-text",
-      "blocks": {
-        "1664046577ded4120f-0": {
-          "type": "heading",
-          "settings": {
-            "custom_liquid": "Rated \"Excellent\" on Trustpilot",
-            "heading_size": "h0",
-            "force_h1": false
-          }
-        },
-        "1664046577ded4120f-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Over 400 verified customer reviews!<\/p>"
-          }
-        },
-        "ff7df603-2098-4a02-ab96-4dbe32df1c77": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "https:\/\/ca.trustpilot.com\/review\/xialla.com",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
-        "1664046577ded4120f-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1664046577ded4120f-0",
-        "1664046577ded4120f-1",
-        "ff7df603-2098-4a02-ab96-4dbe32df1c77",
-        "1664046577ded4120f-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "customer-testimonials": {
-      "type": "multicolumn",
-      "blocks": {
-        "column1": {
-          "type": "column",
-          "settings": {
-            "custom_image_url": "",
-            "custom_liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0248\/5918\/1149\/files\/TrustpilotStars200.png?v=1665408732\" width=90 height=18><br\/>\"Climaxes have been mind blowing\"",
-            "text": "<p>Our lovemaking has gone from one time a month to several times a week.<\/p><p><strong>TE United States<\/strong><\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "custom_image_url": "",
-            "custom_liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0248\/5918\/1149\/files\/TrustpilotStars200.png?v=1665408732\" width=90 height=18><br\/>\"It has brought me and my wife immense pleasure and happiness\"",
-            "text": "<p>And the customer service left me extremely impressed.<\/p><p><strong>Charlie Flores<\/strong><\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "custom_image_url": "",
-            "custom_liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0248\/5918\/1149\/files\/TrustpilotStars200.png?v=1665408732\" width=90 height=18><br\/>\"Xialla is an amazing product\"",
-            "text": "<p>Xialla is a Godsend. I truly thank Nigel for inventing this amazing product. <\/p><p><strong>Kenneth Akers<\/strong><\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "d78a4bf9-f0b2-4f02-bb3a-a67401c5835b": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "custom_image_url": "",
-            "custom_liquid": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column1",
-        "column2",
-        "column3",
-        "d78a4bf9-f0b2-4f02-bb3a-a67401c5835b"
-      ],
-      "settings": {
-        "title": "",
-        "title-centered": false,
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_tablet": "1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 32,
-        "padding_bottom": 24
-      }
-    },
-    "16644147062d8c9810": {
-      "type": "rich-text",
-      "blocks": {
-        "166441470639b2ca88-0": {
-          "type": "heading",
-          "settings": {
-            "custom_liquid": "",
-            "heading_size": "h1",
-            "force_h1": false
-          }
-        },
-        "166441470639b2ca88-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><a href=\"https:\/\/www.trustpilot.com\/review\/xialla.com\" title=\"Trustpilot reviews\">Read All Trustpilot Reviews<\/a><\/p>"
-          }
-        },
-        "166441470639b2ca88-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "166441470639b2ca88-0",
-        "166441470639b2ca88-1",
-        "166441470639b2ca88-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 100
-      }
-    },
     "image-with-text": {
       "type": "image-with-text",
       "blocks": {
@@ -938,16 +938,16 @@
     "5785d9c1-3cbf-4156-996f-df1fd7538dd3",
     "c34e9865-c5ed-4f7d-b6be-565659fc87be",
     "9faa5139-e198-4c4b-85ca-cd1bd2ba4b8a",
+    "e04e7bc5-c69d-4877-9f0d-d1d4b5313f54",
+    "1664046577e327ab78",
+    "customer-testimonials",
+    "16644147062d8c9810",
     "4eb37bfb-e60f-44fe-b0f9-9e877627c9ea",
     "fb02fb41-3064-4581-834c-7c29ded82fc1",
     "16a64dbe-3e7d-49b7-b16f-5502dfed06e1",
     "5eb77dca-27bb-40ab-99ec-47eafe994e52",
     "00fe8795-c2ce-4103-b50e-2613c73f9858",
     "067bd4cd-1595-4fd9-b5e6-454f34f78f53",
-    "e04e7bc5-c69d-4877-9f0d-d1d4b5313f54",
-    "1664046577e327ab78",
-    "customer-testimonials",
-    "16644147062d8c9810",
     "image-with-text",
     "multicolumn",
     "product-recommendations"
