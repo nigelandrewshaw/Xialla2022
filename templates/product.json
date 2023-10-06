@@ -779,6 +779,104 @@
         "padding_top": 100,
         "padding_bottom": 100
       }
+    },
+    "1664046577e327ab78": {
+      "type": "rich-text",
+      "blocks": {
+        "1664046577ded4120f-0": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "Rated \"Excellent\" on Trustpilot",
+            "heading_size": "h0",
+            "force_h1": false
+          }
+        },
+        "1664046577ded4120f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Over 400 verified customer reviews!<\/p>"
+          }
+        },
+        "ff7df603-2098-4a02-ab96-4dbe32df1c77": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "https:\/\/ca.trustpilot.com\/review\/xialla.com",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "1664046577ded4120f-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1664046577ded4120f-0",
+        "1664046577ded4120f-1",
+        "ff7df603-2098-4a02-ab96-4dbe32df1c77",
+        "1664046577ded4120f-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "16644147062d8c9810": {
+      "type": "rich-text",
+      "blocks": {
+        "166441470639b2ca88-0": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "",
+            "heading_size": "h1",
+            "force_h1": false
+          }
+        },
+        "166441470639b2ca88-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"https:\/\/www.trustpilot.com\/review\/xialla.com\" title=\"Trustpilot reviews\">Read All Trustpilot Reviews<\/a><\/p>"
+          }
+        },
+        "166441470639b2ca88-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "166441470639b2ca88-0",
+        "166441470639b2ca88-1",
+        "166441470639b2ca88-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 32
+      }
     }
   },
   "order": [
@@ -793,6 +891,8 @@
     "5eb77dca-27bb-40ab-99ec-47eafe994e52",
     "00fe8795-c2ce-4103-b50e-2613c73f9858",
     "067bd4cd-1595-4fd9-b5e6-454f34f78f53",
+    "1664046577e327ab78",
+    "16644147062d8c9810",
     "image-with-text",
     "multicolumn",
     "product-recommendations"
