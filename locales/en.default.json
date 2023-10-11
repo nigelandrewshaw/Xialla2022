@@ -256,7 +256,7 @@
       "update": "Update",
       "login": {
         "title": "Sign in to check out faster",
-        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Click here<\/a> to receive a sign-in link."
+        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Click<\/a> for login code."
       }
     },
     "footer": {
