@@ -255,8 +255,8 @@
       },
       "update": "Update",
       "login": {
-        "title": "Have an account?",
-        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Sign in<\/a> to check out faster."
+        "title": "Sign in to check out faster",
+        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Click here<\/a> to receive a sign-in link."
       }
     },
     "footer": {
