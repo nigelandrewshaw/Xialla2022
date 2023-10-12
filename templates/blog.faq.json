@@ -661,13 +661,22 @@
             "link": "shopify:\/\/blogs\/help\/xialla-doesnt-fit-well-too-tight-or-too-loose",
             "icon": "none"
           }
+        },
+        "1234bcd1-b721-451a-af9d-a3e663152c87": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I feel a sense of numbness in the shaft. Is this normal?",
+            "link": "shopify:\/\/blogs\/help\/i-feel-a-sense-of-numbness-in-the-shaft-is-this-normal",
+            "icon": "none"
+          }
         }
       },
       "block_order": [
         "template--15957959803042__349a60ad-75a6-4685-bb64-1fb9d928c224-16650052608d3c441a-0",
         "template--15957959803042__349a60ad-75a6-4685-bb64-1fb9d928c224-16650052608d3c441a-1",
         "template--15957959803042__349a60ad-75a6-4685-bb64-1fb9d928c224-16650052608d3c441a-2",
-        "template--15957959803042__349a60ad-75a6-4685-bb64-1fb9d928c224-16650052608d3c441a-3"
+        "template--15957959803042__349a60ad-75a6-4685-bb64-1fb9d928c224-16650052608d3c441a-3",
+        "1234bcd1-b721-451a-af9d-a3e663152c87"
       ],
       "settings": {
         "caption": "",
