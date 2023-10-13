@@ -917,6 +917,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "heading": "Extra Adhesive Pads for Xialla",
         "heading_size": "h1",
