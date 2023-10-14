@@ -482,17 +482,6 @@
         "padding_bottom": 24
       }
     },
-    "450863d1-9408-4eb2-840e-b54fc12f9ca3": {
-      "type": "custom-image-section",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Review_Five_Stars_50a1c24c-ba65-4a0c-9a40-ed7a64db7251.png",
-        "image_mobile": "shopify:\/\/shop_images\/Review_Five_Stars_50a1c24c-ba65-4a0c-9a40-ed7a64db7251.png",
-        "padding_top": 52,
-        "padding_bottom": 52,
-        "fifty_percent_width": true,
-        "image_link": "https:\/\/www.trustpilot.com\/reviews\/652837ccda0c146d1b986da1"
-      }
-    },
     "16644147062d8c9810": {
       "type": "rich-text",
       "blocks": {
@@ -953,7 +942,6 @@
     "e04e7bc5-c69d-4877-9f0d-d1d4b5313f54",
     "1664046577e327ab78",
     "customer-testimonials",
-    "450863d1-9408-4eb2-840e-b54fc12f9ca3",
     "16644147062d8c9810",
     "4eb37bfb-e60f-44fe-b0f9-9e877627c9ea",
     "fb02fb41-3064-4581-834c-7c29ded82fc1",
