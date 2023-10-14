@@ -486,6 +486,7 @@
       "type": "custom-image-section",
       "settings": {
         "image": "shopify:\/\/shop_images\/Review_Five_Stars_50a1c24c-ba65-4a0c-9a40-ed7a64db7251.png",
+        "image_mobile": "shopify:\/\/shop_images\/Review_Five_Stars_50a1c24c-ba65-4a0c-9a40-ed7a64db7251.png",
         "padding_top": 52,
         "padding_bottom": 52,
         "fifty_percent_width": true,
