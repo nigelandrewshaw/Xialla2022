@@ -126,12 +126,12 @@
         "93b329f8-1d40-43ed-b9d4-badc4b13c735": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/AsSeenInUCI_68b32ed4-a87e-4e62-ade5-ec46e686842a.png",
+            "image": "shopify:\/\/shop_images\/AsSeenInResearchGate.png",
             "custom_image_url": "shopify:\/\/blogs\/news\/xialla-sponsors-uci-urology-mens-health-course",
             "custom_liquid": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "https:\/\/www.researchgate.net\/publication\/373431143_XiallaR_a_novel_medical_device_for_addressing_erectile_dysfunction_associated_with_veno-occlusive_dysfunction"
           }
         }
       },
