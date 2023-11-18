@@ -4,7 +4,7 @@
       "type": "main-page",
       "settings": {
         "padding_top": 28,
-        "padding_bottom": 28
+        "padding_bottom": 0
       }
     },
     "1700322484486b69d0": {
@@ -15,7 +15,7 @@
           "settings": {
             "form_id": "w6tAxj",
             "width": 600,
-            "vertical_spacing": 60,
+            "vertical_spacing": 20,
             "horizontal_spacing": 0
           }
         }
