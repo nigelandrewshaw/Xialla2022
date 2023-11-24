@@ -384,7 +384,7 @@
         "padding_top": 100,
         "padding_bottom": 0,
         "fifty_percent_width": true,
-        "image_link": "https:\/\/www.trustpilot.com\/review\/xialla.com?sort=recency"
+        "image_link": "https:\/\/www.trustpilot.com\/review\/xialla.com"
       }
     },
     "1664046577e327ab78": {
@@ -456,7 +456,7 @@
         "166441470639b2ca88-1": {
           "type": "text",
           "settings": {
-            "text": "<p><a href=\"https:\/\/www.trustpilot.com\/review\/xialla.com?sort=recency\" title=\"https:\/\/www.trustpilot.com\/review\/xialla.com?sort=recency\">Read All Trustpilot Reviews<\/a><\/p>"
+            "text": "<p><a href=\"https:\/\/www.trustpilot.com\/review\/xialla.com\" title=\"Trustpilot\">Read All Trustpilot Reviews<\/a><\/p>"
           }
         },
         "166441470639b2ca88-2": {
