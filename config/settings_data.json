@@ -134,6 +134,7 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "BFCM SALE ON NOW! SAVE 25% ON YOUR ENTIRE ORDER.",
               "text_alignment": "center",
