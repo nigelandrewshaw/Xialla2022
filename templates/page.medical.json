@@ -30,24 +30,12 @@
             "text": "Xialla is clinically proven to treat venous leak more effectively than conventional constriction rings.",
             "text_style": "body"
           }
-        },
-        "template--16093998776482__13e409bd-c158-4cd0-bb13-77fbbc2d6233-1676507264f95f840a-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "PARTNER PROGRAM",
-            "button_link_1": "\/pages\/medical#x-partner",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "\/pages\/medical#x-partner",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "ffef14ee-5d1a-4ffc-b511-7b63528930fe",
         "template--16093998776482__13e409bd-c158-4cd0-bb13-77fbbc2d6233-1676507264f95f840a-0",
-        "template--16093998776482__13e409bd-c158-4cd0-bb13-77fbbc2d6233-1676507264f95f840a-1",
-        "template--16093998776482__13e409bd-c158-4cd0-bb13-77fbbc2d6233-1676507264f95f840a-2"
+        "template--16093998776482__13e409bd-c158-4cd0-bb13-77fbbc2d6233-1676507264f95f840a-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Artboard_1-100_bbc2f44f-781a-4e3a-90d4-06f4e7b71c24.jpg",
@@ -63,125 +51,6 @@
         "show_text_below": true
       }
     },
-    "af250692-7c6d-443c-9006-6305ed20edd7": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--16093998776482__af250692-7c6d-443c-9006-6305ed20edd7-column-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/AsSeenInJSM_bf603e08-0c4d-463d-be60-e646c3263952.png",
-            "custom_image_url": "shopify:\/\/pages\/clinical-trials",
-            "custom_liquid": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/pages\/clinical-trials"
-          }
-        },
-        "template--16093998776482__af250692-7c6d-443c-9006-6305ed20edd7-column-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/AsSeenInUCI_copy_a78ea9c3-2a24-4969-ace2-7f7d13ce930f.png",
-            "custom_image_url": "https:\/\/www.nature.com\/articles\/s41443-023-00754-w",
-            "custom_liquid": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/blogs\/news\/xialla-sponsors-uci-urology-mens-health-course"
-          }
-        },
-        "template--16093998776482__af250692-7c6d-443c-9006-6305ed20edd7-column-3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/AsSeenInEAU_9ad52dc3-3e42-4445-b64d-2f025c8d4c0e.png",
-            "custom_image_url": "shopify:\/\/blogs\/news\/dean-elterman-and-faysal-yafi-attend-and-present-at-eua23",
-            "custom_liquid": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/blogs\/news\/dean-elterman-and-faysal-yafi-attend-and-present-at-eua23"
-          }
-        }
-      },
-      "block_order": [
-        "template--16093998776482__af250692-7c6d-443c-9006-6305ed20edd7-column-1",
-        "template--16093998776482__af250692-7c6d-443c-9006-6305ed20edd7-column-2",
-        "template--16093998776482__af250692-7c6d-443c-9006-6305ed20edd7-column-3"
-      ],
-      "settings": {
-        "title": "As Seen In",
-        "title-centered": true,
-        "heading_size": "h1",
-        "image_width": "custom_image_size_scaled",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_tablet": "1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
-    },
-    "318443c4-1312-45de-b061-0582341d85d8": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16093998776482__318443c4-1312-45de-b061-0582341d85d8-1676507915bcebc1f3-0": {
-          "type": "heading",
-          "settings": {
-            "custom_liquid": "\"Finally there's a real breakthrough for the treatment of ED caused by venous leak.\"",
-            "heading_size": "h1",
-            "force_h1": false
-          }
-        },
-        "2053dd12-15f8-4244-b6bc-ae27b46d521e": {
-          "type": "text",
-          "settings": {
-            "text": "<p>\"Xialla is an improved ED ring that works by slowing blood outflow (venous leak). Xialla's patented mechanism stops the ring from moving, making it 3x more effective.\" <\/p>"
-          }
-        },
-        "2a97554a-49b5-416d-8a90-9f94a8cf9869": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Faysal_Yafi_2x_8fcda17b-2893-46ed-9ac3-edbc234ecc54.png",
-            "image_padding": false
-          }
-        },
-        "template--16093998776482__318443c4-1312-45de-b061-0582341d85d8-1676507915bcebc1f3-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Dr. Faysal Yafi, MD, FRCSC<\/strong><\/p><p>Chief of the Division Men’s Health and Reconstructive Urology, University of California Irvine<\/p>"
-          }
-        },
-        "template--16093998776482__318443c4-1312-45de-b061-0582341d85d8-1676507915bcebc1f3-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "\/pages\/about-us#x-medical",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "\/pages\/about-us#x-medical",
-            "button_style_secondary_2": true
-          }
-        }
-      },
-      "block_order": [
-        "template--16093998776482__318443c4-1312-45de-b061-0582341d85d8-1676507915bcebc1f3-0",
-        "2053dd12-15f8-4244-b6bc-ae27b46d521e",
-        "2a97554a-49b5-416d-8a90-9f94a8cf9869",
-        "template--16093998776482__318443c4-1312-45de-b061-0582341d85d8-1676507915bcebc1f3-1",
-        "template--16093998776482__318443c4-1312-45de-b061-0582341d85d8-1676507915bcebc1f3-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-2",
-        "full_width": true,
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
-    },
     "04a736ea-1ea8-48d7-a1ac-506e9e56abfa": {
       "type": "custom-liquid",
       "settings": {
@@ -190,177 +59,6 @@
         "padding_top": 40,
         "padding_bottom": 52,
         "section_visibility": "hide-for-desktop"
-      }
-    },
-    "e4cfe205-463a-4d6d-8f86-caf66e3f074e": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class='embed-container'>\n  <iframe src='https:\/\/player.vimeo.com\/video\/633942061?autoplay=1&loop=1&background=1' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen><\/iframe>\n<\/div>",
-        "color_scheme": "background-1",
-        "padding_top": 100,
-        "padding_bottom": 100,
-        "section_visibility": "hide-for-mobile"
-      }
-    },
-    "d60a5dd9-d164-4e59-8fcf-a3b01d463e98": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--16093998776482__d60a5dd9-d164-4e59-8fcf-a3b01d463e98-1676514196abf306bc-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Attractive and Inconspicuous",
-            "heading_size": "h1",
-            "force_h1": false
-          }
-        },
-        "template--16093998776482__d60a5dd9-d164-4e59-8fcf-a3b01d463e98-1676514196abf306bc-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>\"Xialla is made of soft, stretchy silicone with a silky finish that both the patient and their partner will love.\"<\/p><p><strong>Nigel Shaw, Inventor of Xialla<\/strong><\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--16093998776482__d60a5dd9-d164-4e59-8fcf-a3b01d463e98-1676514196abf306bc-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16093998776482__d60a5dd9-d164-4e59-8fcf-a3b01d463e98-1676514196abf306bc-0",
-        "template--16093998776482__d60a5dd9-d164-4e59-8fcf-a3b01d463e98-1676514196abf306bc-1",
-        "template--16093998776482__d60a5dd9-d164-4e59-8fcf-a3b01d463e98-1676514196abf306bc-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Xialla_Parts-80_474994d2-54bd-4514-af18-747f8317cb35.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
-    },
-    "2d3744d8-e996-45a8-97b5-bc89789308f6": {
-      "type": "custom-videos-section",
-      "settings": {
-        "heading": "Xialla Can be Put On Flaccid or Erect",
-        "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/Screen_Shot_2023-04-06_at_5.37.49_PM.png",
-        "video_url": "https:\/\/vimeo.com\/815473717",
-        "description": "How to wear Xialla - Flaccid penis",
-        "full_width": true,
-        "color_scheme": "background-1",
-        "padding_top": 80,
-        "padding_bottom": 100,
-        "mb_padding_top": 80,
-        "mb_padding_bottom": 100,
-        "cover_image_2": "shopify:\/\/shop_images\/Screen_Shot_2023-04-06_at_5.38.59_PM.png",
-        "video_url_2": "https:\/\/vimeo.com\/815475062",
-        "description_2": ""
-      }
-    },
-    "4ddf447f-f278-4efd-bc1c-e9485748a58c": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--15921100783778__4ddf447f-f278-4efd-bc1c-e9485748a58c-16753566988a0d0f6b-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Stick_the_Pad-80_6075e1e5-b285-4c64-b688-03028d7219e9.jpg",
-            "custom_image_url": "",
-            "custom_liquid": "Stick the pad",
-            "text": "<p>Stick an adhesive pad to your lower back just above the buttocks.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--15921100783778__4ddf447f-f278-4efd-bc1c-e9485748a58c-16753566988a0d0f6b-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Place_the_Ring_Erect-80_8d862dee-62eb-4e45-a1ad-c3a840fd7600.jpg",
-            "custom_image_url": "",
-            "custom_liquid": "Place the ring",
-            "text": "<p>Place the ring around the base of your penis and let the loop and band hang in front of your scrotum. <\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--15921100783778__4ddf447f-f278-4efd-bc1c-e9485748a58c-16753566988a0d0f6b-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Place_the_Ring_Flaccid_-80_f18b905e-e497-4419-9249-ba37c47e0e11.jpg",
-            "custom_image_url": "",
-            "custom_liquid": "Erect or flaccid",
-            "text": "<p>You don't need an erection to start. The ring can be placed on an erect or a flaccid penis.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "db239680-7c87-4ca0-9daa-888664445a59": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Stretch_the_Loop-80_56359f24-f9cc-45b2-b707-eb2c9af380a9.jpg",
-            "custom_image_url": "",
-            "custom_liquid": "Stretch the loop",
-            "text": "<p>Stretch the loop up and around your scrotum.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "6dfcf703-db4d-4abb-8bb3-a80de8f4ce61": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Attach_the_Band_2-80_61e5cda5-569e-41e4-bc53-2928c49b616d.jpg",
-            "custom_image_url": "",
-            "custom_liquid": "Attach the tab lock",
-            "text": "<p>Attach the tab lock to the adhesive pad to lock Xialla in place. <\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "9d8017e7-a263-45e2-a4af-b05cb48757e1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Final-80.jpg",
-            "custom_image_url": "",
-            "custom_liquid": "Enjoy",
-            "text": "<p>Once in place, Xialla is nearly unnoticeable... except for its amazing <a href=\"\/blogs\/knowledge-center\/what-makes-xialla-amazing\" title=\"What makes Xialla amazing\">benefits<\/a>.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15921100783778__4ddf447f-f278-4efd-bc1c-e9485748a58c-16753566988a0d0f6b-0",
-        "template--15921100783778__4ddf447f-f278-4efd-bc1c-e9485748a58c-16753566988a0d0f6b-1",
-        "template--15921100783778__4ddf447f-f278-4efd-bc1c-e9485748a58c-16753566988a0d0f6b-2",
-        "db239680-7c87-4ca0-9daa-888664445a59",
-        "6dfcf703-db4d-4abb-8bb3-a80de8f4ce61",
-        "9d8017e7-a263-45e2-a4af-b05cb48757e1"
-      ],
-      "settings": {
-        "title": "How to Wear",
-        "title-centered": false,
-        "heading_size": "h1",
-        "image_width": "half",
-        "image_ratio": "circle",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "shopify:\/\/products\/xialla",
-        "color_scheme": "background-1",
-        "columns_tablet": "2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 52,
-        "padding_bottom": 100
       }
     },
     "76ed3d80-4742-49a2-b9f2-814722b600c1": {
@@ -413,217 +111,12 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "background-2",
-        "columns_tablet": "1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
-    },
-    "34758cf3-58ee-46c6-acf9-7c8cb0ede22d": {
-      "type": "video",
-      "settings": {
-        "heading": "Dr. Faysal Yafi Presents Xialla at EAU '23",
-        "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/FaysalYafi_Presenting_at_EU23_Milan_Italy.jpg",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=qR3SoXHDRr8",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
-    },
-    "1664048786865ff34e": {
-      "type": "multicolumn",
-      "blocks": {
-        "16640487868d640e96-0": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "custom_image_url": "",
-            "custom_liquid": "Just Xialla",
-            "text": "<p>Xialla is designed for men of any age or medical profile who experience ED due to venous leak (excess blood outflow).<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "24214662-3e0a-439d-a332-564e2ff4f4b4": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Xialla_Alone.png",
-            "custom_image_url": "",
-            "custom_liquid": "Just Xialla",
-            "text": "<p>Xialla is designed for men of any age or medical profile who experience ED due to venous leak\/<\/p>",
-            "link_label": "Find out more",
-            "link": "shopify:\/\/blogs\/knowledge-center\/how-xialla-corrects-venous-leak"
-          }
-        },
-        "16640487868d640e96-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Xialla_and_Medication_03a05069-a113-4049-80bd-99851502a721.png",
-            "custom_image_url": "",
-            "custom_liquid": "Xialla + Medication",
-            "text": "<p>ED medication increases blood inflow. Xialla helps prevent venous leak (blood outflow) so that the erection stays stronger for longer.<\/p>",
-            "link_label": "Find out more",
-            "link": "shopify:\/\/blogs\/knowledge-center\/xialla-and-ed-medication"
-          }
-        },
-        "16640487868d640e96-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Xialla_and_Injections.png",
-            "custom_image_url": "",
-            "custom_liquid": "Xialla + Injections",
-            "text": "<p>Xialla has been clinically tested to complement penile injection therapies. While injections primarily target blood inflow, Xialla targets venous leak (blood outflow).<\/p>",
-            "link_label": "Find out more",
-            "link": "shopify:\/\/blogs\/knowledge-center\/xialla-and-ed-medication"
-          }
-        },
-        "febe484e-3404-4087-bbb7-9a236bf71696": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Xialla_and_Pumps.png",
-            "custom_image_url": "",
-            "custom_liquid": "Xialla + Pumps",
-            "text": "<p>Use Xialla in place of the standard constriction rings used with vacuum pumps to prevent loss of the erection due to venous leak.<\/p>",
-            "link_label": "Find out more",
-            "link": "shopify:\/\/blogs\/knowledge-center\/using-xialla-with-ed-pumps"
-          }
-        }
-      },
-      "block_order": [
-        "16640487868d640e96-0",
-        "24214662-3e0a-439d-a332-564e2ff4f4b4",
-        "16640487868d640e96-1",
-        "16640487868d640e96-2",
-        "febe484e-3404-4087-bbb7-9a236bf71696"
-      ],
-      "settings": {
-        "title": "Use Alone or with Other Therapies",
-        "title-centered": false,
-        "heading_size": "h1",
-        "image_width": "custom_image_size_width",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-2",
-        "columns_tablet": "1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 80,
-        "padding_bottom": 100
-      }
-    },
-    "56350d18-543a-449a-b40c-0554dfa3e444": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--16093998776482__56350d18-543a-449a-b40c-0554dfa3e444-1676514196abf306bc-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Venous Leak is Common",
-            "heading_size": "h1",
-            "force_h1": false
-          }
-        },
-        "template--16093998776482__56350d18-543a-449a-b40c-0554dfa3e444-1676514196abf306bc-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Erectile dysfunction is caused by either<\/p><ul><li>Insufficient blood inflow, or<\/li><li>Excess blood outflow (venous leak).<\/li><\/ul><p>Venous leak is a factor in over 70% of erectile disfunction cases.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--16093998776482__56350d18-543a-449a-b40c-0554dfa3e444-1676514196abf306bc-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16093998776482__56350d18-543a-449a-b40c-0554dfa3e444-1676514196abf306bc-0",
-        "template--16093998776482__56350d18-543a-449a-b40c-0554dfa3e444-1676514196abf306bc-1",
-        "template--16093998776482__56350d18-543a-449a-b40c-0554dfa3e444-1676514196abf306bc-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Artboard_2_2x_76101573-8353-47cd-9a72-543c12cffb69.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-2",
-        "mobile_content_alignment": "left",
-        "padding_top": 100,
-        "padding_bottom": 52
-      }
-    },
-    "933ea82b-4b8e-4bd5-9f49-3c8ebfa8ba34": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--16093998776482__933ea82b-4b8e-4bd5-9f49-3c8ebfa8ba34-16765080900a832093-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Tony_Bella_1.5x.png",
-            "custom_image_url": "",
-            "custom_liquid": "Dr. Anthony Bella | MD, FRCSC",
-            "text": "<p>Dr. Bella is the Greta and John Hansen Chair in Men's Health Research, one of only four globally.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16093998776482__933ea82b-4b8e-4bd5-9f49-3c8ebfa8ba34-16765080900a832093-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Dean_Elterman_1.5x_5218d377-c3eb-4196-a650-50a98ca69f8e.png",
-            "custom_image_url": "",
-            "custom_liquid": "Dr. Dean Elterman | MD, MSc, FRCSC",
-            "text": "<p>Dr. Elterman is Medical Director of the Prostate Cancer Rehabilitation Clinic at Princess Margaret Hospital.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16093998776482__933ea82b-4b8e-4bd5-9f49-3c8ebfa8ba34-16765080900a832093-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Faysal_Yafi_1.5x.png",
-            "custom_image_url": "",
-            "custom_liquid": "Dr. Faysal Yafi | MD, FRCSC",
-            "text": "<p>Dr. Yafi is Chief of the Division Men’s Health and Reconstructive Urology, University of California Irvine.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16093998776482__933ea82b-4b8e-4bd5-9f49-3c8ebfa8ba34-16765080900a832093-2",
-        "template--16093998776482__933ea82b-4b8e-4bd5-9f49-3c8ebfa8ba34-16765080900a832093-1",
-        "template--16093998776482__933ea82b-4b8e-4bd5-9f49-3c8ebfa8ba34-16765080900a832093-0"
-      ],
-      "settings": {
-        "title": "Backed by our world class medical team",
-        "title-centered": false,
-        "heading_size": "h1",
-        "image_width": "custom_image_size_width",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "About us",
-        "button_link": "shopify:\/\/pages\/about-us",
         "color_scheme": "background-1",
         "columns_tablet": "1",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 80,
-        "padding_bottom": 76
+        "padding_top": 100,
+        "padding_bottom": 100
       }
     },
     "04c2f305-a1e1-425f-a080-3a58ec56d7e4": {
@@ -641,6 +134,7 @@
       "blocks": {
         "e37fccdb-f8e5-4b0d-a52c-9e0934f564f5": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p><strong>Dear Healthcare Provider<\/strong><\/p>"
           }
@@ -656,7 +150,7 @@
         "template--16093998776482__27d61874-db44-4909-907a-3a9b58587ffb-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Key features of Xialla are:<\/p><ul><li><strong>3x More Effective:<\/strong> A ring that moves allows blood to escape. A ring that stays in place traps blood better, creating a stronger and longer-lasting erection.<\/li><\/ul><p><\/p><ul><li><strong>No Initial Erection Required:<\/strong> Regular rings need an erection to start, otherwise they move out of place. Xialla stays in place so you can start with or without an erection.<\/li><\/ul><p><\/p><ul><li><strong>Enhanced Comfort:<\/strong> A ring that's not held in place needs to be very tight in order to work. Xialla doesn't need to be as tight, making Xialla more comfortable.<\/li><\/ul><p><em>Please complete the short form below and we will send you Xialla samples and literature for your evaluation, and contact you to provide additional information.<\/em><\/p><p><em>Sincerely,<\/em><\/p><p><\/p><p><\/p><p><\/p>"
+            "text": "<p><em>Complete the short form below and we will send you Xialla samples and literature for your evaluation, and contact you to provide additional information.<\/em><\/p><p><em>Sincerely,<\/em><\/p><p><\/p><p><\/p><p><\/p>"
           }
         },
         "template--16093998776482__27d61874-db44-4909-907a-3a9b58587ffb-button-1": {
@@ -791,18 +285,8 @@
   "order": [
     "main",
     "13e409bd-c158-4cd0-bb13-77fbbc2d6233",
-    "af250692-7c6d-443c-9006-6305ed20edd7",
-    "318443c4-1312-45de-b061-0582341d85d8",
     "04a736ea-1ea8-48d7-a1ac-506e9e56abfa",
-    "e4cfe205-463a-4d6d-8f86-caf66e3f074e",
-    "d60a5dd9-d164-4e59-8fcf-a3b01d463e98",
-    "2d3744d8-e996-45a8-97b5-bc89789308f6",
-    "4ddf447f-f278-4efd-bc1c-e9485748a58c",
     "76ed3d80-4742-49a2-b9f2-814722b600c1",
-    "34758cf3-58ee-46c6-acf9-7c8cb0ede22d",
-    "1664048786865ff34e",
-    "56350d18-543a-449a-b40c-0554dfa3e444",
-    "933ea82b-4b8e-4bd5-9f49-3c8ebfa8ba34",
     "04c2f305-a1e1-425f-a080-3a58ec56d7e4",
     "27d61874-db44-4909-907a-3a9b58587ffb",
     "3122908c-43fd-4bd7-bfcb-cf78f812ee52"
