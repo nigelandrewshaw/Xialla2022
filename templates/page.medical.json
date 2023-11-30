@@ -14,7 +14,7 @@
         "ffef14ee-5d1a-4ffc-b511-7b63528930fe": {
           "type": "caption",
           "settings": {
-            "caption": "UROLOGIST PARTNER PROGRAM"
+            "caption": "HEALTHCARE PROVIDER PARTNER PROGRAM"
           }
         },
         "template--16093998776482__13e409bd-c158-4cd0-bb13-77fbbc2d6233-1676507264f95f840a-0": {
@@ -642,7 +642,7 @@
         "e37fccdb-f8e5-4b0d-a52c-9e0934f564f5": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Dear Fellow Urologist<\/strong><\/p>"
+            "text": "<p><strong>Dear Healthcare Provider<\/strong><\/p>"
           }
         },
         "template--16093998776482__27d61874-db44-4909-907a-3a9b58587ffb-heading-1": {
@@ -710,7 +710,7 @@
             "field-type": "plain-text",
             "label": "",
             "id": "",
-            "content": "The program is currently open to urologists in the USA and Canada.",
+            "content": "The program is currently open to urologists and healthcare providers in the USA and Canada.",
             "required": false
           }
         },
@@ -774,7 +774,7 @@
         "b4eb9817-196d-4411-9864-e0ea4392980f"
       ],
       "settings": {
-        "heading": "Form: Urologist Partner Program",
+        "heading": "Form: Healthcare Provider Partner Program",
         "form-id": "partnership-form",
         "zapier-webhook-url": "https:\/\/hooks.zapier.com\/hooks\/catch\/4718621\/31y1vld\/",
         "success-message": "Thank you. We'll be in touch shortly!",
