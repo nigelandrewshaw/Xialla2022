@@ -204,7 +204,7 @@
             "field-type": "plain-text",
             "label": "",
             "id": "",
-            "content": "The program is currently open to urologists and healthcare providers in the USA and Canada.",
+            "content": "Open to urologists and healthcare providers in the USA and Canada.",
             "required": false
           }
         },
@@ -268,7 +268,7 @@
         "b4eb9817-196d-4411-9864-e0ea4392980f"
       ],
       "settings": {
-        "heading": "Form: Healthcare Provider Partner Program",
+        "heading": "Form: Partner with Us",
         "form-id": "partnership-form",
         "zapier-webhook-url": "https:\/\/hooks.zapier.com\/hooks\/catch\/4718621\/31y1vld\/",
         "success-message": "Thank you. We'll be in touch shortly!",
