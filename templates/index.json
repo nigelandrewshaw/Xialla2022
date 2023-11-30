@@ -44,7 +44,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/stock-photo-man-embracing-going-kiss-sensual.jpg",
         "image_overlay_opacity": 20,
-        "image_height": "medium",
+        "image_height": "large",
         "adapt_height_first_image": false,
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
