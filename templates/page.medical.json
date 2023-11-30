@@ -252,7 +252,7 @@
           "type": "contact-field",
           "settings": {
             "field-type": "textarea",
-            "label": "Your USA or Canada mailing address",
+            "label": "Your USA or Canada mailing address *",
             "id": "mailing-address",
             "content": "",
             "required": true
