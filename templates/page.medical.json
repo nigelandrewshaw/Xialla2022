@@ -748,7 +748,7 @@
           "type": "contact-field",
           "settings": {
             "field-type": "text",
-            "label": "Your medical designation",
+            "label": "Your urologist or healthcare provider designation",
             "id": "designation",
             "content": "",
             "required": true
