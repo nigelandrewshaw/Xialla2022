@@ -147,7 +147,7 @@
             "settings": {
               "text": "UROLOGISTS AND HEALTHCARE PROVIDERS",
               "text_alignment": "right",
-              "color_scheme": "accent-2",
+              "color_scheme": "inverse",
               "link": "shopify:\/\/pages\/medical"
             }
           }
