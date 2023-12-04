@@ -80,7 +80,16 @@
           "settings": {
             "heading": "Prescribing Xialla",
             "icon": "none",
-            "row_content": "<ol><li>Xialla is effective for venous leak-related ED.<\/li><li>For more severe cases, Xialla works well with pumps, injections and oral medication.<\/li><li>Inject before putting on Xialla so the Xialla doesn't interfere with the injection procedure.<\/li><li>Xialla is safer and more comfortable than other rings as it doesn't need to be as tight to be effective.<\/li><li>Xialla can be put on flaccid or erect.<\/li><\/ol>",
+            "row_content": "<ol><li>Xialla is effective for venous leak-related ED.<\/li><li>For more severe cases, Xialla works well with pumps, injections and oral medication.<\/li><li>Inject before putting on Xialla so the Xialla doesn't interfere with the injection procedure.<\/li><li>Xialla is safer and more comfortable than other rings as it doesn't need to be as tight to be effective.<\/li><li>Xialla can be put on flaccid or erect.<\/li><\/ol><p><\/p>",
+            "page": ""
+          }
+        },
+        "0aacb3dd-d8ba-41f8-9f69-6b19a01e952c": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Benefits of Xialla",
+            "icon": "none",
+            "row_content": "<ul><li>The primary benefit of Xialla is effective treatment of VOD.  <\/li><li>Xialla has <a href=\"\/blogs\/knowledge-center\/the-unique-benefits-of-xialla\" title=\"The unique benefits of Xialla\">several other unique benefits<\/a> as a result of the retraction of the ring toward the base of the penis.<\/li><li>We find customers love hearing about the many benefits and it encourages better effort to achieve success.<\/li><\/ul>",
             "page": ""
           }
         },
@@ -89,7 +98,7 @@
           "settings": {
             "heading": "Sizing",
             "icon": "none",
-            "row_content": "<p>The patient will choose the size from our website at the time of purchase. <\/p><p>We have a sizing chart. <\/p><p>We advise the patient to choose Regular if unsure. <\/p><p>10% of users change size to Thicker and 10% to Slender<\/p>",
+            "row_content": "<ul><li>The patient will choose the size from our website at the time of purchase. <\/li><li>We have a sizing chart <a href=\"https:\/\/xialla.com\/blogs\/help\/what-size-should-i-order\" title=\"https:\/\/xialla.com\/blogs\/help\/what-size-should-i-order\">here<\/a> as well as on the product order page<\/li><li>We advise the patient to choose Regular size if unsure. <\/li><li>10% of users change size to Thicker and 10% to Slender.<\/li><\/ul>",
             "page": ""
           }
         },
@@ -125,6 +134,7 @@
         "48ab6f8d-23bb-4e76-a592-f528cdc3c948",
         "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-1",
         "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-2",
+        "0aacb3dd-d8ba-41f8-9f69-6b19a01e952c",
         "2d7c8514-4ab6-4479-bfcf-e59cd04e9ba3",
         "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-3",
         "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-4",
