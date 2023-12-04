@@ -30,17 +30,29 @@
             "text": "Xialla is clinically proven to treat venous leak more effectively than conventional constriction rings.",
             "text_style": "body"
           }
+        },
+        "23fbf5f2-df02-4466-a607-843ea667646b": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Already a partner?",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
         "ffef14ee-5d1a-4ffc-b511-7b63528930fe",
         "template--16093998776482__13e409bd-c158-4cd0-bb13-77fbbc2d6233-1676507264f95f840a-0",
-        "template--16093998776482__13e409bd-c158-4cd0-bb13-77fbbc2d6233-1676507264f95f840a-1"
+        "template--16093998776482__13e409bd-c158-4cd0-bb13-77fbbc2d6233-1676507264f95f840a-1",
+        "23fbf5f2-df02-4466-a607-843ea667646b"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Artboard_1-100_bbc2f44f-781a-4e3a-90d4-06f4e7b71c24.jpg",
         "image_overlay_opacity": 20,
-        "image_height": "small",
+        "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "top-left",
         "show_text_box": false,
