@@ -53,10 +53,82 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "d4cd82c8-186e-43b0-8ac7-4dcbab37f642": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How the partnership works",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Prescribing Xialla",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Our support for your physician\/patient relationship",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Samples",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "5c791fb4-66a0-4cab-8cca-9396bdf714ad": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Referral cards",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-1",
+        "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-2",
+        "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-3",
+        "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-4",
+        "5c791fb4-66a0-4cab-8cca-9396bdf714ad"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "FAQ",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "e6ff2520-8950-43ef-b270-700de21448fe"
+    "e6ff2520-8950-43ef-b270-700de21448fe",
+    "d4cd82c8-186e-43b0-8ac7-4dcbab37f642"
   ]
 }
