@@ -116,7 +116,7 @@
           "settings": {
             "heading": "Samples",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>We will send you a sample pack of Xiallas.<\/p>",
             "page": ""
           }
         },
@@ -125,7 +125,7 @@
           "settings": {
             "heading": "Referral cards",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<ul><li>We will send you referral cards customized with your unique discount code, QR code name and office phone number. <\/li><li>The discount gives the patient 20% off for life.<\/li><li>The card is like a credit card, easy to keep handy and use for repeat purchases of adhesive pads.<\/li><\/ul>",
             "page": ""
           }
         }
