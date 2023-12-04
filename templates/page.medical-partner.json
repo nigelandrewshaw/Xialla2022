@@ -2,13 +2,61 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "e6ff2520-8950-43ef-b270-700de21448fe": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16410224328866__e6ff2520-8950-43ef-b270-700de21448fe-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Partner Page",
+            "heading_size": "h1",
+            "force_h1": false
+          }
+        },
+        "template--16410224328866__e6ff2520-8950-43ef-b270-700de21448fe-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Information for Xialla urologist and healthcare provider partners coming here soon.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16410224328866__e6ff2520-8950-43ef-b270-700de21448fe-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16410224328866__e6ff2520-8950-43ef-b270-700de21448fe-heading-1",
+        "template--16410224328866__e6ff2520-8950-43ef-b270-700de21448fe-text-1",
+        "template--16410224328866__e6ff2520-8950-43ef-b270-700de21448fe-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Faysal_Team_Pic.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "e6ff2520-8950-43ef-b270-700de21448fe"
   ]
 }
