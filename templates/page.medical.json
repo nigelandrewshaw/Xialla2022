@@ -40,7 +40,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Artboard_1-100_bbc2f44f-781a-4e3a-90d4-06f4e7b71c24.jpg",
         "image_overlay_opacity": 20,
-        "image_height": "medium",
+        "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "top-left",
         "show_text_box": false,
@@ -150,7 +150,7 @@
         "template--16093998776482__27d61874-db44-4909-907a-3a9b58587ffb-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h3>How it works<\/h3><ol><li>You don't need to stock\/sell Xiallas.<\/li><li>We will send you free Xialla samples.<\/li><li>We'll send you a trial set of Xialla referral cards.<\/li><li>You hand a referral card to a patient.<\/li><li>The patient buys Xialla on our website. Xialla regular price is $50.<\/li><li>The referral card gives the patient 20% off for life. <\/li><li>We handle all customer support (free size changes, money-back guarantee, warranty, customer questions).<\/li><li>We respect and support the physician-patient relationship.<\/li><\/ol><h3>Get started<\/h3><p>Fill out the short form below to get started.<\/p><p>We look forward to working with you!<\/p><p><\/p><p><\/p><p><\/p><p><\/p>"
+            "text": "<h3>How it works<\/h3><ol><li>You don't need to stock\/sell Xiallas.<\/li><li>We will send you free Xialla samples.<\/li><li>We'll send you a trial set of Xialla referral cards.<\/li><li>You hand a referral card to a patient.<\/li><li>The patient buys Xialla on our website. Xialla regular price is $50.<\/li><li>The referral card gives the patient 20% off for life. <\/li><li>We handle all customer support (free size changes, money-back guarantee, warranty, customer questions).<\/li><li>We respect and support the physician-patient relationship.<\/li><\/ol><h3>Get started<\/h3><ul><li>Fill out the short form below to get started. <\/li><li>Open to urologists and sexual medicine healthcare providers in the USA and Canada<\/li><\/ul><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p>"
           }
         },
         "template--16093998776482__27d61874-db44-4909-907a-3a9b58587ffb-button-1": {
@@ -163,28 +163,13 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
-        },
-        "c351710e-d061-49da-8f22-34e7661898a9": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Nigel_Shaw_2x_577f3052-7572-4def-89e5-15d4b3b66f88.png",
-            "image_padding": false
-          }
-        },
-        "e73eab1e-d554-4dbb-8ea9-d93362fa5ba6": {
-          "type": "text",
-          "settings": {
-            "text": "<p><em>Nigel (CEO and Inventor) on behalf of  the Xialla Medical Team<br\/>Dr. Bella, Dr. Elterman and Dr. Yafi<\/em><\/p>"
-          }
         }
       },
       "block_order": [
         "e37fccdb-f8e5-4b0d-a52c-9e0934f564f5",
         "template--16093998776482__27d61874-db44-4909-907a-3a9b58587ffb-heading-1",
         "template--16093998776482__27d61874-db44-4909-907a-3a9b58587ffb-text-1",
-        "template--16093998776482__27d61874-db44-4909-907a-3a9b58587ffb-button-1",
-        "c351710e-d061-49da-8f22-34e7661898a9",
-        "e73eab1e-d554-4dbb-8ea9-d93362fa5ba6"
+        "template--16093998776482__27d61874-db44-4909-907a-3a9b58587ffb-button-1"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -192,7 +177,7 @@
         "color_scheme": "background-2",
         "full_width": true,
         "padding_top": 100,
-        "padding_bottom": 100
+        "padding_bottom": 0
       }
     },
     "3122908c-43fd-4bd7-bfcb-cf78f812ee52": {
@@ -200,6 +185,7 @@
       "blocks": {
         "6b56447c-1f0a-4573-a2b4-529190e198e1": {
           "type": "contact-field",
+          "disabled": true,
           "settings": {
             "field-type": "plain-text",
             "label": "",
@@ -268,7 +254,7 @@
         "b4eb9817-196d-4411-9864-e0ea4392980f"
       ],
       "settings": {
-        "heading": "Form: Partner with Us",
+        "heading": "",
         "form-id": "partnership-form",
         "zapier-webhook-url": "https:\/\/hooks.zapier.com\/hooks\/catch\/4718621\/31y1vld\/",
         "success-message": "Thank you. We'll be in touch shortly!",
@@ -276,8 +262,8 @@
         "submit-button-label": "Submit",
         "form-mode": "normal",
         "heading_size": "h1",
-        "color_scheme": "background-1",
-        "padding_top": 100,
+        "color_scheme": "background-2",
+        "padding_top": 0,
         "padding_bottom": 100
       }
     }
