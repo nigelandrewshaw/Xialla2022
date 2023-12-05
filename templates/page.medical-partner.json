@@ -22,7 +22,7 @@
         "template--16410224328866__e6ff2520-8950-43ef-b270-700de21448fe-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Informatoin for urologists and healthcare providers starting or engaged in a partnership with Xialla<\/p>",
+            "text": "<p>Information for urologists and healthcare providers starting or engaged in a partnership with Xialla<\/p>",
             "text_style": "body"
           }
         },
@@ -57,6 +57,15 @@
     "d4cd82c8-186e-43b0-8ac7-4dcbab37f642": {
       "type": "collapsible-content",
       "blocks": {
+        "8b77b1ff-909c-4deb-84c8-30da6407dc1d": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "About the partnership",
+            "icon": "none",
+            "row_content": "<p>A partnership with Xialla lets you refer patients to buy Xialla from us. Your patient benefits from the best venous leak treatment. You benefit from a hassle-free partnership. We benefit from your referrals. <\/p>",
+            "page": ""
+          }
+        },
         "48ab6f8d-23bb-4e76-a592-f528cdc3c948": {
           "type": "collapsible_row",
           "settings": {
@@ -131,6 +140,7 @@
         }
       },
       "block_order": [
+        "8b77b1ff-909c-4deb-84c8-30da6407dc1d",
         "48ab6f8d-23bb-4e76-a592-f528cdc3c948",
         "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-1",
         "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-2",
