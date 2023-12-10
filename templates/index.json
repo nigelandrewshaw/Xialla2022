@@ -928,6 +928,7 @@
     },
     "d50c1fdd-3fb3-4146-aa93-e7278fed4f88": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "News",
         "heading_size": "h1",
@@ -996,7 +997,7 @@
         "background_style": "primary",
         "button_label": "Buy",
         "button_link": "shopify:\/\/products\/xialla",
-        "color_scheme": "background-2",
+        "color_scheme": "background-1",
         "columns_tablet": "1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
