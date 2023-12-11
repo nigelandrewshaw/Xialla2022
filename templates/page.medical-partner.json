@@ -143,7 +143,7 @@
           "settings": {
             "heading": "Request additional samples or referral cards",
             "icon": "none",
-            "row_content": "<p>We're glad to send you additional samples or referral cards at no charge. <\/p><p><a href=\"mailto:nshaw@xialla.com\" title=\"mailto:nshaw@xialla.com\">Just click here to ask<\/a>. <\/p>",
+            "row_content": "<p>We're glad to send you additional samples or referral cards at no charge. <\/p><p><a href=\"mailto:nshaw@xialla.com\" title=\"mailto:nshaw@xialla.com\">Click here to request additional samples or referral cards<\/a>. <\/p>",
             "page": ""
           }
         }
