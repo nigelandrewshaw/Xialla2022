@@ -125,7 +125,7 @@
           "settings": {
             "heading": "Samples",
             "icon": "none",
-            "row_content": "<p>We will send you a sample pack of Xiallas.<\/p>",
+            "row_content": "<p>We will send you a sample pack of Xiallas.<\/p><p>If you would like more samples, just ask. <\/p>",
             "page": ""
           }
         },
