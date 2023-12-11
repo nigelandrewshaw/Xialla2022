@@ -138,6 +138,15 @@
             "page": ""
           }
         },
+        "205748fc-717b-4eca-a00d-f6e980b06dec": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Support",
+            "icon": "none",
+            "row_content": "<p>We will fully support your patient for  size changes, warranty, money-back guarantee, and all non-medical  questions. <\/p><p>We will refer the patient back to you for medical questions. <\/p><p>The support link is here: www.xialla.com\/support and also on the referral cards.<\/p>",
+            "page": ""
+          }
+        },
         "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-4": {
           "type": "collapsible_row",
           "settings": {
@@ -176,6 +185,7 @@
         "8dbec830-ab29-42ef-9698-c6b6420d9891",
         "2d7c8514-4ab6-4479-bfcf-e59cd04e9ba3",
         "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-3",
+        "205748fc-717b-4eca-a00d-f6e980b06dec",
         "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-4",
         "5c791fb4-66a0-4cab-8cca-9396bdf714ad",
         "4d4035f0-369a-44b6-b321-e592f09e5092"
