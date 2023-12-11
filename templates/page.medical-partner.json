@@ -141,9 +141,9 @@
         "4d4035f0-369a-44b6-b321-e592f09e5092": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Request more samples or referral cards",
+            "heading": "Request additional samples or referral cards",
             "icon": "none",
-            "row_content": "<p>We're glad to send you more samples or referral cards at no charge. <\/p><p><a href=\"mailto:nshaw@xialla.com\" title=\"mailto:nshaw@xialla.com\">Just click here to ask<\/a>. <\/p>",
+            "row_content": "<p>We're glad to send you additional samples or referral cards at no charge. <\/p><p><a href=\"mailto:nshaw@xialla.com\" title=\"mailto:nshaw@xialla.com\">Just click here to ask<\/a>. <\/p>",
             "page": ""
           }
         }
