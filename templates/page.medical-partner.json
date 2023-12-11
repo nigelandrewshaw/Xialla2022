@@ -125,7 +125,7 @@
           "settings": {
             "heading": "Samples",
             "icon": "none",
-            "row_content": "<p>We will send you a sample pack of Xiallas.<\/p><p>If you would like more samples, just ask. <\/p>",
+            "row_content": "<p>We will send you a sample pack of Xiallas.<\/p>",
             "page": ""
           }
         },
@@ -135,6 +135,15 @@
             "heading": "Referral cards",
             "icon": "none",
             "row_content": "<ul><li>We will send you referral cards customized with your unique discount code, QR code name and office phone number. <\/li><li>The discount gives the patient 20% off for life.<\/li><li>The card is like a credit card, easy to keep handy and use for repeat purchases of adhesive pads.<\/li><\/ul>",
+            "page": ""
+          }
+        },
+        "4d4035f0-369a-44b6-b321-e592f09e5092": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Request more samples or referral cards",
+            "icon": "none",
+            "row_content": "<p>We're glad to send you more samples or referral cards at no charge. <\/p><p><a href=\"mailto:nshaw@xialla.com\" title=\"mailto:nshaw@xialla.com\">Just click here to ask<\/a>. <\/p>",
             "page": ""
           }
         }
@@ -148,7 +157,8 @@
         "2d7c8514-4ab6-4479-bfcf-e59cd04e9ba3",
         "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-3",
         "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-4",
-        "5c791fb4-66a0-4cab-8cca-9396bdf714ad"
+        "5c791fb4-66a0-4cab-8cca-9396bdf714ad",
+        "4d4035f0-369a-44b6-b321-e592f09e5092"
       ],
       "settings": {
         "caption": "",
