@@ -54,6 +54,49 @@
         "padding_bottom": 36
       }
     },
+    "757d559b-5938-463d-af02-714a874d2353": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16410224328866__757d559b-5938-463d-af02-714a874d2353-heading-1": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "Partnership Overview",
+            "heading_size": "h1",
+            "force_h1": false
+          }
+        },
+        "template--16410224328866__757d559b-5938-463d-af02-714a874d2353-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--16410224328866__757d559b-5938-463d-af02-714a874d2353-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16410224328866__757d559b-5938-463d-af02-714a874d2353-heading-1",
+        "template--16410224328866__757d559b-5938-463d-af02-714a874d2353-text-1",
+        "template--16410224328866__757d559b-5938-463d-af02-714a874d2353-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "d4cd82c8-186e-43b0-8ac7-4dcbab37f642": {
       "type": "collapsible-content",
       "blocks": {
@@ -219,6 +262,7 @@
   "order": [
     "main",
     "e6ff2520-8950-43ef-b270-700de21448fe",
+    "757d559b-5938-463d-af02-714a874d2353",
     "d4cd82c8-186e-43b0-8ac7-4dcbab37f642"
   ]
 }
