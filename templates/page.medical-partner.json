@@ -40,6 +40,7 @@
         "template--16410224328866__e6ff2520-8950-43ef-b270-700de21448fe-text-1",
         "template--16410224328866__e6ff2520-8950-43ef-b270-700de21448fe-button-1"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Faysal_Team_Pic.jpg",
         "height": "adapt",
@@ -54,6 +55,61 @@
         "padding_bottom": 36
       }
     },
+    "9fb183f7-f846-454e-90c2-a9470f0d296e": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16410224328866__9fb183f7-f846-454e-90c2-a9470f0d296e-caption-1": {
+          "type": "caption",
+          "settings": {
+            "caption": "Urologists and Healthcare Providers"
+          }
+        },
+        "template--16410224328866__9fb183f7-f846-454e-90c2-a9470f0d296e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "Partner Information",
+            "heading_size": "h2"
+          }
+        },
+        "template--16410224328866__9fb183f7-f846-454e-90c2-a9470f0d296e-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--16410224328866__9fb183f7-f846-454e-90c2-a9470f0d296e-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Not a Partner? Sign Up",
+            "button_link_2": "shopify:\/\/pages\/medical",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "template--16410224328866__9fb183f7-f846-454e-90c2-a9470f0d296e-caption-1",
+        "template--16410224328866__9fb183f7-f846-454e-90c2-a9470f0d296e-heading-1",
+        "template--16410224328866__9fb183f7-f846-454e-90c2-a9470f0d296e-text-1",
+        "template--16410224328866__9fb183f7-f846-454e-90c2-a9470f0d296e-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Faysal_Team_Pic.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "bottom-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "757d559b-5938-463d-af02-714a874d2353": {
       "type": "rich-text",
       "blocks": {
@@ -65,14 +121,9 @@
             "force_h1": false
           }
         },
-        "template--16410224328866__757d559b-5938-463d-af02-714a874d2353-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
         "template--16410224328866__757d559b-5938-463d-af02-714a874d2353-button-1": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": "",
@@ -85,7 +136,6 @@
       },
       "block_order": [
         "template--16410224328866__757d559b-5938-463d-af02-714a874d2353-heading-1",
-        "template--16410224328866__757d559b-5938-463d-af02-714a874d2353-text-1",
         "template--16410224328866__757d559b-5938-463d-af02-714a874d2353-button-1"
       ],
       "settings": {
@@ -262,6 +312,7 @@
   "order": [
     "main",
     "e6ff2520-8950-43ef-b270-700de21448fe",
+    "9fb183f7-f846-454e-90c2-a9470f0d296e",
     "757d559b-5938-463d-af02-714a874d2353",
     "d4cd82c8-186e-43b0-8ac7-4dcbab37f642"
   ]
