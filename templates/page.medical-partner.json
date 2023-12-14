@@ -136,7 +136,7 @@
         "f9a9b307-db15-4826-a291-db02c9d6a0e0": {
           "type": "text",
           "settings": {
-            "text": "<p>The Xialla partnership is simple and hassle free. You don't need to stock or resell Xiallas. We provide you with unique customized referral cards (visa-sized) that gives the patient a 20% lifetime discount. The patient buys from our site. We take care of everything with our 5-star customer service while respecting your physician-patient relationship.<\/p>"
+            "text": "<p>The Xialla partnership is simple and hassle free. You don't need to stock or resell Xiallas. We provide you with unique customized referral cards (credit card-size) that give your patients a 20% lifetime discount. The patient buys direct from our website. We take care of everything with our 5-star customer service, while respecting your physician-patient relationship.<\/p>"
           }
         }
       },
@@ -190,6 +190,15 @@
             "heading": "Prescribing Xialla",
             "icon": "none",
             "row_content": "<ol><li>Xialla is effective for venous leak-related ED.<\/li><li>For more severe cases, Xialla works well with pumps, injections and oral medication.<\/li><li>Inject before putting on Xialla so the Xialla doesn't interfere with the injection procedure.<\/li><li>Xialla is safer and more comfortable than other rings as it doesn't need to be as tight to be effective.<\/li><li>Xialla can be put on flaccid or erect.<\/li><\/ol><p><\/p>",
+            "page": ""
+          }
+        },
+        "70b9450f-4066-41ab-96a0-2d553a379ed4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Pricing",
+            "icon": "none",
+            "row_content": "<ul><li>Xialla costs $50 USD. It comes with 10 single-uses adhesive pads. <\/li><li>Adhesive pad refills are available in packs of 20\/40\/60, starting at $24 USD.<\/li><\/ul>",
             "page": ""
           }
         },
@@ -289,6 +298,7 @@
         "48ab6f8d-23bb-4e76-a592-f528cdc3c948",
         "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-1",
         "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-2",
+        "70b9450f-4066-41ab-96a0-2d553a379ed4",
         "140e6914-d51d-41f6-ad0f-b189c18a33e6",
         "0aacb3dd-d8ba-41f8-9f69-6b19a01e952c",
         "8dbec830-ab29-42ef-9698-c6b6420d9891",
