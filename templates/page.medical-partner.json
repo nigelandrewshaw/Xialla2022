@@ -150,8 +150,8 @@
         "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 100,
+        "padding_bottom": 12
       }
     },
     "d4cd82c8-186e-43b0-8ac7-4dcbab37f642": {
