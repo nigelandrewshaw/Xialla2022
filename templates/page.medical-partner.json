@@ -74,7 +74,7 @@
         "template--16410224328866__9fb183f7-f846-454e-90c2-a9470f0d296e-text-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "",
             "text_style": "body"
           }
         },
@@ -132,11 +132,18 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
+        },
+        "f9a9b307-db15-4826-a291-db02c9d6a0e0": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Xialla partnership is designed to make working with us as simple and hassle-free as possible. You don't have to stock or resell Xiallas. We provide you with unique customized referral cards (visa-sized) that give the patient a 20% lifetime discount. The patient buys from our site. We take care of everything with our 5-star customer service. <\/p>"
+          }
         }
       },
       "block_order": [
         "template--16410224328866__757d559b-5938-463d-af02-714a874d2353-heading-1",
-        "template--16410224328866__757d559b-5938-463d-af02-714a874d2353-button-1"
+        "template--16410224328866__757d559b-5938-463d-af02-714a874d2353-button-1",
+        "f9a9b307-db15-4826-a291-db02c9d6a0e0"
       ],
       "settings": {
         "desktop_content_position": "left",
