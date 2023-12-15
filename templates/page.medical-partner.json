@@ -198,7 +198,7 @@
           "settings": {
             "heading": "Instructions for use",
             "icon": "none",
-            "row_content": "<p>See <a href=\"\/pages\/instructions\" title=\"Instructions\">this page<\/a>. <\/p>",
+            "row_content": "<p>See <a href=\"\/pages\/instructions\" title=\"Instructions\">this page<\/a> for basic instructions. More detailed instructions come with each Xialla.<\/p>",
             "page": ""
           }
         },
