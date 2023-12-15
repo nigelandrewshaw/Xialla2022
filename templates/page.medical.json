@@ -240,7 +240,7 @@
           "type": "contact-field",
           "settings": {
             "field-type": "text",
-            "label": "Your urologist or healthcare provider designation",
+            "label": "Your medical accreditation",
             "id": "designation",
             "content": "",
             "required": true
