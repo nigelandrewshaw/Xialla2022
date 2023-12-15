@@ -303,7 +303,7 @@
         "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Prescribing Xialla",
+            "heading": "Prescribing",
             "icon": "none",
             "row_content": "<ol><li>Xialla is effective for venous leak-related ED.<\/li><li>For more severe cases, Xialla works well with pumps, injections and oral medication.<\/li><li>Inject before putting on Xialla so the Xialla doesn't interfere with the injection procedure.<\/li><li>Xialla is safer and more comfortable than other rings as it doesn't need to be as tight to be effective.<\/li><li>Xialla can be put on flaccid or erect.<\/li><\/ol><p><\/p>",
             "page": "",
@@ -350,16 +350,6 @@
             "is_header": true
           }
         },
-        "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Size changes, warranty, money-back guarantee",
-            "icon": "none",
-            "row_content": "<ul><li>We will exchange the size for a different size for at no charge.<\/li><li>We will replace any broken or defective Xialla at no charge within one year.<\/li><li>We will issue a full refund if Xialla is not effective for the patient, or if the patient is dissatisfied for any reason.<\/li><\/ul>",
-            "page": "",
-            "is_header": false
-          }
-        },
         "205748fc-717b-4eca-a00d-f6e980b06dec": {
           "type": "collapsible_row",
           "settings": {
@@ -370,14 +360,24 @@
             "is_header": false
           }
         },
-        "98f02a02-2187-4008-a701-d428b10b7de6": {
+        "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Urologist and healthcare provider support",
+            "heading": "Size changes, warranty, money-back guarantee",
             "icon": "none",
-            "row_content": "<p>Contact Nigel Shaw at <a href=\"mailto:nshaw@xialla.com\" title=\"mailto:nshaw@xialla.com\">nshaw@xialla.com<\/a>.<\/p>",
+            "row_content": "<ul><li>We will exchange the size for a different size for at no charge.<\/li><li>We will replace any broken or defective Xialla at no charge within one year.<\/li><li>We will issue a full refund if Xialla is not effective for the patient, or if the patient is dissatisfied for any reason.<\/li><\/ul>",
             "page": "",
             "is_header": false
+          }
+        },
+        "fd6c8b9e-18e4-4325-9621-d7bb240ee6e7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Physician Support",
+            "icon": "none",
+            "row_content": "",
+            "page": "",
+            "is_header": true
           }
         },
         "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-4": {
@@ -427,9 +427,9 @@
         "2d7c8514-4ab6-4479-bfcf-e59cd04e9ba3",
         "140e6914-d51d-41f6-ad0f-b189c18a33e6",
         "599755cb-eb53-41b6-b2f7-c352be2a7403",
-        "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-3",
         "205748fc-717b-4eca-a00d-f6e980b06dec",
-        "98f02a02-2187-4008-a701-d428b10b7de6",
+        "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-3",
+        "fd6c8b9e-18e4-4325-9621-d7bb240ee6e7",
         "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-4",
         "5c791fb4-66a0-4cab-8cca-9396bdf714ad",
         "4d4035f0-369a-44b6-b321-e592f09e5092"
