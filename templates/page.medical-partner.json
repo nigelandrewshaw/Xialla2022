@@ -365,7 +365,7 @@
           "settings": {
             "heading": "Contact",
             "icon": "none",
-            "row_content": "<p>Click the Support link at the top of the website www.xialla.com<\/p>",
+            "row_content": "<p>Click the Support link at the top of the website <a href=\"https:\/\/www.xialla.com\" title=\"https:\/\/www.xialla.com\">www.xialla.com<\/a><\/p>",
             "page": "",
             "is_header": false
           }
