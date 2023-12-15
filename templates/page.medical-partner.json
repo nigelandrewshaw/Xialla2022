@@ -240,6 +240,16 @@
             "is_header": false
           }
         },
+        "ddf11e05-5e55-4cce-b6c5-c3fca13d0cf5": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Product",
+            "icon": "none",
+            "row_content": "",
+            "page": "",
+            "is_header": true
+          }
+        },
         "a76ba027-acd7-4b98-949f-b23e1d52d410": {
           "type": "collapsible_row",
           "settings": {
@@ -386,6 +396,7 @@
         "8b77b1ff-909c-4deb-84c8-30da6407dc1d",
         "48ab6f8d-23bb-4e76-a592-f528cdc3c948",
         "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-1",
+        "ddf11e05-5e55-4cce-b6c5-c3fca13d0cf5",
         "a76ba027-acd7-4b98-949f-b23e1d52d410",
         "1bb4aec8-ecac-4970-8222-76f15b98ba45",
         "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-2",
