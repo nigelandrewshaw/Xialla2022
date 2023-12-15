@@ -48,7 +48,7 @@
             {%- for block in section.blocks -%}
               {%- if block.settings.is_header -%}
                 <div style="padding-top:20px">
-                  <h3 class="h3">{{ block.settings.heading }}</h3>
+                  <h2 class="h2">{{ block.settings.heading }}</h2>
                 </div>
               {% else %}
                 <div class="accordion{% if section.settings.layout == 'row' %} content-container color-{{ section.settings.container_color_scheme }} gradient{% endif %}" {{ block.shopify_attributes }}>
