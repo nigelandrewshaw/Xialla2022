@@ -160,7 +160,7 @@
         "template--16410224328866__51ea00dc-7060-4914-a47f-c7a59cef4a36-heading-1": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "",
+            "custom_liquid": "Contact",
             "heading_size": "h1",
             "force_h1": false
           }
@@ -168,13 +168,13 @@
         "template--16410224328866__51ea00dc-7060-4914-a47f-c7a59cef4a36-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>For all questions and information about the partnership program, contact:<\/p><p><strong>Nigel Shaw<\/strong><br\/>613-606-9952 (call or text)<br\/>nshaw@xialla.com<\/p>"
           }
         },
         "template--16410224328866__51ea00dc-7060-4914-a47f-c7a59cef4a36-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": "",
             "button_style_secondary": false,
             "button_label_2": "",
@@ -189,54 +189,11 @@
         "template--16410224328866__51ea00dc-7060-4914-a47f-c7a59cef4a36-button-1"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "desktop_content_position": "left",
+        "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "55053813-107f-4c38-bfd2-6b59ce19a356": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16410224328866__55053813-107f-4c38-bfd2-6b59ce19a356-heading-1": {
-          "type": "heading",
-          "settings": {
-            "custom_liquid": "",
-            "heading_size": "h1",
-            "force_h1": false
-          }
-        },
-        "template--16410224328866__55053813-107f-4c38-bfd2-6b59ce19a356-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "template--16410224328866__55053813-107f-4c38-bfd2-6b59ce19a356-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16410224328866__55053813-107f-4c38-bfd2-6b59ce19a356-heading-1",
-        "template--16410224328866__55053813-107f-4c38-bfd2-6b59ce19a356-text-1",
-        "template--16410224328866__55053813-107f-4c38-bfd2-6b59ce19a356-button-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
+        "padding_top": 52,
         "padding_bottom": 52
       }
     },
@@ -420,7 +377,7 @@
         "caption": "",
         "heading": "What you Need to Know",
         "heading_size": "h1",
-        "heading_alignment": "center",
+        "heading_alignment": "left",
         "layout": "none",
         "color_scheme": "background-1",
         "container_color_scheme": "background-2",
@@ -429,7 +386,7 @@
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
         "padding_top": 36,
-        "padding_bottom": 100
+        "padding_bottom": 56
       }
     },
     "4ea9b48a-4543-44bc-8651-2ae174ea273d": {
@@ -531,7 +488,6 @@
     "9fb183f7-f846-454e-90c2-a9470f0d296e",
     "757d559b-5938-463d-af02-714a874d2353",
     "51ea00dc-7060-4914-a47f-c7a59cef4a36",
-    "55053813-107f-4c38-bfd2-6b59ce19a356",
     "d4cd82c8-186e-43b0-8ac7-4dcbab37f642",
     "4ea9b48a-4543-44bc-8651-2ae174ea273d",
     "57cb09f5-05be-4311-863a-c5cc66bb313e"
