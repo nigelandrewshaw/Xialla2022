@@ -196,10 +196,10 @@
         "1bb4aec8-ecac-4970-8222-76f15b98ba45": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Instruction for use",
+            "heading": "Instructions for use",
             "icon": "none",
-            "row_content": "",
-            "page": "instructions"
+            "row_content": "<p>See <a href=\"\/pages\/instructions\" title=\"Instructions\">this page<\/a>. <\/p>",
+            "page": ""
           }
         },
         "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-2": {
