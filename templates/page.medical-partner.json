@@ -350,22 +350,22 @@
             "is_header": true
           }
         },
-        "205748fc-717b-4eca-a00d-f6e980b06dec": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Patient support",
-            "icon": "none",
-            "row_content": "<ul><li>We will fully support your patient with five star customer service. <\/li><li>The patient will easily find the support link at the top of the website and on the referral card.<\/li><li>We fully respect the physician\/patient relationship and will refer the patient back to you for medical questions. <\/li><\/ul>",
-            "page": "",
-            "is_header": false
-          }
-        },
         "6b0e178f-264d-4fee-a060-224ef828c68e": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Contact",
             "icon": "none",
             "row_content": "<p>Click the Support link at the top of the website <a href=\"https:\/\/www.xialla.com\" title=\"https:\/\/www.xialla.com\">www.xialla.com<\/a><\/p>",
+            "page": "",
+            "is_header": false
+          }
+        },
+        "205748fc-717b-4eca-a00d-f6e980b06dec": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Patient support",
+            "icon": "none",
+            "row_content": "<ul><li>We will fully support your patient with five star customer service. <\/li><li>The patient will easily find the support link at the top of the website and on the referral card.<\/li><li>We fully respect the physician\/patient relationship and will refer the patient back to you for medical questions. <\/li><\/ul>",
             "page": "",
             "is_header": false
           }
@@ -447,8 +447,8 @@
         "2d7c8514-4ab6-4479-bfcf-e59cd04e9ba3",
         "140e6914-d51d-41f6-ad0f-b189c18a33e6",
         "599755cb-eb53-41b6-b2f7-c352be2a7403",
-        "205748fc-717b-4eca-a00d-f6e980b06dec",
         "6b0e178f-264d-4fee-a060-224ef828c68e",
+        "205748fc-717b-4eca-a00d-f6e980b06dec",
         "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-3",
         "fd6c8b9e-18e4-4325-9621-d7bb240ee6e7",
         "637f5a8f-69c6-4ebf-a9e8-eb72ed1e482f",
@@ -486,7 +486,7 @@
         "template--16410224328866__4ea9b48a-4543-44bc-8651-2ae174ea273d-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Below are the front and back of a sample referral card. We will send you 100 cards to start, customized wtih your personal discount code, name, phone number and QR code.<\/p><p>You give a card to a patient, and the patient gets 20% off Xialla products for life. We track your referrals and reward you or your charity of choice.  <\/p>"
+            "text": "<p>Below are the front and back of a sample referral card. We will send you 100 cards to start, customized wtih your personal discount code, name, phone number and QR code. <\/p><p>The cards are the size of a credit card. <\/p><p>You give a card to a patient, and the patient gets 20% off Xialla products for life. We track your referrals and reward you or your charity of choice.  <\/p>"
           }
         },
         "template--16410224328866__4ea9b48a-4543-44bc-8651-2ae174ea273d-button-1": {
