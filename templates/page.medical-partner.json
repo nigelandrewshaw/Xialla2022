@@ -380,6 +380,16 @@
             "is_header": true
           }
         },
+        "637f5a8f-69c6-4ebf-a9e8-eb72ed1e482f": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Contact",
+            "icon": "none",
+            "row_content": "<p>For all questions and information about the partnership program, contact:<\/p><p><strong>Nigel Shaw<\/strong><br\/>613-606-9952 (call or text)<br\/>nshaw@xialla.com<\/p>",
+            "page": "",
+            "is_header": false
+          }
+        },
         "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-4": {
           "type": "collapsible_row",
           "settings": {
@@ -430,6 +440,7 @@
         "205748fc-717b-4eca-a00d-f6e980b06dec",
         "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-3",
         "fd6c8b9e-18e4-4325-9621-d7bb240ee6e7",
+        "637f5a8f-69c6-4ebf-a9e8-eb72ed1e482f",
         "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-4",
         "5c791fb4-66a0-4cab-8cca-9396bdf714ad",
         "4d4035f0-369a-44b6-b321-e592f09e5092"
