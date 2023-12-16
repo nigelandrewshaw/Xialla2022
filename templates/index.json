@@ -55,6 +55,51 @@
         "show_text_below": true
       }
     },
+    "3f6949bd-1379-48b5-8f03-e47dbac221d7": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15921100783778__3f6949bd-1379-48b5-8f03-e47dbac221d7-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get 20% off everything!",
+            "heading_size": "h1",
+            "force_h1": false
+          }
+        },
+        "template--15921100783778__3f6949bd-1379-48b5-8f03-e47dbac221d7-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ring in the cheer with our surprise early-bird Christmas sale. Hurry! Expires Monday at midnight.<\/p><p><em><strong>Discount applied automatically at checkout.<\/strong><\/em><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15921100783778__3f6949bd-1379-48b5-8f03-e47dbac221d7-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15921100783778__3f6949bd-1379-48b5-8f03-e47dbac221d7-heading-1",
+        "template--15921100783778__3f6949bd-1379-48b5-8f03-e47dbac221d7-text-1",
+        "template--15921100783778__3f6949bd-1379-48b5-8f03-e47dbac221d7-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Merry_Christmas.webp",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "6006f24a-052c-452a-9a92-ff7fe619365f": {
       "type": "custom-liquid",
       "settings": {
@@ -999,6 +1044,7 @@
   },
   "order": [
     "image_banner",
+    "3f6949bd-1379-48b5-8f03-e47dbac221d7",
     "6006f24a-052c-452a-9a92-ff7fe619365f",
     "c34e9865-c5ed-4f7d-b6be-565659fc87be",
     "2bf3d88c-11f2-46b5-88c2-3fbf640152a1",
