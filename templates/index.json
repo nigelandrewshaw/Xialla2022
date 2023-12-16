@@ -92,6 +92,7 @@
         },
         "template--15921100783778__c34e9865-c5ed-4f7d-b6be-565659fc87be-16867436509ef987ee-2": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/AsSeenInEAU_9ad52dc3-3e42-4445-b64d-2f025c8d4c0e.png",
             "custom_image_url": "shopify:\/\/blogs\/news\/dean-elterman-and-faysal-yafi-attend-and-present-at-eua23",
@@ -103,6 +104,7 @@
         },
         "d1ec0405-3558-4731-b57f-715842ace2f2": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/AsSeenInPubMed.png",
             "custom_image_url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/37634032\/",
@@ -114,6 +116,7 @@
         },
         "f709b1d5-4e5f-455a-9056-78d63395951a": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/AsSeenInNIH.png",
             "custom_image_url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/37634032\/",
@@ -144,7 +147,7 @@
         "93b329f8-1d40-43ed-b9d4-badc4b13c735"
       ],
       "settings": {
-        "title": "Published in Leading Urology Journals",
+        "title": "Published in Leading Medical Journals",
         "title-centered": true,
         "images-greyscale": true,
         "heading_size": "h1",
