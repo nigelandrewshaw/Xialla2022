@@ -322,16 +322,6 @@
         "section_visibility": "hide-for-mobile"
       }
     },
-    "cda800f3-8179-4dbf-9a3f-0867269f4253": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<style>\n \nvideo { \n \ndisplay: block;\nmargin: 0 auto;\nwidth: 100%;\nheight: 50%;\n \n}\n \n<\/style>\n \n \n<video autoplay loop playsinline muted> \n<source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/cdfaa859dd3f47439141a7ce5d8543c3.mp4\">\n<\/video>",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52,
-        "section_visibility": "visible"
-      }
-    },
     "3c36047f-88ad-4488-bd35-720b0c5475e6": {
       "type": "multicolumn",
       "blocks": {
@@ -1015,7 +1005,6 @@
     "f3e6f818-d3ed-4040-8cc1-3cf9e7ba0203",
     "1664616703a24d7b00",
     "166425116431cde5aa",
-    "cda800f3-8179-4dbf-9a3f-0867269f4253",
     "3c36047f-88ad-4488-bd35-720b0c5475e6",
     "1664328183da5cbb42",
     "1664046577e327ab78",
