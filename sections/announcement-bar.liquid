@@ -8,7 +8,7 @@
           {%- endif -%}
               <div class="page-width">
                 <p class="announcement-bar__message {{ block.settings.text_alignment }} h5">
-                  <span class="button button--secondary" style="min-height:0px; padding:8px,4px,8px,4px">{{ block.settings.text | escape }}</span>
+                  <span class="button button--secondary" style="min-height:0px; height:28px; padding-left:8px; padding-right:8px">{{ block.settings.text | escape }}</span>
                   {%- comment -%}  
                   {%- if block.settings.link != blank -%}
                     {% render 'icon-arrow' %}
