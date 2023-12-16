@@ -117,7 +117,7 @@
                     {% if section.settings.image_ratio == 'adapt' %}
                       style="padding-bottom: {{ 1 | divided_by: highest_ratio | times: 100 }}%;"
                     {% endif %}
-                    {% if section.settings.images-greyscale %}
+                    {% if section.settings.images-greyscale == true %}
                       style="filter: grayscale(100%);"
                     {% endif %}
                   >
