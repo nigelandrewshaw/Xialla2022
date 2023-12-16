@@ -642,8 +642,8 @@
         "d78a4bf9-f0b2-4f02-bb3a-a67401c5835b"
       ],
       "settings": {
-        "title": "",
-        "title-centered": false,
+        "title": "Mind blowing product, impressive customer service",
+        "title-centered": true,
         "images-greyscale": false,
         "heading_size": "h1",
         "image_width": "third",
