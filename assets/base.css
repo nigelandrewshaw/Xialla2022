@@ -2244,7 +2244,6 @@ input[type='checkbox'] {
   margin: 0;
   letter-spacing: 0.1rem;
   font-family: var(--font-body-family);
-  border: 1px solid #000;
 }
 
 /* section-header */
