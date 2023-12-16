@@ -432,7 +432,7 @@
         "image": "shopify:\/\/shop_images\/Artboard_1_abdcae11-54c6-4760-8942-ef2dc72deca8.png",
         "image_mobile": "shopify:\/\/shop_images\/Artboard_1_abdcae11-54c6-4760-8942-ef2dc72deca8.png",
         "padding_top": 100,
-        "padding_bottom": 0,
+        "padding_bottom": 16,
         "fifty_percent_width": true,
         "image_link": "https:\/\/www.trustpilot.com\/review\/xialla.com"
       }
@@ -444,14 +444,14 @@
           "type": "heading",
           "settings": {
             "custom_liquid": "Rated \"Excellent\" on Trustpilot",
-            "heading_size": "h0",
+            "heading_size": "h1",
             "force_h1": false
           }
         },
         "1664046577ded4120f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Over 400 verified customer reviews!<\/p>"
+            "text": "<p>Almost 500 verified customer reviews!<\/p>"
           }
         },
         "ff7df603-2098-4a02-ab96-4dbe32df1c77": {
