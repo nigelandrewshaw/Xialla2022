@@ -169,7 +169,7 @@
         "template--15921100783778__2bf3d88c-11f2-46b5-88c2-3fbf640152a1-167448272198b62cb3-0": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "\"Finally there's a real breakthrough for the treatment of ED caused by venous leak.\"",
+            "custom_liquid": "Recommended by Leading Urological Surgeons",
             "heading_size": "h1",
             "force_h1": false
           }
@@ -177,7 +177,7 @@
         "9927aae6-39c2-433b-b39b-858c9bebb9b9": {
           "type": "text",
           "settings": {
-            "text": "<p>\"Xialla is an improved ED ring that works by slowing blood outflow (venous leak). Xialla's patented mechanism stops the ring from moving, making it 3x more effective.\" <\/p>"
+            "text": "<p>\"Finally there's a real breakthrough for the treatment of ED caused by venous leak.\" <\/p>"
           }
         },
         "ae7ea7ee-d83e-4384-a47e-f682f54dfd98": {
@@ -237,7 +237,7 @@
         "template--15921100783778__f3e6f818-d3ed-4040-8cc1-3cf9e7ba0203-heading-1": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "\"Xialla is revolutionizing what we can offer our patients.\"",
+            "custom_liquid": "Revolutionizing Venous Leak Treatment",
             "heading_size": "h1",
             "force_h1": false
           }
