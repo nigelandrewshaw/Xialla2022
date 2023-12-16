@@ -146,6 +146,7 @@
       "settings": {
         "title": "Recommended by leading urologists",
         "title-centered": true,
+        "images-greyscale": true,
         "heading_size": "h1",
         "image_width": "custom_image_size_scaled",
         "image_ratio": "adapt",
@@ -360,6 +361,7 @@
       "settings": {
         "title": "The Only Effective Treatment For Blood Outflow (Venous Leak)",
         "title-centered": true,
+        "images-greyscale": false,
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -594,6 +596,7 @@
       "settings": {
         "title": "",
         "title-centered": false,
+        "images-greyscale": false,
         "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "adapt",
@@ -720,6 +723,7 @@
       "settings": {
         "title": "How to Wear",
         "title-centered": false,
+        "images-greyscale": false,
         "heading_size": "h1",
         "image_width": "half",
         "image_ratio": "circle",
@@ -838,6 +842,7 @@
       "settings": {
         "title": "Use Alone or with Other Therapies",
         "title-centered": false,
+        "images-greyscale": false,
         "heading_size": "h1",
         "image_width": "custom_image_size_width",
         "image_ratio": "adapt",
@@ -989,6 +994,7 @@
       "settings": {
         "title": "Buy with Confidence",
         "title-centered": false,
+        "images-greyscale": false,
         "heading_size": "h1",
         "image_width": "custom_image_size_width",
         "image_ratio": "adapt",
