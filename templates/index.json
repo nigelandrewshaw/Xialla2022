@@ -362,7 +362,7 @@
       "settings": {
         "custom_liquid": "<div style=\"text-align:center; margin-bottom:40px\"><h2 class=\"rich-text__heading rte h1\">Not your usual ring<\/h2>\n<p style=\"margin-top: -10\">And the difference is what makes it incredible<\/p><\/div>\n<div class='embed-container'>\n  <iframe src='https:\/\/player.vimeo.com\/video\/633942061?autoplay=1&loop=1&background=1' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen><\/iframe>\n<\/div>",
         "color_scheme": "background-1",
-        "padding_top": 100,
+        "padding_top": 60,
         "padding_bottom": 100,
         "section_visibility": "hide-for-mobile"
       }
