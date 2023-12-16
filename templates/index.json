@@ -94,10 +94,10 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "background-3",
+        "color_scheme": "background-2",
         "mobile_content_alignment": "left",
         "padding_top": 100,
-        "padding_bottom": 100
+        "padding_bottom": 76
       }
     },
     "6006f24a-052c-452a-9a92-ff7fe619365f": {
