@@ -61,7 +61,7 @@
         "template--15921100783778__3f6949bd-1379-48b5-8f03-e47dbac221d7-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Get 20% off everything!",
+            "heading": "Get 15% off everything",
             "heading_size": "h1",
             "force_h1": false
           }
@@ -77,7 +77,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop",
-            "button_link": ""
+            "button_link": "shopify:\/\/products\/xialla"
           }
         }
       },
