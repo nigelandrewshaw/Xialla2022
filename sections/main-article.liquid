@@ -102,14 +102,15 @@ You can learn more about this (and learn how to cleanly revert these changes) at
     {%- endcase -%}
   {%- endfor -%}
 
-  {% if  %}
-  <div class="article-template__back element-margin-top center">
-    <a href="{{ blog.url }}" class="article-template__link link animate-arrow">
-      <span class="icon-wrap">{% render 'icon-arrow' %}</span>
-       Back to  {{ blog.title }}
-       {% comment %}{{ 'blogs.article.back_to_blog' | t: title: blog.title }} {% endcomment %}
-    </a>
-  </div>
+  {% if section.settings.show-back-to-blog == true  %}
+    <div class="article-template__back element-margin-top center">
+      <a href="{{ blog.url }}" class="article-template__link link animate-arrow">
+        <span class="icon-wrap">{% render 'icon-arrow' %}</span>
+        Back to  {{ blog.title }}
+        {% comment %}{{ 'blogs.article.back_to_blog' | t: title: blog.title }} {% endcomment %}
+      </a>
+    </div>
+  {% endif %}
   
   {%- if blog.comments_enabled? -%}
     <div class="article-template__comment-wrapper background-secondary">
