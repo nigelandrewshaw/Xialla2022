@@ -37,10 +37,53 @@
       "settings": {
       }
     },
+    "4d2047cb-0aca-4e0a-9c94-7d88fc7e16d6": {
+      "type": "hcp-info",
+      "blocks": {
+        "template--16439476256930__4d2047cb-0aca-4e0a-9c94-7d88fc7e16d6-heading-1": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "",
+            "heading_size": "h1",
+            "force_h1": false
+          }
+        },
+        "template--16439476256930__4d2047cb-0aca-4e0a-9c94-7d88fc7e16d6-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>HCP Title<\/p>"
+          }
+        },
+        "template--16439476256930__4d2047cb-0aca-4e0a-9c94-7d88fc7e16d6-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16439476256930__4d2047cb-0aca-4e0a-9c94-7d88fc7e16d6-heading-1",
+        "template--16439476256930__4d2047cb-0aca-4e0a-9c94-7d88fc7e16d6-text-1",
+        "template--16439476256930__4d2047cb-0aca-4e0a-9c94-7d88fc7e16d6-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "e456d610-ef3c-4f22-aa96-0fcf0147346a": {
       "type": "featured-blog",
       "settings": {
-        "heading": "Learn More...",
+        "heading": "",
         "heading_size": "h2",
         "blog": "knowledge-center",
         "post_limit": 3,
@@ -63,11 +106,56 @@
         "padding_bottom": 52,
         "section_visibility": "visible"
       }
+    },
+    "18c55db6-cd54-4f6b-9f49-2b9b2d6a7b5e": {
+      "type": "hcp-info",
+      "blocks": {
+        "template--16439476256930__18c55db6-cd54-4f6b-9f49-2b9b2d6a7b5e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "",
+            "heading_size": "h1",
+            "force_h1": false
+          }
+        },
+        "template--16439476256930__18c55db6-cd54-4f6b-9f49-2b9b2d6a7b5e-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>HCP Title<\/p>"
+          }
+        },
+        "template--16439476256930__18c55db6-cd54-4f6b-9f49-2b9b2d6a7b5e-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16439476256930__18c55db6-cd54-4f6b-9f49-2b9b2d6a7b5e-heading-1",
+        "template--16439476256930__18c55db6-cd54-4f6b-9f49-2b9b2d6a7b5e-text-1",
+        "template--16439476256930__18c55db6-cd54-4f6b-9f49-2b9b2d6a7b5e-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
+    "4d2047cb-0aca-4e0a-9c94-7d88fc7e16d6",
     "e456d610-ef3c-4f22-aa96-0fcf0147346a",
-    "1664215900f881fb28"
+    "1664215900f881fb28",
+    "18c55db6-cd54-4f6b-9f49-2b9b2d6a7b5e"
   ]
 }
