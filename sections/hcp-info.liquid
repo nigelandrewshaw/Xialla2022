@@ -78,19 +78,54 @@
                 </div>
           {%- endcase -%}
         {%- endfor -%}
+        
+        <!-- HCP Info -->
+        <h2 class="rich-text__heading rte {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
+          
+        </h2>
+        <div class="rich-text__text rte" {{ block.shopify_attributes }}>
+          <table>
+            <tr>
+              <td>Specialties</td>
+              <td>article.metafields.custom.specialties</td>
+            </tr>>
+            <tr>
+              <td>Phone</td>
+              <td>{{ article.namespace.key }}</td>
+            </tr>
+            <tr>
+              <td>Twitter</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Address</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Company</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Company</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Company</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Company</td>
+              <td></td>
+            </tr>
+          </table>
+        </div>
+
       </div>
     </div>
   </div>
 </div>
 
-<!-- HCP Info -->
-<div class="isolate{% unless section.settings.full_width %} page-width{% endunless %}">
-  <div class="rich-text content-container color-{{ section.settings.color_scheme }} gradient{% if section.settings.full_width %} rich-text--full-width content-container--full-width{% endif %} section-{{ section.id }}-padding">
-    <div class="rich-text__wrapper rich-text__wrapper--{{ section.settings.desktop_content_position }}{% if section.settings.full_width %} page-width{% endif %}">
-      Hello
-    </div>
-  </div>  
-</div>  
+
 
 
 {% schema %}
