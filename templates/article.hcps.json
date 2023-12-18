@@ -1,5 +1,60 @@
 {
   "sections": {
+    "2fb446ec-3584-4b51-a973-1418ae708079": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16439476256930__2fb446ec-3584-4b51-a973-1418ae708079-caption-1": {
+          "type": "caption",
+          "settings": {
+            "caption": "Add a tagline"
+          }
+        },
+        "template--16439476256930__2fb446ec-3584-4b51-a973-1418ae708079-heading-1": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "Dr. Faysal Yafi",
+            "heading_size": "h1"
+          }
+        },
+        "template--16439476256930__2fb446ec-3584-4b51-a973-1418ae708079-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "M.D., F.R.C.S.C",
+            "text_style": "body"
+          }
+        },
+        "template--16439476256930__2fb446ec-3584-4b51-a973-1418ae708079-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16439476256930__2fb446ec-3584-4b51-a973-1418ae708079-caption-1",
+        "template--16439476256930__2fb446ec-3584-4b51-a973-1418ae708079-heading-1",
+        "template--16439476256930__2fb446ec-3584-4b51-a973-1418ae708079-text-1",
+        "template--16439476256930__2fb446ec-3584-4b51-a973-1418ae708079-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Artboard_1-100.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "bottom-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "main": {
       "type": "main-article",
       "blocks": {
@@ -12,6 +67,7 @@
         },
         "featured_image": {
           "type": "featured_image",
+          "disabled": true,
           "settings": {
             "image_height": "medium"
           }
@@ -153,6 +209,7 @@
     }
   },
   "order": [
+    "2fb446ec-3584-4b51-a973-1418ae708079",
     "main",
     "4d2047cb-0aca-4e0a-9c94-7d88fc7e16d6",
     "e456d610-ef3c-4f22-aa96-0fcf0147346a",
