@@ -67,72 +67,23 @@
 
 {%- endstyle -%}
 
-<div class="isolate{% unless section.settings.full_width %} page-width{% endunless %}">
-  <div class="rich-text content-container color-{{ section.settings.color_scheme }} gradient{% if section.settings.full_width %} rich-text--full-width content-container--full-width{% endif %} section-{{ section.id }}-padding">
-    <div class="rich-text__wrapper rich-text__wrapper--{{ section.settings.desktop_content_position }}{% if section.settings.full_width %} page-width{% endif %}">
-      <div class="rich-text__blocks {{ section.settings.content_alignment }}">
-        {%- for block in section.blocks -%}
-          {%- case block.type -%}
-            {%- when 'heading' -%}
-              {%- comment -%}
-            
-              <h2 class="rich-text__heading rte {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
-                {{ block.settings.heading | replace: 'p>', 'span>' }}
-              </h2>
-             {%- endcomment -%}
-             {%- if block.settings.force_h1 %}
-                <h1 class="rich-text__heading rte {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
-                  {{ block.settings.custom_liquid }}
-                </h1>
-              {% else %}
-                <h2 class="rich-text__heading rte {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
-                  {{ block.settings.custom_liquid }}
-                </h2>
-              {% endif %}
 
-            
-            {%- when 'caption' -%}
-              <p class="rich-text__caption {{ block.settings.text_style }} {{ block.settings.text_style }}--{{ block.settings.text_size }}" {{ block.shopify_attributes }}>
-                {{ block.settings.caption | escape }}
-              </p>
-            {%- when 'text' -%}
-              <div class="rich-text__text rte" {{ block.shopify_attributes }}>
-                {{ block.settings.text }}
-              </div>
-            {%- when 'button' -%}
-              <div class="rich-text__buttons{% if block.settings.button_label != blank and block.settings.button_label_2 != blank %} rich-text__buttons--multiple{% endif %}" {{ block.shopify_attributes }}>
-                {%- if block.settings.button_label != blank -%}
-                  <a{% if block.settings.button_link == blank %} role="link" aria-disabled="true"{% else %} href="{{ block.settings.button_link }}"{% endif %} class="button{% if block.settings.button_style_secondary %} button--secondary{% else %} button--primary{% endif %}">{{ block.settings.button_label | escape }}</a>
-                {%- endif -%}
-                {%- if block.settings.button_label_2 != blank -%}
-                  <a{% if block.settings.button_link_2 == blank %} role="link" aria-disabled="true"{% else %} href="{{ block.settings.button_link_2 }}"{% endif %} class="button{% if block.settings.button_style_secondary_2 %} button--secondary{% else %} button--primary{% endif %}">{{ block.settings.button_label_2 | escape }}</a>
-                {%- endif -%}
-              </div>
-              {%- when 'image' -%}
-                <div class="footer-block__details-content footer-block-image {{ block.settings.alignment }}">
-                  {%- if block.settings.image != blank -%}
-                    {%- assign image_size_2x = block.settings.image_width | times: 2 | at_most: 5760 -%}
-                    <img
-                      srcset= "{{ block.settings.image | image_url: width: block.settings.image_width }}, {{ block.settings.image | image_url: width: image_size_2x }} 2x"
-                      src="{{ block.settings.image | image_url: width: 400 }}"
-                      alt="{{ block.settings.image.alt | escape }}"
-                      loading="lazy"
-                      width="{{ block.settings.image.width | divided_by: 2 }}"
-                      height="{{ block.settings.image.height | divided_by: 2 }}"
-                      style="max-width: min(100%, {{ block.settings.image_width }}px);"
-                    >
-                  {%- else -%}
-                    {{ 'image' | placeholder_svg_tag: 'placeholder-svg placeholder' }}
-                  {%- endif -%}
-                </div>
-          {%- endcase -%}
-        {%- endfor -%}
+
+
+<section id="shopify-section-template--16439476256930__main" class="shopify-section section">
+  <article class="article-template"><div class="article-template__social-sharing page-width page-width--narrow">
+    <div class="article-template__content page-width page-width--narrow rte">
+      <p>asdlkaj sdlkjasldkfj laksjd flkaj sdlkfj alsdkjf laksdjf laksdj lkj </p>
+    </div>
+  </article>
+</section>
+
+
         
         <!-- HCP Info -->
         <h2 class="rich-text__heading rte {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
           
         </h2>
-        <div style="content-align:left" class="rich-text__text rte" {{ block.shopify_attributes }}>
           <table class="hcp-info" style="border: none">
             <tr>
               <td>Specialties</td>
@@ -167,12 +118,7 @@
               <td>{{ article.metafields.custom.specialties }}</td>
             </tr>
           </table>
-        </div>
-
-      </div>
-    </div>
-  </div>
-</div>
+        
 
 
 
