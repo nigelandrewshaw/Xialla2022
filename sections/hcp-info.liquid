@@ -16,6 +16,53 @@
       padding-bottom: {{ section.settings.padding_bottom }}px;
     }
   }
+
+  table.hcp-info {
+    width: 100%;
+    border: none;
+  }
+
+  table.hcp-info td {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #ccc;
+  }
+
+  table.hcp-info td:first-child {
+    font-weight: bold;
+    width: 30%;
+  }
+
+  table.hcp-info td:last-child {
+    width: 70%;
+  }
+
+  .hcp-info {
+    margin-top: 2rem;
+  }
+
+  .hcp-info td {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #ccc;
+  }
+
+  .hcp-info td:first-child {
+    font-weight: bold;
+    width: 30%;
+  }
+
+  .hcp-info td:last-child {
+    width: 70%;
+  }
+
+  .hcp-info {
+    margin-top: 2rem;
+  }
+
+  .hcp-info td {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #ccc;
+  }
+
 {%- endstyle -%}
 
 <div class="isolate{% unless section.settings.full_width %} page-width{% endunless %}">
@@ -84,38 +131,38 @@
           
         </h2>
         <div class="rich-text__text rte" {{ block.shopify_attributes }}>
-          <table>
+          <table class="hcp-info" style="border: none">
             <tr>
               <td>Specialties</td>
               <td>{{ article.metafields.custom.specialties }}</td>
             </tr>
             <tr>
               <td>Phone</td>
-              <td>{{ article.namespace.key }}</td>
+              <td>{{ article.metafields.custom.specialties }}</td>
             </tr>
             <tr>
               <td>Twitter</td>
-              <td></td>
+              <td>{{ article.metafields.custom.specialties }}</td>
             </tr>
             <tr>
               <td>Address</td>
-              <td></td>
+              <td>{{ article.metafields.custom.specialties }}</td>
             </tr>
             <tr>
               <td>Company</td>
-              <td></td>
+              <td>{{ article.metafields.custom.specialties }}</td>
             </tr>
             <tr>
               <td>Company</td>
-              <td></td>
+              <td>{{ article.metafields.custom.specialties }}</td>
             </tr>
             <tr>
               <td>Company</td>
-              <td></td>
+              <td>{{ article.metafields.custom.specialties }}</td>
             </tr>
             <tr>
               <td>Company</td>
-              <td></td>
+              <td>{{ article.metafields.custom.specialties }}</td>
             </tr>
           </table>
         </div>
