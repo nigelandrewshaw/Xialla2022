@@ -67,31 +67,17 @@
         </tr>
         <tr>
           <td>Phone</td>
-          <td>{{ article.metafields.custom.specialties }}</td>
+          <td>{{ article.metafields.custom.phone }}</td>
         </tr>
-        <tr>
-          <td>Twitter</td>
-          <td>{{ article.metafields.custom.specialties }}</td>
-        </tr>
+        {% if article.metafields.custom.twitter != empty %}
+          <tr>
+            <td>Twitter</td>
+            <td><a href="@{{ article.metafields.custom.twitter }}">{{ article.metafields.custom.twitter }}</a></td>
+          </tr>
+        {% endif %}
         <tr>
           <td>Address</td>
-          <td>{{ article.metafields.custom.specialties }}</td>
-        </tr>
-        <tr>
-          <td>Company</td>
-          <td>{{ article.metafields.custom.specialties }}</td>
-        </tr>
-        <tr>
-          <td>Company</td>
-          <td>{{ article.metafields.custom.specialties }}</td>
-        </tr>
-        <tr>
-          <td>Company</td>
-          <td>{{ article.metafields.custom.specialties }}</td>
-        </tr>
-        <tr>
-          <td>Company</td>
-          <td>{{ article.metafields.custom.specialties }}</td>
+          <td>{{ article.metafields.custom.address }}{- %if article.metafields.custom.unit_suite != empty }<br/>{{ article.metafields.custom.unit_suite}}<br/>{{ article.metafields.custom.city}}, {{ article.metafields.custom.province}}<br/>{{ article.metafields.custom.postal_code }}</td>
         </tr>
       </table>
 
