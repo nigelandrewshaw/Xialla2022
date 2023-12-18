@@ -69,15 +69,21 @@
           <td>Phone</td>
           <td>{{ article.metafields.custom.phone }}</td>
         </tr>
+        {% if article.metafields.custom.website != empty %}
+          <tr>
+            <td>Website</td>
+            <td><a href="{{ article.metafields.custom.website }}">{{ article.metafields.custom.website }}</a></td>
+          </tr>
+        {% endif %}
         {% if article.metafields.custom.twitter != empty %}
           <tr>
             <td>Twitter</td>
-            <td><a href="@{{ article.metafields.custom.twitter }}">{{ article.metafields.custom.twitter }}</a></td>
+            <td><a href="https://twitter.com/{{ article.metafields.custom.twitter }}">@{{ article.metafields.custom.twitter }}</a></td>
           </tr>
         {% endif %}
         <tr>
           <td>Address</td>
-          <td>{{ article.metafields.custom.address }}{- %if article.metafields.custom.unit_suite != empty }<br/>{{ article.metafields.custom.unit_suite}}<br/>{{ article.metafields.custom.city}}, {{ article.metafields.custom.province}}<br/>{{ article.metafields.custom.postal_code }}</td>
+          <td>{{ article.metafields.custom.address }}{% if article.metafields.custom.unit_suite != empty %}<br/>{{ article.metafields.custom.unit_suite}}<br/>{{ article.metafields.custom.city}}, {{ article.metafields.custom.province}}<br/>{{ article.metafields.custom.postal_code }}</td>
         </tr>
       </table>
 
