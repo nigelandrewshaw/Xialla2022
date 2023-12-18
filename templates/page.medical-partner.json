@@ -405,7 +405,7 @@
           "settings": {
             "heading": "Samples",
             "icon": "none",
-            "row_content": "<p>We will send you a sample pack of Xiallas.<\/p>",
+            "row_content": "<p>We will send you a sample pack of Xiallas. The pack includes five Xiallas; three Regular size, one Thicker size and one Slender size. Each Xialla includes 10 adhesive pads and instruction booklet. <\/p>",
             "page": "",
             "is_header": false
           }
@@ -548,6 +548,7 @@
       "settings": {
         "title": "",
         "title-centered": false,
+        "images-greyscale": false,
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
