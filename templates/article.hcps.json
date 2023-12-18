@@ -1,56 +1,17 @@
 {
   "sections": {
-    "af8fb082-e54e-4e9f-bff0-86f3f3ffe3d9": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--16439476256930__af8fb082-e54e-4e9f-bff0-86f3f3ffe3d9-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Dr. Faysal Yafi",
-            "heading_size": "h1",
-            "force_h1": false
-          }
-        },
-        "template--16439476256930__af8fb082-e54e-4e9f-bff0-86f3f3ffe3d9-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Dr. Yafi specializes in Andrology (men’s health), which includes focus on male infertility and low testosterone, and is a penile implant specialist.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--16439476256930__af8fb082-e54e-4e9f-bff0-86f3f3ffe3d9-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16439476256930__af8fb082-e54e-4e9f-bff0-86f3f3ffe3d9-heading-1",
-        "template--16439476256930__af8fb082-e54e-4e9f-bff0-86f3f3ffe3d9-text-1",
-        "template--16439476256930__af8fb082-e54e-4e9f-bff0-86f3f3ffe3d9-button-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Faysal-Yafi.jpg",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "main": {
       "type": "main-article",
       "blocks": {
+        "fc988f74-9d6c-4f5b-a7af-806fd8acff62": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": false,
+            "blog_show_author": false
+          }
+        },
         "featured_image": {
           "type": "featured_image",
-          "disabled": true,
           "settings": {
             "image_height": "medium"
           }
@@ -68,6 +29,7 @@
         }
       },
       "block_order": [
+        "fc988f74-9d6c-4f5b-a7af-806fd8acff62",
         "featured_image",
         "share",
         "content"
@@ -145,57 +107,12 @@
         "padding_bottom": 52,
         "section_visibility": "visible"
       }
-    },
-    "18c55db6-cd54-4f6b-9f49-2b9b2d6a7b5e": {
-      "type": "hcp-info",
-      "blocks": {
-        "template--16439476256930__18c55db6-cd54-4f6b-9f49-2b9b2d6a7b5e-heading-1": {
-          "type": "heading",
-          "settings": {
-            "custom_liquid": "",
-            "heading_size": "h1",
-            "force_h1": false
-          }
-        },
-        "template--16439476256930__18c55db6-cd54-4f6b-9f49-2b9b2d6a7b5e-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>HCP Title<\/p>"
-          }
-        },
-        "template--16439476256930__18c55db6-cd54-4f6b-9f49-2b9b2d6a7b5e-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16439476256930__18c55db6-cd54-4f6b-9f49-2b9b2d6a7b5e-heading-1",
-        "template--16439476256930__18c55db6-cd54-4f6b-9f49-2b9b2d6a7b5e-text-1",
-        "template--16439476256930__18c55db6-cd54-4f6b-9f49-2b9b2d6a7b5e-button-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
-    "af8fb082-e54e-4e9f-bff0-86f3f3ffe3d9",
     "main",
     "4d2047cb-0aca-4e0a-9c94-7d88fc7e16d6",
     "e456d610-ef3c-4f22-aa96-0fcf0147346a",
-    "1664215900f881fb28",
-    "18c55db6-cd54-4f6b-9f49-2b9b2d6a7b5e"
+    "1664215900f881fb28"
   ]
 }
