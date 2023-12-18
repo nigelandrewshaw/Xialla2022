@@ -79,7 +79,7 @@
         {% endif %}
         <tr>
           <td>Address</td> 
-      <td>{{ article.metafields.custom.address }}<br/>{% if article.metafields.custom.unit_suite != empty %}{{ article.metafields.custom.unit_suite}}<br/>{% endif %}{{ article.metafields.custom.city}}, {{ article.metafields.custom.province}}<br/>{{ article.metafields.custom.postal_code }}</td>
+      <td>{{ article.metafields.custom.address }}<br/>{% if article.metafields.custom.unit_suite != null %}{{ article.metafields.custom.unit_suite}}<br/>{% endif %}{{ article.metafields.custom.city}}, {{ article.metafields.custom.province}}<br/>{{ article.metafields.custom.postal_code }}</td>
         </tr>
       </table>
     </div>
