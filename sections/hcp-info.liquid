@@ -65,13 +65,13 @@
           <td>Phone</td>
           <td>{{ article.metafields.custom.phone }}</td>
         </tr>
-        {% if article.metafields.custom.website != empty %}
+        {% if article.metafields.custom.website != null %}
           <tr>
             <td>Website</td>
             <td><a href="{{ article.metafields.custom.website }}">{{ article.metafields.custom.website }}</a></td>
           </tr>
         {% endif %}
-        {% if article.metafields.custom.twitter != empty %}
+        {% if article.metafields.custom.twitter != null %}
           <tr>
             <td>Twitter</td>
             <td><a href="https://twitter.com/{{ article.metafields.custom.twitter }}">@{{ article.metafields.custom.twitter }}</a></td>
