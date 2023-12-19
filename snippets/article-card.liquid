@@ -52,13 +52,6 @@
         {%- endif -%}
         <div class="card__content">
           <div class="card__information">
-            <div class="article-card__info caption-with-letter-spacing h5">          
-              {%- if show_location -%}
-                <h3 class="card__heading">
-                  <span>{{ article.metafields.custom.city }},nbsp;{{ article.metafields.custom.province }},nbsp;{{ article.metafields.custom.country }} </span>
-                </h3>
-              {%- endif -%}
-            </div>
             <h3 class="card__heading{% if show_excerpt %} h2{% endif %}">
               <a href="{{ article.url }}" class="full-unstyled-link">
                 {{ article.title | escape }}
@@ -76,6 +69,9 @@
               {%- if show_author -%}
                 <span>{{ article.author }}
                 </span>
+              {%- endif -%}
+              {%- if show_location -%}
+                <span>{{ article.metafields.custom.city }},nbsp;{{ article.metafields.custom.province }},nbsp;{{ article.metafields.custom.country }} </span>
               {%- endif -%}
             </div>
             {%- if show_excerpt -%}
