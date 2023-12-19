@@ -31,6 +31,7 @@
             show_image: section.settings.show_image,
             show_date: section.settings.show_date,
             show_author: section.settings.show_author,
+            show_location: section.settings.show_location,
             show_excerpt: true 
           -%}
         </div>
@@ -112,6 +113,12 @@
       "id": "show_author",
       "default": false,
       "label": "t:sections.main-blog.settings.show_author.label"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_location",
+      "default": false,
+      "label": "Show location"
     },
     {
       "type": "paragraph",
