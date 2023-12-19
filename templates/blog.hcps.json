@@ -51,6 +51,7 @@
         "image_height": "medium",
         "show_date": false,
         "show_author": false,
+        "show_location": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
