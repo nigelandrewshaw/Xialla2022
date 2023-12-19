@@ -35,7 +35,7 @@
         "content"
       ],
       "settings": {
-        "show-back-to-blog": true
+        "show-back-to-blog": false
       }
     },
     "4d2047cb-0aca-4e0a-9c94-7d88fc7e16d6": {
@@ -95,11 +95,12 @@
         "show_author": false,
         "show_view_all": true,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 100
       }
     },
     "1664215900f881fb28": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<p style=\"padding-left: 5%; padding-right:5%; font-size: 1.3rem\">Please note that the information provided in this article is for general informational purposes only. Any information provided here is not intended or implied to be a substitute for professional medical advice, diagnosis or treatment. Before beginning any type of treatment regimen you should always seek the advice of your licensed healthcare professional. Xialla Inc. are not liable for any direct or indirect claim, loss or damage resulting from use of the information in this message. Any application of the information provided in this message is at the reader's sole discretion and responsibility.<\/p>",
         "color_scheme": "background-1",
