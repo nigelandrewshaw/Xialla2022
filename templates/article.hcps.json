@@ -65,12 +65,21 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
+        },
+        "71306cc2-a0f6-45a5-9d0b-59784cae5a21": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Faysal_Yafi.jpg",
+            "image_padding": false,
+            "caption": "Showing support for Xialla with the 'X' sign. Thank you Faysal!"
+          }
         }
       },
       "block_order": [
         "template--16439476256930__4d2047cb-0aca-4e0a-9c94-7d88fc7e16d6-heading-1",
         "template--16439476256930__4d2047cb-0aca-4e0a-9c94-7d88fc7e16d6-text-1",
-        "template--16439476256930__4d2047cb-0aca-4e0a-9c94-7d88fc7e16d6-button-1"
+        "template--16439476256930__4d2047cb-0aca-4e0a-9c94-7d88fc7e16d6-button-1",
+        "71306cc2-a0f6-45a5-9d0b-59784cae5a21"
       ],
       "settings": {
         "desktop_content_position": "center",
