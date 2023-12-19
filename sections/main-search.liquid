@@ -224,6 +224,7 @@
                           show_image: true,
                           show_date: section.settings.article_show_date,
                           show_author: section.settings.article_show_author,
+                          show_location: section.settings.article_show_location,
                           show_badge: true,
                           media_aspect_ratio: 1,
                           lazy_load: lazy_load
@@ -372,6 +373,12 @@
       "id": "article_show_author",
       "default": false,
       "label": "t:sections.main-search.settings.article_show_author.label"
+    },
+    {
+      "type": "checkbox",
+      "id": "article_show_location",
+      "default": false,
+      "label": "Show location"
     },
     {
       "type": "header",
