@@ -76,25 +76,23 @@
         {% endif %}
         <tr>
           <td>Address</td> 
-      <td>{{ article.metafields.custom.address }}<br/>{% if article.metafields.custom.unit_suite != null %}{{ article.metafields.custom.unit_suite}}<br/>{% endif %}{{ article.metafields.custom.city}}, {{ article.metafields.custom.province}}<br/>{{ article.metafields.custom.country }}&nbsp;{{ article.metafields.custom.postal_code }}</td>
-        </tr>
-      </table>
-    </div>
-
-    <div style-"height:100">
-      &nbsp;
-    </div>
-
-    {% if article.metafields.custom.x_image != null %}
-      <div class="article-template__image-wrapper">
-        <img src="{{ article.metafields.custom.x_image | img_url: 'master' }}" alt=Supporting Xialla with the 'X' sign. Thanks {{ article.metafields.custom.first_name }}!" class="article-template__image" loading="lazy" width="300" height="300">
-        <p>Supporting Xialla with the 'X' sign.<br/>Thanks {{ article.metafields.custom.first_name }}!</p>
+        <td>{{ article.metafields.custom.address }}<br/>{% if article.metafields.custom.unit_suite != null %}{{ article.metafields.custom.unit_suite}}<br/>{% endif %}{{ article.metafields.custom.city}}, {{ article.metafields.custom.province}}<br/>{{ article.metafields.custom.country }}&nbsp;{{ article.metafields.custom.postal_code }}</td>
+          </tr>
+        </table>
+        <div style-"height:100">
+          &nbsp;
+        </div>
+        {% if article.metafields.custom.x_image != null %}
+          <div class="article-template__image-wrapper">
+            <img src="{{ article.metafields.custom.x_image | img_url: 'master' }}" alt=Supporting Xialla with the 'X' sign. Thanks {{ article.metafields.custom.first_name }}!" class="article-template__image" loading="lazy" width="300" height="300">
+            <p>Supporting Xialla with the 'X' sign.<br/>Thanks {{ article.metafields.custom.first_name }}!</p>
+          </div>
+        {% endif %}
+        <div style-"height:100">
+          &nbsp;
+        </div>
       </div>
-    {% endif %}
 
-    <div style-"height:100">
-      &nbsp;
-    </div>
 
     <div class="article-template__back element-margin-top center">
       <a href="{{ blog.url }}" class="article-template__link link animate-arrow">
