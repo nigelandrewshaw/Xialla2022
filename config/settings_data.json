@@ -146,7 +146,7 @@
           "ecf9786e-550b-42f9-a23d-1a17de5fbc5d": {
             "type": "announcement",
             "settings": {
-              "text": "UROLOGISTS AND HEALTHCARE PROVIDERS",
+              "text": "MEDICAL PARTNERS",
               "text_alignment": "right",
               "color_scheme": "background-2",
               "link": "shopify:\/\/pages\/medical-partners"
@@ -227,7 +227,7 @@
           "db1a3d56-7752-414d-8f62-e594a122ef21": {
             "type": "link_list",
             "settings": {
-              "heading": "Urologists",
+              "heading": "Medical Partners",
               "menu": "urologists"
             }
           },
