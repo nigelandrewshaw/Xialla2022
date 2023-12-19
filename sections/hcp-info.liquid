@@ -59,8 +59,8 @@
 
     {% if article.metafields.custom.x_image != null %}
       <div class="article-template__image-wrapper">
-        <img src="{{ article.metafields.custom.x_image | img_url: 'master' }}" alt="Supporting Xialla with the 'X' sign. Thanks {{ article.metafields.custom.first_name }}!" class="article-template__image" loading="lazy" width="300" height="300">
-        <p class="article-template__caption">"Supporting Xialla with the 'X' sign. Thanks {{ article.metafields.custom.first_name }}!</p>
+        <img src="{{ article.metafields.custom.x_image | img_url: 'master' }}" alt=Supporting Xialla with the 'X' sign. Thanks {{ article.metafields.custom.first_name }}!" class="article-template__image" loading="lazy" width="300" height="300">
+        <p class="article-template__caption">Supporting Xialla with the 'X' sign.<br/>Thanks {{ article.metafields.custom.first_name }}!</p>
       </div>
     {% endif %}
 
