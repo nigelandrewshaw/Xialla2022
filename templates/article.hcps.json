@@ -35,7 +35,7 @@
         "content"
       ],
       "settings": {
-        "show-back-to-blog": false
+        "show-back-to-blog": true
       }
     },
     "4d2047cb-0aca-4e0a-9c94-7d88fc7e16d6": {
@@ -84,7 +84,7 @@
     "e456d610-ef3c-4f22-aa96-0fcf0147346a": {
       "type": "featured-blog",
       "settings": {
-        "heading": "",
+        "heading": "More Providers...",
         "heading_size": "h2",
         "blog": "providers",
         "post_limit": 3,
