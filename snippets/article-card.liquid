@@ -10,6 +10,7 @@
   - show_date: {String} The setting either show the article date or not. If it's not included it will not show the image by default
   - show_author: {String} The setting either show the article author or not. If it's not included it will not show the author by default
   - show_badge: {String} The setting either show the blog badge or not.
+  - show_location: {String} The setting either show the location above the title.
   - lazy_load: {Boolean} Image should be lazy loaded. Default: true (optional)
 
   Usage:
@@ -51,6 +52,12 @@
         {%- endif -%}
         <div class="card__content">
           <div class="card__information">
+            <div class="article-card__info caption-with-letter-spacing h5">          
+              {%- if show_location -%}
+                <span>{{ article.location }}
+                </span>
+              {%- endif -%}
+            </div>
             <h3 class="card__heading{% if show_excerpt %} h2{% endif %}">
               <a href="{{ article.url }}" class="full-unstyled-link">
                 {{ article.title | escape }}

@@ -53,6 +53,11 @@ You can learn more about this (and learn how to cleanly revert these changes) at
                 <span {% if disabled_by_yoast_seo %}itemprop="name"{% endif %}>{{ article.author }}</span>
               </span>
             {%- endif -%}
+            {%- if block.settings.blog_show_location -%}
+            <span class="caption-with-letter-spacing">
+              <span>{{ article.author }}</span>
+            </span>
+          {%- endif -%}
           </header>
 
         {%- when 'content'-%}
@@ -370,6 +375,12 @@ You can learn more about this (and learn how to cleanly revert these changes) at
           "id": "blog_show_author",
           "default": false,
           "label": "t:sections.main-article.blocks.title.settings.blog_show_author.label"
+        },
+        {
+          "type": "checkbox",
+          "id": "blog_show_location",
+          "default": false,
+          "label": "Show location"
         }
       ]
     },
