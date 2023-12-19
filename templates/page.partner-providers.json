@@ -240,6 +240,16 @@
             "is_header": false
           }
         },
+        "ae3d1b79-1f48-4585-8898-61e5580c4282": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Provider Listing",
+            "icon": "none",
+            "row_content": "<p>We maintain a listing of <a href=\"\/blogs\/providers\" title=\"Providers\">Xialla Providers here<\/a>. As a Provider Partner, you can be included in the list if you so choose. <\/p><p><strong>Benefits<\/strong><\/p><ol><li><\/li><\/ol>",
+            "page": "",
+            "is_header": false
+          }
+        },
         "ddf11e05-5e55-4cce-b6c5-c3fca13d0cf5": {
           "type": "collapsible_row",
           "settings": {
@@ -436,6 +446,7 @@
         "8b77b1ff-909c-4deb-84c8-30da6407dc1d",
         "48ab6f8d-23bb-4e76-a592-f528cdc3c948",
         "template--16410224328866__d4cd82c8-186e-43b0-8ac7-4dcbab37f642-collapsible_row-1",
+        "ae3d1b79-1f48-4585-8898-61e5580c4282",
         "ddf11e05-5e55-4cce-b6c5-c3fca13d0cf5",
         "0aacb3dd-d8ba-41f8-9f69-6b19a01e952c",
         "a76ba027-acd7-4b98-949f-b23e1d52d410",
