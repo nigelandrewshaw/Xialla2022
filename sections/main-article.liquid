@@ -55,7 +55,7 @@ You can learn more about this (and learn how to cleanly revert these changes) at
             {%- endif -%}
             {%- if block.settings.blog_show_location -%}
             <span class="caption-with-letter-spacing">
-              <span>{{ article.author }}</span>
+              <span>{{ article.metafields.custom.city }},nbsp;{{ article.metafields.custom.province }},nbsp;{{ article.metafields.custom.country }} </span>
             </span>
           {%- endif -%}
           </header>
