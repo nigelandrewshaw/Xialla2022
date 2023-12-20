@@ -38,7 +38,7 @@
           {%- if article.metafields.custom.firstname == empty -%}
             <h1 class="article-template__title" {% if disabled_by_yoast_seo %}itemprop="headline"{% endif %}>{{ article.title | escape }}</h1>
           {%- else -%}
-            <h1 class="article-template__title">{{ article.metafields.custom.first_name }}{{ " " }}{{ article.metafields.custom.last_name }}{{ " " }}{%- if article.metafields.custom.suffix != empty -%}<span style="font-size: 1.8rem;">{{ article.metafields.custom.suffix }}</span>{%- endif -%}</h1>
+            <h1 class="article-template__title">{{ article.metafields.custom.first_name }}{{ " " }}{{ article.metafields.custom.last_name }}{{ " " }}{%- if article.metafields.custom.suffix != empty -%}<span style="font-size: 2.2rem;">{{ article.metafields.custom.suffix }}</span>{%- endif -%}</h1>
           {%- endif -%}
           
           {%- if block.settings.blog_show_date -%}
