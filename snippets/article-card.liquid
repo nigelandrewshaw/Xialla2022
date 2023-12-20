@@ -24,6 +24,12 @@
      endif
    -%}
 
+  {%- if show_location %}
+    Show Location
+  {% else %}
+    No Show Location
+  {%- endif -%}
+
   <div class="article-card-wrapper card-wrapper underline-links-hover">
     {% comment %}
       <article aria-labelledby="Article-{{ article.id }}">
