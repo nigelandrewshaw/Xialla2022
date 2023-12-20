@@ -51,7 +51,7 @@
             {%- endif -%}
             {%- if block.settings.blog_show_location -%}
             <span class="caption-with-letter-spacing">
-              <span style="font-size:2rem">{{ article.metafields.custom.city }},{{ " " }}{{ article.metafields.custom.province }},{{ " " }}{{ article.metafields.custom.country }}</span>
+              {{ article.metafields.custom.city }},{{ " " }}{{ article.metafields.custom.province }},{{ " " }}{{ article.metafields.custom.country }}
             </span>
           {%- endif -%}
           </header>
