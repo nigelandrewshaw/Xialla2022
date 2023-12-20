@@ -25,12 +25,12 @@
     }
   }
 
-  table.hcp-info {
+  table.provider-info {
     width: 100%;
     border: none;
   }
 
-  table.hcp-info td {
+  table.provider-info td {
     padding-left: 0px;
     padding-bottom: 40px;
     padding-top: 0px;
@@ -40,13 +40,13 @@
     vertical-align: top;
   }
 
-  table.hcp-info td:first-child {
+  table.provider-info td:first-child {
     font-weight: bold;
     width: 20%;
     min-width: 80px
   }
 
-  table.hcp-info td:last-child {
+  table.provider-info td:last-child {
     width: 80%;
   }
 
@@ -57,7 +57,7 @@
   <article class="article-template">
     <div class="article-template__content page-width page-width--narrow rte">
 
-      <table class="hcp-info" style="border: none">
+      <table class="provider-info" style="border: none">
         <tr>
           <td>Phone</td>
           <td>{{ article.metafields.custom.phone }}</td>
@@ -347,7 +347,7 @@
           {
             "type": "richtext",
             "id": "text",
-            "default": "<p>HCP Title</p>",
+            "default": "<p>Provider title</p>",
             "label": "t:sections.rich-text.blocks.text.settings.text.label"
           }
         ]
