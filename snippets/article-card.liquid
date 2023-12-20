@@ -125,7 +125,7 @@
               </span>
             {%- endif -%}
             {%- if article.metafields.custom.suffix != empty -%}
-              <span style="font-weight: 400; font-size: 1.5rem; padding-bottom: 10px"></span>
+              <span style="font-weight: 400; font-size: 1.5rem; padding-bottom: 10px !important">
                 {%- if show_date or show_author -%}<br/>{%- endif -%}{{ article.metafields.custom.suffix }}
               </span>
             {%- endif -%}
