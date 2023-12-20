@@ -34,18 +34,15 @@
 
         {%- when 'title'-%}
           <header class="page-width page-width--narrow" {{ block.shopify_attributes }}>
-            {%- if article.metafields.custom.firstname == empty -%}
-              <h1 class="article-template__title" {% if disabled_by_yoast_seo %}itemprop="headline"{% endif %}>{{ article.title | escape }}</h1>
-            {%- else -%}
-            {{ article.metafields.custom.first_name }}{{ " " }}{{ article.metafields.custom.last_name }}
-              {%- if article.metafields.custom.suffix != empty -%}
-                <span style="font-size: 1.5rem;">
-                  {%- if show_date or show_author -%}<br/>{%- endif -%}{{ article.metafields.custom.suffix }}
-                </span>
-              {%- endif -%}
-            {%- endif -%}
-            {%- if block.settings.blog_show_date -%}
-              <span class="circle-divider caption-with-letter-spacing" {% if disabled_by_yoast_seo %}itemprop="dateCreated pubdate datePublished"{% endif %}>Last updated: {{ article.published_at | time_tag: format: 'date' }}</span>
+         
+          {%- if article.metafields.custom.firstname == empty -%}
+            <h1 class="article-template__title" {% if disabled_by_yoast_seo %}itemprop="headline"{% endif %}>{{ article.title | escape }}</h1>
+          {%- else -%}
+            {{ article.metafields.custom.first_name }}{{ " " }}{{ article.metafields.custom.last_name }}{%- if article.metafields.custom.suffix != empty -%}<span style="font-size: 1.5rem;">{{ article.metafields.custom.suffix }}</span>{%- endif -%}
+          {%- endif -%}
+          
+          {%- if block.settings.blog_show_date -%}
+            <span class="circle-divider caption-with-letter-spacing" {% if disabled_by_yoast_seo %}itemprop="dateCreated pubdate datePublished"{% endif %}>Last updated: {{ article.published_at | time_tag: format: 'date' }}</span>
             {%- endif -%}
             {%- if block.settings.blog_show_author -%}
               <span class="caption-with-letter-spacing" {% if disabled_by_yoast_seo %}itemprop="author"{% endif %} {% if disabled_by_yoast_seo %}itemscope{% endif %} {% if disabled_by_yoast_seo %}itemtype="http://schema.org/Person"{% endif %}>
