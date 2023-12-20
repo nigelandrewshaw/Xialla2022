@@ -17,11 +17,6 @@
 {%- endstyle -%}
 
 {%- paginate blog.articles by 6 -%}
-  {%- if section.settings.show_location %}
-    Show Location
-  {% else %}
-    No Show Location
-  {%- endif -%}
   <div class="main-blog page-width section-{{ section.id }}-padding">
     <!-- Xialla 2022-10-02 21:32:31 Hide default title. Replaced with custom title and description --> 
     <!-- <h1 class="title--primary">{{ blog.title | escape }}</h1> --> 
