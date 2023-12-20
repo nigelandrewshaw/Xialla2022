@@ -112,6 +112,11 @@
                 {{ article.title | escape }}
               {%- else -%}
               {%- if article.metafields.custom.prefix == empty -%}{%- else -%}{{ article.metafields.custom.prefix }}{%- endif -%}{{ " " }}{{ article.metafields.custom.first_name }}{{ " " }}{{ article.metafields.custom.last_name }}
+                {%- if article.metafields.custom.suffix != empty -%}
+                  <span style="font-weight: 400; font-size: 1.5rem; padding-bottom: 10px !important">
+                    {%- if show_date or show_author -%}<br/>{%- endif -%}{{ article.metafields.custom.suffix }}
+                  </span>
+                {%- endif -%}
               {%- endif -%}
           </h3>
           <div class="article-card__info caption-with-letter-spacing h5">
@@ -122,11 +127,6 @@
             {%- endif -%}
             {%- if show_author -%}
               <span>{{ article.author }}
-              </span>
-            {%- endif -%}
-            {%- if article.metafields.custom.suffix != empty -%}
-              <span style="font-weight: 400; font-size: 1.5rem; padding-bottom: 10px !important">
-                {%- if show_date or show_author -%}<br/>{%- endif -%}{{ article.metafields.custom.suffix }}
               </span>
             {%- endif -%}
             {%- if show_location -%}
