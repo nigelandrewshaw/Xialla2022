@@ -82,15 +82,17 @@
         <div style-"height:100">
           &nbsp;
         </div>
-        {% if article.metafields.custom.x_image != null %}
+        {% comment %} 
+        {% if article.metafields.custom.image1 != null %}
           <div class="article-template__image-wrapper">
-            <img src="{{ article.metafields.custom.x_image | img_url: 'master' }}" alt=Supporting Xialla with the 'X' sign. Thanks {{ article.metafields.custom.first_name }}!" class="article-template__image" loading="lazy" width="300" height="300">
+            <img src="{{ article.metafields.custom.image1 | img_url: 'master' }}" alt=Supporting Xialla with the 'X' sign. Thanks {{ article.metafields.custom.first_name }}!" class="article-template__image" loading="lazy" width="300" height="300">
             <p>Supporting Xialla with the 'X' sign.<br/>Thanks {{ article.metafields.custom.first_name }}!</p>
           </div>
         {% endif %}
         <div style-"height:100">
           &nbsp;
         </div>
+         {% endcomment %} 
       </div>
 
 
