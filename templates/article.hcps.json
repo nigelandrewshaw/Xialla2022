@@ -39,7 +39,7 @@
       }
     },
     "4d2047cb-0aca-4e0a-9c94-7d88fc7e16d6": {
-      "type": "hcp-info",
+      "type": "provider-info",
       "blocks": {
         "template--16439476256930__4d2047cb-0aca-4e0a-9c94-7d88fc7e16d6-heading-1": {
           "type": "heading",
@@ -52,7 +52,7 @@
         "template--16439476256930__4d2047cb-0aca-4e0a-9c94-7d88fc7e16d6-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>HCP Title<\/p>"
+            "text": "<p>Provider title<\/p>"
           }
         },
         "template--16439476256930__4d2047cb-0aca-4e0a-9c94-7d88fc7e16d6-button-1": {
