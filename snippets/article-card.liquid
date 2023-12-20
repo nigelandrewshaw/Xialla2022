@@ -124,8 +124,11 @@
               <span>{{ article.author }}
               </span>
             {%- endif -%}
+            {%- if article.metafields.custom.suffix != empty -%}
+              {%- if show_date or show_author -%}<br/>{%- endif -%}{{ article.metafields.custom.suffix }}
+            {%- endif -%}
             {%- if show_location -%}
-              <br/><span>{{ article.metafields.custom.city }}, {{ article.metafields.custom.province }}, {{ article.metafields.custom.country }} </span>
+              {%- if show_date or show_author or article.metafields.custom.suffix != empty -%}<br/>{%- endif -%}{{ article.metafields.custom.city }}, {{ article.metafields.custom.province }}, {{ article.metafields.custom.country }}
             {%- endif -%}
           </div>
           {%- if show_excerpt -%}
