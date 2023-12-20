@@ -109,7 +109,10 @@
         <div class="card__information">
           <h3 class="card__heading{% if show_excerpt %} h2{% endif %}">
             <a href="{{ article.url }}" class="full-unstyled-link">
-              {{ article.title | escape }}
+              {% if article.metafields.custom.firstname == null %}
+                {{ article.title | escape }}
+              {% else %}
+                {{ article.metafields.custom.prefix }} {{ article.metafields.custom.firstname }} {{ article.metafields.custom.lastname }}
           </h3>
           <div class="article-card__info caption-with-letter-spacing h5">
             {%- if show_date -%}
