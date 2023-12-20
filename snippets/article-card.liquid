@@ -56,7 +56,7 @@
           <div class="card__information">
             <h3 class="card__heading{% if show_excerpt %} h2{% endif %}">
               <a href="{{ article.url }}" class="full-unstyled-link">
-                {{ article.title | escape | truncate: 30 }}
+                {{ article.title | escape }}
                 {% comment %}
                   | truncate: 50
                 {% endcomment %}
@@ -112,6 +112,7 @@
         <div class="card__information">
           <h3 class="card__heading{% if show_excerpt %} h2{% endif %}">
             <a href="{{ article.url }}" class="full-unstyled-link">
+              kjkjhjh
               {{ article.title | escape }}
             </a>
           </h3>
