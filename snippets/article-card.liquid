@@ -111,7 +111,7 @@
               {%- if article.metafields.custom.firstname == empty -%}
                 {{ article.title | escape }}
               {%- else -%}
-                {{ article.metafields.custom.first_name }}{{ " " }}{{ article.metafields.custom.last_name }}{{ "  " }}{%- if article.metafields.custom.suffix != empty -%}<span style="font-size: 2rem;">{{ article.metafields.custom.suffix }}</span>{%- endif -%}
+                {{ article.metafields.custom.first_name }}{{ " " }}{{ article.metafields.custom.last_name }}{{ "  " }}{%- if article.metafields.custom.suffix != empty -%}<span style="font-size: 1.6rem;">{{ article.metafields.custom.suffix }}</span>{%- endif -%}
               {%- endif -%}
             </a>
           </h3>
@@ -126,7 +126,7 @@
               </span>
             {%- endif -%}
             {%- if show_location -%}
-            <span class=caption-with-letter-spacing--medium">{%- if show_date or show_author or article.metafields.custom.suffix != empty -%}<br/>{%- endif -%}{{ article.metafields.custom.city }}, {{ article.metafields.custom.province }}, {{ article.metafields.custom.country }}</span>
+              <span class=caption-with-letter-spacing--medium">{%- if show_date or show_author or article.metafields.custom.suffix != empty -%}<br/>{%- endif -%}{{ article.metafields.custom.city }}, {{ article.metafields.custom.province }}, {{ article.metafields.custom.country }}</span>
             {%- endif -%}
           </div>
           {%- if show_excerpt -%}
