@@ -112,7 +112,7 @@
               {%- if article.metafields.custom.firstname == empty -%}
                 {{ article.title | escape }}
               {%- else -%}
-                {{ article.metafields.custom.prefix }} {{ article.metafields.custom.first_name }} {{ article.metafields.custom.last_name }}
+              {%- if article.metafields.custom.prefix == empty -%}{%- else -%}{{ article.metafields.custom.prefix }}{%- endif -%} {{ article.metafields.custom.first_name }} {{ article.metafields.custom.last_name }}
               {%- endif -%}
           </h3>
           <div class="article-card__info caption-with-letter-spacing h5">
