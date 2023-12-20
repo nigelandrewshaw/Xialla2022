@@ -24,11 +24,6 @@
      endif
    -%}
 
-   {%- if show_location -%}
-    Show Location
-  {% else %}
-    No Show Location
-  {%- endif -%}
 
   <div class="article-card-wrapper card-wrapper underline-links-hover">
     {% comment %}
@@ -77,6 +72,7 @@
                 <span>{{ article.author }}
                 </span>
               {%- endif -%}
+              asdkfjasdkfj
               {%- if show_location -%}
                 <br/><span>{{ article.metafields.custom.city }},nbsp;{{ article.metafields.custom.province }},nbsp;{{ article.metafields.custom.country }} </span>
               {%- endif -%}
