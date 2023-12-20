@@ -14,7 +14,7 @@
         "featured_image": {
           "type": "featured_image",
           "settings": {
-            "image_height": "medium"
+            "image_height": "small"
           }
         },
         "share": {
@@ -66,11 +66,15 @@
         "padding_bottom": 52,
         "section_visibility": "visible"
       }
+    },
+    "provider-info": {
+      "type": "blog-provider-info"
     }
   },
   "order": [
     "main",
     "e456d610-ef3c-4f22-aa96-0fcf0147346a",
-    "1664215900f881fb28"
+    "1664215900f881fb28",
+    "provider-info"
   ]
 }
