@@ -125,7 +125,9 @@
               </span>
             {%- endif -%}
             {%- if article.metafields.custom.suffix != empty -%}
-              {%- if show_date or show_author -%}<br/>{%- endif -%}{{ article.metafields.custom.suffix }}
+              <span style="font-weight: 400; font-size: 1.1rem; margin-bottom: 5px">
+                {%- if show_date or show_author -%}<br/>{%- endif -%}{{ article.metafields.custom.suffix }}
+              </span>
             {%- endif -%}
             {%- if show_location -%}
               {%- if show_date or show_author or article.metafields.custom.suffix != empty -%}<br/>{%- endif -%}{{ article.metafields.custom.city }}, {{ article.metafields.custom.province }}, {{ article.metafields.custom.country }}
