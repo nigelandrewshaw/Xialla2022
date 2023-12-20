@@ -68,7 +68,28 @@
       }
     },
     "provider-info": {
-      "type": "blog-provider-info"
+      "type": "blog-provider-info",
+      "blocks": {
+        "e61093eb-c4a1-4a0a-a9d3-9af656f33826": {
+          "type": "heading",
+          "settings": {
+            "custom_liquid": "",
+            "heading_size": "h1",
+            "force_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "e61093eb-c4a1-4a0a-a9d3-9af656f33826"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
