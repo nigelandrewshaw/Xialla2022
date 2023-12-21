@@ -326,6 +326,12 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "17143716568830177004": {
+        "type": "shopify:\/\/apps\/shop-protector\/blocks\/shop-protector\/c35d1411-093f-400e-8977-af1ac4720d6d",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   },
