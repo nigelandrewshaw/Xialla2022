@@ -61,7 +61,7 @@
         "template--15921100783778__3f6949bd-1379-48b5-8f03-e47dbac221d7-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Get 15% off everything",
+            "heading": "Get 20% off everything",
             "heading_size": "h1",
             "force_h1": false
           }
@@ -69,7 +69,7 @@
         "template--15921100783778__3f6949bd-1379-48b5-8f03-e47dbac221d7-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Ring in the cheer with our Holiday Sale. Hurry! Expires Friday at midnight.<\/p><p><em><strong>Discount applied automatically at checkout.<\/strong><\/em><\/p>",
+            "text": "<p>Our Boxing Day sale is on now. Hurry! Expires Wednesday at midnight.<\/p><p><em><strong>Discount applied automatically at checkout.<\/strong><\/em><\/p>",
             "text_style": "body"
           }
         },
@@ -86,9 +86,8 @@
         "template--15921100783778__3f6949bd-1379-48b5-8f03-e47dbac221d7-text-1",
         "template--15921100783778__3f6949bd-1379-48b5-8f03-e47dbac221d7-button-1"
       ],
-      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/Merry_Christmas.webp",
+        "image": "shopify:\/\/shop_images\/Artboard_1_9ae66440-c511-4919-af4c-faf8945205d6.png",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
