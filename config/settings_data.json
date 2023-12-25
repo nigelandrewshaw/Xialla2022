@@ -261,7 +261,7 @@
         ],
         "settings": {
           "color_scheme": "accent-2",
-          "newsletter_enable": true,
+          "newsletter_enable": false,
           "newsletter_heading": "Stay informed and save 10%",
           "show_social": true,
           "enable_country_selector": true,
