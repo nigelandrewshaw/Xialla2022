@@ -34,8 +34,7 @@
 
         {%- when 'title'-%}
           <header class="page-width page-width--narrow" {{ block.shopify_attributes }}>
-
-            {%- if blog.title <> "Providers" -%}
+            {%- if article.metafields.custom.firstname == null -%}
               <h1 class="article-template__title" {% if disabled_by_yoast_seo %}itemprop="headline"{% endif %}>{{ article.title | escape }}</h1>
             {%- else -%}
               {%- if article.metafields.custom.firstname == empty -%}
