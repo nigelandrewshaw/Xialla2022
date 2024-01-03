@@ -114,7 +114,7 @@
           "settings": {
             "heading": "Shipping",
             "icon": "truck",
-            "content": "<p><strong>USA and Canada:<\/strong>  5-7 business days. <br\/><strong>Expedited: <\/strong>3-5 business days. <br\/><strong>International:<\/strong> Varies by country.<\/p>",
+            "content": "<p><strong>USA and Canada:<\/strong>  5-7 business days. <br\/><strong>Expedited: <\/strong>3-5 business days. <\/p>",
             "page": ""
           }
         },
@@ -287,6 +287,7 @@
       "settings": {
         "title": "Recommended by leading urologists",
         "title-centered": true,
+        "images-greyscale": false,
         "heading_size": "h1",
         "image_width": "custom_image_size_scaled",
         "image_ratio": "adapt",
@@ -467,6 +468,7 @@
       "settings": {
         "title": "",
         "title-centered": false,
+        "images-greyscale": false,
         "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "adapt",
@@ -653,6 +655,7 @@
       "settings": {
         "title": "",
         "title-centered": false,
+        "images-greyscale": false,
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -766,6 +769,7 @@
       "settings": {
         "title": "Quick and Easy to Wear",
         "title-centered": false,
+        "images-greyscale": false,
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -900,6 +904,7 @@
       "settings": {
         "title": "",
         "title-centered": false,
+        "images-greyscale": false,
         "heading_size": "h1",
         "image_width": "custom_image_size_width",
         "image_ratio": "adapt",
