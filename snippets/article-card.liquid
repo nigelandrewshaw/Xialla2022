@@ -129,8 +129,8 @@
               </span>
             {%- endif -%}
             {%- if show_location -%}
-              lklkj
-              <span class=caption-with-letter-spacing--large">{%- if show_date or show_author or article.metafields.custom.suffix != null -%}<br/>{%- endif -%}{{ article.metafields.custom.city }}, {{ article.metafields.custom.province }}, {{ article.metafields.custom.country }}</span>
+              {% comment %} If show_date or show_author or showing provider suffix, then don't add a break, otherwise add a break, then add the location {% endcomment %}
+              <span class=caption-with-letter-spacing--large">{%- if show_date or show_author or article.metafields.custom.suffix != null -%}<br/>{%- endif -%}{%- if article.metafields.custom.firstname == null -%}&nbsp;{%- else -%}{{ article.metafields.custom.city }}, {{ article.metafields.custom.province }}, {{ article.metafields.custom.country }}{%- endif -%}</span>
             {%- endif -%}
           </div>
           {%- if show_excerpt -%}
