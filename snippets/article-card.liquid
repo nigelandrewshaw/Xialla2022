@@ -130,7 +130,7 @@
             {%- endif -%}
             {%- if show_location -%}
               {% comment %} If show_date or show_author or showing provider suffix, then don't add a break, otherwise add a break, then add the location {% endcomment %}
-              <span class=caption-with-letter-spacing--large">{%- if show_date or show_author or article.metafields.custom.suffix != empty -%}<br/>{%- endif -%}{%- if article.metafields.custom.firstname == null -%}&nbsp;{%- else -%}{{ article.metafields.custom.city }}, {{ article.metafields.custom.province }}, {{ article.metafields.custom.country }}{%- endif -%}</span>
+              <span class=caption-with-letter-spacing--large">{%- if show_date or show_author or article.metafields.custom.suffix != empty -%}<br/>{%- endif -%}{%- if article.metafields.custom.firstname <> null -%}{{ article.metafields.custom.city }}, {{ article.metafields.custom.province }}, {{ article.metafields.custom.country }}{%- endif -%}</span>
             {%- endif -%}
           </div>
           {%- if show_excerpt -%}
