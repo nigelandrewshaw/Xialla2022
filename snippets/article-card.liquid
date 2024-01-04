@@ -114,7 +114,7 @@
               {%- if article.metafields.custom.first_name == null -%}
                 {{ article.title | escape }}
               {%- else -%}
-                {{ article.metafields.custom.first_name }}{{ " " }}{{ article.metafields.custom.last_name }}{{ "  " }}{%- if article.metafields.custom.suffix != empty -%}<span style="font-size: 1.6rem;">{{ article.metafields.custom.suffix }}</span>{%- endif -%}
+                {{ article.metafields.custom.first_name }}{{ " " }}{{ article.metafields.custom.last_name }}{{ "  " }}<br/>{%- if article.metafields.custom.suffix != empty -%}<span style="font-size: 1.3rem;">{{ article.metafields.custom.suffix }}</span>{%- endif -%}
               {%- endif -%}
             </a>
           </h3>
