@@ -112,6 +112,7 @@
           <h3 class="card__heading{% if show_excerpt %} h2{% endif %}">
             <a href="{{ article.url }}" class="full-unstyled-link">
               {%- if article.metafields.custom.firstname == null -%}
+                one
                 {{ article.title | escape }}
               {%- else -%}
                 {{ article.metafields.custom.first_name }}{{ " " }}{{ article.metafields.custom.last_name }}{{ "  " }}{%- if article.metafields.custom.suffix != empty -%}<span style="font-size: 1.6rem;">{{ article.metafields.custom.suffix }}</span>{%- endif -%}
