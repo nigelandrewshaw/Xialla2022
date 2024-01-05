@@ -116,7 +116,7 @@
         "template--16410224328866__757d559b-5938-463d-af02-714a874d2353-heading-1": {
           "type": "heading",
           "settings": {
-            "custom_liquid": "Partnership Overview",
+            "custom_liquid": "Overview",
             "heading_size": "h1",
             "force_h1": false
           }
