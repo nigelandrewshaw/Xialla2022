@@ -138,6 +138,7 @@
       "settings": {
         "title": "",
         "title-centered": false,
+        "images-greyscale": false,
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -198,49 +199,6 @@
         "padding_top": 56,
         "padding_bottom": 20
       }
-    },
-    "21a141ac-2792-4a4f-bde8-58d82257a1f5": {
-      "type": "rich-text",
-      "blocks": {
-        "template--15922147393698__21a141ac-2792-4a4f-bde8-58d82257a1f5-16738024836ca4047e-0": {
-          "type": "heading",
-          "settings": {
-            "custom_liquid": "",
-            "heading_size": "h1",
-            "force_h1": false
-          }
-        },
-        "template--15922147393698__21a141ac-2792-4a4f-bde8-58d82257a1f5-16738024836ca4047e-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><a href=\"\/pages\/is-xialla-right-for-me\" title=\"Is Xialla Right for Me?\">Next: Is it Right for Me? &gt;&gt;<\/a><\/p>"
-          }
-        },
-        "template--15922147393698__21a141ac-2792-4a4f-bde8-58d82257a1f5-16738024836ca4047e-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--15922147393698__21a141ac-2792-4a4f-bde8-58d82257a1f5-16738024836ca4047e-0",
-        "template--15922147393698__21a141ac-2792-4a4f-bde8-58d82257a1f5-16738024836ca4047e-1",
-        "template--15922147393698__21a141ac-2792-4a4f-bde8-58d82257a1f5-16738024836ca4047e-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -248,7 +206,6 @@
     "1664070540afdc9868",
     "16640706130a0c1ee4",
     "166407096073d2d34a",
-    "1664070806e5677056",
-    "21a141ac-2792-4a4f-bde8-58d82257a1f5"
+    "1664070806e5677056"
   ]
 }
